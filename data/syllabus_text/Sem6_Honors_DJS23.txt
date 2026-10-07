@@ -1,0 +1,188 @@
+DJSCE - CSE (Data Science) syllabus document: Sem6_Honors_DJS23
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Scheme and detailed Syllabus (DJS23)
+Of
+Honors Degree Program in
+Computational Finance
+(Semester VI)
+
+Theory
+(Hrs)
+Practical
+(Hrs)
+Tutorial
+(Hrs) Credits Duration
+(Hrs) Theory Oral Pract
+Oral
+&
+Pract
+SEE
+Total
+(A)
+Term
+Test 1
+(TT1)
+Term
+Test 2
+(TT2)
+Term
+Test 3
+(TT3)
+Term
+Test
+Total
+(TT1 +
+TT2+
+TT3)
+Term
+Work
+CA
+Total
+(B)
+1 DJS23DCH1601 Quantitative Portfolio Management 3 - - 3 2 60 - - - 60 15 15 10 40 -- 40 100 3
+2 DJS23DLH1601 Quantitative Portfolio
+Management Laboratory - 2 - 1 - - - - - - -- -- - -- 25 25 25 1
+Total 3 2 - 4 2 60 - - - 60 15 15 10 40 25 65 125 4 4
+4
+Scheme of Semester VI (DJS23) HONORS for Department of Computer Science and Engineering (Data Science)
+Sr.
+
+No.
+Course Code Course
+Teaching Scheme Semester End Examination (SEE) - A Continuous Assessment (CA) - B
+Aggre
+gate
+(A+B)
+Credits
+Earned
+
+Honors in Computational Finance Semester: VI
+Program: : Computer Science and Engineering (Data Science)
+Course: Quantitative Portfolio Management (DJS23DCH1601)
+Quantitative Portfolio Management Laboratory (DJS23DLH1601)
+
+Pre-requisite: Basics of Financial Market and Return and Risk Management, Python
+
+Objectives:
+1. To have a practical orientation towards the principles of investment, pricing and valuation.
+2. To understand various methodologies and techniques of financial analysis and
+Portfolio Management.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Analyze the measures of risk and return based on the characteristics of different financial
+assets and value assets such as stocks and bonds for investment
+2. Analyze risk and returns of fixed income instruments and stocks using various models for
+the purpose of investment.
+3. Build and analyze efficient portfolio strategies.
+4. Estimate risk and return parameters, and build better diversified portfolios and bond
+valuation.
+
+Quantitative Portfolio Management (DJS23DCH1601)
+Unit Description Duration
+1
+Overview of Portfolio Management: Concept and objectives of Portfolio
+Management, Types of portfolio management (brief), Role of Portfolio
+Managers, SEBI regulations related to portfolio operations.
+Expected Risk and Returns: Portfolio Analysis - Meaning and its
+Components, Calculation of Expected Return and Risk, Calculation of
+Covariance, Risk – Return Trade off.
+06
+2
+Modern Portfolio Theory & Asset Pricing Models : Markowitz Model &
+Efficient Frontier, Optimal risky portfolio, Capital Market Theory: CML &
+SML, CAPM (assumptions, applications), Single Index Model, Arbitrage
+Pricing Theory (conceptual + application), Implementation of efficient
+frontier, GMV, maximum Sharpe portfolio
+07
+3
+Modelling Asset Returns: Random Walks, Geometric Brownian Motion
+(GBM)
+Simulation Approaches: Monte Carlo simulation of asset prices, generating
+price paths, Simulating portfolio returns, Scenario analysis
+07
+4
+Portfolio Optimization in Practice
+Diversification & Optimization Methods: Naive diversification (1/N rule),
+Scientific diversification
+Risk-Based Approaches: Measuring risk contributions, Risk budgeting,
+Simplified risk parity portfolios, Full risk parity portfolios
+Covariance Estimation (Brief): Shrinkage estimators, EWMA
+(Exponentially Weighted Moving Average), Rolling covariance windows
+07
+
+Comparing optimization & diversification approaches: Empirical
+comparison
+5
+Beyond Diversification: Portfolio Insurance & CPPI
+Limits of Diversification: When diversification fails, Correlation breakdown,
+Empirical evidence
+CPPI – Constant Proportion Portfolio Insurance: Concept, floor, cushion,
+multiplier, CPPI vs buy-and-hold, Drawdown constraints,
+CPPI Simulation & Strategy Analysis: Simulating CPPI using GBM, Monte
+Carlo evaluation , Analyzing performance, drawdowns, floor violations ,
+Designing and calibrating CPPI strategies (light, conceptual)
+07
+6
+Portfolio Revision, Evaluation & Bond Portfolio Strategies
+Portfolio Revision: Meaning, need, constraints, Revision strategies
+Portfolio Evaluation: Sharpe Ratio, Treynor Ratio, Jensen’s Alpha
+Foreign Exchange Risk in Global Portfolios: Nature of FX exposure,
+Currency risk measurement, Hedging basics
+Bond Portfolio Management Strategies: Duration-based strategies
+(immunization); Ladder, Barbell, Bullet; Active vs passive bond portfolio
+management
+07
+Total 42
+
+Quantitative Portfolio Management Laboratory (DJS23DLH1601)
+Exp. Suggested experiments
+Data Sources: Yahoo Finance, Alpha Vantage, FXCM, OANDA, EOD Historical Data
+1 Return Calculation & Risk Metrics
+2 Risk-Adjusted Performance Evaluation
+3 Markowitz Efficient Frontier
+4 CAPM, Beta Estimation & SML
+5 Random Walk & GBM Modelling
+6 Monte Carlo Portfolio Simulation
+7 Naive vs Scientific Diversification
+8 Risk-Based Portfolios & Covariance Estimation
+9 Implementation of CPPI Strategy
+10 Compare and analyze the Covariance Estimation for robust estimates
+11 Portfolio Revision Strategy Analysis
+12 Bond Portfolio Management Strategies
+* The Term Work will be calculated based on Laboratory Performance (15 marks) and Assignments /Quizzes
+(10 Marks)
+
+Books Recommended:
+Text books:
+1. Prasanna Chandra, “Investment Analysis and Portfolio Management”, McGraw
+Hill, 7th Edition, 2023.
+2. 2Zvi Bodie, Alex Kane, Alan Marcus, “Investments”, McGraw Hill, 13th Global
+Edition, 2022.
+3. S. Kevin, “Security Analysis and Portfolio Management”, PHI Learning, 3rd
+Edition, 2019.
+
+Reference Books:
+1. Frank J. Fabozzi, Portfolio Construction and Analytics, Wiley Finance, 2nd Edition,2016
+
+2. Attilio Meucci, Risk and Asset Allocation, Springer Finance, 2019 Reprint
+3. Lionel Martellini, Philippe Priaulet, Fixed-Income Securities: Valuation, Risk, and Risk
+Management, Wiley Finance, 2020
+4. Yves Hilpisch, Python for Finance: Mastering Data-Driven Finance, O’Reilly, 3rd Edition,
+2024
+
+Web Links:
+1. Portfolio Management Guide:
+Portfolio Management - Meaning and Important Concepts - Management
+Study Guide
+2. Securities and Exchange Board of India: www.sebi.gov.in
+3. Market Action and Analysis: www.moneycontrol.com
+4. Stock Portfolio: www.pms.sharekhan.com
+5. Quantitative Finance Tutorials (Python): https://www.quantstart.com
+6. Portfolio Visualizer (Free Tool): www.portfoliovisualizer.com
+
+Prepared by Checked by Head of the Department Principal

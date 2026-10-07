@@ -1,0 +1,229 @@
+DJSCE - CSE (Data Science) syllabus document: Sem4_Honors_DJS23
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Scheme and Detailed syllabus (DJS23)
+of
+Honors Degree Program
+in
+Computational Finance
+(Semester IV)
+
+Scheme of Semester IV (DJS23) HONORS for Department of Computer Science and Engineering (Data Science)
+
+Sr.
+
+No.
+
+Course Code
+
+Course
+Teaching Scheme Semester End Examination (SEE) - A Continuous Assessment (CA) - B
+
+Aggre
+gate
+(A+B)
+
+Credits Earned
+
+Theory
+(Hrs)
+
+Practical
+(Hrs)
+
+Tutorial
+(Hrs)
+
+Credits
+
+Duration
+(Hrs)
+
+Theory
+
+Oral
+
+Pract
+
+Oral
+&
+Pract
+
+SEE
+Total
+(A)
+
+Term
+Test 1
+(TT1)
+
+Term
+Test 2
+(TT2)
+
+Term
+Test 3
+(TT3)
+Term
+Test
+Total
+(TT1
++
+TT2+
+TT3)
+
+Term
+Work
+
+CA
+Total
+(B)
+1
+
+2
+DJS23DH1251 Computational Methods and
+Pricing Models 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+4
+DJS23DH1251L Computational Methods and
+Pricing Models Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+Total 3 2 -- 4 2 60 -- -- -- 60 15 15 10 40 25 65 125 4 4
+
+Honors in Computational Finance Semester: IV
+Course: Computational Methods and Pricing Models (DJS23DH1251)
+Computational Methods and Pricing Models Laboratory (DJS23DH1251L)
+
+Pre-requisite: Basic Mathematics, Financial Markets and Risk Analysis
+Course Objectives: To make students learn:
+1. To introduce students to pricing financial instruments and the application of numerical
+methods for option pricing.
+2. Develop the ability to apply various option strategies and cash flow models to make informed
+financial decisions.
+3. Analyze risk management strategies and alternative investment options for optimizing
+investment portfolios.
+Outcomes: Students will be able to:
+1. Explain the principles of financial instrument pricing and numerical methods for option pricing.
+2. Make use of various option strategies and cash flow models for financial decision-making.
+3. Apply risk management strategies and alternative investment options for portfolio optimization.
+
+Computational Method and Pricing Models (DJS23DH1251)
+Unit Description Duration
+1
+Basic Pricing Concepts
+Overview of financial instruments: Debt instruments, Equity instruments,
+Derivatives, Hybrid instruments, Role of financial instruments in financial markets,
+Participants in the financial market, Concept of time value of money, No-Arbitrage
+Principle, Forward Pricing: Pricing of forward contracts using no -arbitrage
+conditions.
+
+06
+
+2
+Swaps, Options and their Pricing
+Introduction to Options and the Option Market, Key Terminologies in Options
+Trading: European options and American options, strike pricing, Option Intrinsic
+Value Status: ITM, ATM, OTM. Types of Options: Vanilla Options (Call and Put),
+Exotic Options (Barrier, Asian, Lookback, etc.), Introduction to Option Pricing,
+Introduction to analytical method in option pricing, The need for numerical
+methods in option pricing. Black -Scholes Model: Introduction, Assumptions and
+Limitations of the Black -Scholes model, Swaps: Fixed -to-floating interest rate
+swaps and their pricing. Introduction to Numerical Integration: Trapezoidal and
+Simpson's Rule.
+
+10
+
+3
+Options Strategies and Their Payoff Profiles
+Introduction to Option Strategies: Basics and Objectives, Single -Leg Strategies:
+Long Call, Long Put, Covered Call, and Protective Put. Vertical Spreads: Bull Call
+Spreads and Bear Put Spreads. Volatility Strategies: Straddles, Strangles, and Their
+Payoff Profiles. Introduction to Neutral Market Strategies: Butterfly Spreads and
+Iron Condors. Interpreting Payoff Diagrams and Brief Overview of Portfolio
+Applications.
+
+07
+
+4
+Deterministic Cash Flow Models
+Introduction to Bonds and Basic Bond Pricing. Deterministic Cash Flows, Pricing
+and Valuation of Perpetual Annuities, Fixed Cash Flow Models.
+
+06
+
+5
+Financial Risk Management
+Introduction to Risk Management in Finance and Market Completeness. Risk-
+Neutral Pricing, Application of Risk-Neutral Pricing, Concept of portfolio and
+Martingale Pricing, Hedging Strategies to Reduce Market Risk, Value at Risk
+(VaR) in Financial Risk Management.
+
+06
+
+6
+Alternative Investments and Structured Products
+Introduction to Alternative Investments ((real estate, commodities, private equity,
+hedge funds) Real Estate Valuation Techniques (Net Present Value (NPV),
+Discounted Cash Flow (DCF)) Commodities Pricing (Cost of Carry model).
+Introduction to private equity and venture capital investments, its valuation
+techniques, Overview of common hedge fund strategies (long/short equity, market-
+neutral, and arbitrage). Introduction to statistical arbitrage concepts.
+
+07
+Total 42
+
+Suggested List of Experiments:
+
+Computational Methods and Pricing Models Laboratory (DJS23DH1251L)
+Sr. No. Title of the Experiment
+1 Implement Loan Payment Calculator and Amortization Schedule.
+2 Implement Mortgage Payment Calculator with Monthly Extra Principal Payments.
+3 Implementation of Black-Scholes Option Pricing Model.
+
+4
+Perform Pricing a fixed-for-floating interest rate swap using the concept of the no-arbitrage
+condition.
+5 Advanced Option Strategies with Payoff Profiles and Greeks.
+6 Calculate and plot payoff profiles Complex Option Strategies.
+7 Implementation of Bond Pricing and Yield Curves with Sensitivity Analysis.
+8 Calculate the present value of perpetual annuities and fixed cash flow models.
+9 Demonstrate Risk-Neutral Pricing and Hedging Strategies.
+10 Demonstrate Value at Risk (VaR) Calculation for a sample Portfolio.
+11 Implementation for Real Estate Valuation Using NPV and DCF Models.
+12 Analyzing commodities pricing using the Cost of Carry Model.
+
+Minimum 8 experiments from the above-suggested list or any other experiment based on syllabus will be
+included, which would help the learner to apply the concept learnt.
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignments (10m).
+
+Books Recommended:
+Text Books:
+1. Prassanna Chandra, Financial Management, Tata McGraw Hill education pvt. Ltd., 7th edition, 2020.
+2. John C. Hull, Options, Futures, and Other Derivatives" Pearson Education, Inc, 9th edition, 2017.
+3. Tuckman, Bruce, and Angel Serrat. Fixed income securities: tools for today's markets. John Wiley & Sons,
+2nd edition, 2022.
+4. Don M. Chance and Robert Brooks. An Introduction to Derivatives and Risk Management. Joe Sabatino.
+8th edition, 2010.
+5. Hossein B. Kazemi Keith H. Black Donald R. Chamber, Alternative Investment, Wiley & Sons, 3rd edition,
+2016.
+
+Reference Books:
+1. Achdou, Yves, and Olivier Pironneau. Computational methods for option pricing. Society for Industrial
+and Applied Mathematics, 2005.
+2. Wu, Lixin. Interest rate modeling: Theory and practice. CRC Press, 2019.
+3. Tavella, Domingo. Quantitative methods in derivatives pricing: an introduction to computational
+finance. John Wiley & Sons, 2003.
+4. Jiang, Lishang. Mathematical modeling and methods of option pricing. World Scientific Publishing
+Company, 2005.
+
+Weblinks:
+1. Coursera Course on Introduction to Financial Engineering and Risk Management:
+https://www.coursera.org/learn/financial-engineering-intro
+2. Coursera Course Pricing Options with Mathematical Models
+https://www.coursera.org/learn/pricing-options-with-mathematical-models
+3. NPTEL Course on Financial Derivatives & Risk Management
+https://onlinecourses.nptel.ac.in/noc24_mg19/preview
+
+Prepared by Checked by Head of the Department Principal

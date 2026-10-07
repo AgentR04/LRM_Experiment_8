@@ -1,0 +1,1985 @@
+DJSCE - CSE (Data Science) syllabus document: Sem7_DJS22
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Scheme and Detailed syllabus (DJS22)
+Final Year B.Tech
+in
+Computer Science and
+Engineering (Data Science)
+(Semester VII)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Scheme of Semester - VII for Department of Computer Science and Engineering (Data Science)
+Academic Year - 2025 - 2026
+
+`
+
+Continuous Assessment (A):
+
+Course Assessment Tools Marks Time (hrs.)
+
+Theory
+a. One Term test (based on 40 % syllabus) 20 1
+b. Second Term test (next 40 % syllabus ) /
+presentation / assignment / course project / group
+discussion / any other.
+
+15
+
+1
+Total marks of a and b
+35
+
+--
+
+Audit course
+Performance in the assignments / qui / power point
+presentation / poster presentation / group project /
+any other tool.
+
+--
+
+As
+applicable Laboratory Performance in the laboratory and documentation. 25
+Tutorial Performance in each tutorial & / assignment. 25
+Laboratory
+&Tutorial
+Performance in the laboratory and tutorial. 50
+
+The final certification and acceptance of term work will be subject to satisfactory performance upon
+fulfilling minimum passing criteria in the term work / completion of audit course.
+
+Semester End Assessment (B):
+
+Course Assessment Tools Marks Time (hrs.)
+Theory /
+* Computer
+based
+Written paper based on the entire syllabus.
+65
+
+2
+* Computer based assessment in the college premises.
+Oral Questions based on the entire syllabus. 25 as applicable
+Practical Performance of the practical assigned during the examination
+and the output / results obtained. 25 2
+Oral &
+Practical
+Project based courses - Performance of the practical assigned
+during the examination and the output / results obtained.
+Based on the practical performed during the examination and
+on the entire syllabus.
+
+As per the
+scheme
+
+2
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Language Models (DJS22DSC701)
+Language Models Laboratory (DJS22DSL701)
+
+Pre-requisite: Machine Learning-I, Machine Learning-II, Foundations of Data Analysis, Statistics for Data
+Science, Natural Language Text Processing.
+
+Course Objectives: To introduce the fundamentals of neural language models, pre-training, fine-tuning, and
+evaluation techniques. The course aims to provide hands -on experience in developing and deploying la rge
+language models (LLMs) while addressing ethical concerns and safety measures.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Understand the architecture and working principles of modern language models such as
+Transformers, BERT, and GPT.
+2. Apply pre-training and fine-tuning techniques to optimize language models for real-world
+applications.
+3. Analyze various evaluation metrics to assess the performance and reliability of language
+models.
+4. Develop applications using large language models for tasks such as text generation, question
+answering, and multimodal AI.
+
+Language Models (DJS22DSC701)
+Unit Description Duration
+
+1
+Natural Language Generation:
+Limitations of RNNs & LSTMs in Language Modeling, Encoder-Decoder Models,
+Attention Mechanism: Motivation & Evolution, Seq2Seq with Attention.
+Transformers:
+Self-Attention Mechanism: Query-Key-Value Representation ,Scaled Dot-Product
+Attention , Multi-Head Attention, Positional Encoding, Transformer-based Encoder-
+Decoder Architectures.
+
+06
+
+2
+Large Language Models Architectures:
+Encoder Models:
+BERT architecture and working, BERT variants: RoBERTa, ALBERT, DistilBERT,
+Applications: Text Classification, Named Entity Recognition (NER)
+Decoder Models (Autoregressive LLMs): GPT Family (GPT-3, GPT-4, GPT-4
+Turbo)
+Open-source model: LLaMA
+
+08
+
+3
+Pre-training & Fine-tuning of LLMs:
+Pre-training Strategies:
+Self-Supervised Learning in LLMs, Next Token Prediction (Auto-regressive) vs.
+Masked Language Models (Auto-encoding), Pre-training Methods: Causal LM,
+
+08
+
+Prefix LM, Sequence-to-Sequence Pre-training.
+Fine-tuning Techniques:
+Supervised Fine -tuning & Transfer Learning, Parameter -efficient Fine -tuning
+(LoRA, Adapter Layers), gradient accumulation, fine -tuning, gradient check
+pointing, quantization, Few-shot, Zero-shot, and Multi-Task Learning
+Prompt Engineering & Adaptation:
+Instruction Tuning, Chain-of-Thought (CoT) Prompting ,Self-consistency & ReAct
+(Reasoning + Acting) ,Prompt-aware Training Methods.
+
+4
+Evaluation Metrics:
+Traditional Evaluation Metrics BLEU, ROUGE, METEOR, BERTScore, GLUE,
+SQuAD, MMLU (Massive Multitask Language Understanding), LLM -Specific
+Evaluation Methods, Embedding-based Metrics, GPT-Score, AI Arena, HELM
+(Holistic Evaluation of Language Models), TruthfulQA for Factual Accuracy.
+
+05
+
+5
+Real-World Applications & Future Trends:
+Question Answering Systems:IR -based vs. Knowledge -based QA, Retrieval -
+Augmented Generation (RAG) using Langchain, LLMs for Legal & Medical NLP
+AI Agents & Autonomous LLMs: OpenAI's AutoGPT, BabyAGI, Agentic
+Workflows & Planning LLMs.
+
+05
+
+6
+Reinforcement Learning with Human Feedback (RLHF) & Safety:
+RLHF Process in Modern LLMs : Reward Modelling for LLM Alignment,
+Reinforcement Learning Techniques: Proximal Policy Optimization (PPO),
+Comparative Ranking & Preference Learning, Group Relative Policy Optimization
+(GRPO).
+RLAF: Reinforcement Learning through Agent Feedback (RLAF), How RLAF
+works, Difference between RLAF and RLHF.
+LLM Alignment & Bias Mitigation:
+Ethical Risks: Bias, Misinformation, Hallucinations, Adversarial Attacks on LLMs,
+Safety in Large Models: Constitutional AI, Red-teaming.
+
+08
+Total 39
+
+Language Models Laboratory (DJS22DSL701)
+Exp. Suggested Experiments
+1 Implementing Sequence-to-Sequence (Seq2Seq) Models for performing language translation.
+2 Implementing Transformer Models for Natural language Processing Tasks.
+3 Fine-Tuning BERT for performing Natural language Processing Tasks.
+4 Implement LoRA and Adapter Layers for Fine-Tuning Pre-trained language Models.
+5 Implement techniques to elicit desired behaviours from LLMs using prompts.
+6 Implementing and Comparing Evaluation Metrics for LLMs.
+7 Developing Question Answering System using Information Extraction.
+8 Developing Retrieval-Augmented Generation (RAG) Systems using Langchain
+9 Using GRPO to Train a Model for Reasoning
+10 Building Autonomous AI Agents with LLMs
+11 Efficient Inference and Deployment of Large Language Models
+
+12 Mini Project
+
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes 10m).
+Books Recommended:
+Text Books:
+1. Jurafsky and Martin, “Speech and Language Processing”, Prentice Hall, 3rd Edition, 2020.
+2. Uday Kamath, “Deep Learning for NLP and Speech Recognition”, 1st Edition, 2019.
+Reference Books:
+1. Jelinek, F., “Statistical Methods for Speech Recognition”, The MIT Press, 2022.
+2. Yuli Vasiliev “Natural Language Processing with Python and spaCy - A Practical Introduction”,
+No Starch Press, 2022.
+3. Sowmya Vajjala, Bodhisattwa Majumder, Anuj Gupta, Harshit Surana, “Practical Natural
+Language Processing: A Comprehensive Guide to Building Real-World NLP Systems”, O'Reilly,
+1st Edition, 2020.
+
+Web Links:
+1. NPTEL link: Introduction to Large Language Models (LLMs) - - Announcements
+2. NPTEL Course: https://cse.iitm.ac.in/~miteshk/llm-course.html
+3. NPTEL Course: https://onlinecourses.swayam2.ac.in/imb24_mg116/preview
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Information Security (DJS22DSC702)
+Information Security Laboratory ((DJS22DSL702)
+
+Pre-requisite: Computer Communication and Networks.
+
+Course Objectives:
+1. Gain a comprehensive understanding of cyber threats, defence strategies, cryptographic
+principles, and modern security practices to safeguard digital assets.
+2. Learn symmetric and asymmetric cryptography, key management, hashing techniques, and
+authentication protocols to ensure data confidentiality, integrity, and authentication.
+3. Examine various network attacks, security mechanisms like firewalls, IDS, IPS, and encryption
+protocols to design and implement robust network defence strategies.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Analyse different types of cyber threats, cryptographic techniques, and their role in securing data
+and communication systems.
+2. Apply cryptographic algorithms like AES, RSA, and Diffie-Hellman for secure key management
+and data encryption.
+3. Evaluate the effectiveness of authentication methods, including Kerberos, biometrics, and digital
+certificates, in ensuring system integrity.
+4. Develop and Implement security solutions using firewalls, IDS, IPSec, and SSL protocols to
+mitigate network-based cyber threats.
+
+Information Security (DJS22DSC702)
+Unit Description Duration
+1 Introduction: Cyber Attacks, Defense, Strategies and Techniques, Guiding
+Principles of Modern Security Practices. OSI security model. 04
+
+2
+Number Theory:
+Modulo Arithmetic, Euclid’s Algorithm, Fermat’s and Euler’s Theorem, Chinese
+Remainder Theorem, Cipher Properties, Substitution Ciphers – Mono-alphabetic
+Ciphers, Polyalphabetic Ciphers, Transposition Ciphers.
+
+06
+
+3
+Symmetric Cryptography:
+Block Cipher, Fiestel Structure, Block Cipher Modes of Operation, S-DES,
+Double DES, Triple DES, AES Algorithm.
+
+08
+
+4
+Asymmetric Cryptography:
+Private Key and Public Key Cryptography, The RSA algorithm, Key
+Management, Diffie-Hellman Key Exchange, Key Exchange Algorithm.
+
+07
+
+5
+Integrity and Authentication:
+Hashing: Properties of cryptographic hash, message digest, MD -5, SHA -1.
+Public Key Infrastructure (PKI), One way and mutual authentication, Needham-
+Schroeder Protocol, Authentication methods, Kerberos Authentication
+Protocol, Biometrics, Digital Certificates: X.509.
+
+07
+
+6
+Network Security:
+Network attacks, DoS and DDoS attack, Sniffing, Session hijacking, Spoofing,
+Phishing, Cross-site Scripting (XSS), IPSec Protocol, SSL Handshake Protocol,
+Firewalls, IDS Prevention and Detection.
+
+07
+Total 39
+
+Information Security Laboratory ((DJS22DSL702)
+Exp. Suggested Experiments
+1 Implement Playfair Cipher with key entered by user.
+2 Implement polyalphabetic Cipher
+3 Implement Simple and Advanced Columner Transposition technique
+4 Implement Simplified DES
+5 Implement Simple RSA Algorithm with small numbers.
+6 Implement Diffie-Hellman Key Exchange
+7 Implement DoS and DDoS attack using Hping.
+8 Implement phishing attack using HTTrack Website Cloning.
+9 Implement static code analysis using Flawfinder Python Distribution.
+10 Implement packet sniffing using Wireshark and TCP Dump.
+11 Implement cross site request forgery in a controlled virtual environment using DVWA
+Web Server.
+12 Implement firewalls using IP tables.
+13 Implement Network Intrusion Detection System (NIDS).
+14 Implement Host based Intrusion Detection System (HIDS).
+
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes
+(10m).
+
+Books Recommended:
+Text Books:
+1. William Stallings, “Cryptography and Network Security Principles and Practices”,
+Pearson/PHI, 8th Edition, 2023.
+2. Behrouz A. Forouzan, Debdeep Mukhopadhyay, “Cryptography and Network Security”,
+McGraw Hill, 3rd Edition, 2017.
+
+Reference Books:
+1. Charles P. Pfleeger, Shari Lawrence Pfleeger – Security in computing – Prentice Hall of India,
+5th Edition, 2015.
+2. Atul Kahate, "Cryptography and Network Security”, McGraw Hill, 3rd Edition, 2013.
+3. Bernard Menezes, Network Security and Cryptography, Cengage Learning, 2nd Edition, 2011.
+4. Wade Trappe, Lawrence C Washington, “Introduction to Cryptography with coding theory”,
+Pearson, 2nd Edition, 2006.
+5. W. Mao, “Modern Cryptography – Theory and Practice”, Pearson Education, 1st Edition, 2003.
+
+Web Links:
+1. Damn Vulnerable Web Application (DVWA): http://dvwa.co.uk
+2. Open Web Application Security Project: https://owasp.org
+3. Web penetration testing: https://pentesterlab.com 4. Penetration Testing: https://kali.org
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Applied Data Science Laboratory (DJS22DSL703)
+
+Pre-requisite: Machine Learning, Data Engineering.
+
+Course Objectives:
+To bridge the gaps between industry and academia. Give the exposure of production system and
+applied data science.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Relate to production systems available in the industry.
+2. Debug various problems occurred in a data science production system.
+
+Applied Data Science Laboratory (DJS22DSL703)
+Unit Description Duration
+
+1
+Converting Business problem into Data Science Problem:
+• Bridging the Qualitative-to-Quantitative Gap in Data Science
+• Right Data Available with the Right Level of Granularity
+• Repeatability and Reproducibility: Consistency in Labelled Data for
+Accurate AI Systems
+
+04
+
+2
+Agile Methodology:
+• Work Breakdown structure for Agile Models
+• Scrum/XP modelling of Data Science Projects
+• Agile Tools for Project Management
+
+06
+
+3
+Data Preparation Best Practice:
+• Gathering suitable data for Data Science problem
+• Determine all Key Performance Indicators (KPIs)
+• Business stakeholders POC Dashboard
+
+04
+
+4
+Data Modelling:
+• Selection of appropriate tool
+• Data Modelling with Incremental Data
+• Robust model design.
+• Data Modelling with different data formats
+
+06
+
+5
+Model Building Best Practice:
+• One hot encoding
+• Selecting right metrics to evaluate the model
+• SHAP and LIME for interpretability of model.
+
+06
+
+6
+Model Compression
+• Quantization
+• Pruning
+• Knowledge Distillation
+04
+
+7
+Modelling and Optimization Trade-off:
+• Need of Optimization
+• Different methods of Optimization
+• Development
+• Rest APIs
+
+02
+
+8
+Data Science Project Architecture:
+• Functions of MLOps/DevOps
+• Difference between MLOps and DevOps
+• Collaboration, Scalability and Reusability
+
+02
+
+9
+Project Deployment:
+• Flask
+• Docker
+• Kubernetes
+
+04
+
+10
+A/B Testing:
+• Formulate Hypothesis
+• Create Test Group
+• Compare Results
+
+02
+Total 26
+
+*The Term Work will be calculated based on Laboratory Performance (20m), Attendance (10m) and
+Quizzes (20m).
+
+Books Recommended:
+Textbooks:
+1. Probyto Data Science and Consulting Pvt. Ltd, Data Science for Business
+Professionals, bpb publications, 2020.
+2. Emmanuel Ameisen, Building Machine Learning Powered Applications, O’Reilly, 2020.
+
+Reference Books:
+1. Valliappa Lakshmanan, Sara Robinson and Michael Munn, Machine Learning Design
+Patterns, O’Reilly, 2021.
+2. Emily Robinson and Jacqueline Nolis, Build a career in Data Science, Manning, 2020.
+3. Andriy Burkov, Machine Learning Engineering, True Positive Inc, 2020.
+
+Web Links:
+1. Coursera course: IBM Data Science Professional Certificate | Coursera
+2. https://www.coursera.org/specializations/data-science-
+python?msockid=0a3d4df1db7a6b8909345878dac86aa5
+3. https://onlinecourses.nptel.ac.in/noc21_cs23/preview
+
+Prepared by Checked by Head of the Department Principal
+
+DEPARTMENT ELECTIVE COURSE
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Parallel Computing (DJS22DSC7011)
+Parallel Computing Laboratory (DJS22DSL7011)
+
+Pre-requisite: System Fundamentals
+
+Course Objectives:
+To familiarize students with the fundamental concepts, techniques and tools of parallel computing.
+
+Course Outcomes: On completion of the course, the learner will be able to:
+1. Understand different structures of Parallel Computers.
+2. Apply parallel algorithms in problem solving.
+3. Evaluate the performance of parallel computing models and algorithms.
+
+Parallel Computing (DJS22DSC7011)
+Unit Description Duration
+
+1
+Introduction:
+Introduction to Parallel computing, Abstract model of serial & parallel computation,
+pipelining, data parallelism, control parallelism, scalability, topologies in processor
+organization, parallel computing design consideration, parallel algorithms & parallel
+architectures, speedup and efficiency, supercomputers.
+
+08
+
+2
+System Architecture:
+Shared memory multiprocessors (UMA -Uniform memory Access), Distributed memory
+multiprocessors (NUMA - Non-Uniform memory Access), SIMD, Systolic processor,
+Cluster computing, Grid computing, Multicore Systems.
+
+06
+
+3
+Parallel Algorithms:
+Introduction to parallel algorithms, parallel algorithm models, Decomposition Techniques,
+characteristics of tasks & interactions, mapping techniques for load balancing, methods for
+containing interaction overheads.
+
+06
+
+4
+Parallel Algorithm Applications:
+Matrix multiplication, parallel reduction, parallel sorting (Bubble sort, Quick sort), Graph
+algorithm (Minimum Spanning Tree - Prim’s Algorithm), Fast Fourier Transform (serial
+and transpose algorithm).
+
+08
+
+5
+Parallel Programming:
+Parallel programming models, point to point communication, synchronous and
+asynchronous communication, shared memory programming, message passing
+programming, MPI, PVM, Threads.
+
+08
+
+6
+Applications of Parallel Programming: Issues and challenges, scope of parallel computing,
+applications in data mining, computer security and cryptography, medicine and human organ
+modelling.
+
+05
+Total 39
+
+Parallel Computing Laboratory (DJS22DSL7011)
+Exp. Suggested Experiments
+1 To implement the parallel construct in OpenMP that creates a parallel region in a C++ code.
+2 To write an OpenMP program for illustrating the Fork Join model.
+3 To implement SPMD (Single Instruction Multiple Data) parallel program in OpenMP.
+4 To write a simple OpenMP program to demonstrate the sharing of loop iteration by a number of
+threads. (Take chunk size of 10).
+5 To write an OpenMP program for finding prime numbers.
+6 To write an OpenMP program to demonstrate sharing of section work by performing arithmetic
+operations on a one-dimensional array.
+7 To write an OpenMP program to perform dot product of two one-dimensional arrays.
+8 To implement the program for Matrix addition and Matrix multiplication using OpenMP.
+9 To implement the program for sorting algorithms (Bubble sort, Quick sort) in OpenMP.
+10 To implement the program to create a Minimum Spanning Tree using Prim’s algorithm.
+
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes
+(10m).
+
+Books Recommended:
+Text books:
+1. Thomas Rauber, Gudula Rünger, Parallel Programming for Multicore and Cluster
+Systems, Springer, 2nd Edition, 2020.
+2. Steven Brawer, Introduction to Parallel Programming, Academic Press Inc, 1st Edition, 2000.
+3. M.Sasikumar, Dinesh Shikhare, P. Ravi Prakash, Introduction to Parallel Processing,
+Prentice Hall, 2nd Edition, 2014.
+
+Reference Books:
+1. David Bader, Handbook of Parallel Computing: Models, Algorithms and Applications, CRC Press,
+1st Edition, 2023.
+2. Fayez Gebali, Algorithms and Parallel Computing, Wiley Series, 1st Edition, 2011.
+3. Ananth Grama, Anshul Gupta, George Karypis, Vipin Kumar, An Introduction to Parallel
+Computing: Design and Analysis of Algorithms, Pearson Publication, 2nd Edition, 2004.
+
+Web Links
+1. NPTEL course: https://archive.nptel.ac.in/courses/106/102/106102163/
+2. Parallel Programming: Introduction to Parallel Computing Tutorial | HPC @ LLNL
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Geo-Spatial Data Science (DJS22DSC7012)
+Geo-Spatial Data Science Laboratory ((DJS22DSL7012)
+
+Pre-requisite: Data Visualization, Machine Learning and Artificial Intelligence.
+
+Course Objectives:
+1. To understand geospatial data sources, students will explore satellite imagery, GPS, and open
+datasets.
+2. To effectively work with spatial data, they will learn pre-processing, cleaning, and geocoding
+techniques for seamless integration.
+
+Course Outcomes: On completion of the course, the learner will be able to:
+1. Apply tools and techniques used to analyze and visualize geospatial data.
+2. Applying data science methods to solve real-world problems with geospatial data.
+3. Analyze geospatial large data models and ethical issues.
+
+Geo-Spatial Data Science (DJS22DSC7012)
+Unit Description Duration
+
+1
+Introduction to Geospatial Data: Introduction to Geographic Information
+Systems (GIS), Data Collection and Sources, Remote sensing and satellite
+imagery, GPS data and tracking, Coordinate systems and projections,
+Overview of geospatial data: Coordinates, attributes, temporal information;
+static and dynamic data, Spatial Data Types: vector and raster data, network
+data and Spatial Data Formats: shape files, geodatabases, Spatial data
+structures: Geometric objects (Points, lines and polygon), qualitative binary
+relation between geometrics and GSD applications.
+
+06
+
+2
+Geospatial Data Modeling:
+Feature based approach: point, curve, surface, geometry collection; Algebra
+and calculi of qualitative spatial relations, topological relations, RCC -8,
+cardinal directions, Field based approach. Spatial regression, clustering,
+and optimization, Geo statistics and spatial modeling, Predictive modeling
+with geospatial data, Case study: Predicting property values, Spatial
+Analysis, Buffer analysis, spatial joins, spatial econometrics and
+geographically weighted regression (GWR).
+
+08
+
+3
+Linked Geospatial Data:
+Visualizing Linked Geospatial Data, Querying Geospatial Data Expressed
+in RDF, Transforming Geospatial Data into RDF, SPARQL, Interlinking
+Geospatial Data Sources, Incomplete Geospatial Information, Geospatial
+RDF stores, Geospatial Knowledge Graphs, Question Answering Engines
+for Geospatial Knowledge Graphs, choropleth mapping.
+
+09
+
+4
+Geospatial Visualization:
+Introduction to data visualization libraries (e.g., Matplotlib, Folium,
+Plotly), Creating basic maps and charts, customizing geospatial
+visualizations, creating maps and charts, Customizing geospatial
+visualizations
+Python toolkits Geospatial Visualization. Spatial Data, GIS, Geospatial
+Data, Geospatial Analysis, Data Visualization
+
+06
+
+5
+Data Ingestion & Big Data: web scraping and APIs, distributed computing
+frameworks (e.g., Google Earth Engine, Hadoop GIS, GeoSpark, and Dask
+for geospatial data), and Google BigQuery GIS for scalable processing;
+Streaming Geospatial Data: IoT devices, GPS tracking, weather stations,
+and OpenStreetMap live updates.
+Spatial Analysis: Spatial queries and operations; Spatial Data Indexing:
+Quadtrees, R -trees, and Hilbert Curves to optimize geospatial queries.
+Spatial Relationships & Topology: topological consistency (e.g., via OGC
+Simple Features Specification). Spatial Statistics: spatial autocorrelation
+(Moran’s I, Geary’s C), and spatial interpolation techniques (Kriging,
+IDW).
+
+05
+
+6
+GIS Softwares
+Introduction to web mapping tools (e.g., Leaflet), Exploring GIS software
+(e.g., QGIS, ArcGIS), Introduction to geospatial libraries (e.g., Geopandas,
+Fiona, Shapely), Building interactive web maps, Geospatial big data and
+distributed computing, Machine learning for geospatial data, Geo Spatial
+Data Ethics, Ethical considerations in geospatial data analysis.
+
+05
+Total 39
+
+Geo-Spatial Data Science Laboratory ((DJS22DSL7012)
+Exp. Suggested Experiments
+1 Apply cyberGIS techniques to analyze and visualize big geospatial data in Python
+using advanced cyberinfrastructure and high-performance computing.
+
+2
+Apply Python tools for developing high -performance geospatial computing
+solutions. Optimize and speed up geospatial computation using Python libraries like
+Numba, Cython and Dask, Ray, or PySpark for large-scale geospatial processing
+
+3
+Implement open source mapping and large -scale geospatial visualization libraries
+such as Leaflet, D3,Plotly Kepler.gl, Deck.gl and Cesium.js for 3D geospatial
+applications and mash up these libraries to create interactive and dynamic
+visualization tools and GIS applications.
+
+4
+Apply tools to investigate and identify patterns, clusters, classes, and anomalies
+based on various types of geospatial data and apply these techniques to a variety of
+geospatial applications.
+
+5
+Apply advanced techniques of spatial analysis, including spatial autocorrelation,
+trend surface analysis, grouping and regionalization procedures, and point pattern
+analysis to solve geospatial problems. spatial clustering methods (e.g., DBSCAN, K-
+Means with spatial constraints, HDBSCAN) and spatial econometrics modeling
+(spatial lag and spatial error models)
+
+6 Solve given geospatial problem using ESRI ArcGIS solutions stack.
+
+7
+Identify right tool to interlink dataset to transform unlinked geospatial data into
+linked data using geospatial semantic technologies (geospatial ontologies, stRDF,
+stSPARQL, GeoSPARQL, OBDA mappings techniques. thing (e.g., a dataset
+containing information about roads in Crete can be interlinked with a dataset
+containing land cover information about Crete).
+8 Analyze and visualize the data with the help of appropriate linked data tools using a
+sequence of GeoSPARQL queries!
+9 Geospatial science in forestry and watershed management
+Geospatial science in urban planning and resource management
+
+10
+Use geospatial libraries for Geospatial Data Analysis with Python (e.g.,
+Geopandas, Fiona, Shapely for Analyzing and visualizing geospatial data in
+Python
+11 Demonstrate the use of Apache, Jena and Stardog for managing large-scale
+geospatial knowledge graphs.
+
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes
+(10m).
+
+Books Recommended:
+Text Books
+1. Geospatial Data Science: A Hands-on Approach for Building Geospatial Applications Using
+Linked Data Technologies June 2023.
+2. Applied Geospatial Data Science with Python, David S. Jordan, Feb 2023.
+3. Geospatial data analysis on AWS, ACM Publisher, Janahan Gnanachandran, 2023.
+4. Geospatial Data Science Techniques and Applications”, Paul A. Zandbergen, 2020.
+5. "Introduction to Geographic Information Systems”, Kang-Tsung Chang, McGraw-Hill
+Education, 2019.
+Reference Books
+1. "Geoprocessing with Python”, Chris Garrard, Manning Publisher, 2016.
+2. "Geospatial Analysis: A Comprehensive Guide”, Michael J. de Smith, Michael F. Goodchild,
+and Paul A. Longley, Winchelsea Press, 2018.
+3. The Ultimate Guide to Geospatial Data Science, Geospatial Data Science Explained: A Full
+Guide - Aya Data
+Web Links
+1. The Ultimate Guide to Geospatial Data Science, Geospatial Data Science Explained: A Full
+Guide - Aya Data https://www.ayadata.ai/the-ultimate-guide-to-geospatial-data-science/
+2. https://www.safegraph.com/guides/geospatial-data
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Advanced Internet of Things (DJS22DSC7013)
+Advanced Internet of Things Laboratory ((DJS22DSL7013)
+
+Pre-requisite: Basic Programming Knowledge, Networking Fundamentals, Microcontrollers &
+Embedded Systems Basics.
+
+Course Objectives:
+1. To Introduce Advanced IoT Concepts and Architectures-
+2. To Provide In-Depth Knowledge of IoT Communication Protocols
+3. To Develop Skills in IoT Hardware and Software Integration
+4. To Address IoT Security, Privacy, and Ethical Issues
+5. To Design and Develop Industrial IoT (IIoT) and Smart Applications
+
+Course Outcomes: On completion of the course, the learner will be able to:
+1. Understand Advanced IoT Architectures & Communication Protocols
+2. Design and Develop IoT Systems and apply
+3. Integrate Cloud, Edge, and Fog Computing in IoT Solutions
+4. Apply Big Data Analytics and AI/ML Techniques in IoT
+
+Advanced Internet of Things (DJS22DSC7013)
+Unit Description Duration
+
+1
+Introduction to Advanced IoT Evolution from traditional IoT to
+Advanced IoT, IoT ecosystem overview
+IoT Architecture and Design
+Drivers behind new network architecture , comparing IoT architectures:
+The oneM2M IoT Standardized Architecture, The core IOT functional
+stack,
+IoT Data Management and Compute Stack: Fog and Edge Computing
+in IoT.
+Smart objects: The Things in IoT Sensors, Actuators, Microelectro
+Mechanical system
+Connecting Smart Objects: Communication criteria, IoT access
+technologies: IEEE 802.15.4, physical Layer ,MAC Layer, Topolgy,
+Security
+
+09
+
+2
+Sensors, Endpoints and Power system
+Sensors, Actuators, PIR sensors and Smart Objects, Thermocouples and
+temperature sensing, LiDAR an active sensing system, MEMS sensors,
+Smart IoT endpoints, Sensor fusion, functional examples, Energy sources
+and power management,
+Communication and Information Theory: Communication theory,
+Information Theory, radio structure
+
+05
+
+3
+Cloud and Fog Topologies:
+Cloud service Model ,Public ,private and hybrid cloud
+Openstack cloud architecture constraints of cloud architecture for IoT
+Fog computing.
+IoT edge to cloud protocols: MQTT,MQTT-SN, Constrained Application
+protocol, other protocols
+
+05
+
+4
+Power Line communication Technology: Overview of PLC technologies ans
+standards, Architecture for home network technologies, IoT using PLC
+Technology.
+IoT Security: Common challenges in OT Security ,Cyber security vernacular,
+Anatomy of IoT cyber atttacks, Physical and hardware security, blockchains and
+cryptocurrencies in IoT.
+IP as IoT Network Layer:The Business case for IP,The need for optimization,
+optimizing IP for IOT,Formal risk analysis structures: OCTAVE and FAIR,The
+phased application of security in an operational environment.
+Public safety: Overview, An IoT Blueprint for Public Safety,IoT Public safety
+Information Processing.
+
+09
+
+5
+Data Analytics for IoT :Visualizing the power of Data from IoT:Data analysis,
+Machine Learning, Model building process,Modeling algorithms, Model
+Performance, Big data platform, Big data Pipeline.
+IoT System Management with NETCONF-YANG: Need for IoT system
+Management, SNMP, Network operator requirements, NETCONF,YANG
+Artificial Intelligence of Things (AIoT): Combining AI with IoT for smarter
+applications.
+
+06
+
+6
+Mining :Mining today and its challenges, Challenges for IoT in modern mining,
+An IoT strategy for mining ,An architecture for IoT in Mining.
+Advanced Applications of IoT:.
+Home automation, Smart Cities, Healthcare, Practical Applications of
+Edge/Fog Computing, Agriculture, Logistics,Retail,Smart Medication
+Management System, Smart Factory System.
+
+05
+Total 39
+
+Advanced Internet of Things Laboratory ((DJS22DSL7013)
+Exp. Suggested experiments
+1 Creating first Raspberry Pi project
+2 Publishing Information Using MQTT
+3 Creating HTTP Server
+4 Creating XMPP sensor server
+5 Configuring the IOT Gateway
+6 Adding CoAP to our devices
+7 Running the IoT Gateway project
+8 Set up an IoT device (e.g., ESP8266/ESP32) to publish and subscribe to MQTT messages.
+9 Send IoT sensor data to AWS IoT Core and visualize it.
+10 Perform real-time processing of sensor data on an edge device.
+11 Implement SSL/TLS encryption in an MQTT-based IoT setup.
+
+12 Control access to IoT devices using authentication mechanisms.
+13 Process real-time traffic data at the fog layer instead of the cloud.
+14 Collect and analyse heart rate data from a wearable IoT device.
+15 Demonstrate the vulnerability of insecure OT protocols.
+16 Store IoT data on a blockchain to ensure immutability.
+17 Detect unusual patterns in IoT sensor data using AI.
+Minimum eight/ten experiments from the above suggested list or any other experiment or mini
+project based on syllabus will be included, which would help the learner to apply the concept
+learnt.
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes
+(10m).
+
+Books Recommended:
+Text Books:
+1. David Hanes,Gonzalo Salgueiro,Patrick Grossetete,,Rob Barton,Jerome Henry”IoT
+Fundamentals”,Cisco Press ,June 2017.
+2. Shriram Vasudevan, Abhishek Nagarajan,”Internet of Things”,Wiley,2nd Edition.
+3. Arshdeep Bagha, Vijay Madisetti, ”Internet of Things”, Universities Press.
+4. Peter Waher,”Mastering Internet of Things”,Published by Packt.
+5. Advanced IoT Technologies and Applications in the Industry 4.0 Digital Economy, CRC
+Press ,2024
+6. "Internet of Things: Technological Advances and New Applications, Apple Academic
+Press,2024
+Reference Books:
+1. Smart Home and Industrial IoT Devices: Critical Perspectives on Cyber Threats, Frameworks,
+and Protocols, Bentham Science Publishers,2024
+2. IoT Security: Advances in Authentication, Springer,2023
+
+Web Links:
+1. Introduction to internet of things By Prof. Sudip Misra , IIT Kharagpur
+https://onlinecourses.nptel.ac.in/noc21_cs17/preview
+2. Introduction To Industry 4.0 And Industrial Internet Of Things By Prof. Sudip Misra , IIT
+Kharagpur
+https://onlinecourses.nptel.ac.in/noc25_cs43/preview
+3. https://thingspeak.mathworks.com/
+4. https://app.arduino.cc/iot/
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Adversarial Machine Learning (DJS22DSC7014)
+Adversarial Machine Learning Laboratory ((DJS22DSL7014)
+
+Pre-requisite: Mathematics for Intelligent System, Machine Learning – I, Information Security.
+
+Course Objectives:
+The Course provide an in-depth understanding of adversarial machine learning (AML), focusing on the
+security vulnerabilities of machine learning models and defenses against adversarial attacks. Students
+will explore foundational concepts in supervised, unsupervised, and reinforcement learning, along with
+adversarial settings in each. The course will cover various categories of attacks, including causative and
+evasion attacks, and introduce frameworks for secure learning. Through case studies and hands -on
+implementations, students will analyze real-world AML applications in cybersecurity, computer vision,
+and NLP. The course will also explore open challenges , defensive strategies, and applications beyond
+security, such as model programming and data augmentation.
+
+Course Outcomes: On completion of the course, the learner will be able to:
+1. Analyze and apply fundamental machine learning and deep learning techniques to adversarial
+settings, understanding their vulnerabilities and potential threats.
+2. Identify and categorize different adversarial attacks on machine learning models, evaluating
+their impact on security-critical applications.
+3. Assess and compare various defense strategies against adversarial attacks, demonstrating an
+understanding of security frameworks for robust learning models.
+4. Investigate real -world applications of adversarial mac hine learning in cybersecurity,
+autonomous systems, and NLP, proposing innovative defensive mechanisms based on research
+findings.
+
+Adversarial Machine Learning (DJS22DSC7014)
+Unit Description Duration
+
+1
+Machine Learning Preliminaries
+Supervised Learning, Supervised Learning in Adversarial Settings,
+Unsupervised Learning, Unsupervised Learning in Adversarial Settings,
+Reinforcement Learning in Adversarial Settings, Categories of Attacks on
+Machine Learning
+Deep Learning Overview: Machin e learning basics, Introduction to deep
+learning, Elements of neural networks (NNs), Training NNs, NN architectures
+Introduction to Adversarial Machine Learning : Adversarial Machine
+Learning Taxonomy and History, Statistical Machine Learning, A Framework
+for Secure Learning: Analyzing the Phases of Learning, Framework, Security
+Analysis, Exploratory Attacks, Causative Attacks.
+
+05
+
+2
+Causative Attacks on Machine Learning: Availability Attack
+Case Study: SpamBayes, The SpamBayes Spam Filter, Threat Model for
+Spam Bayes, The Reject on Negative Impact (RONI) Defense Causative
+Attacks on Machine Learning: Integrity Attack.
+Case Study : PCA Detector, PCA Method for Detecting Traffic
+Anomalies, Corrupting the PCA Subspace, Corruption-Resilient
+Detectors.
+
+08
+
+3
+Evasion Attacks:
+Evasion Attacks against White box: Fast gradient sign method (FGSM)
+attack. Projected gradient descent (PGD) attack, DeepFool attack
+Black box adversarial attacks: Query based attacks, Transfer based attacks
+(or transferability attacks, Attacks on Real Models.
+Defences Against Evasion Attacks: Adversarial examples detection,
+Gradient masking/obfuscation, Robust optimization.
+
+08
+
+4
+Adversarial Machine Learning in Cyber Security: Malware Detection
+and Classification: Machine Learning in cybersecurity, Taxonomy of
+AML attacks in cybersecurity, Malware detection and classification,
+Adversarial attacks on ML-based malware classifiers, Malware Detection
+and Classification.
+Network Intrusion Detection: Network intrusion detection, Datasets for
+network intrusion detection, Anomaly detection with Machine Learning,
+Adversarial attacks on ML-based NIDS.
+
+08
+
+5
+Adversarial Machine Learning Challenges:
+Discussion and Open Problems, Unexplored Components of the
+Adversarial Game, Development of Defensive Technologies.
+
+05
+
+6
+Practical Applications : Adversarial Machine Learning in Computer
+Vision, Adversarial Machine Learning in Natural Language Processing
+(NLP), Adversarial Machine Learning in Autonomous Systems.
+Applications beyond attack and defence : Model Programming,
+Contrastive explanations, model watermarking and fingerprinting, Data
+augmentation for unsupervised Learning.
+
+05
+Total 39
+
+Adversarial Machine Learning Laboratory (DJ19DSL7014)
+Exp. Suggested experiments
+1 Implement non-targeted white-box evasion attacks against the deep learning models: Fast
+Gradient Sign Method (FGSM), and Projected Gradient Descent (PGD).
+2 Implement targeted white-box evasion attacks against the deep learning models.
+3 Implement a PGD attack on the DL model ResNet50, and investigate if the adversarial
+examples transfer to the other conventional ML models.
+4 Implement a non-targeted PGD attack on the logistic regression model for the set of 120
+images.
+5 Implement adversarial defenses for white-box evasions attacks against deep learning-based
+classification models.
+
+6 Get familiar with ML classification models used in cybersecurity applications and
+implement adversarial attacks against such models.
+7 Attacks on ML systems for Network Intrusion Detection
+8 Attacks on ML systems for Malware Detection
+9 ML systems for Spam Filtering
+10 Mini Project
+
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignment/Quizzes
+(10m).
+
+Books Recommended:
+Text Books:
+1. Anthony D. Joseph, Blaine Nelson, “Adversarial Machine Learning”, © Cambridge
+University Press 2019, ISBN: 978-1-107-04346-6.
+2. A. Zhang, Z. Lipton, and A. Smola, “Dive into Deep Learning”.
+3. Soma Halder, “Hands-On Machine Learning for Cybersecurity: Safeguard your system by
+making your machines intelligent using the Python ecosystem”, Packt Publishing ltd.
+
+Reference Books:
+1. Yevgeniy Vorobeychik and Murat Kantarcioglu, “Adversarial Machine Learning”, Copyright
+© 2018 by Morgan & Claypool.
+2. Pin-Yu Chen and Cho-Jui Hsieh, “Adversarial Robusteness for MAchine Learning”,
+Academic Press an imprint of Elsevier.
+3. Shuhe Wang, Kuan-Chieh Wang, “Adversarial Machine Learning” Springer Series in
+Advanced Machine Learning.
+
+Web Links:
+1. Goodfellow (2014) Explaining and Harnessing Adversarial Examples)
+2. Carlini (2017) Towards Evaluating the Robustness of Neural Networks
+3. Brendel (2017) Decision-Based Adversarial Attacks: Reliable Attacks Against Black-Box
+Machine Learning Models
+4. Bhagoji (2017) Exploring the Space of Black-box Attacks on Deep Neural Networks
+5. Xu (2019) Adversarial Attacks and Defenses in Images, Graphs and Text: A Review
+6. Tramer (2018) Ensemble Adversarial Training: Attacks and Defenses
+7. Rosenberg (2021) Adversarial Machine Learning Attacks and Defense Methods in the Cyber
+Security Domain
+8. Severi (2021) Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers
+9. Kuleshov (2018) Adversarial Examples for Natural Language Classification Problems
+10. Erba (2019) Constrained Concealment Attacks against Reconstruction-based Anomaly
+Detectors in Industrial Control Systems
+
+Prepared by Checked by Head of the Department Principal
+
+INSTITUTE LEVEL ELECTIVES
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Product Life Cycle Management (DJS22ILO7011)
+
+Pre-requisite: Knowledge of basic concepts of Management.
+
+Course Objectives:
+1. To familiarize the students with the need, benefits and components of PLM.
+2. To acquaint students with Product Data Management & PLM strategies.
+3. To give insights into new product development program and guidelines for
+designing and developing a product.
+4. To familiarize the students with Virtual Product Development.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Gain knowledge about phases of PLM, PLM strategies and methodology
+for PLM feasibility study and PDM implementation.
+2. Illustrate various approaches and techniques for designing and developing products.
+3. Apply product engineering guidelines / thumb rules in designing products for
+moulding, machining, sheet metal working etc.
+4. Acquire knowledge in applying virtual product development tools for
+components, machining and manufacturing plant
+
+Product Life Cycle Management (DJS22ILO7011)
+Unit Description Duration
+1 Introduction to Product Lifecycle Management (PLM):
+Product Lifecycle Management (PLM), Need for PLM, Product Lifecycle
+Phases, Opportunities of Globalization, Pre -PLM Environment, PLM Paradigm,
+Importance & Benefits of PLM, Widespread Impact of PLM, Focus and
+Application, A PLM Project, Starting the PLM Initiative, PLM Applications
+PLM Strategies: Industrial strategies, Strategy elements, its identification,
+selection and implementation, Developing PLM Vision and PLM Strategy, Change
+management for PLM
+
+09
+2 Product Design: Product Design and Development Process, Engineering Design,
+Organization and Decomposition in Product Design, Typologies of Design Process
+Models, Reference Model, Product Design in the Context of the Product
+Development Process, Relation with the Development Process Planning Phase,
+Relation with the Post design Planning Phase, Methodological Evolution in Product
+Design, Concurrent En gineering, Characteristic Features of Concurrent
+Engineering, Concurrent Engineering and Life Cycle Approach, New Product
+Development (NPD) and Strategies, Product Configuration and Variant
+Management, The Design for X System, Objective Properties
+and Design for X Tools, Choice of Design for X Tools and Their Use in the Design
+Process.
+
+08
+
+3
+Product Data Management (PDM): Product and Product Data, PDM systems and
+importance, Components of PDM, Reason for implementing a PDM system,
+financial justification of PDM, barriers to PDM implementation
+Virtual Product Development Tools: For components, machines, and
+manufacturing plants, 3D CAD systems and realistic rendering techniques, Digital
+mock-up, Model building, Model analysis, Modelling and simulations in Product
+Design, Examples/Case
+studies
+
+08
+
+4
+Integration of Environmental Aspects in Product Design: Sustainable
+Development Design for Environment, Need for Life Cycle Environmental
+Strategies, Useful Life Extension Strategies, End-of-Life Strategies, Introduction of
+Environmental Strategies into th e Design Process, Life Cycle Environmental
+Strategies and Considerations for Product Design.
+
+07
+
+5
+Life Cycle Assessment and Life Cycle Cost Analysis: Properties, and Framework
+of Life Cycle Assessment, Phases of LCA in ISO Standards, Fields of Application
+and Limitations of Life Cycle Assessment, Cost Analysis and the Life Cycle
+Approach, General Framework for LCCA, Evolution of Models for Product Life
+Cycle Cost Analysis
+
+07
+Total 39
+
+Books Recommended:
+Text books:
+1. Product Lifecycle Management: Paradigm for 21st Century Product Realization,
+John Stark, Springer-Verlag, 2004.
+2. Product Design for the environment-A life cycle approach, Fabio Giudice,
+Guido La Rosa, Antonino Risitano, Taylor & Francis 2006.
+Reference Books:
+1. Product Life Cycle Management‖, Saaksvuori Antti, Immonen Anselmie, Springer, Dreamtech.
+2. Product Lifecycle Management: Driving the next generation of lean thinking,
+Michael Grieve, Tata McGraw Hill, 2006.
+3. Product Life-Cycle Management: Geometric Variations, François Villeneuve, Luc
+Mathieu, Max Giordano, Wiley, 2010.
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Management Information System (DJS22ILO7012)
+Course Objectives:
+1. The course is blend of Management and Technical field.
+2. Discuss the roles played by information technology in today‘s business and
+define various technology architectures on which information systems are
+built.
+3. Define and analyze typical functional information systems and identify how they meet
+the needsof the firm to deliver efficiency and competitive advantage.
+4. Identify the basic steps in systems development.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Explain how information systems Transform Business.
+2. Identify the impact information systems have on an organization.
+3. Describe IT infrastructure and its components and its current trends.
+4. Understand the principal tools and technologies for accessing information from
+databases to improve business performance and decision making.
+5. Identify the types of systems used for enterprise-wide knowledge management and how
+they provide value for businesses.
+
+Management Information System (DJS22ILO7012)
+Unit Description Duration
+
+1
+Foundation Concepts: Information Systems in Business, Functional Area Information
+System, The Components of Information Systems, Impact of IT on organizations and
+society, Organizational Strategy, Information systems for strategic advantage.
+
+03
+
+2
+Information Technologies: Hardware and Software
+Computer Systems: End User and Enterprise Computing Computer Peripherals: Input,
+Output, and Storage Technologies Application Software: End User Applications System
+Software: Computer System Management Data Resource Management: Technical
+Foundations of Database Management, Managing Data Resources, Big data, Data
+warehouse and Data Marts, Knowledge Management Networks: The Networked
+Enterprise (Wired and wireless), Pervasive computing, Cloud Computing models
+
+07
+
+3
+MIS Tools and applications for Decision making: ERP and ERP support of Business
+Process Reengineering,
+Business intelligence (BI): Managers and Decision Making, BI for Data analysis and
+Visualization Artificial Intelligence Technologies in Business
+
+08
+4 Security and Ethical Challenges: Security, Ethical, and Societal Challenges of IT
+Security Management of Information Technology 06
+
+5
+Social Computing (SC): Web 2.0 and 3.0, SC in business-shopping, Marketing,
+Operational and Analytic CRM, E-business and E-commerce – B2B B2C, Mobile
+commerce.
+
+07
+
+6
+Information System within Organization: Acquiring Information Systems and
+Applications: Various System development life cycle models.
+Enterprise and Global Management of Information Technology: Managing
+Information Technology, Managing Global IT.
+
+08
+Total 39
+
+Books Recommended:
+Reference Books:
+1. Management Information Systems, 11th edition by James A O’Brien, George M., Ramesh Behl.
+2. Kelly Rainer, Brad Prince, Management Information Systems, Wiley.
+3. K.C. Laudon and J.P. Laudon, Management Information Systems: Managing the
+Digital Firm, 10th Ed., Prentice Hall, 2007.
+4. D. Boddy, A. Boonstra, Managing Information Systems: Strategy and Organization,
+Prentice Hall, 2008
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Operations Research (DJS22ILO7013)
+Pre-requisites: Basic Knowledge of Algebra, Probability and Statistics.
+
+Course Objectives:
+1. To formulate a real-world decision problem as a mathematical programming model.
+2. To learn the mathematical tools that are employed to solve mathematical programming
+models.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Convert a real-world problem in to a Linear Programming Problem and analyse the solution
+obtained using Simplex method or other algorithms.
+2. Identify real-world problems as Transportation Problem and Assignment Problem and Solve
+the decision problem by choosing appropriate algorithm.
+3. Identify the decision situations which vary with time and analyse them using principle of
+dynamic programming to real life situations.
+4. Explain reasons of formation of queues, classify various queuing systems and apply
+parameters defined for various queuing systems for decision making in real life situations.
+5. Understand the concept of decision making in situation of competition and recommend
+strategies in case of two-person zero sum games.
+6. Describe concept of simulation and apply Monte Carlo Simulation technique to systems such
+as inventory, queuing and recommend solutions for them.
+7. Understand need for right replacement policy and determine optimal replacement age.
+
+Operations Research (DJS22ILO7013)
+Unit Description Duration
+
+1
+Introduction to Operations Research: Concept of decision making. Definition of
+OR. Formulation of decision problem as OR model, Concept of Optimization,
+Linear Programming Problem: Mathematical Formulation. Finding optimal
+solution - Graphical method, Simplex Method, Big M-method, Two Phase Method.
+Duality, Primal – Dual construction, Symmetric and Asymmetric
+Dual. Dual Simplex Method.
+
+10
+
+2
+Assignment Problems: Mathematical Formulation, Finding optimal solution -
+Hungarian Method
+Transportation problem: Mathematical Formulation, Finding initial basic feasible
+solution – Northwest corner rule, row minima, column minima, least cost method and
+Vogel’s approximation method.
+Optimality test: the stepping stone method and MODI method.
+Improving the solution.
+
+08
+
+3
+Dynamic Programming : Bellman’s Principle of optimality - Applications of
+dynamic programming - Employment smoothening problem, capital budgeting
+problem, shortest path problem, cargo loading problem
+
+05
+
+4
+Queuing Models: Characteristics of queuing models.
+Single Channel – Single and multi-phase servers, Poisson arrivals, exponential service time
+- with infinite population and finite population models – with infinite and finite capacity.
+Multichannel – Single phase server - Poisson arrivals, exponential service time with infinite
+population.
+Game Theory: Introduction. Minimax & Maximin Criterion an d optimal strategy.
+Solution of games with saddle points, rectangular games without saddle points - 2 x 2
+games, dominance principle.
+Approximate methods - Iterative method, m x 2 & 2 x n games -Graphical method and
+method of sub-games.
+Expressing game as LPP.
+
+10
+
+5
+Simulation: Definition. Types of simulation models. Monte Carlo simulation technique.
+Applications of simulation - Inventory and Queuing problems. Simulation Languages.
+Replacement Models: Replacement of items that deteriorate with time - when money
+value is not counted and counted, Replacement of items that fail suddenly – individual
+and group replacement policy.
+
+06
+Total 39
+Books Recommended:
+Text books:
+1. Operations Research, Sharma J. K., Trinity Press
+2. Operations Research, Gupta P. K., Hira D. S., S. Chand Limited
+
+Reference Books:
+1. Operations Research - An Introduction; Taha, H.A.; Prentice Hall
+2. Operations Research: Principles and Practice; Ravindran, A, Phillips, D. T and Solberg, J. J.;
+John Willey and Sons
+3. Introduction to Operations Research; Hiller, F. S. and Liebermann, G. J.; Tata McGraw Hill
+4. Operations Research Principles and Practice; Pradeep Prabhakar Pai; Oxford University Press
+5. Operations Research, R. Panneerselvam, PHI Publications.
+6. Operations Research, A. M. Natarajan, P. Balasubramani, A. Tamilarasi, Pearson Education.
+7. Operations Research; Kanti Swarup, P. K. Gupta and Man Mohan; Sultan Chand & Sons
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Cyber Security and Laws (DJS22ILO7014)
+Course Objectives:
+1. To understand and identify different types cybercrime and cyber offences.
+2. To recognized Indian IT Act 2008 and its latest amendments
+3. To learn various types of security standards compliances
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Understand the different types of cybercrime and security issues E Business.
+2. Analyses different types of cyber threats and techniques for security management.
+3. Explore the legal requirements and standards for cyber security in various countries to regulate
+cyberspace.
+4. Impart the knowledge of Information Technology Act and legal frame work of right to privacy,
+data security and data protection.
+
+Cyber Security and Laws (DJS22ILO7014)
+Unit Description Duration
+
+1
+Introduction to Cybercrime:
+Cyber Crime, Cyber Law, Cyber Security, History of Cyber Crime, Hacking, Data
+Theft, Cyber Terrorism, Virus & Worm’s, Email Bombing, Pornography, online
+gambling, Forgery, Web Defacements, Web Jacking, Illegal online Selling, Cyber
+Defamation, Software Piracy, Electronics/ Digital Signature, Phishing, Password
+Cracking, Key loggers and Spywares, Steganography, DoS and DDoS attacks, SQL
+Injection, Buffer Over Flow,, Phishing Identity Theft (ID Theft) ,How criminal plan
+the attacks, Social Engineering, Cyber stalking .
+
+10
+
+2
+Cyber Threats Analysis
+Knowledge of Dynamic and Deliberate Targeting
+Knowledge of Indications and Warning
+Knowledge of Internal Tactics to Anticipate and/or, Emulate Threat Capabilities
+and Actions
+Knowledge of Key Cyber Threat Actors and their Equities
+Knowledge of Specific Target Identifiers and Their Usage
+
+06
+
+3
+Electronic Business and legal issues
+Evolution and development in Ecommerce, Policy Frameworks for Secure
+Electronic Business, paper vs paper less contracts, E-Commerce models- B2B,
+B2C, E security. E- Payment Mechanism; Payment through card system, E-
+Cheque, E-Cash, E-Payment, Threats & Protections, Security for E-Commerce.
+
+06
+
+4
+Indian IT Act
+Cyber Crime and Criminal Justice, Penalties, Adjudication and Appeals Under the IT
+Act, 2000, IT Act. 2008 and its Amendments
+Security aspect in cyber Law
+The Contract Aspects in Cyber Law , The Security Aspect of Cyber Law, The
+Intellectual Property Aspect in Cyber Law ,The Evidence Aspect in Cyber Law ,The
+Criminal Aspect in Cyber Law.
+
+08
+
+5
+Security Industries Standard Compliances
+IT Security v/s IT Compliance, Cyber Security Standards, critical security controls
+for cyber security, GRC (Governance, Risk Management, and Compliance), SOX,
+GLBA, HIPAA, ISO/IEC 27001, NIST Cyber Security Framework (CSF), PCI-
+DSS. OWASP Top Ten Project, GDPR (General Data Protection Regulation), NIST
+(National Institute of Standards and Technology), CIS Controls (Center for Internet
+Security Controls).
+
+09
+Total 39
+
+Books Recommended:
+Reference Books:
+1. Nina Godbole, Sunit Belapure, Cyber Security, Wiley India, New Delhi
+2. The Indian Cyber Law by Suresh T. Vishwanathan; Bharat Law House New Delhi
+3. The Information Technology Act, 2000; Bare Act- Professional Book Publishers, New Delhi.
+4. E-Commerce Security and Privacy", Anup K. Ghosh, Springer Science and Business Media, 2012
+5. Izzat Alsmadi , The NICE Cyber Security Framework Cyber Security Intelligence and
+Analytics, Springer
+6. Cyber Law & Cyber Crimes, Advocate Prashant Mali; Snow White Publications, Mumbai
+7. Nina Godbole, Information Systems Security, Wiley India, New Delhi
+8. Kennetch J. Knapp, Cyber Security &Global Information Assurance Information Science
+Publishing.
+9. William Stallings, Cryptography and Network Security, Pearson Publication
+10. Websites for more information is available on : The Information Technology ACT, 2008- TIFR
+: https://www.tifrh.res.in
+11. Website for more information, A Compliance Primer for IT professional:
+https://www.sans.org/reading-room/whitepapers/compliance/compliance-primer-
+professionals-33538
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Personal Finance Management (DJS22ILO7015)
+
+Pre-requisites: Basic Knowledge of Algebra, Probability and Statistics.
+
+Course Objectives:
+1. To create awareness and educate consumers on access to financial services.
+2. To make the students understand the basic concepts, definitions and terms related to direct
+taxation.
+3. To help the students compute the Goods and Service Tax (GST) payable by a supplier after
+considering the eligible input tax credit.
+4. To familarise the students with microfinance for accelerating the expansion of local
+microbusinesses.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Use a framework for financial planning to understand the overall role finances play in his/her
+personal life.
+2. Compute income from salaries, house property, business/profession, capital gains and income
+from other sources.
+3. Compute the amount of CGST, SGST and IGST payable after considering the eligible input tax
+credit.
+4. Understand how Microfinance can help in financial inclusion.
+
+Personal Finance Management (DJS22ILO7015)
+Unit Description Duration
+
+1
+Overview of Indian Financial System: Characteristics, Components and Functions of
+Financial System. Financial Instruments and Financial Markets, Financial inclusion.
+Introduction to Personal Finance
+Person Financial Planning in Action, Money Management Skills, Taxes in Your
+Financial Plan, Savings and Payment Services.
+Consumer Credit: Advantages, Disadvantages, Sources and Costs.
+
+07
+
+2
+Personal Financial Management
+Loans: Home, Car, Education, Personal, Loan against property and Jewel loan.
+Insurance: Types of Insurance – ULIP and Term; Health and Disability Income
+Insurance, Life Insurance.
+Investment: Investing Basics and Evaluating Bonds, Investing in Stocks and
+Investing in Mutual Funds, Planning for the Future.
+
+07
+
+3
+Income Tax
+Income Tax Act Basics- Introduction to Income Tax Act, 1961
+Heads of Income and Computation of Total Income and Tax Liability- Heads
+of Income and Computation of Total Income under various heads, Clubbing
+Provisions, Set off and Carry forward of Losses, Deductions, Assessment of Income
+and tax liability of different persons.
+Tax Management, Administrative Procedures and ICDS - TDS, TCS and Advance
+Tax Administrative Procedures, ICDS.
+
+07
+
+4
+Goods and Services Tax
+GST Constitutional framework of Indirect Taxes before GST (Taxation Powers of
+Union & State Government); Concept of VAT: Meaning, Variants and Methods;
+Major Defects in the structure of Indirect Taxes prior to GST; Rationale for GST;
+Structure of GST (SGST, CGST, UTGST & IGST); GST Council, GST Network,
+State Compensation Mechanism, Registration.
+Levy and Collection of GST
+Taxable event- "Supply" of Goods and Services; Place of Supply: Within state,
+Interstate, Import and Export; Time of supply: Valuation for GST- Valuation rules,
+taxability of reimbursement of expenses; Exemption from GST: Small supplies and
+Composition Scheme: Classification of Goods and Services
+
+09
+
+5
+Introduction to Micro – finance
+Micro-Finance: Definitions, Scope & Assumptions, Types of Microfinance,
+Customers of Micro-finance, Credit Delivery Methodologies, SHG concept, origin,
+Formation & Operation of Self Help Groups (SHGs).
+Models in Microfinance - Joint Liability Groups (JLG), SHG Bank Linkage Model
+and GRAMEEN Model: Achievements & Challenges,
+Institutional Mechanism
+Current Challenges for Microfinance, Microfinance Institutions (MFIs): Constraints
+& Governance Issues, Institutional Structure of Microfinance in India: NGO-MFIs,
+NBFC-MFIs, Co-operatives, Banks, Microfinance Networks and Associations;
+Demand & Supply of Microfinance Services in India, Impact assessment and social
+assessments
+of MFIs.
+
+09
+Total 39
+
+Books Recommended:
+Reference Books:
+1. Banking and Financial Sector Reforms in India , by Asha Singh, M.S. Gupta, Serials
+Publication.
+2. Indian Banking Sector: Essays and Issues (1st) , by M.S. Gupta & J.B. Singh, Serials
+Publication.
+3. Basics Of Banking & Finance , by K.M. Bhattacharya O.P. Agarwal , Himalaya Publishing House
+4. Agricultural Finance And Management, by S. Subba Reddy , P. Raghu Ram .
+5. The Indian Financial System And Development , by Dr.Vasant Desai, Himalaya Publishing House;
+Fourth Edition
+6. Income Tax Management , Simple Way of Tax Management, Tax Planning and Tax Saving, By
+Sanjay Kumar Satapathy
+7. Direct Tax System Income Tax by Dr. R. K. Jain, SBPD Publications.
+8. Simplified Approach to GST Goods and Services Tax, By S K Mishra , Educreation
+Publishing.
+9. Introduction To Microfinance , By Todd A Watkins , World Scientific Publishing Company
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Energy Audit and Management (DJS22ILO7016)
+Course Objectives:
+1. To understand the importance of energy security for sustainable development and the
+fundamentals of energy conservation.
+2. To identify and describe the basic principles and methodologies adopted in energy audit of
+a utility
+3. To introduce performance evaluation criteria of various electrical and thermal installations
+to facilitate the energy management.
+4. To relate the data collected during performance evaluation of systems for identification of
+energy saving opportunities.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. To identify and describe present state of energy security and its importance.
+2. To identify and describe the basic principles and methodologies adopted in energy audit of
+a utility.
+3. To describe the energy performance evaluation of some common electrical installations
+and identify the energy saving opportunities.
+4. To describe the energy performance evaluation of some common thermal installations and
+identify the energy saving opportunities.
+5. To analyze the data collected during performance evaluation and recommend energy saving
+measures.
+
+Energy Audit and Management (DJS22ILO7016)
+Unit Description Duration
+
+1
+Energy Scenario: Present Energy Scenario, Energy Pricing, Energy Sector
+Reforms, Energy Security, Energy Conservation and its Importance, Energy
+Conservation Act- 2001 and its Features. Basics of Energy and its various forms,
+Material and Energy balance.
+
+05
+
+2
+Energy Audit: Definition, Energy audit - need, Types of energy audit, Energy
+management (audit) approach -understanding energy costs, Bench marking,
+Energy performance, matching energy use to requirement, Maximizing system
+efficiencies, Optimizing the input energy require ments, Fuel and energy
+substitution. Elements of monitoring & targeting, Energy audit instruments.
+Technical and economic feasibility, Classification of energy conservation
+measures. Safety considerations during energy audit.
+Financial analysis techniques: Simple payback period, NPV, Return on
+investment (ROI) Internal rate of return (IRR).
+
+09
+
+3
+Energy Management and Energy Conservation in Electrical System:
+Electricity billing, Electrical load management and maximum demand Control;
+Power factor improvement, Energy efficient equipments and appliances, star
+ratings. Energy efficiency measures in lighting system, lighting control:
+Occupancy sensors, daylight integration, and use of intelligent controllers. Energy
+conservation opportunities in water pumps, compressor, fan and blower. industrial
+
+10
+
+drives, induction motors, motor retrofitting, soft starters, variable speed drives.
+
+4
+Energy Management and Energy Conservation in Thermal Systems: Review
+of different thermal loads; Energy conservation opportunities in: Steam
+distribution system, Steam leakages, Steam trapping, Condensate and flash steam
+recovery system. Waste heat recovery, use of insulation - types and application.
+Energy conservati on opportunities in: Boiler system. Refrigeration system and
+HVAC system.
+
+09
+
+5
+Energy conservation in Buildings: Energy Conservation Building Codes
+(ECBC):Green Building, LEED rating,
+Application of Non-Conventional and Renewable Energy Sources, Energy sources
+and energy management in electric vehicles.
+
+06
+Total 39
+
+Books Recommended:
+Reference Books:
+1. Handbook of Electrical Installation Practice, Geofry Stokes, Blackwell Science.
+2. Designing with light: Lighting Handbook, By Anil Valia, Lighting System.
+3. Energy Management Handbook, By W.C. Turner, John Wiley and Sons.
+4. Handbook on Energy Audits and Management, edited by A. K. Tyagi, Tata Energy Research
+Institute (TERI).
+5. Energy Management Principles, C.B. Smith, Pergamon Press.
+6. Energy Conservation Guidebook, Dale R. Patrick, S. Fardo, Ray E. Richardson, Fairmont Press.
+7. Handbook of Energy Audits, Albert Thumann, W. J. Younger, T. Niehus, CRC Press.
+8. www.energymanagertraining.com
+9. www.bee-india.nic.in
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Disaster Management and Mitigation Measures (DJS22ILO7017)
+Course Objectives:
+1. To provide basic understanding hazards, disaster and various types and categories of disaster
+occurring around the world.
+2. To identify extent and damaging capacity of a disaster.
+3. To study and understand the means of losses and methods to overcome /minimize it.
+4. To understand roles and responsibilities of individual and various organization during and
+after disaster.
+5. To appreciate the significance of GIS, GPS in the field of disaster management.
+6. To understand the emergency government response structures before, during and after
+disaster.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Know natural as well as manmade disaster and their extent and possible effects on the
+economy.
+2. Know the institutional framework and organization structure in India for disaster
+management and get acquainted with government policies, acts and various emergency laws.
+3. Get to know the simple dos and don’ts in such extreme events and build skills to respond
+accordingly.
+4. Understand the importance of disaster prevention and various mitigation measure with the
+exposure to disasters hotspots across the globe.
+
+Disaster Management and Mitigation Measures (DJS22ILO7017)
+Unit Description Duration
+
+1
+General Information about Disaster:
+Brief concept of Hazards, definition and types of Disasters – Natural, Man-made, and
+hybrid, Groups of Disasters- Natural and Technological, global Scenario, Significance of
+studying various aspects of disasters, effects of disasters, India’s vulnerability to disasters,
+Impact of disaster on National development.
+Study of Natural disasters:
+Flood, drought, cloud burst, Earthquake, Landslides, Avalanches, Volcanic eruptions,
+Mudflow, Cyclone, Storm, Storm Surge, climate change, global warming, s ea level rise,
+ozone depletion etc. Study of Human/Technology Induced Disasters:
+Chemical, Industrial and Nuclear disasters, Internally displaced persons, road and train
+accidents Fire Hazards, terrorism, militancy, Role of growing population and subsequent
+industrialization, urbanization and changing lifestyle of human beings in frequent
+occurrences of manmade disasters.
+
+09
+
+2
+Disaster Management:
+Brief Introduction, Disaster management cycle, Evolution of Disaster and Disaster
+management in India, Disaster management acts, policies and guidelines, laws of
+emergencies etc.Prior, During and Post disaster management activities: (Preparedness,
+strengthening emergency centers, Logistics, optimum resource management, emergency
+response and relief, Training, Public awareness, Research,
+Reconstruction of essential services and livelihood restoration.
+
+08
+
+3
+Institutional framework and Mechanism for disaster management in India:
+Institutions in India for dealing with various disasters, Organizational structure, functions
+and responsibilities of National Institute of Disaster Management (NIDM) and National
+disaster management authority (NDMA) in India, roles and responsibilities of central and
+state government during and after disaster, NGO’s involved in disasters and their task, Jobs
+carried out by armed forces.
+Financial Relief During disaster (State, National and International Disaster Assistance)
+
+07
+
+4
+Disaster risk reduction and Mitigation Measures:
+Need of disaster prevention and mitigation, mitigation guiding principles, challenging
+areas, structural and non-structural measures for disaster risk reduction.
+Mitigation measures for flood, earthquake, cyclone monitoring, air quality, water quality,
+climate change, land use, winter storms and aquatic biology etc.
+Use of information management, GIS, GPS and remote sensing Mitigation measure.
+Do’s and don’ts in case of disasters and effective implementation of relief aids.
+
+08
+
+5
+Case studies on disaster (National /International):
+Case study discussion of Hiroshima – Nagasaki (Japan), India – Tsunami (2004) , Bhopal
+gas tragedy, Kerala and Uttarakhand flood disaster, Cyclone Phailin (2013), Fukushima
+Daiichi nuclear disaster (2011), 26th July 2005 Mumbai flood, Chernobyl meltdown and so
+on.
+(Discuss case studies on disaster with respect to reason for the disaster, incidents, effects
+of disaster, present scenario and safety measures taken)
+
+07
+Total 39
+Books Recommended:
+Reference Books and Reports:
+1. Disaster Management, by Harsh K.Gupta, Universities Press Publications (2003).
+2. Disaster Management: An Appraisal of Institutional Mechanisms in India, by O.S.Dagur, published by
+Centre for land warfare studies, New Delhi, 2011.
+3. Introduction to International Disaster Management, by Damon Copolla, Butterworth Heinemann
+Elsevier Publications (2015).
+4. Disaster Management Handbook, by Jack Pinkowski, CRC Press, Taylor and Francis group (2008).
+5. Disaster management & rehabilitation, by Rajdeep Dasgupta, Mittal Publications, New Delhi (2007).
+6. Natural Hazards and Disaster Management, Vulnerability and Mitigation, by R B Singh, Rawat
+Publications (2006).
+7. Concepts and Techniques of GIS, by C.P.Lo Albert, K.W. Yonng, Prentice Hall (India) Publications
+(2006).
+8. Risk management of natural disasters, by Claudia G. Flores Gonzales, KIT Scientific Publishing (2010).
+9. Disaster Management – a disaster manger’s handbook, by W. Nick Carter, Asian Development Bank
+(2008).
+10. Disaster Management in India, by R. K. Srivastava, Ministry of Home Affairs, GoI, New Delhi (2011)
+11. The Chernobyl Disaster: Legacy and Impact on the Future of Nuclear Energy, by Wil Mara, Marshall
+Cavendish Corporation, New York, 2011.
+12. The Fukushima 2011 Disaster, by Ronald Eisler, Taylor & Francis, Florida, 2013.
+13. (Learners are expected to refer reports published at national and international level and updated
+information available on authentic web sites)
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Science of Well-being (DJS22ILO7018)
+Course Objectives:
+1. To create consciousness about importance of holistic health and physical as well as mental
+well-being.
+2. To make learners aware of the concepts of Happiness, Gratitude, Self-Compassion, Empathy
+etc.
+3. To introduce the learners to the means of mental and physical well-being, ill effects of mal-
+practices like alcoholism, smoking etc.
+4. To equip the learners to manage and cope up with stress in their daily living.
+
+Course Outcomes: Upon Completion of the course, the learner should be able to:
+1. Describe concepts of holistic health and well-being, differentiate between its true meaning
+and misconceptions and understand the benefits of well-being.
+2. Recognize meaning of happiness, practice gratitude and self-compassion and analyze
+incidents from one’s own life.
+3. Understand the causes and effects of stress, identify reasons for stress in one’s own
+surrounding and self.
+4. Recognize the importance of physical health and fitness, assess their life style and come up
+with limitations or effectiveness.
+5. Inspect one’s own coping mechanism, assess its effectiveness, develop and strategize for
+betterment and execute it.
+
+Science of Well-being (DJS22ILO7018)
+Unit Description Duration
+
+1
+Health and well-being: The concept of health, dimensions of health, the notion of
+well- being, various facets of well-being, relation between health and well-being.
+Concept of holistic health, its principles and importance, concept and benefits of
+holistic care, misconceptions about holistic health approach, the application of a true
+holistic approach to our well-being.
+
+06
+
+2
+Concepts of happiness:
+Happiness: what is it and how do we measure it? Philosophical perspectives on
+happiness, Happiness: Nature or Nurture? Happiness in the modern world:
+impediments and accelerators, Narrow vs. Broad Band Approaches to Happiness,
+Benefits of Happiness, Self -Compassion and Gratitude. Misconceptions of
+happiness.
+
+08
+
+3
+Stress and mental health/well -being: Nature and concept of stress, meaning and
+definitions of stress, types of stress, meaning of stressors, types of stressors,
+symptoms of stress, effects of stress, different models of stress.
+Sources of stress and how does stress cause illness, various sources of stress,
+delineate between external and internal sources of stress, differentiate between
+continuous and discrete stressors, the effects of these stressors on health and well -
+being, diversity of stressors and their health consequences, relation between stress
+and illness from different perspectives association between stress related
+physiological mechanisms and different illnesses.
+
+09
+
+4
+Physical Well -being / Health management: concept of health behaviours,
+dimensions of health behaviours. Health enhancing behaviors: Exercise and Weight
+control, application and importance of these health enhancing behaviours. Health
+protective behaviors and illness management: concept of illness management,
+effectiveness of illness mana gement. Concept of Nutrition, Role of Nutrition,
+Components of Nutrition, concept of Malnutrition, Health compromising behaviours:
+Alcoholism, Smoking and its effects on health.
+
+08
+
+5
+Dealing with Difficult Times / Coping mechanisms: The concept of chronic stress,
+Health and safety risks of chronic stress, Forms and Treatment of chronic stress,
+Coping with Acute and Chronic stress, theories of the stress-illness link, role of stress
+in mental disorders.
+Concept of coping, Ways of coping and stress management, basic knowledge about
+stress management, various techniques of stress management, stress management
+programs.
+Mental strengths and virtues, Hope, Optimism, Resilience – concept, pathways and
+models, Meditation and Self-introspection.
+
+08
+Total 39
+
+Books Recommended:
+Textbooks:
+1. The Science of well-being by Felicia Huppert, Nick Baylis, Barry Keverne; Oxford
+University Press
+2. Health and Well-Being: Emerging Trends by S. Ojha, U. Rani Srivastava, Shobhna
+Joshi, Global Vision Publishing House
+3. Positive psychology: The scientific and practical explorations of human strengths by
+Shane J. Lopez, Jennifer Teramoto Pedrotti, Charles Richard Snyder; Sage
+Publications.
+
+Reference Books:
+1. The pursuit of happiness and the realization of sympathy: Cultural patterns of self, social
+relations, and well-being by Kitayama, S., & Markus, H. R, Culture and subjective well-being,
+The MIT Press.
+2. Man Adapting by Dubos, R; New Haven: Yale University Press.
+3. Happiness a history by McMahon D. M., Atlantic Monthly Press.
+4. Well-being: The foundations of hedonic psychology by D. Kahneman & E. Diener & N.
+Schwarz, New York: Russell Sage
+5. Selye H. The Stress of Life. New York; McGraw-Hill; 1984.
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Research Methodology (DJS22ILO7019)
+Pre-requisites: Basic Knowledge of Probability and Statistics.
+
+Course Objectives:
+1. To understand Research and Research Process
+2. To acquaint learners with identifying problems for research and develop research strategies
+3. To familiarize learners with the techniques of data collection, analysis of data and interpretation
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Prepare a preliminary research design for projects in their subject matter areas
+2. Accurately collect, analyze and report data
+3. Present complex data or situations clearly
+4. Review and analyze research findings
+5. Write report about findings of research carried out.
+
+Research Methodology (DJS22ILO7019)
+Unit Description Duration
+
+1
+Basic Research Concepts
+Meaning of research, Objectives of research, Types of research, Significance of
+research Research process
+
+07
+
+2
+Research Methodology:
+Identification of research problem, Literature review, Formulation of hypothesis,
+Formulation of Research design.
+
+09
+
+3
+Research and Sample Design:
+Meaning of research and sample design, Need of research design, Features of good
+research design, Important concepts, Different research designs, Types of sampling
+designs
+
+09
+
+4
+Data Collection and Data Analysis:
+Types of data, Methods for collecting data: Experiments and surveys, Collection of
+primary and secondary data, Hypothesis testing and interpretation of Data
+
+09
+
+5
+Interpretation and Report Writing:
+Interpretation and drawing conclusions on the research, Preparation of the report,
+Ethical Issues
+
+05
+Total 39
+
+Books Recommended:
+Reference Books:
+1. Dawson, Catherine, 2002, Practical Research Methods, New Delhi, UBS
+Publishers Distributors.
+2. Kothari, C.R.,1985, Research Methodology-Methods and Techniques, New Delhi,
+Wiley Eastern Limited.
+3. Kumar, Ranjit, 2005, Research Methodology-A Step-by-Step Guide for Beginners, (2nd
+Edition), Singapore, Pearson Education
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Public Systems and Policies (DJS22ILO7020)
+Pre-requisites: Basic Knowledge of Social science and Current affairs
+
+Course Objectives:
+1. To analyze the transformations in public systems with emphasis on current initiatives and
+emerging challenges in the field.
+2. To understand public systems in a fast-changing environment in the global context.
+3. To provide an in-depth understanding of the ills prevailing in the society and aids to identify
+the solutions for them.
+4. To explain public policy and its operations with special focus on policy relating to Government
+finance.
+5. To analyze and evaluate the impact of the public policy on firms and economy at large.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Understand the importance of public systems in a fast-changing environment in the global
+context.
+2. Analyze the transformations in public systems with emphasis on current initiatives and emerging
+challenges in the field.
+3. Explain public policy and its operations with special focus on policy relating to Government
+finance.
+4. Make policies and know about the happenings in the world, in the nation and those in their
+locality.
+5. Analyze and evaluate the impact of the public policy on firms and economy at large and work
+under various fields as policymakers.
+
+Public Systems and Policies (DJS22ILO7020)
+Unit Description Duration
+1 Introduction and Overview of Public Systems: Ideology of Public Systems;
+Mechanistic and Organic view of Society and Individuals, The Legal Framework;
+Federal Government; State and Local Governments, Government growth; The size of
+Government.
+
+09
+2 Public Sector in the Economics Accounts: Public Sector in the circular flow; Public
+Sector in the National Income Accounts. 06
+3 Public Choice and Fiscal Politics: Direct Democracy; Representative Democracy;
+The Allocation Function; The Distribution Function; The Stabilization Function;
+Coordination of Budget Functions; The Leviathan Hypothesis.
+
+07
+4 Introduction and Overview of Public Policy: Markets and Government; Social
+goods and Market failure, Public expenditure and its evaluation; Cost Benefit Analysis,
+Public policy and Externalities, Taxation Policy and its impact, Income distribution,
+redistribution and social security issues Fiscal & Budgetary Policy, Fiscal Federalism
+in India.
+
+11
+
+5 Case Studies in Expenditure Policy: Public Services
+A) National Defense B) Highways C) Outdoor Recreation D) Education 06
+Total 39
+
+Books Recommended:
+Reference Books:
+1. Introduction to Public Policy by Charles Wheelan, W.W. Norton & Company.
+2. Understanding Public Policy by Thomas R. Dye, Prentice Hall.
+3. Public Policy-Making: An Introduction by Anderson J.E., Boston, Houghton.
+4. Public Administration by Avasthi & Maheshwari, Lakshminarayan Agarwal, Agra.
+5. New Horizons of Public Administration by Bhattacharya, Mohit, Jawahar
+Publishers, New Delhi.
+6. Public Administration and Public Affairs by Henry, Nicholas, Prentice Hall of India, New Delhi.
+7. Public Finance 10th Edition by Harvey S Rosen and Ted Gayer, McGraw-Hill Education, 2013.
+8. Public Finance in Theory and Practice by Musgrave and Musgrave.
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Project Stage – I (DJS22DSP704)
+
+Course Objectives:
+To introduce the students to professional engineering practice by providing them with an opportunity to work
+on an open-ended engineering problem. Typically, the students would apply knowledge from different areas
+or courses, which they have studied in their curriculum using methods, tools, and techniques, which they
+learned to a real -world scenario. Students would hav e to apply not only their engineering knowledge and
+proficiencies (hard skills), but also to demonstrate their competence in generic, professional skills (soft
+skills). It also emphasizes the importance of life -long learning as a fundamental attribute of g raduate
+engineers.
+
+Course Outcomes: On completion of the course, learner will be able to:
+1. Discover potential research areas in the field of Data Science.
+2. Survey several available literatures in the related field of study.
+3. Compare the several existing solutions for research challenges.
+4. Design the solution for the research plan.
+5. Summarize the findings of the study conducted.
+6. Work effectively as a member of the team.
+
+Guidelines:
+1. The department must allocate 1 day in the VII semester every week.
+2. The project work is to be conducted by a group of 3-4 students.
+3. Each group shall identify a potential research area/problem domain, on which the study is to be
+conducted and submit three proposals to the department.
+4. Department will evaluate all the p roposals and select the best proposal from each group. Every
+group will be associated with a project mentor/guide. The group should meet with the project
+mentor/guide periodically and record of the meetings and work discussed must be documented.
+5. Students will do a rigorous literature survey of the problem domain by reading and understanding at
+least 10 -12 research papers from current superior quality national/international
+journals/conferences. (Papers selected must be indexed by Scopus/IEEE/Springer/ACM etc.). The
+list of papers surveyed must be clearly documented and research gaps should be identified.
+6. Students will design and implement (30-40%) the system in Semester VII.
+7. Students will have to regularly submit their project completion tasks given by the department. Each
+task will be having weightage in the term work.
+8. The project assessment for term work will be done based on regular submission of project tasks
+and presentation at the department level. The Head of the department o f respective Program will
+give the presentation to the panel members, which consist of at least three (3) members as internal
+examiners (including the project guide/mentor) appointed.
+9. A report is to be prepared summarizing the findings of the literature survey. A comparative
+evaluation of the different techniques surveyed is also to be done.
+10. The term work calculation will be based on plan of data collection (10m), analysis of literature
+survey (15m), proposed design (15m), documentation and presentation (10m).
+
+Prepared by Checked by Head of the Department Principal

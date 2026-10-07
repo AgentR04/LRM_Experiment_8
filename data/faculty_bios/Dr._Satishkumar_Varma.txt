@@ -1,0 +1,1968 @@
+Bio / CV of Dr. Satishkumar Varma (Professor), Computer Science and Engineering (Data Science), DJSCE.
+ Name of Teaching Staff 
+ Designation 
+ Department 
+ Date of Joining the 
+ Institution 
+ Email ID 
+ Office Contact 
+ : 
+ : 
+ : 
+ : 
+ : 
+ : 
+ Dr. Satishkumar Lalbahadur Varma 
+ Professor 
+ Department of Computer Science and Engineering (Data 
+ Science), Dwarkadas J. Sanghvi College of Engineering, 
+ Mumbai - 400056, India. 
+ 05.11.2024 
+ satishkumar.varma[at]djsce.ac.in 
+ 022 4233 5000 Extn.: 115005 
+ Vidwan Link  :  https://vidwan.inflibnet.ac.in/profile/552296 
+ Google Scholar Link:  :  https://scholar.google.co.in/citations?hl=en&user=x5Apz7wAAAAJ 
+ Researchgate Link:  :  https://www.researchgate.net/profile/Satishkumar-Varma 
+ ORCID  :  https://orcid.org/0000-0002-5203-8655 
+ Publons Researcher ID:  :  https://www.webofscience.com/wos/author/record/3708179 
+ Scopus Author ID:  :  https://www.scopus.com/authid/detail.uri?authorId=35754119800 
+ DBLP Profile Link:  :  https://dblp.uni-trier.de/pid/29/7797 
+ Semantic Scholar ID:  :  https://www.semanticscholar.org/author/S.-Varma/5397888 
+ Springer Nature Link:  :  Springer Contributor 
+ IEEE Author ID:  :  https://ieeexplore.ieee.org/author/37996201400 
+ ACM Author ID:  :  https://dl.acm.org/profile/81456612180 
+ Website Link:  :  https://sites.google.com/view/vsat2k/Home 
+
+
+ Qualifications with 
+ Class / Grade 
+ :  ●  Doctor of Philosophy (Ph.D)  in Computer Science & Engineering 
+ ○  Date of Registration:  05 Feb 2008 and  Date of Viva Voce:  26 March 2013. 
+ ○  Thesis Title:  Content-Based Video Analysis and Retrieval 
+ ○  Guide:  Dr. Sanjay N. Talbar, Professor, SGGS Institute of E & T, Nanded. 
+ ○  Center:  SGGS Institute of E & T, Nanded – 431606. 
+ ○  University:  Swami Ramanand Teerth Marathwada University, Nanded, India. 
+ ●  Master of Technology (M. Tech) in Computer Engineering 
+ ○  Grade  :  Passed  as  regular  student  with  First  Class  with  distinction  (72.14%)  on 
+ 31-01-2004 
+ ○  Project Title:  Image Compression using SPIHT 
+ ○  Guide:  Dr. Sanjay N. Talbar, Professor & Head, Department of EXTC, DBATU. 
+ ○  University:  DBATU, Lonere – 402103, Maharashtra, India. 
+ ●  Bachelor of Technology (B. Tech) in Computer Engineering 
+ ○  Grade: Passed as a regular student with first class (62.33%) on 07-07-2000 
+ ○  Project Title:  ANN Training Using GA for Handwritten Numeral Recognition 
+ ○  Guide:  Dr. Arvind W. Kiwelekar, Professor & Head, Dept. of CE, DBATU. 
+ ○  University:  DBATU, Lonere – 402103, Maharashtra, India. 
+
+ Total Experience in 
+ Years 
+ :  Total Teaching and Administration Experience:  25 Years 
+ ●  Associate Professor:  [6 Months] 
+ o  Department of Information Technology, DJSCE, Vile Parle – 400056. 
+ ▪  Nov 2024 - till date 
+ ●  Professor:  [5 years 6 Months] 
+ o  Department of Information Technology, PCE, New Panvel – 410206. 
+ ▪  Jan 2019 – Nov 2024:  Professor & Head, IT 
+ ●  Professor:  [2 Years 6 Months] 
+ o  Department of Computer Engineering, PCE, New Panvel – 410206. 
+ ▪  August 2016 – December 2018:   Professor & Associate Dean R&D 
+ ●  Associate Professor:  [3 Years] 
+ o  Department of Computer Engineering, PIIT, New Panvel – 410206. 
+ ▪  August 2015 – July 2016:  Associate Professor 
+ ▪  August 2013 – July 2015:  Associate Professor & Head, IT 
+ ●  Assistant Professor: [  8 Years] 
+ o  Department of Computer Engineering, PIIT, New Panvel – 410206. 
+ ▪  August 2011 – September 2013:  Assistant Professor & Head, IT 
+ ▪  January 18, 2011 – July 2011:  Assistant Professor 
+ o  Department of Computer Engineering, DBIT, Kurla – 400070. 
+ ▪  August 2010 – Jan 2011:  Assistant Professor & Head 
+ ▪  July 2009 – July 2010:  Assistant Professor 
+ ▪  July 2008 – June 2009:  Assistant Professor & Head 
+ ▪  July 2006 – June 2008:  Assistant Professor 
+ ●  Lecturer: [  5 Years] 
+ o  Department of Computer Engineering, SAKEC, Chembur – 400088. 
+ ▪  5 Semesters  (  January, 2004 - June, 2006) 
+ o  Department of Computer Engineering, RMCET, Devorukh – 415804. 
+ ▪  5 Semesters  (  September, 2001 - August, 2003) 
+ o  Department of Computer Engineering, IoPE, DBATU, Lonere – 402103. 
+ ▪  1 Semester (August 2000 - October, 2000) 
+ Area of Specialization  :  ●  Digital Image and Video Processing 
+ ●  Artificial Neural Networks 
+ ●  Machine Learning 
+ ●  Deep Learning 
+ ●  Data Science 
+ ●  Data Mining and Information Retrieval 
+ Professional Memberships  :  1.  Life Member of Indian Society for Technical Education (ISTE): 
+ ●  Membership No.: LM 58130 
+ 2.  Member of The Institute of Electrical and Electronics Engineers (IEEE): 
+ ●  Membership No.: 97672933 
+ 3.  Computer Society of India (CSI): 
+ ●  Membership No.: N1166619 
+
+ Subjects Taught  :  UG Level Course Taught: 
+ 1.  Image Processing and Computer Vision 
+ 2.  Machine Learning 
+ 3.  Concepts and Algorithms of AI and ML 
+ 4.  Deep Learning 
+ 5.  Image and Video Processing 
+ 6.  AI and Data Analytics 
+ 7.  Big Data Analytics 
+ 8.  Data Mining 
+ 9.  Information Retrieval 
+ 10.  Computer Vision 
+ 11.  Object-Oriented Analysis & Design 
+ 12.  Operating Systems 
+ PG Level  Course Taught: 
+ 1.  Research Methodology 
+ 2.  Data Science 
+ 3.  Image and Video Processing 
+ 4.  Mathematical Foundations of Data Science 
+ 5.  Soft Computing 
+ 6.  User Experience Design 
+ 7.  Advanced Operating Systems 
+ 8.  Artificial Intelligence in Bioinformatics 
+ 9.  Object-Oriented Analysis & Design 
+ 10.  Big Data and Business Analytics 
+ PhD Level  Course Taught: 
+ 1.  Research Methodology 
+ 2.  Data Science 
+ Recognized Teacher  Ph.D Recognized Teacher 
+ ●  Ph.D  Recognized  Teacher  in  Information  Technology: 
+ PG/2/ICD/2018-19/2570 Dated 19Mar2019 
+ ●  Ph.D  Recognized  Teacher  in  Computer  Engineering: 
+ PG/2/ICD/2017-18/165 Dated 12Apr2017 
+ M.E Recognized Teacher 
+ ●  M.E  Recognized  Teacher  in  Computer  Engineering: 
+ PG/ICD/2015-16/19370 Dated 18Nov2015 
+ ●  M.E  Recognized  Teacher  in  Information  Technology: 
+ PG/ICD/2015-16/19354 Dated 18Nov2015 
+
+ R&D Funded Project 
+ Executed 
+ R&D Funded Project Executed: 
+ 1.  AICTE's Book Translation and Reviewers 
+ ○  Scheme  and  Funding  Agency:  All  India  Council  for  Technical 
+ Education (AICTE) 
+ ○  Subjects: Book on ‘Computer Programming: Theory & Practicals’ 
+ ○  Grants (Lakhs): 
+ ○  Duration: 2025-26 
+ 2.  NPTEL Text Translation, IIT Madras 
+ ○  Scheme and Funding Agency: NPTEL Text Translation, IIT Madras 
+ ○  Programming in Modern C++ (106105234), in Hindi Language 
+ ○  Grants (Lakhs): 0.49875 
+ ○  Duration: 2024-25 
+ 3.  Governor of Maharashtra 
+ ○  Avishkar: Maharashtra State Inter University Research Convention 
+ ○  Mentor of Ms. Kanchan Dabre Research Scholar, PhD IT 
+ ○  Event:  Maharashtra  State  Inter  University  Research  Convention  duing 
+ January  12  -  January  15,  2024  organized  at  Maharashtra  University  of 
+ Health Science, Nashik. 
+ ○  Category: Medicine and Pharmacy (PPG Level, Category 6) 
+ ○  Research  Proposal  Title:  Analysis  of  Radiometric  Features  for 
+ Identification of Pneumonia Variant in Infant using Chest Radiograph 
+ ○  Research Fellowship: INR 1.00 Lakhs for 2 years of fellowship 
+ ○  Y  ear: 2023-24 
+ 4.  Scheme and Funding Agency: ICSSR PFMS Scheme, ICSSR 
+ ○  Organization:  MES  Pillai  Institute  of  Information  Technology,  New 
+ Panvel 
+ ○  Grants (Lakhs): 5.00 
+ ○  Duration: 2023-24 
+ 5.  Scheme and Funding Agency: NPTEL Translator, IIT Madras 
+ ○  Information Security-5-Secure Systems Engineering, in Hindi Language 
+ ○  Grants (Lakhs): 0.16625 
+ ○  Duration: 2019-20 
+ 6.  Scheme  and  Funding  Agency:  Minor  Research  Project,  University  of 
+ Mumbai 
+ ○  Organization:  MES  Pillai  Institute  of  Information  Technology,  New 
+ Panvel 
+ ○  Grants (Lakhs): 0.40 
+ ○  Duration: 2019-20 
+ 7.  Scheme  and  Funding  Agency:  Advanced  Database  Laboratory, 
+ MODROB, AICTE Sponsored 
+ ○  Grants (Lakhs): 8.00 
+ ○  Duration: 2013-14 
+ 8.  Scheme  and  Funding  Agency:  Aakash  Project  Equipment,  MHRD 
+ Sponsored 
+
+ ○  Organization:  MES  Pillai  Institute  of  Information  Technology,  New 
+ Panvel 
+ ○  Grants (Lakhs): 1.00 
+ ○  Duration: 2014-15 
+ Intellectual Property 
+ Rights 
+ :  Pa  tents: 
+ 1.  Patent  Application  RQ  Filed,  Application  Number-202621073041,  RQ 
+ Number-R20262039656, Filing Date-12/06/2026 -Indian Patent Office. 
+ 2.  Pallavi  Sapkale  et  al.  A  Modified  Naive  Bayes  Classifier  for  Mode 
+ Switching  and  Mobility  Management  using  Cellular  Networks,  European 
+ Patent  Office,  DRN:  2023041512270500EN,  Filed  on  15.04.2023 
+ https://www.dpma.de/english/search/index.html  [  Published,  Under 
+ Examination] 
+ 3.  Mimi  Cherian  and  Satishkumar  L.  Varma,  "SDN  Enabled  Secure 
+ Framework  for  IOT  Using  Dynamic  Counter-Based  Approach  And  Deep 
+ Learning  Model"  Indian  Patent  Journal  ,  Journal  No.  18/2022,  Application 
+ Number:  202221021778,  Date  of  Application:  26  April  2022  ,  Date  of 
+ Publication:  06/05/2022,  pp  Under  Examination. 
+ https://ipindiaservices.gov.in/ 
+ 4.  Seema  Redekar  and  Satishkumar  L.  Varma,  Indian  Patent  Journal  , 
+ Application  Number:  202221050469,  Date  of  Application:  04/09/2022, 
+ Publication  Date:  23/09/2022,  Published,  Under  Examination,  The  Patent 
+ Office  Journal  No.  38/2022  Dated  23/09/2022  pp.  60351. 
+ https://ipindiaservices.gov.in/ 
+
+ Intellectual Property 
+ Rights 
+ :  Copyrights  : 
+ 1.  Jainam  Shah,  Jinit  Shah,  Karnit  Shah,  Kavya  Shah,  Pravin  Hole,  Prachi 
+ Satam,  Satishkumar  Varma,  and  Hari  Vasudevan,  "Smart  Waste 
+ Optimization  System  using  Clarifai  API,"  Class  of  Work:  Literary/ 
+ Dramatic,  Diary  Number:  LD-28273/2026-CO,  Date  of  Filing: 
+ 15/06/2026. 
+ 2.  Raksha  Bafna,  Rashi  Sureka,  Rudra  Sheth,  Shubh  Shah,  Pravin  Hole, 
+ Prachi  Satam,  Satishkumar  Varma,  and  Hari  Vasudevan,  "AI  based 
+ Project  Management  System,"  Class  of  Work:  Literary/  Dramatic,  Diary 
+ Number: LD-28206/2026-CO, Date of Filing: 15/06/2026. 
+ 3.  Yash  Thakkar,  Vatsal  Shethia,  Vedant  Bhole,  Varshil  Shah,  Pravin  Hole, 
+ Prachi  Satam,  Satishkumar  Varma,  and  Hari  Vasudevan,  "TaxGuru: 
+ RAG-enabled  Form  16  Tax  Advisory  Expert  System,"  Class  of  Work: 
+ Literary/  Dramatic,  Diary  Number:  LD-28240/2026-CO,  Date  of  Filing: 
+ 16/06/2026. 
+ 4.  Ishaa  Patel,  Radhika  Patel,  Dhwani  Dalal,  Moksha  Shah,  Satishkumar 
+ Varma,  Prachi  Satam,  Pravin  Hole,  and  Hari  Vasudevan,  "Detection  of 
+ AI-Generated  Videos  Using  Deep  Learning  Model,  Class  of  Work: 
+ Literary/  Dramatic,  Diary  Number:  LD-28245/2026-CO,  Date  of  Filing: 
+ 16/06/2026. 
+ 5.  Saakshi  Gada,  Zarana  Sanghavi,  Rutuja  Visale,  Surajsingh  Rajpurohit, 
+ Satishkumar  Varma,  Prachi  Satam,  Pravin  Hole,  Vinaya  Sawant,  and  Hari 
+ Vasudevan,,  "Face  De-Identification  and  Attribute-Preservation  in  Video 
+ Streams  using  GAN,"  Class  of  Work:  Literary/  Dramatic,  Diary  Number: 
+ LD-28253/2026-CO, Date of Filing: 15/06/2026. 
+ 6.  Sakshi  Golatkar,  Tithi  Solanki,  Srushti  Bari,  Rushabh  Ramani,  Pravin 
+ Hole,  Prachi  Satam,  Satishkumar  Varma,  Vinaya  Sawant,  and  Hari 
+ Vasudevan,  "Visual  and  Audio-Based  Deepfake  Detection  using 
+ Explainable  AI  for  Lip-Speech  Mismatch,"  Class  of  Work:  Literary/ 
+ Dramatic,  Diary  Number:  LD-28423/2026-CO,  Date  of  Filing: 
+ 16/06/2026. 
+ 7.  Disha  Vipul  Chandaria,  Hetvi  Alpesh  Patel,  Archie  Kaushik  Mehta, 
+ Agam  Saumik  Kamdar,  Satishkumar  Varma,  Prachi  Satam,  Pravin  Hole, 
+ Vinaya  Sawant,  and  Hari  Vasudevan,  "Explainable  AI  Technique  for 
+ Medical  Image  Classification,"  Class  of  Work:  Literary/  Dramatic,  Diary 
+ Number: LD-28264/2026-CO, Date of Filing: 16/06/2026. 
+ 8.  Ekta  Ukey  and  Satishkumar  Varma,  "Deep  Learning  based  Vehicle 
+ Surveillance  Framework,  Application  No.:  LD-22799/2026-CO,  Date  of 
+ Filing: 14/05/2026. 
+ 9.  Raj  Shah,  Priyansh  Shah,  Rahil  Dabhi,  Vinaya  Sawant,  Satishkumar 
+ Varma,  and  Hari  Vasudevan,  "Rubrics  Management  System:  A 
+ Web-Based  Platform  for  Transparent  and  Efficient  Academic 
+ Evaluation,"  Application  No.:  LD-43892/2025-CO,  Date  of  Filing: 
+ 30/10/2025, Date of ROC: 25/03/2026. 
+
+ 10.  Satishkumar  Varma  and  Simran  Kaur  Shembe,  "IOT  based  healthcare 
+ monitoring  system  to  enhance  patient  monitoring  using  medical  devices 
+ by  continuously  monitoring  disease  progression  by  tracking  changes  in 
+ the  joint  structures."  Application  No.:  LD-37700/2025-CO,  Date  of 
+ Filing: 18/09/2025, RoC: 12/02/2026. 
+ 11.  S.  Benny  and  Satishkumar  L.  Varma,  “  Methodology  for  generating 
+ ground  truth  annotations  for  semantic  segmentation  ,”  Registration 
+ Number: L-150418/2024, Dated: 03/07/2024. 
+ 12.  Abhishek  Vichare  and  Satishkumar  L.  Varma,  “  A  Breakdown  of  the  Steps 
+ followed  to  Implement  CNN  Model  on  ISEAR  Dataset  for  Emotion 
+ Recognition  ,” Registration Number: L-150293/2024, Dated: 02/07/2024. 
+ 13.  Sujal  Dusane,  Zaid  Ansari,  Ebrahim  Khatri,  Shraddha  Gaur,  Satishkumar 
+ L.  Varma,  “  Plant  disease  prediction  using  VGG16  and  Inception  ”,  Diary 
+ Number: 12314/2024-CO/SW Dated: 20/04/2024. 
+ 14.  Mimi  Cherian  and  Satishkumar  Varma,  “  Scalable  and  Efficient  Python 
+ program  to  Detect  and  Mitigate  DDoS  attacks  in  SDN-IoT  Networks 
+ using  RYU  Controller  ,”  Diary  Number:  16830/2022-CO/L,  Registration 
+ Number: L-120523/2023 Dated: 11/01/2023. 
+ 15.  Madhura  Vyawahare,  Antara  Howal,  Yunus  Khan,  Atharva  Golapkar, 
+ Siddhantha  Bokade,  Satishkumar  Varma,  “  Dataset  Preparation  for 
+ American  Sign  Language  Detection  ,”  Diary  Number  :  21750/2022-CO/L, 
+ Registration Number: L-120523/2023, Dated : 11/01/2023. 
+ 16.  Ansari  Mubin  Sahid,  Joshi  Anuj  Abhay,  Chaudhari  Jatin  Tushar, 
+ Udyawar  Karthik  Ajit  and  Satishkumar  Varma,  Zeno  -  Truly  cross 
+ platform  monorepo  with  end  to  end  type  safety,  Diary  Number: 
+ 4307/2023-CO/SW. 
+ 17.  Sheetal  Gawande,  Satishkumar  Varma,  Shubham  Verma,  Kaustubh  Giri, 
+ Sourabh  Kshirsagar,  “  Datasheet  For  Web  Application  Vulnerabilities  ,” 
+ Registration Number: L-114920/2022 Dated: 28/04/2022. 
+ 18.  Satishkumar  Varma,  “A  New  Fast  And  Efficient  Encoder:  Cache-Based 
+ Coding  For  Error  Free  Image  Data  Compression,”  Diary  Number: 
+ 3021/2018-CO/L, Copyright Registration Number: L-74314/2018. 
+
+ Publications:  :  Peer-Reviewed Journal Publications: 
+ 1.  Ekta  Ukey,  Satishkumar  Varma,  (2026).  Deep  Learning  Model  for 
+ Handling  Environmental  Variability  and  Tracking  Occluded  Vehicles  for 
+ Video  Surveillance.  WSEAS  Transactions  on  Signal  Processing. 
+ [Accepted] [  Scopus Preview  ] 
+ 2.  Abhishek  Vichare  and  Satishkumar  Varma,  "An  improved  conversation 
+ emotion  detection  using  hybrid  f-nn  classifier",  Indonesian  Journal  of 
+ Electrical Engineering and Computer Science, March 2025. 
+ ■  https://www.scopus.com/sourceid/21100799500 
+ ■  https://ijeecs.iaescore.com/index.php/IJEECS 
+ 3.  Kanchan  Dabre,  Satishkumar  L.  Varma,  Pankaj  B.  Patil,  RAPID-Net: 
+ Reduced  architecture  for  pneumonia  in  infants  detection  using  deep 
+ convolutional  framework  using  chest  radiograph,  Biomedical  Signal 
+ Processing and Control, Volume 87, Part A, January 2024, 105375. 
+ ●  https://doi.org/10.1016/j.bspc.2023.105375 
+ ●  https://www.sciencedirect.com/science/article/pii/S17468094230080 
+ 8X 
+ ●  https://www.scopus.com/sourceid/4700152237 
+ ●  Scopus Preview 
+ 4.  Stephy  Benny  and  Satishkumar  L.  Varma,  "Attention-Enhanced  Residual 
+ U-Net  for  Nucleus  Segmentation  in  Immunohistochemistry  Images," 
+ International  Journal  of  Applied  Engineering  and  Technology  (London), 
+ 5(4), pp. 1266–1283, December, 2023. 
+ ●  https://www.scopus.com/sourceid/21101052926 
+ ●  https://doi.org/10.61485/ijaet/v5-4-2023-138 
+ ●  Scopus Preview 
+ 5.  Kanchan  Dabre,  Satishkumar  L.  Varma  and  Pankaj  B.  Patil, 
+ "Consolidation  of  Squeeze  and  Excitation  with  VGG16  for  Pneumonia 
+ Diagnosis  through  Chest  X-Ray  Images,"  Stochastic  Modelling  and 
+ Computational  Sciences,  Roman  Science  Publications,  Vol.  3,  No.  2,  pp. 
+ 336-354, 2023. ISSN: 2752-3829 
+ ●  https://www.scopus.com/sourceid/21101151614 
+ ●  https://doi.org/10.61485/SMCS.27523829/v3n2P12 
+ ●  Scopus Preview 
+ 6.  Abhishek  A.  Vichare  and  Satishkumar  L.  Varma,  "Analysis  of  Machine 
+ Learning  and  Deep  Learning  Techniques  For  Emotion  Recognition  Using 
+ English  Text,"  International  Journal  of  Applied  Engineering  and 
+ Technology (London), 5(4), pp. 427–442, 2023. 
+ ●  https://www.scopus.com/sourceid/21101052926 
+ ●  https://doi.org/10.61485/ijaet/v5-4-2023-138 
+ ●  Scopus Preview 
+
+ 7.  Kanchan  R.  Dabre  and  Satishkumar  L.  Varma,  "Deep  Architecture  for 
+ Diagnosis  of  Pneumonia  in  Thoracic  Images,"  International  Journal  of 
+ Applied  Engineering  and  Technology  (London),  Vol.  5  No.4,  pp.  487  495, 
+ 2023. 
+ ●  https://www.scopus.com/sourceid/21101052926 
+ ●  https://doi.org/10.61485/ijaet/v5-4-2023-138 
+ ●  Scopus Preview 
+ 8.  Redekar,  S.S.,  Varma,  S.L.  &  Bhattacharjee,  A.  Gene  co-expression 
+ network  construction  and  analysis  for  identification  of  genetic  biomarkers 
+ associated  with  glioblastoma  multiforme  using  topological  findings.  J 
+ Egypt Natl Canc Inst 35, 22 (2023). 
+ ●  https://doi.org/10.1186/s43046-023-00181-4 
+ ●  https://jenci.springeropen.com/articles/10.1186/s43046-023-00181-4 
+ ●  https://www.scopus.com/sourceid/6100153013 
+ ●  Scopus Preview 
+ 9.  Mimi  Cherian  and  Satishkumar  Varma,  "  Secure  SDN–IoT  Framework  for 
+ DDoS  Attack  Detection  Using  Deep  Learning  and  Counter  Based 
+ Approach  . Journal of Network and Systems Management 31, 54 (2023). 
+ ●  https://doi.org/10.1007/s10922-023-09749-w 
+ ●  https://dl.acm.org/doi/abs/10.1007/s10922-023-09749-w 
+ ●  https://www.scopus.com/sourceid/27287 
+ ●  Scopus Preview 
+ 10.  Mimi  Cherian  and  Satishkumar  Varma,  "  Mitigation  of  DDOS  and  MiTM 
+ Attacks  using  Belief  Based  Secure  Correlation  Approach  in  SDN-Based 
+ IoT  Networks  ,"  International  Journal  of  Computer  Network  and 
+ Information Security. Vol. 14 Issue 1, p52-68, Feb 2022. 
+ ●  https://doi.org/10.5815/ijcnis.2022.01.05 
+ ●  https://www.scopus.com/sourceid/21100985663 
+ ●  Scopus Preview 
+ 11.  Seema  Sandeep  Redekar,  Satishkumar  L.  Varma  and  Atanu  Bhattacharjee, 
+ "  Identification  of  key  genes  associated  with  survival  of  glioblastoma 
+ multiforme  using  integrated  analysis  of  TCGA  datasets  ,"  Elsevier 
+ Computer  Methods  and  Programs  in  Biomedicine  Update,  Volume  2,  Jan 
+ 2022. 
+ ●  https://doi.org/10.1016/j.cmpbup.2022.100051 
+ ●  https://www.scopus.com/sourceid/21101145560 
+ ●  Scopus Preview 
+ 12.  Leena  Bhuskute  and  Satishkumar  Varma,  "  Sentiment  Analysis  of  Product 
+ Reviews  ,"  International  Journal  of  Advanced  Science  and  Technology, 
+ 29(04): 7671 - 7677, June 2020. 
+ ●  https://www.scopus.com/sourceid/21100829147 
+ ●  Scopus Preview 
+
+ 13.  Ansa  Jovel  and  Satishkumar  Varma,  “Machine  Learning  Techniques  for 
+ Air  Quality  Prediction”,  Studies  in  Indian  Place  Names,  by  The  Place 
+ Names  Society  of  India,  ISSN  2394-3114,  UGC  CARE  Listed  Vol  40, 
+ Issue No 68, Pg 461-470, March 2020. 
+ ●  https://cukerala.ac.in/cukpdfs/IQAC/3.4.5/3.4.5.EDU.069.pdf 
+ ●  UGC Care List Journal 
+ 14.  Tejali  Mhatre  and  Satishkumar  Varma,  “  Heart  Disease  Prediction  using 
+ Evolutionary  based  Artificial  Neural  Network  ,”  International  Journal  of 
+ Engineering Research and Technology, 8(8):518-522, August 2019. 
+ ●  https://www.scopus.com/sourceid/21100828027 
+ ●  Scopus Preview 
+ 15.  Shraddha  G.  Mhatre,  Satishkumar  Varma,  and  Rupali  Nikhare, 
+ “  Background  Subtraction  Motion  Detection  Techniques  used  in  Visual 
+ Surveillance  ,”  International  Journal  of  Innovations  &  Advancement  in 
+ Computer  Science,  Academic  Science,  Vol.  4,  Special  Issue,  pp.  105–119, 
+ September 2015. 
+ ●  UGC Approved Journal No 47464 
+ 16.  Swapnil  Waghmare,  Madhumita  Chatterjee,  and  S.  L.  Varma, 
+ “  Authentication  System  for  Android  Smartphones  ,”  International  Journal 
+ of Computer Applications, 87(5):19–24, February 2014. 
+ ●  https://doi.org/10.5120/15204-3602 
+ ●  https://www.scopus.com/sourceid/17600155113 
+ ●  Scopus Preview 
+ ●  UGC Approved Journal No 64190 (till May 2018) 
+ 17.  Satishkumar  L  Varma  and  Sanjay  N  Talbar,  “  Dynamic  Threshold  in  Clip 
+ Analysis  and  Retrieval,”  International  Journal  of  Image  Processing  –  IJIP, 
+ 5(4):417–424, Oct. 2011. 
+ ●  UGC Journal No 48868 
+ 18.  Satishkumar  L.  Varma  and  Sanjay  N.  Talbar,  "  SUCCESeR:  Simple  and 
+ Useful  Multi  ColorConcepts  for  Effective  Search  and  Retrieval  ," 
+ International  Journal  of  Advanced  Computer  Science  and  Applications, 
+ Special Issue on Image Processing and Analysis, pp. 98-104, May 2011. 
+ ●  https://dx.doi.org/10.14569/SpecialIssue.2011.010114 
+ ●  UGC Journal No 46041 
+ ●  WoS Master Journal List - SCI Journal 
+ ●  Scopus Preview 
+ 19.  Sanjay  N.  Talbar  and  Satishkumar  L  Varma.  Article:  Color  Spaces  for 
+ Transform-based  Image  Retrieval  .  International  Journal  of  Computer 
+ Applications  9(12):4–6,  November  2010,  FCS-USA. 
+ DOI:10.5120/1441-1949. 
+ ●  https://doi.org/10.5120/1441-1949 
+ ●  UGC Approved Journal No 64190 (till May 2018) 
+
+ Publications  :  Book Series & Chapters Publications: 
+ 1.  Ekta  Ukey  and  Satishkumar  Varma,  “Video  Surveillance  based  on 
+ Moving  Vehicle  Detection  using  Adaptive  Gaussian  and  Otsu 
+ Thresholding”,  5th  Intl.  Conf.  on  Emerging  Trends  and  Technologies  on 
+ Intelligent  Systems  (ETTIS  2025),  Lecture  Notes  in  Networks  and 
+ Systems,  vol  1590.  Springer,  Singapore,  December  2025. 
+ https://doi.org/10.1007/978-981-95-0684-2_2 
+ 2.  Abhishek  A.  Vichare  and  Satishkumar  Varma,  "Detection  of  Emotional 
+ Cues  of  Depression  Due  To  COVID-19  Pandemic,"  Pandemic  Detection 
+ and  Analysis  through  Smart  Computing  Technologies,  CRC  Press,  Taylor 
+ &  Francis,  June  2022,  Hard  ISBN:  9781774910320  |  E-Book  ISBN: 
+ 9781003281610 [  Apple Academic Press  ]. 
+ 3.  Mimi  Cherian  and  Satishkumar  Varma,  Integration  of  IoT  and  SDN  to 
+ Mitigate  DDoS  with  RYU  Controller  ebook  Computer  Networks,  Big 
+ Data  and  IoT,  Springer  Nature  Singapore  Volume  66  Springer,  Singapore 
+ ISSN:  2367-4512  ISSN  2367-4520  |  Print  ISBN:  978-981-16-0964-0  | 
+ eBook  ISBN:  978-981-16-0965-7  |  Edition:  2021.  [DOI: 
+ https://doi.org/10.1007/978-981-16-0965-7  ]  [Part  of  the  Lecture  Notes  on 
+ Data  Engineering  and  Communications  Technologies  book  series 
+ (LNDECT, volume 66)] 
+ 4.  S  Chavan  and  Satishkumar  Varma,  Vehicle  Number  Plate  Recognition  for 
+ Toll  System.  Springer,  Singapore  ISSN:  |  Print  ISBN:  978-981-15-4850-5 
+ |  eBook  ISBN:  978-981-15-4851-2  |  Edition:  2020.  [DOI: 
+ https://doi.org/10.1007/978-981-15-4851-2  ]  [Part  of  the  Advances  in 
+ Intelligent Systems and Computing book series (AISC, volume 1162)] 
+ 5.  Chavan  S.S.,  Fernandes  C.,  Dumane  P.R.,  Varma  S.L.  Design  and 
+ Implementation  of  Automatic  Coin  Dispensing  Machine  . 
+ Communications  and  Cyber  Physical  Engineering  ,  Lecture  Notes  in 
+ Electrical  Engineering,  Volume  570,  pp.  379-385.  Springer,  Singapore  , 
+ ISSN:  |  Print  ISBN:  978-981-13-8714-2  |eBook  ISBN: 
+ 978-981-13-8715-9  |  Edition:  2019.  [  Chapter  DOI.: 
+ 10.1007/978-981-13-8715-9_46  ]  [Part  of  the  Lecture  Notes  in  Electrical 
+ Engineering  book series (LNEE, volume 570)] 
+ 6.  Satishkumar  Varma  and  Megha  Shinde,  Satishkumar  S.  Chavan,  Analysis 
+ of  PCA  and  LDA  Features  for  Facial  Expression  Recognition  Using  SVM 
+ and  HMM  Classifiers.  Techno-Societal  2018.  Springer,  Cham.  ISSN:  | 
+ Print  ISBN:  978-3-030-16847-6  |  eBook  ISBN:  978-3-030-16848-3  | 
+ Edition: 2019. [DOI:  https://doi.org/10.1007/978-3-030-16848-3_11  ] 
+
+ 7.  Satishkumar  L.  Varma  and  Satishkumar  S.  Chavan,  “  Automated 
+ Detection  of  Malaria  Parasite  Based  On  Thick  and  Thin  Blood  Smear 
+ Images  ,”  Computing,  Communication  and  Signal  Processing,  Volume  1, 
+ Chapter  98,  Springer  Series  Advances  in  Intelligent  Systems  and 
+ Computing,  Volume  810  ,  ISSN:  2194-5357  |  Print  ISBN-13: 
+ 978-981-13-1512-1  |eBook  ISBN:  978-981-13-1513-8  |  Edition:  2018.  [ 
+ Chapter DOI.: 10.1007/978-981-13-1513-8_98 ] 
+ 8.  Nymphia  Pereira  and  Satishkumar  L.  Varma,  “  Financial  Planning 
+ Recommendation  System  Using  Content-Based  Collaborative  and 
+ Demographic  Filtering  ,”  Smart  Innovations  in  Communication  and 
+ Computational  Sciences,  Volume  1,  pp.  141–151,  Springer  Book  Series: 
+ Advances  in  Intelligent  Systems  and  Computing,  LNCS,  Springer 
+ Singapore  ,  ISSN-9:  32194-5357  |  Print  ISBN-13:  978-981-10-8967-1 
+ |Electronic  ISBN:  978-981-10-8968-8  |  Edition:  2017.  [Also  Part  of  the 
+ Advances  in  Intelligent  Systems  and  Computing  book  series  (AISC, 
+ volume 669)] 
+ 9.  S.  Sangeetha  and  S.  Varma,  “  User  Log  Based  Image  Re-ranking  and 
+ Retrieval  ,”  Advances  in  Intelligent  Systems  Research,  Atlantis  Press, 
+ Springer Nature, Volume 137, 2017. ISBN: 978-94-6252-305-0. 
+ 10.  S.  L.  Varma  and  S.  N.  Talbar,  “  Video  Retrieval  Using  Local  Binary 
+ Pattern  ,”  Smart  Innovation,  Systems  and  Technologies,  Volume  31,  pp. 
+ 123  –  130,  Springer  Book  Series  11156,  LNCS,  Springer, 
+ ISSN-9:     32194-5357     | ISBN-13:     978-81-322-2205-7  | Edition:   2015  . 
+ 11.  S.  L.  Varma  and  S.  N.  Talbar,  “  Wavelet  and  Hadamard  Transforms  for 
+ Image  Retrieval  Using  Color  Models  ,”  Communications  in  Computer  and 
+ Information  Science  Volume  101,  pp.  336  –  338,  LNCS,  Springer, 
+ ISBN-10:     3642157653     | ISBN-13:     978-3642157653     | Edition:   2010  . 
+
+ Publications  :  Papers Published in Journals: 
+ 1.  Ekta  Ukey,  Satishkumar  Varma,  (2026).  Deep  Learning  Model  for  Handling 
+ Environmental  Variability  and  Tracking  Occluded  Vehicles  for  Video 
+ Surveillance.  WSEAS  Transactions  on  Signal  Processing.  [Accepted] 
+ [  Scopus Preview  ] 
+ 2.  Abhishek  Vichare  and  Satishkumar  Varma,  "  An  improved  conversation 
+ emotion  detection  using  hybrid  f-nn  classifier  ",  Indonesian  Journal  of 
+ Electrical  Engineering  and  Computer  Science,  March  2025. 
+ https://www.scopus.com/sourceid/21100799500 
+ 3.  Kanchan  Dabre,  Satishkumar  L.  Varma,  Pankaj  B.  Patil,  RAPID-Net: 
+ Reduced  architecture  for  pneumonia  in  infants  detection  using  deep 
+ convolutional  framework  using  chest  radiograph  ,  Biomedical  Signal 
+ Processing  and  Control,  Volume  87,  Part  A,  January  2024,  105375. 
+ https://doi.org/10.1016/j.bspc.2023.105375 
+ 4.  Kanchan  Dabre,  Satishkumar  L.  Varma,  Pankaj  B.  Patil,  "  Pneumonia  Variant 
+ Detection  from  CXR  Images  using  Meta-Learning  in  Machine  Learning  ," 
+ African  Journal  of  Biological  Sciences,  6(5):8901-8912,  2024. 
+ https://doi.org/10.48047/AFJBS.6.5.2024.8901-8912 
+ 5.  Stephy  Benny  and  Satishkumar  L.  Varma,  "Attention-Enhanced  Residual 
+ U-Net  for  Nucleus  Segmentation  in  Immunohistochemistry  Images," 
+ International  Journal  of  Applied  Engineering  and  Technology  (London), 
+ 5(4),  pp.  1266–1283,  December,  2023. 
+ https://doi.org/10.61485/ijaet/v5-4-2023-138 
+ 6.  Kanchan  Dabre,  Satishkumar  L.  Varma  and  Pankaj  B.  Patil,  "Consolidation 
+ of  Squeeze  and  Excitation  with  VGG16  for  Pneumonia  Diagnosis  through 
+ Chest  X-Ray  Images,”  Stochastic  Modelling  and  Computational  Sciences, 
+ Roman  Science  Publications,  Vol.  3,  No.  2,  pp.  336-354,  2023.  ISSN: 
+ 2752-3829.  https://doi.org/10.61485/SMCS.27523829/v3n2P12 
+ 7.  Abhishek  A.  Vichare  and  Satishkumar  L.  Varma,  "Analysis  of  Machine 
+ Learning  and  Deep  Learning  Techniques  For  Emotion  Recognition  Using 
+ English  Text,"  International  Journal  of  Applied  Engineering  and  Technology 
+ (London),  5(4),  pp.  427–442,  2023. 
+ https://doi.org/10.61485/ijaet/v5-4-2023-138 
+ 8.  Kanchan  R.  Dabre  and  Satishkumar  L.  Varma,  "Deep  Architecture  for 
+ Diagnosis  of  Pneumonia  in  Thoracic  Images,"  International  Journal  of 
+ Applied  Engineering  and  Technology  (London),  Vol.  5  No.4,  pp.  487  495, 
+ 2023.  https://doi.org/10.61485/ijaet/v5-4-2023-138 
+ 9.  Redekar,  S.S.,  Varma,  S.L.  &  Bhattacharjee,  A.  Gene  co-expression  network 
+ construction  and  analysis  for  identification  of  genetic  biomarkers  associated 
+ with  glioblastoma  multiforme  using  topological  findings  .  J  Egypt  Natl  Canc 
+ Inst 35, 22 (2023).  https://doi.org/10.1186/s43046-023-00181-4 
+
+ 10.  Mimi  Cherian  and  Satishkumar  Varma,  "Secure  SDN–IoT  Framework  for 
+ DDoS  Attack  Detection  Using  Deep  Learning  and  Counter  Based  Approach. 
+ Journal  of  Network  and  Systems  Management  31,  54  (2023). 
+ https://doi.org/10.1007/s10922-023-09749-w 
+ 11.  Mimi  Cherian  and  Satishkumar  Varma,  "  Mitigation  of  DDOS  and  MiTM 
+ Attacks  using  Belief  Based  Secure  Correlation  Approach  in  SDN-Based  IoT 
+ Networks  ,"  International  Journal  of  Computer  Network  &  Information 
+ Security.  Vol.  14  Issue  1,  p52-68,  Feb  2022. 
+ https://www.scopus.com/sourceid/21100985663 
+ 12.  Seema  Sandeep  Redekar,  Satishkumar  L.  Varma  and  Atanu  Bhattacharjee, 
+ "  Identification  of  key  genes  associated  with  survival  of  glioblastoma 
+ multiforme  using  integrated  analysis  of  TCGA  datasets  ,"  Elsevier  Computer 
+ Methods  and  Programs  in  Biomedicine  Update,  Volume  2,  Jan  2022. 
+ https://doi.org/10.1016/j.cmpbup.2022.100051 
+ 13.  Prachi  Vilas  Kothawade,  Uttara  Gogate,  Satishkumar  Varma  ,  "  Survey  on 
+ Classification  Algorithm  in  Machine  Learning  ,"  in  International  Journal  of 
+ Research  and  Analytical  Reviews  (IJRAR)  June  2021,  Volume  8,  Issue  2, 
+ E-ISSN 2348-1269, P- ISSN 2349-5138. 
+ 14.  Adarkar  Amol,  Sharma  Smriti,  Bharambe  Rishikesh,  Gladson  Roy  and 
+ Satishkumar  Varma,  "  Fruit  Classification  and  Calories  Measurement  using 
+ Machine  Learning  and  Deep  Learning  ,"  International  Research  Journal  of 
+ Engineering and Technology, vol.8 issue 5, pp 3476-3481, May 2021. 
+ 15.  Leena  Bhuskute  and  Satishkumar  Varma,  “  Survey  on  Text  Classification  ,” 
+ International  Journal  of  Innovative  Science  and  Research  Technology, 
+ 5(7):543-549. ISSN No:-2456-2165, July 2020. 
+ 16.  Leena  Bhuskute,  Satishkumar  Varma.  Sentiment  Analysis  of  Product 
+ Reviews  .  SERSC  International  Journal  of  Advanced  Science  and 
+ Technology, 29(04): 7671 - 7677, June 2020. 
+ 17.  Rohit  Prasannakumar,  Kiran  Khatkale,  Gauri  Raghuwanshi,  Shashank 
+ Pramod,  and  Satishkumar  Varma,  “  Abnormality  Classification  and 
+ Detection  in  Musculoskeletal  Radiographs  ,”  International  Research 
+ Journal  of  Engineering  and  Technology  (IRJET),  7(5):7520-7526,  May 
+ 2020. 
+ 18.  Tejali  Mhatre  and  Satishkumar  Varma,  “  Heart  Disease  Prediction  using 
+ Evolutionary  based  Artificial  Neural  Network  ,”  International  Journal  of 
+ Engineering Research and Technology, 8(8):518-522, August 2019. 
+ 19.  Tejali  Chandrakant  Mhatre  and  Satishkumar  Varma,  “  Comparative  study 
+ on  data  mining  techniques  used  to  predict  risk  of  Heart  Disease  ,” 
+ International  Journal  of  Engineering  and  Computer  Science, 
+ 8(8):24829-24833, August 2019. 
+ 20.  Yugandhara  Gawand  and  Satishkumar  Varma,  “  Enhanced  Opinion  Mining 
+ Approach  for  Product  Reviews  ,”  International  Journal  of  Innovative 
+ Science  and  Research  Technology  (IJISRT),  Volume  4,  Issue  8,  pp. 
+ 612-615, August 2019. 
+
+ 21.  Yugandhara Gawand and Satishkumar Varma, “  Feature-Based Opinion 
+ Mining for Product Reviews: A Review  ,” International  Journal of 
+ Innovative Research in Computer and Communication Engineering, Vol. 
+ 7, Issue 7, pp. 3539-3542, July 2019. 
+ 22.  Pallavi  Kadam  and  Satishkumar  Varma,  “  Lung  Cancer  Feature  Selection 
+ using  Minimum  Spanning  Tree  Based  Clustering  ”,  International  Journal  of 
+ Engineering  And  Computer  Science  (IJECS),  7(12):24439-24447,  Dec 
+ 2018. 
+ 23.  Pallavi  Kadam  and  Satishkumar  Varma,  “  Survey  on  Lung  Cancer  Feature 
+ Selection  Algorithms  ”,  International  Journal  of  Computer  Science  Trends 
+ Technology (IJCST), 6(5):103-108, Sept 2018. 
+ 24.  Megha  Shinde  and  Satishkumar  Varma,  "  Feature  Extraction  and 
+ Classification  Techniques  for  Emotion  Detection  And  Recognition:  A 
+ Survey  ,”  Journal  for  Advanced  Research  in  Applied  Sciences, 
+ 4(2):203-209, July 2017. 
+ 25.  Priyanka  Gaonkar,  Satishkumar  Varma  and  Rupali  Nikhare,  "  Content 
+ Based  Audio  Retrieval  using  Chord  ,"  International  Journal  of  Engineering 
+ Development and Research, 5(2):1587-1595, June 2017. 
+ 26.  Priyanka  Gaonkar,  Satishkumar  Varma  and  Rupali  Nikhare  ,  “  A  Survey  on 
+ Content-Based  Audio  Retrieval  Using  Chord  Progression  ,”  International 
+ Journal  of  Innovative  Research  in  Computer  and  Communication 
+ Engineering, 4(1):629-636, January 2016 
+ 27.  Kirti  Mirgal  and  Satishkumar  Varma,  “  Frequent  Pattern  Mining  and 
+ Analysis  in  DNA  Subsequence  ,”  International  Journal  of  Science 
+ Technology & Engineering, 3(3):129-134, September 2016. 
+ 28.  Kirti  L  Mirgal  and  Satishkumar  Varma,  "  A  Survey  on  Frequent  Pattern 
+ Mining  Techniques  in  Sequence  Data  Sets  ,"  International  Journal  for 
+ Innovative Research in Science & Technology, 3(3):46-48, August 2016. 
+ 29.  Shilpa  Gonbare,  Satishkumar  Varma  and  Manjusha  Deshmukh, 
+ "  Discrimination  Prevention  with  Privacy  Preservation  in  Data  Mining  ," 
+ International  Journal  of  Advanced  Engineering,  Management  and  Science, 
+ 2(7), 1118-1122, July 2016. 
+ 30.  Manasi  Choche  and  Satishkumar  Varma,  “Content  Based  Classification  of 
+ Audio  Using  MPEG-7  Features,”  International  Journal  of  Advanced 
+ Research  in  Computer  Engineering  &  Technology,  5(6):1995-2001,  June 
+ 2016. 
+ 31.  Manasi  Choche  and  Satishkumar  Varma,  “  A  Survey  on  Audio 
+ Segmentation  and  Classification  Methods  ,”  International  Journal  of 
+ Innovative  Research  in  Science  and  Technology,  2(12):440-443,  May 
+ 2016. 
+ 32.  Nymphia  Pereira  and  Satishkumar  Varma,  “  Survey  on  Content  Based 
+ Recommendation  System  ,”  International  Journal  of  Computer  Science 
+ and Information Technologies  , 7(1): 281-284, February  2016. 
+
+ 33.  Priyanka  Gaonkar,  Satishkumar  Varma,  and  Rupali  Nikhare,  "A  Survey  on 
+ Content-Based  Audio  Retrieval  Using  Chord  Progression,"  International 
+ Journal  of  Innovative  Research  in  Computer  and  Communication 
+ Engineering, 4(1): 629-636, January 2016. 
+ 34.  S.  Sangeetha  and  Satishkumar  Varma,  "Web  Image  Re-ranking  using  User 
+ Log  Data,"  International  Journal  of  Computer  Science  and  Communication 
+ Networks, 5(6):411-414, January 2016. 
+ 35.  Shilpa  Gonbare,  Satishkumar  Varma  and  Manjusha  Deshmukh,  "Survey 
+ on  Anti  discrimination  in  Data  Mining,"  International  Research  Journal  of 
+ Engineering and Technology, 2(9):598-603, December 2015. 
+ 36.  Shraddha  G.  Mhatre,  Satishkumar  Varma,  and  Rupali  Nikhare, 
+ “Background  Subtraction  Motion  Detection  Techniques  used  in  Visual 
+ Surveillance,”  International  Journal  of  Innovations  &  Advancement  in 
+ Computer  Science,  Academic  Science  ,  Vol.  4,  Special  Issue,  pp.  105–119, 
+ September 2015. 
+ 37.  Kajal  Salekar,  Satishkumar  Varma,  and  Rupali  Nikhare,  “Mining  Image 
+ Datasets  ,”  International  Journal  of  Innovative  Research  in  Engineering 
+ and Management  , 2(3):31–34, May 2015 
+ 38.  Ann  Abraham,  Satishkumar  Varma,  and  Rupali  Nikhare,  “Hand  Gesture 
+ Recognition  System  for  Human  Computer  Interaction  Using  Contour 
+ Analysis,”  International  Journal  of  Research  in  Engineering  and 
+ Technology  , 4(3):11–19, March 2015. 
+ 39.  Ann  Abraham  Babu,  Satishkumar  Varma,  and  Rupali  Nikhare,  “Hand 
+ Gesture  Recognition  System  to  Count  Finger  Using  Contour  Based 
+ Features,”  International  Journal  of  Advanced  and  Innovative  Research  , 
+ 3(11):447–451, November 2014. 
+ 40.  Jeril  George,  Satishkumar  Varma  and  Madhumita  Chatterjee,  “CT-SVD 
+ and  Arnold  Transform  for  Secure  Color  Image  Watermarking,” 
+ International  Journal  of  Innovative  Research  in  Information  Security 
+ 1(2):59–65, August 2014. 
+ 41.  Swapnil  Waghmare,  Madhumita  Chatterjee,  and  S.  L.  Varma, 
+ “Authentication  System  for  Android  Smartphones,”  International  Journal 
+ of Computer Applications  , 87(5):19–24, February 2014. 
+ 42.  A.  Kapsepatil  and  S.  L.  Varma,  “Analysis  on  Visual  Cryptography  for 
+ Color  Image  with  Error  Diffusion,”  International  Journal  of  Engineering 
+ & Innovative Tech.  , 2(1):200–202, July 2012. 
+ 43.  Satishkumar  L.  Varma  and  Sanjay  N.  Talbar,  “Dynamic  Threshold  in  Clip 
+ Analysis  and  Retrieval.  International  Journal  of  Image  Processing  , 
+ 5(4):417–424, 2011. 
+ 44.  Satishkumar  L.  Varma  and  Sanjay  N.  Talbar,  “SUCCESeR:  Simple  and 
+ Useful  Multi  Color  Concepts  for  Effective  Search  and  Retrieval,” 
+ International  Journal  of  Advanced  Computer  Science  and  Applications, 
+ Special Issue on Image Processing and Analysis  , pp.  98–104, May 2011. 
+
+ 45.  Sanjay  N.  Talbar  and  Satishkumar  L  Varma.  Article:  Color  Spaces  for 
+ Transform-based  Image  Retrieval.  International  Journal  of  Computer 
+ Applications  9(12):4–6, November 2010. 
+
+ Publications  :  Papers Presented in International Conferences: 
+ 1.  Raksha  Bafna,  Rashi  Sureka,  Rudra  Sheth,  Shubh  Shah,  Pravin  Hole,  Prachi 
+ Satam,  Satishkumar  Varma,  "Generative  AI  based  Collaborative  Platform 
+ for  Project  Management  in  Engineering  Education,"  International 
+ Conference  on  Smart  Communication  and  Sustainable  Technologies 
+ (ICSCST  2026),  18  -  20  June  2026  at  Saintgits  College  of  Engineering 
+ (Autonomous), Kottayam, Kerala, India. [Communicated] 
+ 2.  Diya  Shah,  Diya  Panchal,  Devansh  Valia,  Advait  Khatu,  Pravin  Hole, 
+ Prachi  Satam,  Satishkumar  Varma,  "AODV  and  DSR  Based  Hybrid 
+ Routing  Protocol  Mechanism  for  Improved  VANET  Efficiency,"  3rd 
+ International  Conference  on  “Technologies  for  Energy,  Agriculture,  and 
+ Healthcare (ICTEAH 2026)”, scheduled on 16-17th April 2026. [Accepted] 
+ 3.  Simran  Sota,  Siddhanth  Moraje,  Shriya  Deshpande,  Neha  Katre, 
+ Satishkumar  Varma,  “Modular  Framework  for  Video  Compression  through 
+ Key  Frame  Analysis  and  Entropy-Based  Encoding,”  16th  International 
+ Conference  on  Cloud  Computing,  Data  Science  &  Engineering,  Springer, 
+ Confluence, Amity University, Mumbai, 22-23 January 2026. [Accepted] 
+ 4.  Dhruv  Kothari,  Kushal  Mehta,  Harsh  Jain,  Dev  Bhanushali,  Satishkumar 
+ Varma,  Vinaya  Sawant,  "LIME  Explanation  Integration  for  Real-Time 
+ Collision  Detection  using  Deep  Learning,"  2026  6th  Biennial  International 
+ Conference  on  Nascent  Technologies  in  Engineering  (ICNTE),  Navi 
+ Mumbai,  India,  2026,  pp.  1-6, 
+ https://doi.org/10.1109/ICNTE66387.2026.11437415 
+ 5.  Prathmesh  Kulkarni,  Ojas  Geet,  Rachit  Garg,  Satishkumar  Varma,  Vinaya 
+ Sawant,  "Deep  Learning  Architecture  for  Land-Cover  Satellite  Image 
+ Classification  using  Transfer  Learning,"  2026  6th  Biennial  International 
+ Conference  on  Nascent  Technologies  in  Engineering  (ICNTE),  Navi 
+ Mumbai,  India,  2026,  pp.  1-6, 
+ https://doi.org/10.1109/ICNTE66387.2026.11437446 
+ 6.  Ekta  Ukey,  Satishkumar  Varma,  (2026).  Video  Surveillance  Based  on 
+ Moving  Vehicle  Detection  Using  Adaptive  Gaussian  and  Otsu 
+ Thresholding.  In:  Saroha,  K.,  Johari,  K.,  Pricop,  E.,  Sen,  A.,  Trivedi,  G. 
+ (eds)  Proceedings  of  Fifth  Emerging  Trends  and  Technologies  on  Intelligent 
+ Systems.  ETTIS  2025.  Lecture  Notes  in  Networks  and  Systems,  vol  1590. 
+ Springer, Singapore.  https://doi.org/10.1007/978-981-95-0684-2_2 
+ 7.  Shembe,  Simran  Kaur  and  Varma,  Satishkumar,  IOT  based  Healthcare 
+ Monitoring  System  using  Deep  Learning  (December  01,  2024). 
+ http://dx.doi.org/10.2139/ssrn.5126730 
+ 8.  J.  Vithlani,  K.  Dabre,  P.  Gala  and  S.  L.  Varma,  "Pneumonia  Diagnosis  in 
+ Chest  X-rays:  A  Deep  Learning  Framework  Using  Mask  R-CNN  and 
+ ResNet,"  2024  1st  International  Conference  on  Advances  in  Computing, 
+ Communication  and  Networking  (ICAC2N),  Greater  Noida,  India,  2024, 
+ pp. 1892-1899.  http://dx.doi.org/10.1109/ICAC2N63387.2024.10895821 
+
+ 9.  Anuja  Rajendra  Shinde  and  Satishkumar  L  Varma,  "Smart  IOT  System 
+ Using  AI  for  Wagon  Load  Management  System"  in  5th  International 
+ Conference  on  Advanced  Technologies  for  Societal  Applications  on  13th 
+ and 14th December 2024, Pandharpur, India. [Accepted and Presented] 
+ 10.  Simran  Kaur  Inderdeep  Singh  Shembe  and  Satishkumar  L  Varma,  "IOT 
+ based  Healthcare  Monitoring  System  using  Deep  Learning"  in  5th 
+ International  Conference  on  Advanced  Technologies  for  Societal 
+ Applications  on  13th  and  14th  December  2024,  Pandharpur,  India. 
+ [Accepted and Presented] 
+ 11.  Kanchan  R  Dabre,  Satishkumar  L.  Varma  and  Pankaj  B.  Patil,  "  Deep 
+ Architecture  for  Multiclass  Pneumonia  Diagnosis  from  Chest  X-Ray 
+ Images  ,"  4th  Springer  International  Conference  on  Intelligent  Vision  and 
+ Computing  (ICIVC),  23-24  November  2024. 
+ https://doi.org/10.1007/978-981-96-4722-4_23 
+ 12.  Ekta  Ukey  and  Satishkumar  L.  Varma,  "  Review  on  Evolution  of  Vehicle 
+ Detection  Methods  in  Computer  Vision  for  Suveillance,  "  2nd  IEEE 
+ International  Conference  on  Emerging  Trends  in  Engineering  and  Medical 
+ Sciences  (ICETEMS),  22-23  November  2024. 
+ https://doi.org/10.1109/ICETEMS64039.2024.10965053 
+ 13.  Stephy  Johnson  and  Satishkumar  L.  Varma,  "Nucleus  Segmentation  in 
+ Medical  Imaging  by  Integrating  Attention  Mechanism  in  U-Net," 
+ International  Conference  on  Science,  Engineering  &  Technology  ICSET, 
+ 19th May 2024, Delhi, India. 
+ 14.  Stephy  Johnson  and  Satishkumar  L.  Varma,  "Enhancing 
+ Immunohistochemistry  Nuclei  Segmentation  with  SE-ReAttUnet:  A  Deep 
+ Learning  Approach,'  14th  International  Conference  on  Science  and 
+ Innovative Engineering, Malaysia, 2024. 
+ 15.  Pritam  Pawar  and  Satishkumar  L.  Varma,  “Micro  Expression  Recognition 
+ using  CNN,”  in  the  International  Conference  on  Intelligent  Computing 
+ and  Networking  (IC-ICN  2024)  organized  during  February,  23rd  and 
+ 24th,  2024  at  Thakur  College  of  Engineering  and  Technology,  Kandivali 
+ (E), Mumbai. 
+ 16.  A.  Howal,  A.  Golapkar,  Y.  Khan,  S.  Bokade,  S.  Varma  and  M.  V. 
+ Vyawahare,  “  Sign  Language  Finger-Spelling  Recognition  System  Using 
+ Deep  Convolutional  Neural  Network  ,”  5th  Biennial  International 
+ Conference  on  Nascent  Technologies  in  Engineering  (ICNTE),  Navi 
+ Mumbai,  India,  2023,  pp.  1-6. 
+ https://doi.org/10.1109/ICNTE56631.2023.10146675 
+ 17.  S.  S.  Redekar,  S.  L.  Varma  and  A.  Bhattacharjee,  “  Extrication  of  Survival 
+ Associated  Genes  of  Glioblastoma  Multiforme  Patient  through  Statistical 
+ Modeling  ,”  2022  5th  International  Conference  on  Advances  in  Science 
+ and  Technology  (ICAST),  Mumbai,  India,  2022,  pp.  537-541. 
+ https://doi.org/10.1109/ICAST55766.2022.10039589 
+
+ 18.  S.  S.  Redekar  and  S.  L.  Varma,  “  A  Survey  on  Community  Detection 
+ Methods  and  its  Application  in  Biological  Network  ,”  2022  International 
+ Conference  on  Applied  Artificial  Intelligence  and  Computing  (ICAAIC), 
+ Salem,  India,  2022,  pp.  1030-1037. 
+ https://doi.org/10.1109/ICAAIC53929.2022.9792913 
+ 19.  Abhishek  A.  Vichare  and  Satishkumar  Varma,  "  Detection  of  Emotional 
+ Cues  of  Depression  Due  To  COVID-19  Pandemic  ,"  Pandemic  Detection 
+ and  Analysis  through  Smart  Computing  Technologies,  CRC  Press,  Taylor 
+ &  Francis,  June  2022,  Hard  ISBN:  9781774910320  |  E-Book  ISBN: 
+ 9781003281610. 
+ 20.  Manish  Jadhav,  Ashwathy  Marath,  Rohan  Jamuar,  Kaustubh  Sawant, 
+ Satishkumar  L  Varma,  “  Face  Recognition  based  Video  Conferencing 
+ Add-on  for  Online  Session  Log  using  CNN  ,”  Springer,  pp.371-379, 
+ Techno  Societal  9-10  Dec  2022. 
+ http://dx.doi.org/10.1007/978-3-031-34644-6_40 
+ 21.  Prachi  Vilas  Kothawade,  Uttara  Gogate,  Satishkumar  Varma,  “  Plant 
+ Disease  Detection  and  Management  Using  Deep  Learning  Approach  ,"  7th 
+ Int.  Conference  on  Computing  in  Engineering  and  Technology,  ICCET 
+ pp. 30-35, Feb 2022. 
+ 22.  Aakarsh  Verma,  Neel  S,  Pramod  and  Satishkumar  L  Varma,  “  Violence 
+ Detection  for  Surveillance  System  using  Lightweight  CNN  Models  ,”  7th 
+ Int.  Conference  on  Computing  in  Engineering  and  Technology,  ICCET, 
+ pp. 23-29, Feb 2022. 
+ 23.  Stephy  Benny  and  Satishkumar  L  Varma,  "  Semantic  Segmentation  in 
+ Immunohistochemistry  Breast  Cancer  Image  using  Deep  Learning  ,"  IEEE 
+ International  Conference  on  Advances  in  Computing,  Communication, 
+ and Control (ICAC3), Dec 2021. 
+ 24.  Prachi  Vilas  Kothawade,  Uttara  Gogate,  Satishkumar  Varma,  "  Survey  on 
+ Classification  Algorithm  in  Machine  Learning  ,"  in  the  52nd  Mid  Term 
+ Symposium  (MTS)  on  the  theme  'Emerging  Trends  in  ICT  and 
+ Electronics'  organized  by  IETE  in  the  virtual  mode,  pp.  168-174,  April 
+ 30, 2021. 
+ 25.  A.  J.  Kunnathettu  and  S.  L.  Varma,  "  Comparative  Analysis  of  Neural 
+ Network  and  Machine  Learning  Techniques  for  Air  Quality  Prediction,  " 
+ 2nd  International  Conference  on  Advances  in  Computing, 
+ Communication  Control  and  Networking  (ICAC3N),  Greater  Noida, 
+ India, 2020, pp. 724-729,  Dec 2020. 
+ 26.  M.  Mahajan,  R.  Rajeshwari  Bajre,  L.  Sharma  and  S.  L.  Varma, 
+ "  Computer  Vision  Based  Campus  Surveillance  ,"  2nd  International 
+ Conference  on  Advances  in  Computing,  Communication  Control  and 
+ Networking (ICAC3N), Greater Noida, India, pp. 1013-1018, Dec 2020. 
+ 27.  Satishkumar  Chavan  and  Satishkumar  Varma,  “  Vehicle  Number  Plate 
+ Recognition  for  Toll  System  ,”  5th  International  Conference  on 
+ Computing  in  Engineering  and  Technology,  ICCET  2020,  Lonere, 
+ Raigad, Maharashtra January 2020. 
+
+ 28.  Chavan  S.S.,  Fernandes  C.,  Dumane  P.R.,  Varma  S.L.,  “  Design  and 
+ Implementation  of  Automatic  Coin  Dispensing  Machine  ,”  In  2nd 
+ International  Conference  on  Communications  and  Cyber  Physical 
+ Engineering, pp. 379-385, LNEE. Springer, Singapore, August 2019. 
+ 29.  Ninad  Gaikwad  and  Satishkumar  Varma,  “  Performance  Analysis  of  Bus 
+ Arrival  Time  Prediction  Using  Machine  Learning  Based  Ensemble 
+ Technique  ,”  In  Proceeding  Conference  On  Technologies  For  Future  Cities 
+ (CTFC)  , SSRN, PCE New Panvel, January 2019. 
+ 30.  Megha  Shinde,  Satishkumar  L.  Varma  and  Satishkumar  S.  Chavan, 
+ “Analysis  of  PCA  and  LDA  features  for  facial  expression  recognition 
+ using  SVM  and  HMM  classifiers,”  Techno  Societal,  2nd  International 
+ Conference  on  Advanced  Technologies  for  Societal  Applications  ,  14-15 
+ December 2018. 
+ 31.  Satishkumar  L.  Varma  and  Satishkumar  S.  Chavan,  “  Automated 
+ Detection  of  Malaria  Parasite  Based  On  Thick  and  Thin  Blood  Smear 
+ Images  ,”  Third  International  Conference  on  Computing,  Communication 
+ and  Signal  Processing  (ICCASP  2018)  ,  Springer,  at  DBATU 
+ Lonere-Raigad, India on January 26–27, 2018. 
+ 32.  Ninad  Gaikwad  and  Satishkumar  L.  Varma,  “Analysis  of  Bus  Tracking 
+ and  Arrival  Time  Prediction  Techniques,”  International  Conference  On 
+ Advanced  Trends  in  Engineering  (ICATE-2018)  ,  DMCE,  Airoli,  Navi 
+ Mumbai. 
+ 33.  Satishkumar  Varma  and  Vandana  Behera,  "  Human  Skin  Detection  Using 
+ Histogram  Processing  and  Gaussian  Mixture  Model  Based  on  Color 
+ Spaces  ",  International  Conference  on  Intelligent  Sustainable  Systems 
+ (ICISS), Palladam, December 2017, pp. 116-120. 
+ 34.  Nymphia  Pereira  and  Satishkumar  Varma,  "  Financial  Planning 
+ Recommendation  System  Using  Content  Based,  Collaborative  and 
+ Demographic  Filtering  ,"  Springer  International  Conference  on  Smart 
+ Innovations  in  Communications  and  Computational  Sciences 
+ (ICSICCS-2017) Moga, Punjab, India, 23-24 June 2017. 
+ 35.  S.  Sangeetha  and  S.  Varma,  “  User  Log  Based  Image  Re-ranking  and 
+ Retrieval  ,”  2nd  International  Conference  on  Communication  and  Signal 
+ Processing  (ICCASP  2016),  Atlantis  Press,  Springer  Nature,  Vol.  137,  Pp. 
+ 653-660. 
+ 36.  Shraddha.  G.  Mhatre,  Satishkumar  Varma,  and  R.  Nikhare,  “Visual 
+ Surveillance  Using  Absolute  Difference  Motion  Detection”,  Proceeding 
+ of  International  Conference  on  Technologies  for  Sustainable 
+ Development, IEEE  , Mumbai, February 2015. 
+ 37.  Satishkumar  Varma  and  Sanjay  Talbar,  “  Video  Retrieval  Using  Local 
+ Binary  Pattern  ,”  Computational  Intelligence  in  Data  Mining  - 
+ Proceedings  of  the  International  Conference  on  CIDM,  Springer  ,  Volume 
+ 1, pp.123-130, December 2014, ISSN: 2194-5357. 
+
+ 38.  Jeril  George,  Satishkumar  Varma  and  Madhumita  Chatterjee,  “  Color 
+ Image  Watermarking  using  DWT-SVD  and  Arnold  Transform  ,” 
+ Proceedings  of  the  Int.  Conf.  on  India  Conference  (INDICON),  IEEE  ,  pp. 
+ 1-6, December 2014. ISBN: 978-1-4799-5362-2 
+ 39.  Pankaj  Phadtare,  Satishkumar  Varma,  and  Pragnesh  Shah,  “Ontology 
+ Usage  and  Analysis  in  the  Semantic  Web,”  Proceedings  of  8th  IRF 
+ International  Conference  ,  pp.  01  –  04,  May  2014,  ISBN: 
+ 978-93-84209-12-4 
+ 40.  Vishvas  V.  Kalunge  and  S.  L.  Varma,  “Role  of  Genetic  Algorithm  in 
+ Fractal  Image  Compression”,  IRNet  International  Conference  on 
+ Computer Science and Information Technology  , April 15, 2012. 
+ 41.  Satishkumar  L.  Varma  and  Sanjay  N.  Talbar,  “Local  Entropy  and  Local 
+ Moments  for  Video  Indexing  and  Retrieval,”  International  Conference  on 
+ Systemics,  Cybernetics  &  Informatics  ,  Hyderabad,  A.P,  India,  February 
+ 15 – 18, 2012. 
+ 42.  Satishkumar  L.  Varma  and  Sanjay  N.  Talbar,  "  ViSum:  Video 
+ Summarization  Using  Dynamic  Threshold  ,"  Third  International 
+ Conference  on  Emerging  Trends  in  Engineering  and  Technology  (ICETET 
+ 2010)  ,  pp.120-123,  November  2010,  Goa,  India,  ISBN: 
+ 978-0-7695-4246-1. 
+ 43.  S.  L.  Varma  and  S.  N.  Talbar,  “  Wavelet  and  Hadamard  Transforms  for 
+ Image  Retrieval  Using  Color  Models  ,”  International  Conference  on 
+ Advances  in  Information  and  Communication  Technologies  ,  CCIS,  Vol. 
+ 101, pp. 336–338, Springer, 2010, ISBN: 978-3-642-15765-3S. 
+ 44.  L.  Varma  and  S.  N.  Talbar,  “Image  Indexing  and  Retrieval  Using 
+ Transforms,”  International  Conference  of  Computational  Vision  and 
+ Robotics  ,  ICCVR  2010,  August,  Interscience  Institute  of  Computer 
+ Application, Kanatabada, Bhubaneswar, Orissa, India. 
+ 45.  S.  L.  Varma  and  S.N.  Talbar,  “  iMATCH  Image  Matching  and  Retrieval 
+ for  Digital  Image  Libraries  ,”  3  rd  International  Conference  on  Advanced 
+ Computing  &  Communication  Technologies  ,  ICETET10,  pp.196-201, 
+ December 2009, ISBN 978-0-7695-3884-6. 
+ 46.  S.  L.  Varma,  S.S.  Chavan  and  S.N.  Talbar,  “  An  Approach  to  Lock  the 
+ Encrypted  Files  and  Folders  in  Windows  Operating  Systems  ,”  3  rd 
+ International  Conference  on  Advanced  Computing  &  Communication 
+ Technologies  , Panipat, India, November 2008, pp.534-538. 
+ 47.  S.  L.  Varma,  S.S.  Chavan  and  S.N.  Talbar,  “A  New  Defined  Length 
+ Encoding  (DLE)  with  Wavelet  Based  Image  Compression,”  2  nd 
+ International  Conference  on  Advanced  Computing  &  Communication 
+ Technologies  , Panipat, India, November 2007. 
+
+ Publications  :  Papers Presented in National Conferences: 
+ 1.  Ansa  Jovel  Kunnathettu  and  Satishkumar  L.  Varma,  “IOT  components  for 
+ implementing  Smart  City,”  National  Conference  on  Emerging  Innovations 
+ in  Information  Technology:  Prospects  and  Challenges  (IJAIR)  Vol  6,  Issue 
+ 3(IV) ISSN 2394-7780, Pg 235-239, 14 September 2019. 
+ 2.  Pankaj  Phadtare,  Satishkumar  Varma  and  Pragnesh  Shah,  “Use  of  Ontology 
+ in  Semantic  Web,”  National  Conference  on  Emerging  Trends  in 
+ Information Technology  , March 2014. 
+ 3.  Satishkumar  L.  Varma  and  Sanjay  N.  Talbar,  “Content-based  Video 
+ Indexing  and  Retrieval  using  region  properties,”  Nat.  Conf.  on 
+ Communication,  Computing,  and  Network  Techniques  ,  pp.  92–96,  March 
+ 2013. 
+ 4.  Satishkumar  Varma,  Royston  Alex,  Rinku  Purswani,  Franklin  Moraes  and 
+ Anujeet  Palav,  “Transform  Based  Image  Retrieval,”  National  Conference 
+ on  Intelligent  Information  Retrieval  ,  NCIIR,  24-25  Sep  2010,  PSG  College 
+ of Technology, Coimbatore, India. 
+ 5.  S.  L.  Varma  and  S.N.  Talbar,  “IRMoment  Image  Indexing  and  Retrieval  by 
+ Combining  Moments,”  3  rd  National  Conference  on  Signal  and  Image 
+ Processing  Application  ,  IET-UK  Digital  Library,  IET  Digest,  Volume  2009, 
+ Issue 1, pp. 38, ISBN: 978-1-84919-193-7. 
+ 6.  S.  L.  Varma,  S.S.  Chavan  and  S.N.  Talbar,  “Performance  Analysis  using 
+ SPIHT  over  DCT  Coefficients  for  Still  Image  Compression,”  National 
+ Conference on Image Processing  , TSCE, Bandra, India, February 2005. 
+ 7.  S.  L.  Varma,  Satish  S.  Chavan  and  S.N.  Talbar,  “Performance  Evaluation 
+ for  still  image  compression  using  wavelet  based  Embedded  Zerotree 
+ Wavelet  algorithm,”  National  Conference  on  Image  Processing  ,  T  SEC, 
+ Bandra, Mumbai, pp.III-8-12 Feb. 11-12, 2005. 
+ 8.  S.  S.  Chavan,  S.  L.  Varma  and  S.N.  Talbar,  “Performance  Analysis  using 
+ SPIHT  over  DCT  Coefficients  for  Still  Image  Compression,”  National 
+ Conference  on  Image  Processing  ,  TSEC,  Bandra,  India,  pp.III-13-17, 
+ February 11-12, 2005 
+ 9.  S.  L.  Varma,  S.S.  Chavan  and  S.N.  Talbar,  “Significant  Performance 
+ Improvement  in  Still  Image  Compression  by  Wavelet  Tree  Coding 
+ Algorithms  and  Analysis,”  International  Conference  on  Number  Theory 
+ and  Fourier  Techniques,  SHANMUGHA  Arts,  Science,  Technology  & 
+ Research  Academy,  Kumbakonam,  Tamilnadu,  pp.16–21  ,  December 
+ 2004.Kumbakonam, India. 
+
+ Institute/Department 
+ Responsibility handled: 
+ :  1.  Teaching Responsibilities 
+ ○  Ph.D Recognized Teacher: 9 Years 
+ ○  M.E/ M.Tech Recognized Teacher: 16 Years 
+ ○  B.E/ B.Tech Teacher: 26 Years 
+ 2.  Administrative Responsibilities 
+ ○  Professor & Head: 5 Years and 6 Months 
+ i.  Presented  Department  Successfully  to  National  Board  of 
+ Accreditation  (NBA)  at  MES  Pillai  College  of  Engineering,  New 
+ Panvel on May 11, 2022. 
+ ii.  Presented  Department  Successfully  to  UGC  Expert  Committee  for 
+ the  Grant  of  Fresh  Autonomous  Status  at  MES  Pillai  College  of 
+ Engineering, New Panvel on October 18-19, 2021 
+ iii.  Presented  Department  Successfully  to  NAAC  at  MES  Pillai  College 
+ of Engineering, New Panvel on November 26, 2019. 
+ ○  Professor  &  Associate  Dean  R&D  at  MES  Pillai  College  of 
+ Engineering, New Panvel during August 2016 – December 2018. 
+ ○  Associate  Professor  &  Head  at  MES  Pillai  College  of  Engineering,  New 
+ Panvel during August 2013 – July 2015. 
+ ○  Assistant  Professor  &  Head  at  MES  Pillai  College  of  Engineering,  New 
+ Panvel during August 2011 – September 2013. 
+ ○  Assistant  Professor  &  Head,  Department  of  Computer  Engineering, 
+ DBIT, Kurla during August 2010 – Jan 2011. 
+ ○  Assistant  Professor  &  Head,  Department  of  Computer  Engineering, 
+ DBIT, Kurla during July 2008 – June 2009. 
+
+ Reviewer in Journal  :  Reviewer in Journal/Book Chapter 
+ 1.  Transactions on Image Processing (TIP)  , IEEE 
+ ◦  https://www.scopus.com/sourceid/25534 
+ 2.  Biomedical Signal Processing and Control (BSPC)  , Elsevier 
+ ◦  https://www.scopus.com/sourceid/4700152237 
+ 3.  Biocybernetics and Biomedical Engineering (BBE)  , Elsevier 
+ ◦  https://www.scopus.com/sourceid/19400158663 
+ 4.  Control and Cybernetics (CandC)  , Walter de Gruyter 
+ ◦  https://www.scopus.com/sourceid/12928 
+ 5.  Computers in Biology and Medicine  , Elsevier 
+ ◦  https://www.scopus.com/sourceid/17957 
+ 6.  Computers, Materials and Continua (CMC)  , Tech Science Press (TPS) 
+ ◦  https://www.scopus.com/sourceid/24364 
+ 7.  Signal, Image and Video Processing (SIVP)  , Springer Nature 
+ ◦  https://www.scopus.com/sourceid/6200180165 
+ 8.  Informatica (Slovenia)  , Slovene Society Informatika 
+ ◦  https://www.scopus.com/sourceid/25507 
+ 9.  International Journal of Imaging Systems and Technology  , John Wiley 
+ ◦  https://www.scopus.com/sourceid/35932 
+ 10.  International  Journal  of  Innovative  Computing  and  Applications  (IJICA)  , 
+ Inderscience Publishers 
+ ◦  https://www.scopus.com/sourceid/17800156773 
+ 11.  Nuclear Engineering and Technology, Korean Nuclear Society 
+ ◦  https://www.scopus.com/sourceid/11700154337 
+
+ Reviewer in 
+ Conferences 
+ :  Reviewer in Conferences 
+ 1.  Reviewer  in  the  2nd  IEEE  International  Conference  on  Cognitive 
+ Computing  in  Engineering,  Communications,  Sciences  and  Biomedical 
+ Health  Informatics  (IC3ECSBHI-2026)  February  12-14,  2026  (IEEE 
+ Conference  Record  #  67834)  Technically  Co-Sponsored  by  IEEE  UP 
+ Section,  India  Organised  by  School  of  Engineering,  Gautam  Buddha 
+ University, Greater Noida (U.P.), Delhi-NCR, India. 
+ 2.  Contributed  as  a  Reviewer  for  papers  in  the  4th  IEEE  International 
+ Conference  on  Blockchain  &  Distributed  Systems  Security  (IEEE  ICBDS 
+ 2025)  held  on  30th,  31st  October  &  1st  November  2025,  organized  by 
+ BSIET, Kolhapur. 
+ 3.  Reviewer  in  the  International  Conference  on  Advancing  Technology, 
+ Engineering  and  Science  (ICATES  -  2025)  organized  by  Xavier  Institute 
+ of  Engineering,  Mahim,  Mumbai  in  Association  with  The  Institution  of 
+ Engineering  and  Technology  (IET),  Mumbai  Local  Network,  Held  On  4th 
+ & 5th October 2025. 
+ 4.  Reviewer  in  2nd  International  Conference  on  Technologies  for  Energy, 
+ Agriculture  and  Healthcare,  organized  at  K  J  Somaiya  School  of 
+ Engineering, 5th-6th June 2025. 
+ 5.  Review  Papers  for  International  Conference  on  Emerging  Trends  in 
+ Computer  Science  &  Engineering  (ICETCSE-2025),  organised  at 
+ Vishwaniketan's iMEET, June 23-26, 2025. 
+ 6.  Reviewer  in  International  Conference  on  Emerging  Trends  in  Computer 
+ Science & Engineering (ICETCSE), June 23-26, 2025. 
+ 7.  Reviewer  in  2nd  International  Conference  on  Technologies  for  Energy, 
+ Agriculture  and  Healthcare,  K  J  Somaiya  School  of  Engineering,  5th-6th 
+ June 2025. 
+ 8.  Reviewer  in  International  Conference  on  Intelligent  Computing  and  Big 
+ Data Analytics ICICBDA 2024, RAIT Navi Mumbai. 
+ 9.  Reviewer  Invitation  for  1st  International  Conference  on  Integration  of 
+ Computational  Intelligent  System  (ICICIS-2023)  organized  by  The  School 
+ of  Engineering  at  Ajeenkya  DY  Patil  University,  Pune,  from  1st  to  4th 
+ November 2023. 
+ 10.  Participating  as  a  reviewer  at  the  3rd  International  Conference  on 
+ Advanced  Computing  Technologies  and  Applications-2023  (ICACTA), 
+ organized  by  SVKM's  Dwarkadas  J.  Sanghvi  College  of  Engineering  on 
+ the 6th and 7th of October 2023. 
+ 11.  Reviewer  for  the  2022  International  Conference  on  Industry  4.0 
+ Technology  (I4tech  2022)  at  Department  of  Instrumentation  Engineering, 
+ Vishwakarma  Institute  of  Technology  Pune,  to  be  held  from  22  to  24 
+ September 2022. 
+ 12.  Reviewer  for  5th  IEEE-International  Conference  on  "Advances  in  Science 
+ &  Technology  (IEEE-ICAST  -  2022)"  at  KJSIEIT,  Sion,  Mumbai,  Aug  1, 
+ 2022. 
+
+ 13.  Reviewer  in  International  Conference  on  Innovations  in  Computer 
+ Science,  Electronics  and  Electrical  Engineering,  ICICEEE  2022  organized 
+ by  Annasaheb  Dange  College  of  Engineering  and  Technology,  Ashta, 
+ Sangli, India, February 14-15, 2022. 
+ 14.  Reviewer  in  4th  IEEE  Pune  Section  International  Conference  on 
+ INNOVATION  IN  ENGINEERING,  DESIGN  &  HOLISTIC 
+ EDUCATION, IEEE PuneCon 2021, December 16-19, 2021. 
+ 15.  Book  chapter  reviewer  "Computational  Intelligence  in  Image  and  Video 
+ Processing" CRC Press, Taylor & Francis, USA, October 30, 2021. 
+ 16.  Reviewer  in  International  Conference  on  Advances  in  Technology  and 
+ Management  ICATM-2021  organized  by  A.C.PATIL  College  of 
+ Engineering,  Kharghar,  Panvel,  Raigad,  Maharashtra,  India,  September 
+ 23-24, 2021.. 
+ 17.  Reviewer  in  IEEE  &  IAS  Technically  Co-Sponsored  4th  Biennial 
+ International  Conference  on  Nascent  Technologies  in  Engineering  Fr.  C. 
+ Rodrigues  Institute  of  Technology,  Vashi,  Navi  Mumbai,  India  January 
+ 15-16, 2021 
+ 18.  Reviewer  in  IHCI2020:  12th  International  Conference  on  Intelligent 
+ Human  Computer  Interaction  EXCO,  Daegu,  South  Korea,  November 
+ 24-26, 2020. 
+ 19.  Reviewer  in  Pandemics-2021:  Pandemic  Detection  and  Analysis  through 
+ Smart Computing Technologies Oct 2020. 
+ 20.  2nd  International  Conference  on  Advances  in  Science  and  Technology 
+ (ICAST-2019)  at  K.  J.  Somaiya  Institute  of  Engineering  and  Information 
+ Technology  Sion,  in  Association  With  The  Institution  of  Engineering  and 
+ Technology (The IET, India) University of Mumbai, April 8-9, 2019. 
+ 21.  First  International  Conference  on  Smart  Internet  of  Everything  (Smart 
+ IoE),  MIT  School  of  Engineering,  Pune,  Maharashtra,  India  on  14-15th 
+ January 2019. 
+ 22.  IEEE  Technically  Co-Sponsored,  3rd  Biennial  International  Conference  on 
+ Nascent  Technologies  in  Engineering,  Fr.  C.  Rodrigues  Institute  of 
+ Technology, Vashi, Navi Mumbai, India, January 04-05, 2019. 
+ 23.  International  conference  on  Data  Science  and  Analytics,  IEEE  Pune  Con 
+ (44533), 2018 at Symbiosis Institute of Technology, Pune. 
+ 24.  3rd  International  Conference  on  Computing,  Communication  and  Signal 
+ Processing  (ICCASP),  organized  by  Dr.  Babasaheb  Ambedkar 
+ Technological University in Lonere-Raigad, India on January 26–27, 2018. 
+ 25.  International  Conference  On  Emerging  Research  trends  In  Applied 
+ Engineering  and  Technology  (ICERAT-2016),  Konkan  Gyanpeeth  College 
+ Of Engineering, Karjat, on 1st And 2nd April 2016 
+ 26.  2nd  International  Conference  on  Computing,  Communication  and  Signal 
+ Processing  (ICCASP),  organized  by  Dr.  Babasaheb  Ambedkar 
+ Technological  University  in  Lonere-Raigad,  India  26  -  27,  December, 
+ 2016.. 
+
+ 27.  International  Conference  on  Engineering  Confluence  (ICEC)  on  30th 
+ September  &  1st  October  2015,  Terna  Engineering  College,  Nerul,  Navi 
+ Mumbai. 
+ 28.  IEEE  International  Conference  on  Industrial  Instrumentation  and  Control  , 
+ College of Engineering Pune, 28  th  - 30  th  May 2015. 
+ 29.  International  Conference  on  Technologies  for  Sustainable  Development  , 
+ proceedings  to  be  published  in  IEEE  Xplore,  DBIT,  Kurla,  February  4-6, 
+ 2015. 
+ 30.  International  Conference  on  Advances  in  Science  and  Technology  (ICAST 
+ 2014),  Saraswati  College  of  Engineering,  Navi  Mumbai,  November  11-12, 
+ 2014 
+ 31.  VIT  International  Conference  on  Recent  Advances  and  Challenges  in 
+ Engineering  and  Management  (RACEM-2014),  IEEE  Bombay 
+ Section, April 3-4, 2014. 
+ 32.  International  Conference  on  Green  Computing  and  Technology  ,  ICGCT, 
+ organized  SIES  Graduate  School  of  Technology,  Nerul,  Navi  Mumbai 
+ during 5-6  th  September 2013. 
+ 33.  National  Conference  on  Communication,  Computing  and  Networking 
+ Technologies  (NCCCNT-13)  organized  at  SGGSIE&T  during  15-16  th 
+ March 2013. 
+ 34.  National  Conference  on  Tech  Streams  -  organized  at  Pillai  HOC  College  of 
+ Engineering  &  Technology,  Rasayani,  Raigad  during  21-22  nd  February 
+ 2014. 
+
+ Certification Courses  :  Certification Courses: 
+ 1.  Successfully  completed  a  8-Week  NPTEL  online  course  on  "Research 
+ Methodology”,  with  a  consolidated  score  of  71  %  conducted  on 
+ 22-03-2025  by  IIT  Kharagpur  and  funded  by  the  Ministry  of  HRD,  Govt. 
+ of India, during January - April 2024. [  Certificate  ] 
+ 2.  Successfully  completed  a  12-Week  NPTEL  online  course  on  “Patent 
+ Law  for  Engineers  and  Scientists”,  with  a  consolidated  score  of  58  % 
+ conducted  on  03-05-2025  by  IIT  Madras  and  funded  by  the  Ministry  of 
+ HRD, Govt. of India, during February - April 2025. [  Certificate  ] 
+ 3.  Successfully  completed  a  4-Week  NPTEL  online  course  on  “Patent 
+ Drafting  for  Beginners”,  with  a  consolidated  score  of  50%  conducted  on 
+ 23-03-2025  by  IIT  Madras  and  funded  by  the  Ministry  of  HRD,  Govt.  of 
+ India, during February - March 2025. [  Certificate  ] 
+ 4.  Completed  the  course  2020  PLAYBACK  -  Strategic  Approach  to 
+ Plagiarism  Screening,  IEEE  CMT,  Credit  Hours:  1  Professional 
+ Development  Hour  /  .1  Continuing  Education  Units,  July  19,  2022.  [ 
+ Certificate  ] 
+ 5.  Completed  the  course  2020  PLAYBACK  -  Peer  Review  -  Overview  July 
+ 19,  2022,  IEEE  CMT,  Credit  Hours:  1  Professional  Development  Hour  / 
+ .1 Continuing Education Units, July 19, 2022. [  Certificate  ] 
+ 6.  Completed  the  course  IEEE  Conference  Publications  Overview,  IEEE 
+ CMT,  Credit  Hours:  1  Professional  Development  Hour  /  .1  Continuing 
+ Education Units, July 19, 2022. [  Certificate  ] 
+ 7.  Successfully  completed  a  12-Week  NPTEL  online  course  on 
+ "Introduction  to  Internet  of  Things”,  with  a  consolidated  score  of  88% 
+ conducted  by  IIT  Kharagpur  and  funded  by  the  Ministry  of  HRD,  Govt. 
+ of India, during January - April 2020. [  Certificate  ] 
+ 8.  Successfully  completed  a  4-Week  NPTEL  online  course  on  “Python  for 
+ Data  Science”,  with  a  consolidated  score  of  92%  conducted  by  IIT 
+ Madras  and  funded  by  the  Ministry  of  HRD,  Govt.  of  India,  during 
+ January - February 2020. [  Certificate  ] 
+ 9.  Successfully  completed  a  4-Week  NPTEL  online  course  on  “Patent 
+ Drafting  for  Beginners”,  with  a  consolidated  score  of  50%  conducted  by 
+ IIT  Madras  and  funded  by  the  Ministry  of  HRD,  Govt.  of  India,  during 
+ February - March 2018. [  Certificate  ] 
+ 10.  Successfully  completed  an  8-Week  NPTEL  online  course  on  “Data 
+ Science  for  Engineers”,  with  a  consolidated  score  of  72%  (Elite  Grade), 
+ conducted  by  IIT  Madras  and  funded  by  the  Ministry  of  HRD,  Govt.  of 
+ India, during February - March 2018. [  Certificate  ] 
+ 11.  Successfully  completed  an  8-Week  NPTEL  online  course  on 
+ “Introduction  to  Research”  with  a  consolidated  score  of  75%  (Elite 
+ Grade),  conducted  by  IIT  Madras  and  funded  by  the  Ministry  of  HRD, 
+ Govt. of India, during July - September 2017. [  Certificate  ] 
+
+ 12.  Successfully  completed  a  4-Week  NPTEL  online  course  on  “Digital 
+ Image  Processing  of  Remote  Sensing  Data”  with  a  consolidated  score 
+ of  72%  (Elite  Grade),  conducted  by  IIT  Roorkee  and  funded  by  the 
+ Ministry  of  HRD,  Govt.  of  India,  during  July  -  August  2017.  [  Certificate 
+ ] 
+ 13.  Successfully  completed  an  8-Week  NPTEL  online  course  on 
+ “Introduction  to  Modern  Application  Development”  with  a 
+ consolidated  score  of  70%  (Elite  Grade),  conducted  by  IIT  Madras  and 
+ funded  by  the  Ministry  of  HRD,  Govt.  of  India,  during  January  -  March 
+ 2017. [  Certificate  ] 
+ 14.  Successfully  completed  an  8-Week  NPTEL  online  course  on  “Outcome 
+ Based  Pedagogic  Principles  for  Effective  Teaching”  with  a 
+ consolidated  score  of  78%  (Elite  Grade),  conducted  by  IIT  Kharagpur  and 
+ funded  by  the  Ministry  of  HRD,  Govt.  of  India,  during  January  -  March 
+ 2017. [  Certificate  ] 
+ Interaction with Outside 
+ World 
+ MEMBER - PhD Research Advisory Committee 
+ 1.  Department of Information Technology, SIES Graduate School of 
+ Technology, Sri Chandrasekarendra Saraswathy Vidyapuram, Plot 1-C D 
+ E, Sector V, Nerul, Navi Mumbai- 400706. 
+ 2.  Department of Computer Engineering, Ramrao Adik Institute of 
+ Technology, Nerul, Navi Mumbai. 
+ 3.  Department of Computer Engineering, Thakur College of Engg. & 
+ Technology (TCET), Kandivali East. 
+ 4.  Department of Computer Engineering, Annasaheb Chudaman Patil 
+ College of Engineering (ACPCE), Kharghar, Navi Mumbai. 
+ 5.  Department of Computer Engineering, Mukesh Patel School of 
+ Technology Management & Engineering (MPSTME), Mumbai. 
+ Interaction with Outside 
+ World 
+ MEMBER - Department Advisory Board (DAB) 
+ 1.  Department of Computer Science and Engineering, Shri Swami 
+ Vivekanand Shikshan Sanstha Kolhapur's Bapuji Salunkhe Institute of 
+ Engineering and Technology, Kolhapur. 
+ 2.  Department of IOT, Cybersecurity and Blockchain, Smt. Indira Gandhi 
+ College of Engineering, Ghansoli. 
+ 3.  Department of Computer Engineering, Shah & Anchor Kutchhi 
+ Engineering College, Mumbai. 
+ 4.  Department of Computer Engineering, St. Francis Institute of 
+ Technology, Borivali, Mumbai- 400103. 
+ 5.  Department of Computer Engineering, Mukesh Patel School of 
+ Technology Management & Engineering (MPSTME), Mumbai. 
+
+ Interaction with Outside 
+ World 
+ National and International Level Responsibilities: 
+ Conference Session Chair 
+ 1.  Session  Chair  in  International  Conference  on  "Interdisciplinary  Research 
+ in  Science,  Engineering,  and  Technology"  (ICIRSET  2025)  organized  by 
+ Shah  &  Anchor  Kutchhi  Engineering  College  (SAKEC)  Mumbai,  on  1st 
+ November 2025. 
+ 2.  Session  Chair  in  National  Conference  On  Data-Centric  Ai  For 
+ Sustainable  Digital  Age  (DASDA  2025)  organized  by  Shah  &  Anchor 
+ Kutchhi  Engineering  College  (SAKEC)  Mumbai,  on  2nd  November 
+ 2025. 
+ 3.  Session  Chair  in  4th  International  conference  on  “Communication 
+ System,  Computing  and  IT  Applications  2023  (CSCITA  –  23)  organized 
+ by  St.  Francis  Institute  of  Technology  (SFIT),  Mumbai  during  March  31st 
+ and April 1st, 2023. 
+ 4.  Session  Chair  in  Springer,  4th  International  Conference  on  Advanced 
+ Technologies  for  Societal  Application,  Techno  Societal  9-10,  Pandharpur, 
+ December 2022. 
+ 5.  Session  Chair  in  National  e-Conference  on  “Emerging  Trends  in 
+ Artificial  Intelligence  and  Big  Data  (ETAB-2020)”  organized  by 
+ Information  Technology  Department,  Pune  Institute  of  Computer 
+ Technology (PICT), Pune on 12th June, 2020. 
+ 6.  2nd  International  Conference  on  Advanced  Technologies  for  Societal 
+ Application, Pandharpur, M.S, India, 14-15th December 2018. 
+ 7.  3rd  International  Conference  on  Computing,  Communication  and  Signal 
+ Processing  (ICCASP),  organized  by  Dr.  Babasaheb  Ambedkar 
+ Technological  University  in  Lonere-Raigad,  India  on  January  26–27, 
+ 2018. 
+ 8.  International  Conference  On  Emerging  Research  Trends  in  Applied 
+ Engineering  and  Technology  (ICERAT-2016),  Konkan  Gyanpeeth 
+ College Of Engineering, Karjat, Raigad - 410 201, India. 
+ 9.  International  Conference  on  Recent  Trends  in  Computer  and  Electronics 
+ Engineering  (ICRTCEE  2016),  Next  to  Dukes  Company,  Chembur, 
+ Mumbai– 400 088, Maharashtra, India. 
+ 10.  International  Conference  on  Engineering  Confluence  (ICEC)  on  30th 
+ September  &  1st  October  2015,  Terna  Engineering  College,  Nerul,  Navi 
+ Mumbai. 
+ 11.  International  Conference  on  Advances  in  Science  and  Technology 
+ (ICAST  2014),  Saraswati  College  of  Engineering,  Navi  Mumbai, 
+ November 11-12, 2014. 
+ 12.  International  Conference  on  Recent  Advances  and  Challenges  in 
+ Engineering  and  Management  (RACEM-2014),  IEEE, VIT,  Wadala,  April 
+ 3-4, 2014.  
+
+ 13.  International  Conference  on  Green  Computing  and  Technology,  ICGCT, 
+ organized  SIES  Graduate  School  of  Technology,  Nerul,  Navi  Mumbai 
+ during 5-6  th  September 2013. 
+
+ Interaction with Outside 
+ World 
+ National and International Level Responsibilities: 
+ Event Judge: 
+ 1.  Dr.  Satishkumar  L.  Varma  has  served  as  a  Judge  for  20th  Aavishkar: 
+ Inter-Collegiate  /  Institute  /  Department  Research  Convention  (Zonal 
+ Round)  for  Zone  X:  Engineering  Colleges/Institutes  which  is  scheduled 
+ on  Wednesday,  December  10,  2025  at  09:00  a.m.  at  A.P.  Shah  Institute  of 
+ Technology,  Thane  for  Category  5:  Engineering  and  Technology  and  UG, 
+ PG and PPG Level(s). 
+ 2.  Judge for 20th Aavishkar: Inter-Collegiate / Institute / Department Research 
+ Convention (Zonal Round) for Zone VII (Raigad) scheduled on Sunday, 
+ November 30, 2025 at Saraswati College of Engineering, Kharghar. 
+ 3.  Judge in Project Competition, Prakalp 2025, organized by the Department 
+ of Artificial Intelligence and Machine Learning, D.J. Sanghvi College of 
+ Engineering , Mumbai on Wednesday, April 23rd, 2025. 
+ 4.  Panelist  for  “War  of  AI:  For  or  Against?  Where  Minds  Clash  &  Machines 
+ Evolve”,  a  dynamic  GenAI-powered  debate  challenge  at  SVKM's  Narsee 
+ Monjee College Mumbai, India, on 6th and 7th May 2025. 
+ 5.  Judge  for  19th  Aavishkar:  Inter-Collegiate  /  Institute  /  Department 
+ Research  Convention  (Zonal  Round)  for  Zone  X:  Engineering  Colleges  / 
+ Institutes  on  Sunday,  December  15,  2024  at  Lokmanya  Tilak  College  of 
+ Engineering,  Koparkhairane,  Navi  Mumbai  for  Category  3:  Pure  Sciences 
+ and UG Level(s). 
+ 6.  Judge  for  the  Project  Exhibition  ViSION-2024  at  Vishwaniketan  Campus 
+ Khalapur on 20/04/2024. 
+ 7.  Judge  for  17th  Inter-Collegiate/Institute/Department  Avishkar  Research 
+ Convention:  2023-24  (Selection  Round)  on  Tuesday,  December  19,  2023 
+ at  Shah  and  Anchor  Kutchhi  Engineering  College,  Chembur,  Mumbai  for 
+ Category:5 Engineering and Technology for UG, PG and PPG Level(s). 
+ 8.  Judge  for  17th  Inter-Collegiate/Institute/Department  Avishkar  Research 
+ Convention: 2022-23 (Selection Round) [Online], Dec 2022. 
+ 9.  Judge  for  16th  Inter-Collegiate/Institute/Department  Avishkar  Research 
+ Convention: 2021-22 (Selection Round) [Online], March 2022. 
+ 10.  Judge  for  16th  Inter-Collegiate/Institute/Department  Avishkar  Research 
+ Convention: 2021-22 (Selection Round) [Online], March 2022. 
+ 11.  Judge  at  “National  Level  Technical  Paper  Presentation/Project 
+ Competition”, at Terna CoE, Nerul, conducted on 13-14 March 2018. 
+ 12.  Judge  for  the  Level  -  II  45th  Jawaharlal  Nehru  National  Science, 
+ Mathematics  and  Environment  Exhibition  for  Children  -  Regional  Level 
+ (Phase I) 2017 on 19 Dec 2017. 
+ 13.  Judge  for  the  Level  -  I  45th  Jawaharlal  Nehru  National  Science, 
+ Mathematics  and  Environment  Exhibition  for  Children  -  Regional  Level 
+ (Phase I) 2017 on 6 Nov 2017. 
+
+ 14.  Judge  at  “Avishkar  2016”,  a  Research  Convention  launched  by  His 
+ Excellency,  the  Governor  of  Maharashtra,  at  FAMT  Ratnagiri  on  19 
+ October 2016. 
+ 15.  Judge  at  “Avishkar  2015”,  a  Research  Convention  launched  by  His 
+ Excellency,  the  Governor  of  Maharashtra,  at  AC  Patil  College  of 
+ Engineering, Kharghar, Dec 2015. 
+ 16.  Judge  for  “Project  Exhibition”,  Virtuosic  2015,  at  SSPM’s  College  of 
+ Engineering, Kankavli, Sindhudurg - 416602, on February 27, 2015. 
+ 17.  Judge  for  the  “Technical  Paper  Presentation”,  Encore-2014,  at  Don  Bosco 
+ Institute of Technology, Kurla, Mumbai - 400070, on April 8, 2014. 
+ 18.  Judged  the  “CSI  –  SSJCOE  –  STUDENT  CHAPTER”  Technical  Paper 
+ presentation, Dombivli, Thane. 
+ 19.  Judge  for  the  “EVOLUTION  2K10”,  Research  Paper  Evolution  Event, 
+ SSPM's College of Engineering, Kankavali, Sindhudurg - 416602. 
+ 20.  Judge  for  the  "MINDS  EYE  -  09"  National  Level  Project  Competition,  St. 
+ Francis Institute of Technology, Mount Poinsur, Borivali(w) - 400103. 
+ 21.  Judge  for  the  “Verismo  06”  National  Level  Technical  Symposium,  Vidya 
+ Pratishthan's College of Engineering, Vidyanagari, Baramati - 413133. 
+ 22.  Judge  for  the  “Technical  Paper  Presentation”,  Don  Bosco  Institute  of 
+ Technology, Kurla (w), Mumbai - 400070. 
+
+ Interaction with Outside 
+ World 
+ :  Interaction with Outside World 
+ Invited Talks: 
+ 1.  Dr.  Satishkumar  L.  Varma  has  delivered  a  session  in  an  AICTE  Training 
+ and  Learning  (ATAL)  Academy  Sponsored  Basic  Offline  Two-Week 
+ Faculty  Development  Programme  on  “Recent  Trends  and  digital 
+ techniques  in  Manufacturing  Systems  Emerging  Field:  Manufacturing  & 
+ Industry  4.0,”  organized  by  the  at  the  Department  of  Mechanical 
+ Engineering,  Pillai  HOC  College  of  Engineering  and  Technology,  Pillai 
+ HOCL  Educational  Campus,  Khalapur,  HOC  Colony  Rd,  Taluka, 
+ Rasayani,  Maharashtra  410207  scheduled  from  1st  December  2025  –  13th 
+ December 2025. 
+ 2.  Dr.  Satishkumar  L.  Varma  has  delivered  a  session  in  FDP  organized  by 
+ the  Department  of  Computer  Science  and  Engineering  and  is  organizing  a 
+ Five  day  Faculty  Development  Programme  on  “Artificial  Intelligence 
+ and  Machine  Learning  for  Academic,  Healthcare  and  Industrial 
+ Innovation” scheduled from 13th Oct to 17th Oct, 2025. 
+ 3.  Dr.  Satishkumar  L.  Varma  has  delivered  a  session  in  an  AICTE  Training 
+ and  Learning  (ATAL)  Academy  Sponsored  Offline  One-Week  Faculty 
+ Development  Programme  on  "Ethical  and  Responsible  AI:  Harnessing 
+ XAI  for  India’s  Economic  Future,"  at  the  Department  of  Information 
+ Technology,  SVKM's  Dwarkadas  J.  Sanghvi  College  of  Engineering,  Vile 
+ Parle, Mumbai 400056 on 18th July 2025. 
+ 4.  Dr.  Satishkumar  L.  Varma  has  delivered  a  session  in  an  ISTE-approved 
+ one-week  Short-Term  Training  Programme  (STTP)  on  Short  Term 
+ Training  Program  on  "Generative  AI:Use  Cases  in  Various  Businesses," 
+ at  Department  of  Computer  Engineering,  Thadomal  Shahani  Engineering 
+ College on 3rd July 2025. 
+ 5.  Dr.  Satishkumar  L.  Varma  has  delivered  a  session  in  an  ISTE-approved 
+ one-week  Short-Term  Training  Programme  (STTP)  titled 
+ "Revolutionizing  Education  with  AI:  Leveraging  Next-Gen  Tools  for 
+ Smarter  Teaching  and  Learning",  organized  at  the  Department  of 
+ Information  Technology,  St.  Francis  Institute  of  Technology  (SFIT), 
+ Borivali (West), Mumbai on 30th June 2025. 
+ 6.  Delivered  a  session  on  “Assessment  Tools,”  for  faculty  organized  by  the 
+ Department  of  Computer  Engineering,  Fr.  C.  Rodrigues  Institute  of 
+ Technology, Navi Mumbai on 2 May 2025. 
+ 7.  Delivered  a  session  on  “Quantum  Gate:  The  Hadamard  Gate”,  in  AICTE 
+ Training  And  Learning  (ATAL)  Academy  sponsored  one  week  Faculty 
+ Development  Program  (FDP)  on  “Quantum  Computing:  India’s  Journey 
+ towards  Quantum  Excellence”  from  13th  January  to  18th  January,  2025  in 
+ offline  mode  organized  by  the  Department  of  Information  Technology, 
+ SVKM's  Dwarkadas  J.  Sanghvi  College  of  Engineering,  Vile  Parle, 
+ Mumbai  400056, Maharashtra, India. 
+
+ 8.  Delivered  an  expert  lecture  on  “Preparation  and  submission  of  Research 
+ Proposal”,  as  part  of  our  R  and  D  activities  of  the  Department  of 
+ Computer  Engineering,  Fr.  C.  Rodrigues  Institute  of  Technology,  Navi 
+ Mumbai on 9th December 2024. 
+ 9.  Delivered  a  session  for  engineering  faculty,  research  scholars  on  “Scope 
+ of  Research  and  Research  Impact,”  on  16th  November  2024  in  the 
+ ISTE-approved  Two-Week  Short-Term  Training  Program  (STTP)  on 
+ “Research  Insight  in  Multi-Disciplinary  Domains,”  organized  by  SAKEC 
+ Research Centre from 08th -30th November 2024. 
+ 10.  Conducted  an  interactive  session  on  “Machine  Learning  and  Model 
+ Evaluation,”  in  the  Image  processing  domain  on  Monday,  1st  April  2024 
+ at Don Bosco Institute of Technology, Kurla ( West). [  Proof Document  ] 
+ 11.  Conducted  a  session  on  “Emerging  Trends  in  Image  Processing  and 
+ Computer  Vision,”  at  Dwarkadas  J.  Sanghvi  College  of  Engineering,  Vile 
+ Parle on 30 March 2024. [  Proof Document  ] 
+ 12.  Talk  in  ISTE  approved  Short  Term  Training  Program  (STTP)  on  "Gray 
+ Box  Probing  Generative  AI"  scheduled  to  run  from  January  8th  to 
+ January  13th,  2024  at  Fr.  C.  Rodrigues  Institute  of  Technology,  Vashi, 
+ Navi Mumbai. [  Proof Document  ] 
+ 13.  Expert  lecture  on  "Encoder  Decoder  Moders"  at  Department  of  Computer 
+ Science  &  Engineering  SVERI  College  of  Engineering,  Pandharpur  on  29 
+ Oct 2023. [  Proof Document  ] 
+ 14.  Expert  lecture  on  "Sequence  Modeling",  at  Department  of  Computer 
+ Science  &  Engineering  SVERI  College  of  Engineering,  Pandharpur  on  28 
+ Oct 2023. [  Proof Document  ] 
+ 15.  Resource  person  to  conduct  the  Awareness  Seminar  on 
+ Coding/Programming  Skills,  organized  by  Department  of  AIDS,  Konkan 
+ Gyanpeeth  College  of  Engineering,  Karjat,  held  on  Tuesday,  28th  March 
+ 2023. [  Proof Document  ] 
+ 16.  Motivation  session  and  chief  guest  for  Inauguration  of  Technical  Club, 
+ ByteCode  and  Key  Resource  Person  at  Department  of  Computer 
+ Engineering, CSMIT Panvel on 17th August 2022. [  Proof Document  ] 
+ 17.  Invited  as  one  of  the  Speakers  for  Module  1  (with  a  focus  on  1.4  LaTex) 
+ during  the  Orientation  Program  for  the  newly  introduced  course  - 
+ AEL/MEL  703  Industrial  skills  -  BE  sem  VII  R-19,  C  scheme,  organized 
+ on  behalf  of  Lokmanya  Tilak  College  of  Engineering,  Koparkhairne,  and 
+ BoS,  Mechanical  Engineering,  UoM.Mode:  in  Virtual/Online  mode  on  16 
+ July 2022. [  Proof Document  ] 
+ 18.  Resource  person  for  the  online  certification  course  on  DIP  using  Matlab 
+ conducted  during  the  academic  year  2021-2022  IT,  PICT,  Pune.  [  Proof 
+ Document  ] 
+ 19.  Resource  person  in  STTP  on  Machine  Learning  -  Clustering  Algorithm 
+ RMCET on 13 Jan 2022. [  Proof Document  ] 
+ 20.  Resource  person  in  STTP  on  Optimization  Techniques  -  Genetic 
+ Algorithm RMCET on 14 Jan 2022. [  Proof Document  ] 
+
+ 21.  Conducted  an  ONLINE  Faculty  Orientation  Program  (FOP)  on  "Image 
+ Processing",  a  course  of  TE-IT  SEM-VI  Rev-2019  ’C’  Syllabus  Scheme 
+ held  on  10th  January,  2022  organized  By  Department  of  Information 
+ Technology,  Pillai  College  of  Engineering,  New  Panvel  on  behalf  of 
+ Board of Studies IT, University of Mumbai. [  Proof Document  ] 
+ 22.  Invited  as  Guest  speaker  for  the  inauguration  of  ITSA-SLRTCE  on  7 
+ September 2021. [  Proof Document  ] 
+ 23.  Expert  Speaker  in  the  Faculty  Development  Program  on  “Research 
+ Methodology  &  IPR”,  Department  of  Computer  Engineering  PHCET, 
+ Rasayani on 10th July 2021. [  Proof Document  ] 
+ 24.  Expert  talk  on  Computer  Vision  for  Ph.D  students  at  Usha  Mittal  Institute 
+ of  Technology,  SNDT  Women's  University,  Santacruz,  Mumbai  on  19 
+ November 2019. [  Proof Document  ] 
+ 25.  Talk  on  “Python  Programming  on  COLAB  and  its  impact  on  Future 
+ Technologies,”  conducted  by  Department  of  Electronics  and 
+ Telecommunication  Engineering  at  DBIT  Kurla  on  27  September,  2019. 
+ [  Proof Document  ] 
+ 26.  Conducted  a  one  day  workshop  on  Latex  organized  by  CSI  -  PCE  on  4th 
+ August, 2018. [Proof Document] 
+ 27.  Mentoring  Educators  in  Educational  Technology  -  FDP301x,  Pandit 
+ Madan  Mohan  Malaviya  National  Mission  for  Teachers  and  Teaching 
+ (PMMMNMTT),  MHRD,  GoI,  conducted  by  IIT,  May  17th,  2018  to  June 
+ 27th, 2018. [  Proof Document  ] [  Proof Document  ] 
+ 28.  Talk  on  “File  Handling,  GUI  Programming  and  Databases”,  at  ISTE 
+ approved  STTP  on  “Python  Language  and  its  Applications”,  Shivajirao  S. 
+ Jondhale  College  Of  Engineering  &  Technology,  Dombivli,  on  5th 
+ January 2018. [  Proof Document  ] 
+ 29.  Conducted  a  workshop  on  “Report  Writing  using  LaTeX”,  at  PCE  on  14 
+ July 2017. [  Proof Document  ] 
+ 30.  Talk  at  ISTE  approved  STTP  on  "Matlab  Tools",  Shivajirao  S.  Jondhale 
+ College  Of  Engineering  &  Technology,  Asangaon,  on  30th  and  31st  May 
+ 2016. [  Proof Document  ] 
+ 31.  Conducted  a  one  day  workshop  on  “GUI  Based  Image  Processing  using 
+ MATLAB”',  at  Army  Institute  of  Technology  (AlT),  Dighi  Hills,  Pune  on 
+ 16 January 2016. [  Proof Document  ] 
+ 32.  Talk  on  “NBA  Documentation  and  Processes”  at  SSPM’s  College  of 
+ Engineering,  Kankavli,  Sindhudurg  –  416602,  on  29th  October  2015. 
+ [  Proof Document  ] 
+ 33.  Conducted  Workshop  on  “Matlab  GUI  and  Image  Processing”  at  PCE  on 
+ 5 August 2016. 
+ 34.  Session  on  “System  Modeling  and  UML”,  at  Don  Bosco  Institute  of 
+ Technology, Kurla, on Friday, February 2, 2015. [  Proof Document  ] 
+ 35.  Conducted  TEQIP  Sponsored  Workshop  on  “Learning  Effective 
+ Document  Writing  Using  LaTeX,”  15  –  16  February  2013,  RIT,  Sangli, 
+ Maharashtra, India. [  Proof Document  ] 
+
+ 36.  Delivered  talk  on  “Digital  Image  Processing:  Discrete  Image  Transform”, 
+ 8  October,  2012,  at  Don  Bosco  Institute  of  Technology,  Kurla  (W), 
+ Mumbai – 400 070, Maharashtra, India. [Proof Document] 
+ 37.  Delivered  Talk  on  “Information  &  Network  Security”  11  April  2010  at 
+ Garda  Institute  of  Technology,  GIT,  Chiplun,  Raigad,  Maharashtra,  India. 
+ [  Proof Document  ] 
+ 38.  Delivered  talk  in  ISTE  Approved  Short  Term  Training  Programme  on 
+ “Opportunities  &  Trends  in  Information  Systems  Security”  at  Don  Bosco 
+ Institute of Technology, Kurla (W), Mumbai – 400 070, MS, India. 
+ 39.  Delivered  talk  in  ISTE  approved  STTP  on  "Recent  Trends  In  Digital 
+ Image  Processing,"  31  December,  2007  to  11  January,  2008,  at  Don 
+ Bosco Institute of Technology, Kurla (W), Mumbai – 400 070, MS, India. 
+ Organized STTP / 
+ Workshops 
+ :  Organized STTP / Workshops/ Seminars: 
+ 1.  Organized  and  coordinated  an  expert  talk  on  “Research  Methodology  and 
+ IPR”  Speaker:  Dr.  Sanjay  Talbar  conducted  in  R-201  on  14th  March, 
+ 2022 at 4.00pm to 5.30pm. 
+ 2.  Organized  and  coordinated  a  webinar  on  “Finance  and  Wealth 
+ Management:  What  you  need  to  know  about  personal  finance”  conducted 
+ Over  Internet  using  Zoom  Meet  on  24th  February,  2022  at  4.15pm  to 
+ 6.45pm. 
+ 3.  Organized  and  coordinated  expert  talk  on  Research  Methodology  and  IPR 
+ (Speaker: Dr. S. N. Talbar) on 14 March 2022 
+ 4.  Organized  and  coordinated  online  Webinar  on  “Finance  and  Wealth 
+ Management  -  What  you  need  to  know  about  personal  finance,”  by  Hansi 
+ Mehrotra, Founder, The Haney Hans on 24th Feb, 2022. 
+ 5.  Organized  and  coordinated  a  one  week  workshop  on  “Writing  Documents 
+ in LaTeX” over Google Meet during 27th April to 1 May 2020. 
+ 6.  Organized  and  coordinated  Industry  Expert  Talk  on  "Trends  in  Software 
+ Testing" over Google Meet by Mr. Shiv P, Thane on 5th April 2020. 
+ 7.  Organized  Industry  Expert  talk  on  "Technology  and  you"  over  Google 
+ Meet by Ms. Pooja Lekha, IBM, Mumbai on 10th April 2020. 
+ 8.  Organized  and  coordinated  the  “Google  Apps  Training  Teaching  and 
+ Non-Teaching  Staff”,  conducted  by  Ms.  Sheenu  Shekhar,  Google  Inc.  at 
+ PIIT on 10  th  &16  th  April 2013. 
+ 9.  Organized  and  coordinated  the  “Wireless  Communication  and  Mobile 
+ Computing”,  during  December  1  –  December  5,  2008  at  Don  Bosco 
+ Institute of Technology, Kurla (W), Mumbai – 400 070, MS, India. 
+
+ Coordinated STTP / 
+ Workshops 
+ Coordinated STTP / Workshops: 
+ 1.  Volunteered  as  a  Track  Coordinator  for  Software  Technologies  Track  in 
+ Conference  on  Technologies  for  Future  Cities  2019  (CTFC  2019)  held  at 
+ PCE on January 8-9, 2019. 
+ 2.  Coordinated  FDP201x  Two  Week  ISTE  Foundation  Program  in, 
+ “Pedagogy  for  Online  and  Blended  Teaching-Learning  Process  -  Autumn 
+ 2018,”  Educational  Services  for  Outreach  at  Scale  (ESOS),  Under  the 
+ National  Mission  on  Education  through  ICT  (MHRD,  Govt.  of  India), 
+ conducted by IIT Bombay, October 25th, 2018 to December 6th, 2018. 
+ 3.  Coordinated  FDP101x  Two  Week  ISTE  Foundation  Program  in,  “ICT  for 
+ Education  -  Autumn  2018,”  Educational  Services  for  Outreach  at  Scale 
+ (ESOS),  Under  the  National  Mission  on  Education  through  ICT  (MHRD, 
+ Govt.  of  India),  conducted  by  IIT  Bombay,  September  13th,  2018  to 
+ October 18th, 2018. 
+ 4.  Coordinated  Two  Week  ISTE  Main  Workshop  on  “Cyber  Security,” 
+ Under  the  National  Mission  on  Education  through  ICT  (MHRD,  Govt.  of 
+ India) conducted by IIT Bombay, 17th-21st May, 2014. 
+ 5.  Coordinated  two  week  ISTE  main  workshop  on  “Signals  &  Systems”, 
+ Under  the  National  Mission  on  Education  through  ICT  (MHRD) 
+ conducted by IIT Kharagpur during 2-12 Jan. 2014. 
+ 6.  Coordinated  the  “Aakash  Android  Application  Programming,”  conducted 
+ by  IITB  funded  by  the  NME-ICT,  MHRD  at  PIIT,  New  Panvel,  during  23 
+ - 24 February and 2 -3 March, 2013. 
+ 7.  Coordinated  the  “Aakash  for  Education,”  funded  by  the  NME-ICT, 
+ MHRD  through  IITB  at  PIIT,  New  Panvel,  during  10  –  11  November 
+ December, 2012. 
+ 8.  Coordinator  for  Two  years  Aakash  Project  at  PIIT  Remote  Center  (Center 
+ ID: 1100) funded by the NME-ICT, MHRD through IIT Bombay. 
+
+ Attended STTP/ 
+ Workshops 
+ :  Attended STTP/ Workshops: 
+ 1.  Satishkumar  L  Varma  has  successfully  participated  and  completed  the 
+ Five-day  Online  Faculty  Development  Program  on  "AI  TOOLS  & 
+ PROMPT  ENGINEERING  FOR  OUTCOME-BASED  EDUCATION" 
+ organized  by  the  Department  Of  Artificial  Intelligence  and  Machine 
+ Learning,  SVKM's  Dwarkadas  J.  Sanghvi  College  of  Engineering  in 
+ association  with  Pantech  Solutions  India  Pvt.  Ltd.  from  4th  to  8th  May 
+ 2026. 
+ 2.  Satishkumar  L  Varma  has  successfully  completed  one  week  ISTE 
+ approved  -  Industry  Driven  One  Week  Faculty  Development  Program 
+ (FDP)  on  "AI  in  Practice:  Complete  Stack  From  Data  To  Gen  AI" 
+ conducted  during  8  December  2025  to  13  December  2025,  organised  by 
+ the  Department  of  Artificial  Intelligence  &  Data  Science  (AI&DS)  jointly 
+ with  the  Department  of  Artificial  Intelligence  &  Machine  Learning 
+ (AI&ML),  IIC-TCET,  TTC  of  Thakur  College  of  Engineering  and 
+ Technology, Mumbai, in collaboration with DataAstraa LLP. 
+ 3.  Successfully  completed  4-Week  Industrial  Training  &  Internship 
+ Conducted  by  Academy  of  Skill  Development  (ASD)  on  Data  Science, 
+ AI,  Machine  Learning  using  Python  (Project  Based)  during  December  14, 
+ 2024 to January 21, 2025. 
+ 4.  Successfully  participated  and  completed  AICTE  Training  And  Learning 
+ (ATAL)  Academy  sponsored  one  week  Faculty  Development  Program 
+ (FDP)  on  “Quantum  Computing:  India’s  Journey  towards  Quantum 
+ Excellence”  from  13th  January  to  18th  January,  2025  in  offline  mode 
+ organized  by  the  Department  of  Information  Technology,  SVKM's 
+ Dwarkadas  J.  Sanghvi  College  of  Engineering,  Vile  Parle,  Mumbai 
+ 400056, Maharashtra, India.. 
+ 5.  Participated  in  ISTE  Approved  Six  Days  Short  Term  Training  Programme 
+ (STTP)  on  “Exploring  Generative  AI  and  Explainable  AI:  Concepts  to  th 
+ th  Applications”  conducted  during  24  June  to  29  June  2024,  organized  by 
+ the  Department  of  Artificial  Intelligence  &  Machine  Learning  & 
+ Artificial Intelligence & Data Science at TCET, Kandivali. 
+ 6.  Participated  in  One  Day  Workshop  on  "Academic  Bank  of  Credits" 
+ organized  by  Internal  Quality  Assurance  Cell  (IQAC)  and  Academic 
+ Enrichment Committee on 24th August, 2023 through Online Mode. 
+ 7.  Successfully  participated  and  completed  AICTE  Training  And  Learning 
+ (ATAL)  Academy  Faculty  Development  Program  on  Emerging  Trends  in 
+ Cyber  Security  and  Digital  Forensics  at  Pillai  HOC  College  of 
+ Engineering and Technology from 04/12/2023 to 09/12/2023. 
+ 8.  Attended  and  completed  the  ISTE  approved  STTP  on  Demystifying  Deep 
+ Learning  organized  by  the  Department  of  Computer  Engineering,  Fr.  C. 
+ Rodrigues  Institute  of  Technology,  Vashi,  Navi  Mumbai  held  from 
+ January 2 to January 6, 2023. 
+
+ 9.  Participated  in  Two  Days  National  Symposium  on  Academic  Challenges 
+ Towards  Implementation  of  NEP  in  HEI's  organized  on  29th  and  30th 
+ September, 2022. 
+ 10.  Attended  AICTE  Training  And  Learning  (ATAL)  Academy  sponsored 
+ One-Week  Online  Faculty  Development  Program  on  Parallel  and 
+ Distributed  Deep  Learning  Organized  by  Department  of  Computer 
+ Science  and  Engineering  Indian  Institute  of  Information  Technology, 
+ Nagpur 28th June-2nd July, 2021. 
+ 11.  IEEE  Bombay  Section  Technical  &  Professional  Activities  Committee 
+ (TPAC)  "2021  R10-  POCO  Virtual  Workshop"  on  21st  August  2021 
+ (Saturday) 
+ 12.  Attended  the  webinar  on  Investor  Awareness  Program  (IAP)  organized  by 
+ Pillai  Institute  of  Management  Studies  and  Research,  E-certificate: 
+ KF/BSEIPF/2021-22/104323 on 12th June, 2021. 
+ 13.  Certificate - Participation and Paper Presentation 8-9 Oct CTFC 2021 
+ 14.  Participated  and  presented  a  paper  on  “Violence  Detection  for 
+ Surveillance  System  using  Lightweight  CNN  Models  ,”  7th  Int. 
+ Conference  on  Computing  in  Engineering  and  Technology,  ICCET  Feb 
+ 2022. 
+ 15.  Participated  and  presented  a  paper  on  Plant  Disease  Detection  and 
+ Management  Using  Deep  Learning  Approach,"  7th  Int.  Conference  on 
+ Computing in Engineering and Technology, ICCET Feb 2022. 
+ 16.  Attended  Expert  Talk  by  Dr.  RadhaKrishnan  Pillai,  Author  &  Teacher  of 
+ Chanakya’s  Teaching  on  “Changing  Dynamics  of  Education  post  COVID 
+ era-Insights  from  Chanakya’s  Teaching”  K.  J.  Somaiya  Institute  of 
+ Engineering  and  Information  Technology  (KJSIEIT)  Sion,  Mumbai  on 
+ 4th June 2021. 
+ 17.  Attended  Expert  Talk  by  Shri.  V.  V.  Lakshminarayana,  Ex  -  Additional 
+ DG  Police,  Maharashtra  State  on  “Technology  -  How  it  is  going  to  impact 
+ Education  in  the  Future??”  K.  J.  Somaiya  Institute  of  Engineering  and 
+ Information Technology (KJSIEIT) Sion, Mumbai, on 7th June 2021. 
+ 18.  AICTE  Training  and  Learning  (ATAL)  Academy  Online  Faculty 
+ Development  Programme  (FDP)  on  “Artificial  Intelligence  and  Machine 
+ Learning  using  Python”  Organized  by  Engineering  College  Bikaner 
+ (Rajasthan),  An  Autonomous  Institution  of  Govt.  of  Rajasthan  during  21 
+ – 25 June 2021. 
+ 19.  Participated  successfully  in  the  virtual-Faculty  Development  Program  on 
+ Investor  Wellness  during  the  Pandemic  organized  by  Board  of 
+ Industry-Academia Partnerships (BIAP), held on June 12, 2021. 
+ 20.  Attended  NAAC  approved  National  Level  Webinar  on  Assessment  and 
+ Accreditation  Process  of  NAAC,"  by  IQAC  PCE  New  Panvel  on  28 
+ August 2020. 
+
+ 21.  Completion  of  National  Level  One  Day  Awareness  Workshop  on 
+ Outcome  Based  Outcome  Based  Education  and  Accreditation  for 
+ Engineering  Colleges  organized  by  GH  Raisoni  Institute  of  Engineering 
+ and Technology, Nagpur on 11 September 2020. 
+ 22.  Attended  a  webinar  on  the  topic  Introduction  to  Data  Science  held  under 
+ the banner of CSI on 1 July 2020 
+ 23.  Participated  in  a  5  days  workshop  on  Curriculum  Development  with 
+ Learner  centric  Approach,  conducted  by  IQC  and  SMH  at  PCE  New 
+ Panvel during 19 to 14 June 2020. 
+ 24.  Participated  in  online  Webinar  on  "Role  of  Plastic  in  Pandemic" 
+ organized  by  Center  of  Excellence  in  Polymer  Science  and 
+ Engineering(CEPSE)  and  Nature  Club  Pillai  College  of  Engineering  in 
+ association  with  Indian  Center  for  Plastics  in  the  Environment(ICPE)  on 
+ 27 June 2020. 
+ 25.  Attended  webinar  on  Mathematics  For  AI,  organized  by  CSI-DBIT  and 
+ Department of Information Technology, DBIT Kurla on 25 June 2020. 
+ 26.  Participated  in  the  webinar  on  “Pillars  of  Good  Immunity”  organized  by 
+ Department  of  Computer  Engineering  and  Information  Technology,  PCE 
+ held on 6 June 2020. 
+ 27.  Participated  in  the  Webinar  titled  "Know  your  Fabric  and  Heritage  of 
+ India,"  a  fundraising  event  by  the  Department  of  Computer  Engineering 
+ and  the  Department  of  Information  Technology  in  association  with  the 
+ Student Council, PCE on 16 June 2020. 
+ 28.  Attended  One  Week  Online  Faculty  Development  Program  on  "Swift(ios) 
+ programming Language" from 12 May to 16 May 2020. 
+ 29.  Attended  Leadership  Talk  With  Dr.  Pramod  Chaudhari,  Founder, 
+ Chairman,  Praj  Industries  Limited  and  Dr.  Abhay  Jere,  Chief  Innovation 
+ Officer MHRD Innovation Cell, Saturday, 16 May 2020. 
+ 30.  Successfully  completed  online  Quiz  on  “Python  Programming”  on 
+ 6-6-2020,  organized  by  Department  of  Electronics  &  Telecommunication 
+ Engineering,  Dr  D  Y  Patil  School  of  Engineering  &  Technology,  Dr  D  Y 
+ Patil  Knowledge  City,  Charholi  (Bk.),  Via.  Lohgaon,  Pune  –  412  105,  6 
+ June 2020. 
+ 31.  Successful  completion  of  National  Level  Online  Quiz  on  “E-Learning” 
+ Organized  by  department  of  Computer  Engineering,  P.V.P.P.  College  of 
+ Engineering, Mumbai on  6 June 2020. 
+ 32.  Successfully  completed  online  Quiz  on  “Python  Programming”  on 
+ 6-6-2020,  organized  by  Department  of  Electronics  &  Telecommunication 
+ Engineering,  Dr  D  Y  Patil  School  of  Engineering  &  Technology,  Pune,  6 
+ June 2020. 
+ 33.  Successfully  completed  the  Online  Quiz  Program  on  “Recent  Trends  in 
+ Machine  Learning,  Deep  Learning  and  Artificial  Intelligence"  conducted 
+ by  the  Electronics  and  Communication  Engineering  Department  of 
+ Anurag  University,  Hyderabad,  Telangana  with  a  passing  score  of  75%  on 
+ 27 May 2020. 
+
+ 34.  Participated  in  the  quiz  “Computer  Graphics  and  Multimedia”  organized 
+ by  the  Department  of  information  technology,  Er.  Perumal  Manimekalai 
+ college of Engineering, Hosur - 635117 on 26 May 2020. 
+ 35.  Participated  in  DICE  Bootcamp  (Design,  Innovation,  creativity, 
+ Entrepreneurship)  at  ISME,  School  of  Management  and 
+ Entrepreneurship, Lower Parel, Mumbai on 4 March 2020. 
+ 36.  Attended  One  Week  STTP  on  “Internet  of  Things,”  organized  by  the 
+ Department  of  Electronics  and  Electronics  of  Telecommunication 
+ Engineering  at  Terna  Engineering  College,  Neural  Mumbai  during  1-5 
+ January 2020. 
+ 37.  One  day  seminar  on  “Technologies  for  Future  Cities”,  at  PCE  New 
+ Panvel on 8 January 2020. 
+ 38.  One  Week  workshop  on  “AI  using  Deep  Learning,”  conducted  by  the 
+ Department  of  Electronics  and  Telecommunication  at  DBIT  Kurla  on 
+ December 20 -24, 2019. 
+ 39.  One  week  STTP  on  “Management  Information  System”,  at  MES  Pillai 
+ College of Engineering, New Panvel on 1 July - 5 July 2019. 
+ 40.  One  day  Workshop  on  R  organized  by  the  Teaching  Learning  Centre,  ICT 
+ at  IIT  Bombay,  funded  by  the  Pandit  Madan  Mohan  Malaviya  National 
+ Mission  on  Teachers  and  Teaching  (PMMMNMTT),  MHRD,  Govt.  of 
+ India on 9 November 2019. 
+ 41.  One  day  Workshop  on  Linux  organized  by  the  Teaching  Learning  Centre, 
+ ICT  at  IIT  Bombay,  funded  by  the  Pandit  Madan  Mohan  Malaviya 
+ National  Mission  on  Teachers  and  Teaching  (PMMMNMTT),  MHRD, 
+ Govt.  of  India,  held  at  MES  Pillai  College  of  Engineering,  New  Panvel 
+ on 23 August 2019. 
+ 42.  One  Day  Conference  on  “Polymer  Processing”  at  Pillai  College  of 
+ Engineering, New Panvel on 23 February, 2019. 
+ 43.  Four  Day  Workshop  on  “AI  using  Deep  Learning,”  organized  by  Revert 
+ Technology  Pvt.  Ltd.  E-Summit,  IIT  Roorkee  at  DBIT  Kurla  on  17-19 
+ August and 25th August 2018. 
+ 44.  Tutorial  cum  workshop  on  AI  and  ML  organized  by  IEEE  Bombay 
+ Section  in  collaboration  with  the  India  Council,  a  day-and-a-half  long 
+ Workshop, August 10-11, 2018. 
+ 45.  One  Day  Knowledge  Sharing  Program  on  “Developing  Teaching  Skills 
+ for  Blended  Learning  &  Student  Teacher-Partnership,”  at  ICFAI  Business 
+ School, Powai, 3rd August 2018. 
+ 46.  Mentoring  Educators  in  Educational  Technology  -  FDP301x,  Pandit 
+ Madan  Mohan  Malaviya  National  Mission  for  Teachers  and  Teaching 
+ (PMMMNMTT),  MHRD,  GoI,  conducted  by  IIT,  May  17th,  2018  to  June 
+ 27th, 2018. 
+ 47.  Attended  Industry  Institute  Interaction  Meet,  at  PCE  jointly  organized  by 
+ PHOC on Friday 18 May 2018. 
+ 48.  Scilab  -  Lecture  demonstration,  Endorsed  by  AICTE,  conducted  by  IITB, 
+ October 12th, 2017. 
+
+ 49.  Pedagogy  for  Online  and  Blended  Teaching-Learning  Process  -  FDP201x, 
+ Pandit  Madan  Mohan  Malaviya  National  Mission  for  Teachers  and 
+ Teaching  (PMMMNMTT),  MHRD,  GoI,  conducted  by  IIT,  September 
+ 14th, 2017 to December 30th, 2017. 
+ 50.  Foundation  Program  in  ICT  for  Education  -  FDP101x,  Pandit  Madan 
+ Mohan  Malaviya  National  Mission  for  Teachers  and  Teaching,  MHRD, 
+ GoI, conducted by IIT, August 3rd, 2017 to September 7th, 2017. 
+ 51.  Attended  the  Teacher  Training  Workshop  on  “E  Learning:  Challenges 
+ And Opportunities”, at Sardar Patel CoE, Mumbai on 22 April 2017. 
+ 52.  One  Day  Scientific  meet  on  “Oncology  Imaging  Course  ”  at  Patient 
+ Login  -  Tata  Memorial  Hospital  -  Tata  Memorial  Centre,  Mumbai  on  19 
+ March, 2017. 
+ 53.  Three  Day  Short  Term  Course  on  “Using  R  for  Data  Visualization  and 
+ Analytics”  conducted  by  C-DAC,  Mumbai  at  Kharghar  during  19-21  May 
+ 2016. 
+ 54.  One  day  UGC  supported  “National  Symposium  on  Disruptive 
+ Technologies  and  Management  Challenges”,  In  collaboration  with  Media 
+ Lab  Asia  Organizes,  at  SNDT  Women’s  University  Mumbai,  Jankidevi 
+ Bajaj Institute of Management Studies (JDBIMS) On 11th March, 2016. 
+ 55.  One  week  ISTE  approved  STTP  on  Big  Data  Analytics,  organized  by 
+ Department  of  Information  Technology,  FCRIT,  Sector  9A,  Vashi,  Navi 
+ Mumbai - 400703, during January 4th - 8th, 2016. 
+ 56.  Two  weeks  ISTE  main  workshop  on  “Signals  &  Systems”,  conducted  by 
+ IIT Kharagpur during 2  nd  January to 12  th  January 2014. 
+ 57.  Attended  the  “Google  Apps  Training  Teaching  Staff”,  conducted  by  Ms. 
+ Sheenu Shekhar, Google Inc. at PIIT on 10  th  April 2013. 
+ 58.  Attended  a  National  Conference  on  Communication,  Computing  and 
+ Networking Technologies (NCCCNT-13) March 15 – 16, 2013. 
+ 59.  Two  Days  ISTE  Workshop  on  Writing  Effective  Conference  Papers 
+ Conducted  by  Indian  Institute  of  Technology,  Bombay  18th  –  19th 
+ February, 2012. 
+ 60.  A  two-week  ISTE  Workshop  on  “  Introduction  to  Research 
+ Methodologies”,  conducted  by  IIT  Bombay  from  25  th  June  to  04  th  July 
+ 2012. 
+ 61.  A  Two-day  ISTE  WORKSHOP  on  “Writing  Effective  Conference 
+ Papers”, conducted by IIT Bombay on 18  th  and 19  th  February 2012. 
+ 62.  A  2-Day  ISTE  Workshop  on  “Research  Methods  in  Educational 
+ Technology,”  funded  by  the  NME-ICT,  MHRD  through  IIT  Bombay  on 
+ 2nd and 9th Feb 2012. 
+ 63.  A  two-week  AICTE  sponsored  staff  development  programme  on  “Recent 
+ Advances  in  Speech,  Image  and  Video  Processing,”  at  SGGSIE&T, 
+ Nanded, 12 - 23 December, 2011. 
+
+ 64.  A  Two  week  (5  weekends)  “Workshop  on  Software  Development 
+ Techniques  for  Teachers  of  Engineering  and  Science  Institutes”,  funded 
+ by  the  NME-ICT,  MHRD  and  conducted  by  IITB  at  PIIT,  New  Panvel,  5  th 
+ November to 4  th  December (5 Weak Ends), 2011. 
+ 65.  A  one  week  ISTE  approved  STTP  on  “Business  Intelligence  and  Business 
+ Analytics”, at PIIT, New Panvel, from 4  th  – 9  th  August 2011. 
+ 66.  One  day  Workshop  on  “SciLab”,  funded  by  the  NME-ICT,  MHRD 
+ through IITB conducted at PIIT, New Panvel, 21  st  to 23  rd  July, 2011. 
+ 67.  Attended  one  week  FDP  on  “Information  Technology  for  Managing 
+ Enterprises,”  at  Don  Bosco  Institute  of  Technology,  Kurla(w),  Mumbai, 
+ Maharashtra, India, January 11-15, 2010. 
+ 68.  Attended  “Soft  Skills  Workshop,”  at  Infosys,  Pune,  Maharashtra,  India, 
+ June 17-19, 2009. 
+ 69.  Attended“CCNA  (640  –  802)  Workshop,”  at  Nirmal  Datacomm  Pvt.  Ltd., 
+ Mumbai Training Center, Mumbai, Maharashtra, India, May 28, 2009. 
+ 70.  Attended“Free  Open  Source  Software”,  at  Don  Bosco  Institute  of 
+ Technology,  Kurla  (W),  Mumbai  –  400  070,  Maharashtra,  India,  June  23 
+ – June 27, 2008. 
+ 71.  Attended“Faculty  Enablement  Program,”  at  Infosys,  Pune,  Maharashtra, 
+ India, June 9-20, 2008. 
+ 72.  Attended“From  Software  Engineering  To  Engineering  Software”,  at  Don 
+ Bosco  Institute  of  Technology,  Kurla  (W),  Mumbai  –  400  070, 
+ Maharashtra, India, May 28 - June 2, 2007. 
+ 73.  Attended“Demystifying  E-Learning,”  at  C-DAC  Navi  Mumbai,  India, 
+ December 16-17, 2006. 
+ 74.  Attended“Opportunities  &  Trends  in  Information  Systems  Security”,  at 
+ Don  Bosco  Institute  of  Technology,  Kurla  (W),  Mumbai,  India, 
+ November 20 – December 1, 2006. 
+ 75.  Attended“Information  and  System  Security:  Today  and  Tomorrow”,  at  K. 
+ J.  Somaiya  College  of  Engineering,  Vidyavihar  (E),  Mumbai  –  400077, 
+ Maharashtra, India, December 05-16, 2005. 
+ 76.  Attended“System  and  Network  Security”,  at  Sardar  Patel  College  of 
+ Engineering,  Andheri  (W),  Mumbai  –  400  058,  Maharashtra,  India, 
+ February 04-05, 2005. 
+ 77.  Attended“Image  Processing”,  at  Fr.  Conceicao  Rodrigues  College  of 
+ Engineering  Fr.  Agnel  Ashram,  Bandstand,  Bandra  (W),  Mumbai  –  400 
+ 050, Maharashtra, India, June 13-18, 2005. 
+ 78.  Attended“Embedded  System  Design”,  at  DBATU,  Lonere,  India, 
+ December 01-13, 2003. 
+ 79.  Attended“Modern  Computer  Networking”,  at  Dr.  B.  A.  Tech.  University, 
+ Lonere – 402 103, Maharashtra, India, November 03-15, 2003. 
+ 80.  Attended“National  Conference  on  Object  Oriented  Technology”,  at  Dr.  B. 
+ A.  Tech.  University,  Lonere  –  402  103,  Maharashtra,  India,  August  18-30, 
+ 2003. 
+
+ 81.  Attended“Distributed  Object  Computing  using  Java/CORBA”,  at  Dr.  B. 
+ A.  Tech.  University,  Lonere  –  402  103,  Maharashtra,  India,  December 
+ 14-26, 2001. 
+ Recommended Students 
+ for Higher Education 
+ :  Recommended Students for Higher Education: 
+ 1.  Mohammad  Tabish  Mohd  Iqbal  Momin,  Master’s  in  Management  and 
+ Data Science, Leuphana University, Lüneburg, Germany,  2024. 
+ 2.  Khushal Kishor Koli, University of Galway, 2024. 
+ 3.  Tanmay  Janardan  Gurao,  Masters  in  Information  Systems,  Uppsala 
+ University, Sweden, 2023. 
+ 4.  Jatin  Tushar  Chaudhari,  Master  of  Engineering  Management,  North 
+ Carolina  State  University,  Raleigh  North  Carolina  United  States  of 
+ America, 2023. 
+ 5.  Aniket Anil Patil, University of Michigan Ann Arbor, 2023. 
+ 6.  Roshan  Ravi,  Master  of  Applied  Science  in  Computer  Engineering, 
+ Memorial University of Newfoundland, Canada, 2022. 
+ 7.  Priyaja  Jena,  Masters  in  Business  Analytics,  Boston  University,  Boston, 
+ 2022. 
+ 8.  Amruta  Santram  Khavase,  M.Sc  in  Computer  Science,  York  University, 
+ Toronto, 2022. 
+ 9.  Samiksha  Dattaram  Gavand,  Data  Science,  Northwestern  University, 
+ USA Chicago, 2022. 
+ 10.  Ninad  Sanjay  Marathe,  Computer  Science,  Syracuse  University,  New 
+ York USA, 2022. 
+ 11.  Utkarsha Shrikant Talele, California State University Long Beach, 2022. 
+ 12.  Harshada Pravin Shinde, The University of Columbia, 2022. 
+ 13.  Abhishek  Ravindran  Nair,  Masters  of  Business  Administration,  Audencia 
+ Business School, France, 2021. 
+ 14.  Varadraj  Yashwant  Kini,  Computer  Science,  University  of  Delaware, 
+ Newark, USA, 2021. 
+ 15.  Kaustubh  Sunil  Sawant,  MSc  in  Computer  Science,  Carleton  University  - 
+ Ottawa, Canada, 2021. 
+ 16.  Manish Jadhav, York University, Canada, 2021. 
+ 17.  Himanshu  Manoj  Kaloni,  Computational  Modeling  and  Simulation,  TU 
+ Dresden, Dresden Germany, 2020. 
+ 18.  Rahul Ravindra Bhosale, TRU, BC Canada, 2020. 
+ 19.  Sayli  Arjun  Pednekar,  Applied  Computer  Science,  Master  of  Science, 
+ SRH Heidelberg, Germany, 2019. 
+
+ Projects Guided  :  PhD Level: 
+ 1.  Dr.  Mimi  Charian,  “Secure  Software  Defined  Architecture  for  improving 
+ efficiency  and  security  of  Internet  of  Things,”  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel. 
+ 2.  Dr.  Seema  Redekar,  “Biological  Network  Analysis  for  Cancer 
+ Progression,”  Pillai  College  of  Engineering,  New  Panvel  (Autonomous), 
+ New Panvel. 
+ 3.  Stephy  Benny,  “Microscopic  Image  Segmentation  and  Quantification,” 
+ Pillai College of Engineering, New Panvel (Autonomous), New Panvel. 
+ 4.  Abhishek  Vichare,  “Emotion  Recognition  and  Sentiment  Analysis,” 
+ Pillai College of Engineering, New Panvel (Autonomous), New Panvel. 
+ 5.  Kanchan  Dabre,  “Detection  of  Pneumonia  Disease  from  Chest 
+ Radiograph,”  Pillai  College  of  Engineering,  New  Panvel  (Autonomous), 
+ New Panvel. 
+ 6.  Ekta  Pashine,  “Object  Detection  using  Video  for  Vehicle  Surveillance,” 
+ Pillai College of Engineering, New Panvel (Autonomous), New Panvel. 
+
+ Projects Guided  :  Projects Guided at PG Level: 
+ 1.  Anuja  Shinde,  "Smart  IOT  System  Using  AI  for  Wagon  Load 
+ Management  System,"  Master  of  Technology  (MTech)  in  Information 
+ Technology,  Pillai  College  of  Engineering,  New  Panvel  (Autonomous), 
+ New Panvel, 2023-24. 
+ 2.  Pritam  Rahul  Pawar,  "Micro  Expression  Recognition  Using 
+ Convolution,"  Master  of  Technology  (MTech)  in  Computer  Engineering, 
+ Pillai  College  of  Engineering,  New  Panvel  (Autonomous),  New  Panvel, 
+ 2023-24. 
+ 3.  Simran  Shembe,  "IOT  based  Healthcare  Monitoring  System  using  Deep 
+ Learning,"  Master  of  Technology  (MTech)  in  Information  Technology, 
+ Pillai  College  of  Engineering,  New  Panvel  (Autonomous),  New  Panvel, 
+ 2023-24. 
+ 4.  Shaumya  Kumari,  "Image  Captioning  using  Deep  learning,"  Master  of 
+ Technology  (MTech)  in  Information  Technology,  School  of  Engineering 
+ and  Applied  Sciences,  University  of  Mumbai  -  Kalyan  Sub  Center, 
+ 2022-23. 
+ 5.  Avinash  Kale,  "Kidney  Disease  Detection,"  Master  of  Technology 
+ (MTech)  in  Computer  Engineering,  School  of  Engineering  and  Applied 
+ Sciences, University of Mumbai - Kalyan Sub Center, 2021-22. 
+ 6.  Pooja  Jogi,  "Detection  of  Malaria  Parasite  Using  Deep  Learning,"  Master 
+ of  Technology  (MTech)  in  Computer  Engineering,  School  of  Engineering 
+ and  Applied  Sciences,  University  of  Mumbai  -  Kalyan  Sub  Center, 
+ 2021-22. 
+ 7.  Prachi  Kothawade,  "Plant  Disease  Detection  and  Management  Using 
+ Deep  Learning  Approach,"  Master  of  Technology  (MTech)  in  Computer 
+ Engineering,  School  of  Engineering  and  Applied  Sciences,  University  of 
+ Mumbai - Kalyan Sub Center, 2020-21. 
+ 8.  Akshada  Mali,  "Sentiment  Analysis  of  Product  Review,"  Master  of 
+ Technology  (MTech)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2019-20. 
+ 9.  Leena  Bhuskute,  "Text  Classification  in  Data  Mining,"  Master  of 
+ Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2016-17. 
+ 10.  Ninad  Gaikwad,  "Instrumental  Music  Extraction,"  Master  of  Engineering 
+ (ME)  in  Computer  Engineering,  Pillai  College  of  Engineering,  New 
+ Panvel (Autonomous), New Panvel, 2016-17. 
+ 11.  Pawankumar  Gupta,  "Protocol  Steganography,"  Master  of  Engineering 
+ (ME)  in  Computer  Engineering,  Pillai  College  of  Engineering,  New 
+ Panvel (Autonomous), New Panvel, 2016-17. 
+ 12.  Kirti  Mirgal,  "Frequent  Pattern  Mining  In  Sequence  Datasets,"  Master  of 
+ Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+
+ 13.  Manasi  Choche,  "Content-Based  Audio  Classification  Using  Mpeg-7 
+ Features,"  Master  of  Engineering  (ME)  in  Computer  Engineering,  Pillai 
+ College  of  Engineering,  New  Panvel  (Autonomous),  New  Panvel, 
+ 2015-16. 
+ 14.  Megha  Mandavkar,  "Human  Facial  Expression  Recognition,"  Master  of 
+ Engineering  (ME)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+ 15.  Nymphia  Pereira,  "Content  Based  Recommendation  System  For  Financial 
+ Planning,"  Master  of  Engineering  (ME)  in  Information  Technology,  Pillai 
+ College  of  Engineering,  New  Panvel  (Autonomous),  New  Panvel, 
+ 2015-16. 
+ 16.  Pallavi  Kadam,  "Text  Mining  On  Medical  Records,"  Master  of 
+ Engineering  (ME)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+ 17.  Sangeetha  Selvin,  "Image  Re-ranking  using  Clustering  and  User  log," 
+ Master  of  Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+ 18.  Tejali  C.  Mhatre,  "Classification  For  Future  Prediction,"  Master  of 
+ Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+ 19.  Vandana  Behera,  "Fusion  Approach  For  Human  Skin  Detection,"  Master 
+ of  Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+ 20.  Yugandhara  Gawand,  "Opinion  Mining  for  Drug  Reviews,"  Master  of 
+ Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2015-16. 
+ 21.  Priyanka  Gaonkar,  "Content-Based  Audio  Indexing  and  Retrieval," 
+ Master  of  Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2014-15. 
+ 22.  Shilpa  Gonbare,  "Discrimination  Prevention  in  Data  Mining,"  Master  of 
+ Engineering  (ME)  in  Computer  Engineering,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2014-15. 
+ 23.  Ann  Abraham  Babu,  "Hand  Gesture  Recognition  for  Human  Computer 
+ Interaction,"  Master  of  Technology  (MTech)  in  Information  Technology, 
+ Pillai  College  of  Engineering,  New  Panvel  (Autonomous),  New  Panvel, 
+ 2013-14. 
+ 24.  Ansa  Jovel  Kunnathettu,  "Machine  Learning  Techniques  for  Air  Quality 
+ Prediction,"  Master  of  Engineering  (ME)  in  Computer  Engineering,  Pillai 
+ College  of  Engineering,  New  Panvel  (Autonomous),  New  Panvel, 
+ 2013-14. 
+ 25.  Jeril  George,  "Digital  Watermarking  for  Image  Copyright  Protection," 
+ Master  of  Engineering  (ME)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2013-14. 
+
+ 26.  Pankaj  Phadtare,  "Use  of  Ontology  in  the  Semantic  Web,"  Master  of 
+ Engineering  (ME)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2013-14. 
+ 27.  Shashikant  Mane,  "Audio  Watermarking  using  Transformation,"  Master 
+ of  Engineering  (ME)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2013-14. 
+ 28.  Shraddha  Mhatre,  "Audio  Watermarking  in  Time  Domain  via  EMD," 
+ Master  of  Engineering  (ME)  in  Information  Technology,  Pillai  College  of 
+ Engineering, New Panvel (Autonomous), New Panvel, 2013-14. 
+
+ Projects Guided  :  Projects Guided at UG Level: 
+ 1.  Detection  of  AI-Generated  Videos  Using  Deep  Learning  (Isha  Patel, 
+ Moksha Shah, Dhwani Dalal, Radhika Patel) 
+ 2.  Face  De-Identification  and  Attribute-Preservation  in  Video  using 
+ Generative  Adversarial  Network  (Saakshi  Manish  Gada,  Rutuja  Vijay 
+ Visale, Zarana Naresh Sanghavi, Surajsingh Narpatsingh Rajpurohit) 
+ 3.  Explainable  AI  Framework  for  Medical  Image  Classification  (Disha 
+ Chandaria, Hetvi Patel, Archie Mehta, Agam Kamdar) 
+ 4.  Image  Generation  using  Generative  Adversarial  Networks  (Kunal  Wagh, 
+ Omkar Raul, Shreya Belanekar, Sejal Chandgadkar) 
+ 5.  Crop  Disease  Prediction  System  Using  Hybrid  Approach(Shraddha  Gaur, 
+ Ebrahim Khatri, Ansari Zaid, Sujal Dusane) 
+ 6.  Image  Enhancement  using  Autoencoder  (Shreya  Shirish  Kulkarni,  Arpita 
+ Pradip Nikam, Divya Manish Kurup, Kasturi Milind Limaye) 
+ 7.  Content  Based  Video  Retrieval  (Nishita  Jagdale,  Nitish  Palanivelu,  Nishith 
+ Dubey, Bharati Jagtap) 
+ 8.  Pneumonia  Detection  Using  Generative  Adversarial  Network  (Kale  Pallavi 
+ Rohidas, Sasane Sahil Sanjay, Devika Sudhakar, Wadgave Uttkarsh Ashok) 
+ 9.  Sign  Language  to  Voice  Conversion  Using  Deep  Convolutional  Neural 
+ Network  (Antara  Howal,  Atharva  Golapkar,  Yunus  Khan,  Siddhantha 
+ Bokade) 
+ 10.  Content  Based  Video  Retrieval  System  using  Deep  Learning  (Chhavi 
+ Yadav, Khushal Koli, Pradnya Kubal, 
+ 11.  Neel Chaudhary) 
+ 12.  Image  Enhancement  of  Underwater  Photographs  Using  Deep  Learning 
+ (Jahnevi N S, Srushti Killarikar, Chandini Chentamara, Nupur Kelkar) 
+ 13.  Intelligent  Video  Surveillance  Using  Deep  Learning  (Pramod  Baviskar, 
+ Neel B. Suba, Aakarsh Verma) 
+ 14.  Prediction  of  Chronic  Kidney  Disease  using  Machine  Learning  (Aaditya 
+ Jadhav, Rushikesh Ghodake, Karthik Muralidharan, G. Tarun Varma) 
+ 15.  Automatic  Number  Plate  Detection  and  Recognition  System  (Yogitha 
+ Nilekani, Harshada Shinde, Mohammed Sameel Shaikh) 
+ 16.  Fruit  Classification  and  Calories  Measurement  using  Machine  Learning 
+ (Adarkar  Amol  Mangesh,  Bharambe  Rishikesh  Vijay,  Gladson  Daniel  Roy, 
+ Sharma Smriti Sushil Kumar) 
+ 17.  Face  Detection  Using  Machine  Learning  (Ashwin  Vishesh,  Athira  Pillai, 
+ Mohit Dodeja) 
+ 18.  ECG-based  Heartbeat  Classification  (Nikhil  Elayath,  Ashwin  Nair, 
+ Hariharan V, Shashank R Nair) 
+ 19.  Image  Geotagging  Using  Self-Organizing  Map  and  KNN  (Sandeep  Menon, 
+ Pranav Nakhwa, Alok Jha, Vaibhav Magar) 

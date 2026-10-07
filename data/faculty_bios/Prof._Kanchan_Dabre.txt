@@ -1,0 +1,330 @@
+Bio / CV of Prof. Kanchan Dabre (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+NameofTeachingStaff
+Designation
+Department
+DateofJoiningthe
+Institution
+EmailID
+OfficeContact
+:
+:
+:
+:
+:
+:
+Dr.KanchanDabre
+AssistantProfessor
+ComputerScienceand Engineering(Data
+Science)
+20.12.2021
+kanchan.dabre@djsce.ac.in
+GoogleScholarLink : https://scholar.google.com/citations?hl=en&user=Ja5NAaEAAAAJ
+ResearchgateLink: https://www.researchgate.net/profile/Kanchan-Dabre
+ORCID https://orcid.org/0000-0003-4246-9395
+PublonsResearcherID : https://publons.com/researcher/AAD-4404-2022/
+QualificationswithClass/
+Grade
+: 1. Ph.D(InformationTechnology),MumbaiUniversity,2026.
+2. ME.(ComputerEngineering),MumbaiUniversity,2014,74.98%
+3. B.E.(ComputerEngineering.),MumbaiUniversity,2009.74.93%
+TotalExperienceinYears : Morethan16yearsTeaching:
+1. AssistantProfessor,D.J.SanghviCollegeofEngineering,Mumbai,from
+20.12.2021totilldate
+2. AssistantProfessor,UniversalCollegeofEngineering,Mumbai,17.06.2013
+to18.12.2021
+3. Lecturer,SardarPatelInstituteofTechnology,Mumbai,18.08.2011to
+15.11.2012
+4. AssistantProfessor,St.JohnCollegeofEngineering,Mumbai,26.06.2009
+to16.08.2011
+PapersPublishedinJournal: : PaperspresentedinInternationalJournal:15
+1. Jain H., Thakar Y., Jain S., Dabre K., “A Multi-Objective Optimization
+Framework for Sustainable Fleet Structure Planning Using TOPSIS
+Integrated Evolutionary Optimization”, Evolutionary Intelligence, Springer
+Nature, Vol. 19, Article No. 117, Published online: 18 July 2026, 2026. (0
+Citations)
+2. Dabre K., Varma S. L., Patil P. B., “RAPID-Net: Reduced Architecturefor
+Pneumonia in Infants Detection Using Deep Convolutional Framework
+Using Chest Radiograph”, Biomedical Signal Processing and Control, Vol.
+87,Article105375,2024.(11Citations)
+3. Dabre Kanchan, Satishkumar L. Varma, and Pankaj B. Patil, “Deep
+ArchitectureforDiagnosisofPneumoniainThoracicImages,”International
+JournalofAppliedEngineeringandTechnology,vol.5,no.4,Dec.2023.
+4. DabreKanchan,SatishkumarL.Varma,andPankajB.Patil,“Consolidation
+of Squeeze and Excitation with VGG16 for Pneumonia Diagnosis Through
+Chest X-Ray Images,” Stochastic Modelling and Computational Sciences,
+vol.3,no.2,Dec.2023.
+5. Dabre Kanchan, Satishkumar L. Varma, and Pankaj B. Patil, “Pneumonia
+Variant Detection from CXR Images using Meta-Learning in Machine
+
+Learning,”AfricanJournalofBiologicalSciences,June2024.
+6. Kanchan Dabre, “AutomaticDetection andReportGeneration ofCORONA
+Disease using Chest X-Ray”, International Journal of Creative Research
+Thoughts(IJCRT),Volume9,Issue5,May2021.
+7. Kanchan Dabre, “Emotion Based Music Player” , International Journal of
+ResearchandAnalyticalReviews(IJRAR),Volume8,Issue2,May2021.
+8. Kanchan Dabre, “Fake News Prediction using TF-IDF
+Vectorizer”,International Journal of Research and Analytical Reviews
+(IJRAR),Volume8,Issue2,May2021.
+9. Kanchan Dabre, “An Indian Sign Language Detection App”, Journal of
+emerging Technologies and Innovative Research,Volume 8, Issue 6, June
+2021.
+10. DiveshKoli, AkashBhimani,DrishtiGoda,KanchanDabre,“OnlineSocial
+Grievance Redressal Using Blockchain”,JETIR, 215-219, Volume 7, Issue
+3,March2020.
+11. SainathChilkuri,HimanshukumarPrajapati, PankajkumarPurohit, Kanchan
+Dabre, “Fabric Texture Analysis Using Image Processing Techniques”,
+JETIR,393-397,Volume7,Issue3,March2020.
+12. Shubham Bhatt, Parth Bhatt, Mann Bajaria, Prof.Kanchan Dabre,“Fake
+NewsDetection”,IJRAR,233-239,,Volume7,Issue1,March2020.
+13. Chirag Niyogi, Narsima Chilkuri, Pawan Gupta, Kanchan Dabre,
+“Predictive Analysis of Mobile Application Success”, IJRAR, Volume 6,
+Issue1,March2019
+14. Irfan Shaikh, Anish Singh, Abhishek Singh, Kanchan Dabre, “A Machine
+Learning Based Novel Approaches for Automated Technical Paper
+Assessment”,JETIR,Volume6,Issue3,March2019
+15. Parvathi Mohandas, Brijesh Shukla, Ankur Pandey, Kanchan Dabre,
+“Generation of Images from Text Description”, IJRAR, Volume 6, Issue
+1,March2019.
+16. Sahil Bhayani, Rahul kokitkar, Rohan Angadi and Kanchan Dabre,
+“INFRASTRUCTURE DECISION MODELLING” , International Journal
+ofRecentTrendsinEngineering&Research(IJTER),687-692,Volume04,
+Issue03,March-2018.
+17. Alok Jha, Shrey Jain, Shirish Jain, “Unique Identification based Railway
+Ticket Booking and Authentication System, International Journal of
+Innovative Research in Electrical, Electronics, Instrumentation and Control
+Engineering(IJIREEICE),Vol.6,Issue04,1-4,April2018.
+18. MayurGirdhar,KaranJoshi,TriashaJalui,Kanchan Dabre, “VideoCaption
+Generation using Deep Learning”, IJCRT, Volume 5, Issue 3, 25-28,
+September2017.
+PapersPresentedin
+Conferences
+PaperspresentedinInternationalConference:11
+1. Prof. Kanchan Dabre published aresearch paper titled“CausalMappingfor
+Region Based Air Quality Index Prediction” in the international conference
+proceedings of 4th International Conference on Advances in Data-driven
+Computing and Intelligent Systems (ADCIS 2025) indexed by Scopus in
+
+Nov2025.
+2. DabreK.,ShahD.,BhutP.,SuryavanshiV.,KanchiP.,“TulsiLeafDisease
+Detection using CNN”, 6th Biennial International Conference on Nascent
+TechnologiesinEngineering(ICNTE2026),2026.(0Citations)
+3. Uskaikar O., Sonavane A., Randive M., Dabre K., “Multi-Modal
+Deception Detection Using Deep Learning”, 15th International Conference
+on Computing, Communication and Networking Technologies (ICCCNT
+2024),2024.(4Citations)
+4. VithlaniJ.,DabreK.,GalaP.,VarmaS.L.,“PneumoniaDiagnosisinChest
+X-rays: A Deep Learning Framework Using Mask R-CNN and ResNet”,
+IEEE 1st International Conference on Advances in Computing,
+CommunicationandNetworking(ICAC2N2024),2024.(0Citations)
+5. PotdarA.,BhanushaliJ.,SinghS.,DabreK.,“YogaPoseClassificationand
+Correction using PoseNet”, IEEE International Conference on
+Interdisciplinary Approaches in Technology and Management for Social
+Innovation(IATMSI2024),2024.(7Citations)
+6. Dabre Kanchan, Satishkumar L. Varma, and Pankaj B. Patil, ”Deep
+Architecture for Diagnosis of Pneumonia in Thoracic Images.”, Conference
+on Technologies for Future Cities (CTFC) at Pillai College of Engineering,
+NewPanvel,2023.
+7. Dabre Kanchan, Satishkumar L. Varma, and Pankaj B. Patil, ”Deep
+Architecture for Multiclass Pneumonia Diagnosis from Chest X-Ray
+Images”,4thInternationalConferenceon.IntelligentVisionandComputing.
+(ICIVC2024), NationalInstituteof Technology Agartala,November 23-24,
+2024.
+8. Dabre Kanchan, Satishkumar L. Varma and Jay Vithlani, ”Pneumonia
+Diagnosis in Chest X-rays: A Deep Learning Framework Using Mask R-
+CNN and ResNet”, (ICAC2N-24), I.T.S Engineering College, Greater
+Noida,UttarPradesh,India,Dec2024
+9. Shah D., Kapadia P., Kakwani H., Dabre K., “Multi Criteria Decision
+Making in Fantasy Sports”, IEEE Pune Section International Conference
+(PuneCon2023),2023.(2Citations)
+10. Dabre K. R., Lopes H. R., Dmonte S. S., “Intelligent Decision Support
+System for Smart Agriculture”, International Conference on Smart City and
+EmergingTechnology(ICSCET2018),2018.(8Citations)
+11. Reddy K. B. S., Loke O., JaniS., DabreK., “Tracking People in Real Time
+Video Footage Using Facial Recognition”, International Conference on
+SmartCityandEmergingTechnology(ICSCET2018),2018.(5Citations)
+12. Kanchan D., Surekha D.,“Machine Learning Model for Sign Language
+Interpretation using Webcam Images”, IEEE Conference on Circuit System
+CommunicationandInformationTechnology Applications(CSCITA-2014),
+Mumbai,pp.317-321,April2014.(48 Citations)
+PaperspresentedinNationalConference:01
+1. Kanchan D., Dhanajay Kalbande,” An Efficient Rcommender System using
+Collaborative Filtering Methods with K-separability Approach”, National
+
+Conference on Emerging Trends in Engineering & Technology (,IJERA,-
+VCET-2012),ISSN:2248-9622,Mumbai-India,May2012.( 13 Citations)
+Book Chapter: 01
+1.Kanani P., Kothari N., Vartak P., …, Desai N., Padole M., “Insight into the
+Quantum Internet: A Review”, Research Advances in Network Technologies,
+Volume2,2024.(BookChapter)(0Citations)
+Lecture Notes: 01
+1. Kamdar A., Ghosh B., Dabre K., “Optimizing Uncertainty in Placement
+Prediction Using Bayesian Belief Networks and LLMs”, Lecture Notes in
+NetworksandSystems,Vol.1295,2025.(0Citations)
+AreaofSpecialization Computer Vision, Natural Language Processing, Artificial Intelligence, Machine
+Learning,DeepLearningandStatisticsforDataScience.
+PhDGuide?Givefield&
+University
+: Field:
+University:
+PhDs/ProjectsGuided : PhDs :
+Projects at Masters level:
+BooksPublished/IPRs/
+Patents
+: Books (Editors for
+conference Proceedings on
+Springer)
+ProfessionalMemberships :  ISTELifeTimeMembership
+ SocietyofDataScience
+Grantsfetched : Minor Research Grant
+(UniversityofMumbai)
+
+InteractionwithProfessional
+Institutions
+: Guest Lectures:
+Other Achievements and
+Responsibilities:
+WORKSHOPS AND SEMINAR CONDUCTED
+1. Delivered an Invited Expert Session on
+"Medical Image Processing" at VIVA
+InstituteofTechnology, Virar,on 13January
+2026.
+2. Delivered an Invited Hands-on Workshop on
+"Fundamentals of Neural Networks and
+Learning Algorithms" at VIVA Institute of
+Technology,Virar,on6April2026.
+3. Hands on Session on “Google Classroom-
+ICTTechnique”forallfacultiesinUCOE.
+4. Workshop on “Windows Movie Maker”
+organizedbyUCOE-CSIbranchatUCOE.
+5. One day Workshop on “Project Building
+using C#.NET with SQL SERVER” at
+UCOE.
+6. Assistant Speaker for conference on
+“RADIATION HAZARDS” in Epsilon 12
+organized by Thadomal Sahani Engineering
+CollegeincollaborationwithIETE.
+7. Instructor for Add on “Mathematical
+Modelling”4-weekCourseatUCoE.
+ACHIEVEMENTS
+1. Runner Up award for Research Proposal
+Title: Diagnosis of Pneumonia Disease from
+Chest Radiograph by Vivekanand Education
+Society’s Institute of Technology, Chembur,
+2024.
+2. Received Research Fellowship of ₹1,00,000
+and silver medal at State Level 16th
+Avishkar Research Convention 2024 held by
+Maharashtra University of Health Sciences
+(MUHS), Nashik under category of PPG
+(MedicalandPharmacy–Ph.D.)2024.
+3. Gold Medal at the Zonal Level by the
+UniversityofMumbai,Churchgate,2023.
+4. Winner at the Intercollegiate Level held at
+Vivekanand College of Pharmacy, Chembur,
+2023.
+5. “Best Social Impact project” Award by CSI
+inTechnext2020.
+6. Researchon“IoTbasedWaterIrrigation”got
+appreciated and implemented at South
+Africa,2018.
+7. Regional Finalist at EYIC Idea
+Championship.2019.
+8. Technical Paper Reviewer for IEEE
+internationalconferenceatICCDW2020and
+ICCICT2021.
+
+SubjectsTaught UG Level:
+1. ComputerSystemFundamental
+2. DeepLearning
+3. StatisticsforDataScienceLaboratories
+4. ArtificialIntelligenceandSoftComputing
+5. MachineLearning
+6. OperatingSystem
+7. CProgramming
+8. NaturalLanguageTextProcessing
+9. ImageProcessingandComputerVision
+10. ObjectOrientedProgramming
+11. DatabaseManagementSystem
+PG Level:
+ProjectsGuided : UG Level: 59
+PG Level: 0
+RecommendedStudentsfor
+HigherEducation
+Name of the Student
+1. DhruvSalot
+2. DhruviShah
+3. DyutiVartak
+4. RishabhPatil
+5. AryanBhandare
+6. BhuviGhosh
+7. JaiVasi
+8. JinayJain
+9. JayVithlani
+10. NidhiPabari
+11. SowmyaDadheech
+12. JayMehta
+13. PurnayKachi
+14. SoniaSatam
+15. Sanket Hemant
+Magodia
+16. KartikChaurasiya
+17. ShounakDaptardar
+18. DrishtiPareshGoda
+19. HarshNisar
+University/Industry
+1. UNSWSydney
+2. NYUTandonSchoolofEngineering
+3. UniversityofWashington
+4. NYUTandonSchoolofEngineering
+5. BinghamtonUniversity
+6. ColumbiaUniversity
+7. StonyBrookUniversity
+8. UniversityofEastLondon
+9. SanJoséStateUniversity
+10. UniversityofArizona
+11. UniversityofWashington
+12. UniversityofCalifornia,Riverside
+13. NewJerseyInstituteofTechnology
+14. UniversityatBuffalo.
+15. BinghamtonUniversity
+16. NortheasternUniversity
+17. UNCCharlotteGraduateSchool
+18. SyracuseUniversity
+19. RutgersUniversity
+Institute/Department
+Responsibilityhandled:
+1. PACCommitteeMember
+2. AreaChair
+3. ClassIncharge
+4. LibraryCommitteeMember
+5. AlumniIn-Charge
+6. TermTestCoordinator
+7. SocialMediaTeam
+8. IPDIncharge
+9. ExamCoordinator
+PedagogyDevelopment
+
+Reviewer 1.Served as a Judge for the Technical Paper Presentation Competition
+(Oscillation)organizedbyVidyavardhini'sCollegeofEngineering,Vasai,on1
+April2026.
+2.Served as a Technical Programme Committee Member and Reviewer for the
+4th International Conference on Advancements in Smart Computing &
+InformationSecurity(ASCIS2025),organizedbyMarwadiUniversity,Rajkot,
+in collaboration with CCIS, GUJCOST, and DST, from 11–13 September
+2025.
+3.Served as a Reviewer for the International Conference on Communication,
+Computing and Emerging Technologies (IC3ET 2026) (IEEE Conference
+Record #64989), held at Vidyavardhini’s College of Engineering and
+Technology(VCET),Vasai,during9–10February2026.
+4. Served as a Reviewer for the IEEE International Conference on
+Multidisciplinary Innovations for Smart & Sustainable Future (MISSF 2026),
+organizedbytheIEEEMaharashtraSection,heldduring17–18April2026.
+5.ReviewerforIEEEICBDSConferencebetween17thto19thOctober20243.
+6.Reviewer for IEEE CVMI 2024 Conference between 19th to 20th October
+2024
+7.Reviewer for DefenSec 2025, International Conference on AI/ML and
+Defensive Security at PG Department Computer Science, SNDTWU between
+20thto21stJune2025
+8.Reviewer for 4th International Conference on Advancements in Smart
+Computing and Information Security at Marwadi University, Rajkot-Morbi
+Road,Gujratbetween11thto13thSeptember2024

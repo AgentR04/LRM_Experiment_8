@@ -1,0 +1,292 @@
+Bio / CV of Dr. Shruti Mathur (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+Name of Teaching Staff Dr. Shruti Mathur 
+ 
+. 
+Designation Assistant Professor 
+Department Computer Science and Engineering(Data Science) 
+Date of Joining the 
+Institution 
+25.09.2023 
+Professional Membership IEEE 
+ ORCIDid: 0009-0008-4241-6123 
+Google Scholar id: GJOOGukAAAAJ 
+Linked in profile : https://www.linkedin.com/in/shruti-mathur-a0bb388/ 
+Area of Interest Game Theory, LLMs, Natural Language Processing, Big Data Analytics, 
+Soft Computing, Artificial Intelligence. 
+Qualifications: 
+1. Ph.D. (Computer Engineering) 
+2. M. Tech (CSE), Rajasthan Technical University, 2015. 
+3. B.E.(IT) Rajiv Gandhi Prodyogiki Vishwavidhaya,2006. 
+Total Experience in Years: 15 Years 
+ Assistant Professor, D.J. Sanghvi College of Engineering, Mumbai, from 
+25.09.2023 to till date. 
+ Assistant Professor, July 2014 –Sept 2023, Assistant Professor Thakur College of 
+Engineering & Technology. (Approved under the University of Mumbai in 
+Information Technology Ref No. TAAS(CT)/ICD/2016-17/14275) 
+ Lecturer, Thakur College of Engineering & Technology, July 2010-May 2011. 
+ Flash Programmer, Sycamore Software solutions, May 08-July 09. 
+ Lecturer, LNCT, Bhopal, May 06-July 08. 
+Courses Taught: 
+ Intelligent Systems 
+ Applied Game Theory 
+ Advanced Computational Linguistics 
+ Big Data Analytics 
+ Fundamentals of Data Analysis 
+ Soft Computing 
+ Database Management System 
+ Operating System 
+ Data Mining & Business Intelligence 
+Projects Guided: B.E .Project: 20+ 
+ 
+Workshop Attended 
+Sr. 
+No. Title of Course Learning Platform 
+Course 
+Duration 
+1 Big Data Analytics SVNIT, Surat 02 days 
+2 
+Data Visualization using Tableau, Power 
+BI &amp; Rubiscape MIT-ADT, Pune 01 week 
+3 Research Methodology IIT B 02 week 
+FDP 
+ 
+4 
+Artificial Intelligence and 
+Robotic Process Automation: Tools, 
+Techniques, Challenges and Solutions. 
+AICTE -ISTE Sponsored 
+at S.P.I.T. Mumbai 
+ 
+01 week 
+
+
+ 
+5 
+ 
+Quantum Computing 
+ATAL at Thakur College 
+of Engineering & 
+Technology 
+ 
+01 week 
+6 Responsible AI 
+AICTE ATAL Academy, 
+PSG College of 
+Technology 
+01 week 
+7 Generative AI and Its Applications with 
+Computer Vision 
+AICTE Training and 
+Learning (ATAL) 
+Academy, Lalbhai 
+Dalpatbhai College of 
+Engineering, Ahmedabad 
+01 week 
+8 AI tools and & Prompt Engineering for 
+Outcome based education 
+ 
+SVKM’s DJ Sanghvi 
+college of Engineering 
+01 week 
+9 Data Base Management System 
+ 
+NPTEL- AICTE 8 weeks 
+STTP 
+ 
+7 
+ 
+Introduction to design of Algorithms 
+ 
+IIT KGP 
+ 
+02 week 
+ 
+8 
+Design and Development of 
+Application for Smart city 
+Thakur College of 
+Engineering & 
+Technology 
+ 
+02 week 
+WEBINARS 
+Sr. 
+No. 
+Title of Course 
+National or 
+International? 
+Learning 
+Platform/Institute 
+ 
+ 
+9 
+Modern 
+Robotics with Special Focus on 
+Probabilistic Robotics and Robot 
+Operating System 
+ 
+ 
+National 
+Thakur College 
+of Engineering 
+& Technology 
+ 
+ 
+ 
+10 
+ 
+Artificial Intelligence on 
+emerging areas of technology 
+ 
+ 
+National 
+KJ 
+Somaiya college of 
+engineering 
+and information 
+technology, 
+ 
+International Courses 
+Sr. 
+No. 
+ 
+Title of Course 
+National or 
+International? 
+Learning 
+Platform 
+Course 
+Duration 
+ 
+11 
+Recommendation Engine 
+Bootcamp with 3 Capstone 
+Projects 
+ 
+International 
+ 
+Udemy 
+ 
+04 weeks 
+ 
+12 
+Linear Regression and Logistic 
+Regression in Python 
+ 
+International 
+ 
+Udemy 
+ 
+04 Weeks 
+ 
+ 
+13 
+Data Analysis &amp; 
+Visualization: Python | Excel | BI | 
+Tableau 
+ 
+ 
+International 
+ 
+ 
+Udemy 
+ 
+ 
+04 Weeks 
+ 
+14 
+ 
+Understanding Research Methods 
+Coursera 
+(University of 
+London & SOAS 
+University of 
+London) 
+Coursera Self-paced 
+
+15 Creative Thinking: Techniques and 
+Tools for Success 
+Coursera (Imperial 
+College London) 
+Coursera Self-paced 
+16 Introduction to Databases Coursera (Meta) Coursera Self-paced 
+17 University Teaching Coursera (The 
+University of Hong 
+Kong) 
+Coursera Self-paced 
+18 The Science of Well-Being Coursera (Yale 
+University) 
+Coursera Self-paced 
+19 Introduction to Artificial Intelligence 
+(AI) 
+IBM Coursera Self-paced 
+20 AI For Everyone Deepleaning.AI Coursera Self-paced 
+Publication in International Journal: 
+ Neha Patwari, Shraddha More, Neeta Patil, Poonam Jadhav, Shruti Mathur , Purvi 
+Sankhe, “Fractional–Nonlinear Modeling of Neural Oscillator Dynamics” is accepted in 
+JIM – Journal of Interdisciplinary Mathematics Scopus Indexed, Q2 Journal. 
+ Tanisha Harde, Dhaval  Jain, Kaushik  Patelia, Shruti Mathur, “AI -driven legal 
+argument strength analyzer & counter -argument generator”, published in Artificial 
+Intelligence and Law  (Springer) in April 2026. https://doi.org/10.1007/s10506-026-
+09521-w. (Scopus Q1). 
+ Shruti Mathur , Gourav Srivastava, “M2PSC: Multilingual sentiment analysis using 
+improved multi -attention based Deep Learning model” in Intelligent Decision 
+Technologies SAGE Journal is published in Aug 2024, ISSN 1872-49. (Scopus Q3). 
+ Shruti Mathur , Gourav Srivastava, “Context-Aware Transformer Models for 
+Ambiguous Word Classification in Code -Mixed Sentiment Analysis” in j ournal of 
+Information Systems Engineering and Management  in Jan 2025, ISSN: 2468 -4376. 
+(Scopus Q4) 
+ Kanchan Dabre Krish Mehta, Pooja Gandhi, Nilesh Mar athe, Shruti Mathur, Pooja 
+Vartak, “ Online Student Learning Experience ”, Journal of Information Systems 
+Engineering and Management, -ISSN: 2468-4376. (Scopus Q4) 
+ Shruti Mathur, Gourav Srivastava, “Performance Analysis using Machine Learning for 
+Code Mixed Languages in Sentiment Analysis” in International Journal on Advances in 
+Engineering Technology and Science in 2024, ISSN: 2455-3131. 
+ Shruti Mathur, Varun Prakash Saxena, “Improving the Quality of English-Hindi Name 
+Entity Translation”, In International Journal of Computer is published in June 2014 
+Edition, ISBN: 973-93-80882-45-9. 
+ Shruti Mathur , Sandeep Bankar, Neha Patwari and Sudhir Dhekane, “Use of Cloud 
+computing in Business Ethics” International Journal of Recent Engineering Research and 
+Development (IJRERD) Volume No. 02 – Issue No. 04, ISSN: 2455-8761 
+www.ijrerd.com, PP. 17-22. 
+
+Publication in International Conference: 
+ Tirth Mehta, Shruti Mathur, Nilesh Marathe, Dynamic and Regularized Visual 
+Prompt Tuning for Few -Shot Image Classification , 2025 5th International 
+Conference on Emerging Research in Electronics, Computer Science and 
+Technology (ICERECT), IEEE. 
+ Hetansh Shah, Hitarth Bhatt, Jay Topiwala, Hitanshu Shah, Pradnya Saval, Shruti 
+Mathur, “ Forecasting Inflation and Stock Prices in India’s Energy Sector: a 
+Comparative Analysis of Classical and Deep Learning Models, World Conference 
+on Information Systems for Business Management, Springer Nature Switzerland. 
+ Meet Kothari, Manav Doshi, Shruti Mathur, “ Design and Implementation of an 
+AI-Based Career Advisor Using Cognitive Profiling and Skills Analytics ”, 2025 
+9th International Conference on Inventive Systems and Control (ICISC), IEEE. 
+ Krish Valecha, Anuradha Yeole, Atharv Salian, Shruti Mathur , “ Empirical 
+Analysis of Classical and Quantum Algorithms for Portfolio Optimization: 
+Enhancing Financial Decision -Making Through Quantum Computing ”, 2024 
+International Conference on Sustainable Communication Networks and 
+Application, IEEE. 
+ Shruti Mathur, Samdarshi Kumar, Esha Vijayvargiya, Harsh Vyas, Turning design 
+mockups into code with deep learning, ICISCN, ISBN: 978-1-7329562-6-1, 2021. 
+ Shruti Mathur, Satpal Singh, Aniket Karna, Prajwal Mishra, SQL using NLP in 
+Virtual Reality, ICISCN, ISBN: 978-1-7329562-6-1,2021. 
+ Shruti Mathur, Saurav Rathod, Stuti Shrimal, Kanishk Soni,Live location based vehicle 
+parking system, ICISCN, ISBN: 978-1-7329562-6-1,2020. 
+ Shruti Mathur, Abhigyan Nagraj, Swapnil Jaiswal, Harsh Kotak, Tackling Hate 
+Speech, Multicon-2019. 
+ Shreya Mistry, Nishita Desai, Tanay Sanghavi, Ms. Shruti Mathur, RFID Based 
+Electronic Payment System, MULTICON-W ICCSOD, 2019. 
+ Shruti Mathur, Vrundali Chitroda,Harsh Kothari, Anisha Pandya, Machine reading of 
+customer feedback, MULTICON-W ICCSOD,2018. 
+ Shruti Mathur, Varun Prakash Saxena, Hybrid approach to English-Hindi Name Entity 
+Transliteration, In Proceedings of 2014 IEEE Students’ Conference on Electrical, 
+Electronics and Computer Science, 2014. 
+ Nisheeth Joshi, Iti Mathur and Shruti Mathur, Frequency Based Predictive Input 
+System, In Proceedings of International Conference and Workshop on Emerging Trends 
+in Technology, ACM Press, pp 690-693, 2010. ISBN: 9781605588124. 
+ Nisheeth Joshi and Iti Mathur and Shruti Mathur, Text Based Predictive Input System 
+Using Zipf’s Law, In Proceedings of National Conference on Recent Developments in 
+Engineering Mathematics and Information Technology, Organized by Poornima College 
+of Engineering and Institution of Engineers Rajasthan State Chapter. 2009. 
+ 

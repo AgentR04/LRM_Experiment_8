@@ -1,0 +1,403 @@
+Bio / CV of Dr. Poonam Jadhav (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+ 
+Name of Teaching Staff Poonam S. Jadhav  
+. 
+Designation Assistant Professor 
+Department 
+Computer Science and Engineering (Data 
+Science) 
+Date of Joining the 
+Institution 
+08.09.2023 
+Professional 
+Membership ISTE LM51600 
+ ORCIDid:0000-0002-9727-1768 
+Scopus id :56763745600 
+Web of Science Researcher ID:JMB-3858-2023 
+Google Scholar id : 8z1_VVcAAAAJ 
+   Linkedin profile:https://www.linkedin.com/in/poonam-jadhav- 
+42372b48/ 
+Area of Interest Data Science, BigData Privacy and Security, Computer Vision 
+Qualifications: 
+1. Ph.D (Computer Engineering), D.Y.Patil Deemed to be University. 
+2. ME.(IT),University of Mumbai,2015. 
+3. B.E.(Computer Engineering.),University of Mumbai,2004. 
+Total Experience in Years: 19 Years 
+ 
+ Assistant Professor, D. J. Sanghvi College of Engineering, Mumbai, from 
+08.09.2023 to till date. 
+ 
+ Assistant Professor, SIES Graduate School of Technology, Navi Mumbai, from 
+01.12.2021 to 06.09.2023. 
+ 
+ 
+ Lecturer, Dr. D. Y. Patil Polytechnic, Navi Mumbai, from 25.06.2012 to 
+13.09.2021. 
+ 
+ Lecturer, Atharva College of Engineering, Malad, Mumbai, from 25.01.2010 
+to 24.12.2010. 
+ 
+ 
+ Lecturer, SSPM's College of Engineering, Kankavali, Sindhudurg, from 
+01.07.2005 to 01.10.2009.(UGC Approved) 
+ 
+ 
+
+
+  Courses Taught: 
+ Computer Vision 
+ Social Media Analytics 
+ Database Management System 
+ Advanced Statistics 
+ Computer Graphics 
+ Java Programming 
+ Linux & Networking Server Configuration 
+ Python Programming 
+ Mobile Computing 
+ Software Engineering 
+ Information Security 
+ C and C++ Programming 
+ Robotics 
+ Numerical Techniques 
+ Operating System 
+ 
+ 
+ 
+Work shop Attended 
+Sr. 
+No. Title of Course Learning Platform 
+Course 
+Duration 
+1 
+Workshop of Grid Computing and Cloud 
+Computing  
+SQUAMISM 
+Technologies 02 days 
+2 Strategic Issues in IPR and Innovation  TEQIP III Sponsored 01 week 
+3 CyberRisk-Security AICTE-ISTE Sponsored 01 week 
+FDP 
+4 Machine Learning Using Python 
+Sihagad Technical 
+Education Society 01 Week 
+ 
+5 
+Improving Teaching Learning Experience 
+Using Best Practices DJSanghvi Coe 01 Week 
+6 Python IIT Spoken Tutorial 01Week 
+7 R Programming IIT Spoken Tutorial 01Week 
+8 Research Methodology   Sandip University 01 Week 
+9 Emerging Trends in Industry 4.0 Rajashri Shahu Coe 02 Weeks 
+ 
+10 Security and Privacy 
+AICTE Training& 
+Learning Academy 01 Week 
+ 
+11 BigData Security &Analytics 
+AICTE Training& 
+Learning Academy 01 Week 
+ 
+ 
+12 
+Data Science &Use of Visualization 
+Tools 
+Indian Society for 
+Technical 
+Education(ISTE) 
+ 
+01 Week 
+STTP 
+ 
+13 
+ 
+IOT and its Applications 
+AICTE Sponsored QIP at 
+IIT Varanasi 
+ 
+01 week 
+14 Recent Trends In Deep Learning TEQIP-III 01 week 
+
+ 
+ 
+15 
+Resent Trends and Applications in 
+Machine Learning and Deep LearningIn 
+IT 
+ 
+Ramrao  Adik Institute of 
+Technology 
+ 
+ 
+01 week 
+WEBINARS 
+Sr. 
+No. 
+ 
+Title of Course 
+National or 
+International? 
+Learning 
+Platform/Instit 
+ute 
+16 Recent Trends in Automated Robots National 
+KJ Somaiya 
+Coe 
+17 Internet Of Things National 
+KJ Somaiya 
+Coe 
+18 Cyber Security National 
+KJ Somaiya 
+Coe 
+19 Artificial Intelligence National 
+KJ Somaiya 
+Coe 
+20 Augmented Reality National 
+KJ Somaiya 
+Coe 
+21 Startup Life cycle and Patent Registration National 
+Atharva College 
+Of Engineering 
+ 
+International Courses 
+Sr. 
+No. 
+ 
+Title of Course 
+National or 
+International? 
+Learning 
+Platform 
+Course 
+Duration 
+ 
+22 
+ 
+Machine Learning For All 
+ 
+International 
+ 
+Coursera 
+ 
+04 weeks 
+ 
+23 
+How to Write and Publish a 
+Scientific Paper( Project-Centered 
+Course) 
+      
+     International 
+       
+     Coursera 
+      
+      04 Weeks 
+ 
+24 
+ 
+Being A Researcher(In information 
+science and technology) 
+ 
+ 
+International 
+ 
+ 
+Coursera 
+ 
+ 
+06 Weeks 
+ 
+25 
+ 
+Understanding Research Methods 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+ 
+26 
+ 
+Data Privacy Fundamentals 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+ 
+27 
+Introduction toTensor Flow for 
+Artificial Intelligence, Machine 
+Learning, and Deep Learning 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+ 
+28 
+Neural Networks and Deep 
+Learning 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+ 
+29 
+ 
+What is Data Science by IBM 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+     30 Security and Privacy for BigData – 
+Part 1 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+     31 Security and Privacy for BigData – 
+Part 2 
+ 
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+     32  What Is Data Science?  
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+     33 Generative Deep Learning with 
+Tensor Flow 
+ 
+      International       Coursera       06 Weeks 
+
+     34 Generative AI for Data Science 
+ 
+       International Coursera 06 Weeks 
+     35 AI For Everyone  
+International 
+ 
+Coursera 
+ 
+04 Weeks 
+     36 The Science of Well- Being 
+   
+International Coursera 04 Weeks 
+     37 Innovative Teaching with ChatGPT 
+ 
+International Coursera 04 Weeks 
+     38 Understanding Research Methods 
+ 
+International Coursera 04 Weeks 
+     39 
+ 
+ 
+Creative Thinking: Techniques and 
+Tools for Success 
+ 
+International Coursera 04 Weeks 
+   Publication in International Journal: 03 
+ Poonam S. Jadhav,Gautam M. Borkar,” Quasi-identifier recognition with echo chamber 
+optimization-basedanonymizationforprivacypreservationofcloudstorage”,concurrency 
+and computation: practice and experience,Willey Publication,2023, Q1 Category.  
+https://onlinelibrary.wiley.com/doi/abs/10.1002/cpe.7906 
+ Poonam S. Jadhav,Gautam M. Borkar,” Optimal key generation for privacy 
+preservation in big data applications based on marine predator whale  optimization 
+algorithm.”,Annals of Data Science ,Springer,2023,Q1 Category.  
+https://link.springer.com/article/10.1007/s40745-024-00521-
+8?error=cookies_not_supported&code=026485dc-7680-48de-8868-62a00105639e 
+ Neha Patwari, Shraddha More, Neeta Patil, Poonam Jadhav, ShrutiMathur, 
+PurviSankhe, “Fractional –Nonlinear Modeling of Neural Oscillator Dynamics” is 
+accepted in JIM – Journal of Interdisciplinary Mathematics Scopus Indexed, Q2 
+Category. 
+ 
+
+Publication in International Conference: 08 
+ Poonam S. Jadhav, Dipti S. Jadhav,” Video Summarization Using Higher Order Color 
+Moments (VSUHCM)”,International Conference on Advanced Computing 
+Technologies and Applications (ICACTA -2015), Elsevier,2015. 
+https://www.sciencedirect.com/science/article/pii/S1877050915003762 
+ 
+ Poonam S. Jadhav,Gautam M.Borkar,”Unstructured bigdata information extraction 
+techniques survey: Privacy preservation perspective”, International Conference on 
+Electrical, Computer, Communications and Mechatronics Engineering, ICECCME, 
+IEEE, 2021. https://ieeexplore.ieee.org/iel7/9590450/9590827/09590948.pdf 
+ 
+ A Comparative Analysis of Privacy Preservation Models for Securing Big Data – 
+Presented at the International Conference on Computing and Data Analytics 
+(ICCDA'23), University of Technology and Applied Sciences (UTAS), Ibri, Sultanate 
+of Oman, held from 10–12 December 2023.  
+ 
+ Anita Patil, PoonamS.Jadhav ,GautamM.Borkar,”Analysis of Privacy Preservation on   
+Mobile Ad-Hoc Networks”, International Conference on International Conference on 
+Intelligent Systems Design and Applications,2024,  Lecture Notes in Networks and 
+Systems ((LNNS,volume 1048))  https://link.springer.com/chapter/10.1007/978-3-031-
+64650-8_15?error=cookies_not_supported&code=d0d0d53e-184d-426e-bd32-
+23f53263e945 
+ 
+ 
+ 
+ 
+ 
+ Aman Mehra, Harshit Soni, Jash Bhatt, Poonam Jadhav, Dhavit Gandhi, Arjun K 
+Jaiswal ,”Multi-Modal System for Translating Indian Sign Language and Facial 
+Expressions into Text “,2025 2nd International Conference on Computing and Data 
+Science (ICCDS) ,  IEEE, 2025. 
+https://www.researchgate.net/publication/397227477_Multi-
+Modal_System_for_Translating_Indian_Sign_Language_and_Facial_Expressions_into
+_Text 
+ 
+ P. Rawat, A. , Karande, G. , Balaji, M. , Bhamare, V. , Jadh av ,”Hyper -Space: 
+Blockchain-based Decentralized Cloud Storage System “,Conference: 2023 
+International Conference on Advanced Computing Technologies and Applications 
+(ICACTA) , IEEE, 2023. https://ieeexplore.ieee.org/document/10392662/ 
+ 
+ Presented the paper "Hybrid Deep Learning Pipeline for Pap Smear Analysis: 
+ConvNeXt, U -Net, and Vision Transformer with XAI" at ICSICE -2026 (Wiley, 
+Scopus-indexed Conference Proceedings), 17–18 April 2026. 
+ 
+ Presented the paper "Smart Safety Surveillance System with Real -Time Alert Using 
+Hybrid 2DCNN -GRU Architecture" at ICSICE -2026 (Wiley, Scopus -indexed 
+Conference Proceedings), 17–18 April 2026. 
+ 
+ 
+
+Publication in Book Chapter: 03 
+ Poonam S.Jadhav,Gautam M.Borkar,”Privacy Protection Challenges in Statistical 
+Disclosure Control”,  Contemporary Challenges for Cyber Security and Data Privacy, 
+IGIGlobal, 2023. 
+ Poonam S. Jadhav, Gautam M.Borkar,”Advanced privacy preservation in IoT using 
+Blockchain and multi-objective optimizationl”,Blockchain of Things Research Challenges 
+and Applications, CRC Press,2026. 
+ Naman Raiyani, Saiyyam Lodaya, Viraj Shah, Poonam Jadhav ,” Bridging language and 
+layout: Natural language interface for interior 3D scene customization, Artificial 
+Intelligence and Sustainable Innovation,CRC Press,2026. 
+ 
+Copyright:01 
+ Automated Quasi Identifier Detection : A Novel Algorithm for Data Privacy 
+Enhancement, 23469/2023-CO/L 
+ 
+Patent:01 
+ A System and Method for Generation of a Secure Key and Anonymization in Privacy-
+Preserving Data Publishing, Indian Patent Application No. 202421099597 A, filed on 
+16 December 2024 and published on 17 January 2025 (Patent Application 
+Published).Dr. Gautam M. Borkar and Poonam S. Jadhav.  
+ 
+NPTEL Certifications (SWAYAM) 
+ Database Management System, NPTEL (Jul–Sep 2025).  
+ Social Networks, NPTEL (Jan–Apr 2025). 
+Industrial Training 
+ Completed Industrial Training on "Generative AI and Prompt Engineering (Python 
+Based Approach)" conducted by the Academy of Skill Development (ASD), Kolkata 
+(6 Weeks, March 2026). 
+ 

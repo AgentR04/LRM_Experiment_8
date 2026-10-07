@@ -1,0 +1,337 @@
+Bio / CV of Dr. Nilesh Marathe (Associate Professor), Computer Science and Engineering (Data Science), DJSCE.
+Name of Teaching 
+Staff 
+Dr. Nilesh Marathe 
+ 
+Designation  Associate Professor 
+Department  Computer Science and Engineering (Data Science) 
+Date of Joining the 
+Institution 
+16th December 2022 
+Email ID nilesh.marathe@djsce.ac.in 
+ 
+Professional 
+Membership 
+▪ ISTE (Membership no: LM 93438) 
+▪ Orcid Id: 0000-0003-1217-0560 
+▪ Scopus Id: 55677257200 
+▪ Researcher Id: AFG-5604-2022 
+▪ Google Scholar Id: bLtB2coAAAAJ 
+Profile Links ▪ Web of Science Profile: 
+              https://www.webofscience.com/wos/author/record/AFG-5604-2022 
+▪ Scopus Author Profile: 
+             https://www.scopus.com/authid/detail.uri?authorId=55677257200 
+▪ Google Scholar Profile: 
+              https://scholar.google.co.in/citations?user=bLtB2coAAAAJ 
+▪ LinkedIn Profile: 
+              https://www.linkedin.com/in/nilesh-marathe/ 
+▪ Research Gate Profile: 
+              https://www.researchgate.net/profile/Nilesh-Marathe 
+H-Index ▪ Google Scholar Citation Statistics 
+             (Citation Count =324, H-index = 7, I10index = 5) 
+▪ Scopus Citation Statistics 
+             (Citation Count =205, H-index = 6) 
+Area of Interest Data Science for Network Security, Computer Networks, Cyber Security, 
+IoT and Cloud Security 
+Qualifications with Class/Grade: 
+1. Ph.D. (Computer Engineering), Mumbai University 2020. 
+2. M E. (Computer Engineering), Mumbai University 2011, First Class. 
+3. B.E. (Computer Science and Engineering.), Dr. BAMU Aurangabad, 2001, First Class with 
+Distinction. 
+4. Diploma in Computer Technology, MSBTE, 1998, First Class. 
+Total Experience in Years: More than 20 years Teaching and 2 Years of Industrial Experience 
+• Associate Professor, D. J. Sanghvi College of Engineering, Mumbai, from 
+16/12/2022 to till date 
+• Associate Professor, MIT Art, Design and Technology University, from 
+30/03/2021 to 15/12/2022. 
+
+
+• Assistant Professor, Ramrao Adik Institute of Technology, Navi Mumbai, from 
+07/02/2008 to 27/03/2021. 
+• Lecturer, SIES Graduate School of Technology, Navi Mumbai, 05/01/2005 to 06/02/2008. 
+• Lecturer, KES NN Patil College of Engineering, Pen Raigad, 01/02/2003 to 04/01/2005. 
+Courses Taught: 
+• E-commerce (PG) 
+• Storage Area Network (PG) 
+• Parallel Computing (PG) 
+• Optimization Techniques (PG) 
+• Foundations of Data Analysis (UG) 
+• Network Security (UG) 
+• Computer Networks (UG) 
+• CP-I & II (UG) 
+• Data Communication and Networks (UG) 
+• Mobile Computing (UG) 
+• Enterprise Network Design (UG) 
+• System Security (UG) 
+Projects Guided: 
+• B.E. Project: more than 80 
+• M.E. Project: 12 
+ 
+Certification and Courses Completed: 
+• C|EH Global Certified by EC-Council 
+• CCNA Certified Instructor  
+o CCNAv7-1: Introduction to Networks 
+o CCNAv7-2: Switching, Routing, and Wireless Essentials  
+o CCNAv7-3: Enterprise Networking, Security, and Automation 
+• Microsoft Security Associate Certified Professional 
+• Cisco DevNet Associate 
+• Certifications from Simplilearn: 
+o CISM 2018 
+o Introduction to Cybersecurity 
+o CEH (V10) - Certified Ethical Hacker Training 
+o CompTIA Security+ 501 
+o CISA 2018 - Whats New 
+o CompTIA Network+ 
+• NPTEL Courses: 
+o Demystifying Network:  Silver Badge: Jul-Aug 2019 
+o Computer Networks and Internet Protocol: Jul-Oct 2018 
+
+o Cryptography and Network Security: Jan- Apr 2020 
+ 
+PhD Guide ? Give field 
+& 
+University 
+Approved Ph.D. Guide in Computer Science and Engineering at MIT 
+ADT University. 
+Ph.D./Project Guided Ph.D.: Nil 
+Master Level: 15 Students Guided  
+Papers Published in 
+Journal: 
+15 
+Papers Presented in 
+International/ National 
+Conferences 
+20 
+Book Chapter 4 
+Books Published / IPRs / 
+Patents 
+2 Copyrights and 2 Patents (Published) 
+Interaction with 
+Professional 
+Institutions 
+Delivered more than 12 lectures and hands-on sessions at various 
+institutions based on majorly Computers Networks, Network Security, 
+Embedded Security. 
+Also worked as resources person and coordinator for Cummins 
+Employees outreach program “Embedded Security” 
+Institute/Department 
+Responsibility handled: 
+1. SPOC for Academic Partner Program for Certifications from 
+CISCO, AWS, BLUEPRISM, REDHAT, POLO ALTO, 
+MICROCHIP 
+2. UG Coordinator 
+3. Network Administrator 
+4. Department TPO 
+5. Cybersecurity Domain Expert 
+6. ARC and FC Coordinator for 5 Years 
+ 
+ 
+Patents, Copyrights:  
+ 
+A. Patent: 
+a. Published a Patent on “AN EMPIRICAL APPROACH FOR DATA ACQUISITION AND 
+RELIABLE VEHICLE WELFARE” (Application No: 202121006724A Date of 
+Publication:26/02/2021) 
+B. Copyright: 
+a. Copyright “A NOVEL APPROACH FOR ASSURING QUALITY IN OUTCOME BASED 
+EDUCATION (OBE) SYSTEM”. (Registration No: SW-14290/2021, Diary Number : 
+91/2021-CO/SW, Date of Receipt : 03/01/2021) 
+b. Copyright “STANDARD OPERATION PROCEDURE FOR FINAL YEAR PROJECT” 
+(Registration No: L-114188/2022, Diary Number : 28277/2021-CO/L, Date of 
+Receipt : 12/04/2022) 
+ 
+
+
+ 
+Journal Publications & Conferences: 
+I. Publications in International Journals: 
+[1].  N. Marathe and S. K. Shinde, "Multidimensional Multi -Attribute Approach to Counter the 
+Routing Attacks on MANET" , Wireless Personal Communications, SpringerNature 
+DOI: 10.1007/s11277-021-08315-4, March 2021. 
+[2].  Aniruddha R. Jaipurkar, Nilesh Marathe, “An Analytical Review on Packet Analysis for Network 
+Forensics and Deep Packet Inspection in Network”, International Journal of Scientific Research 
+in Science, Engineering and Technology , Print ISSN: 2395 -1990 | Online ISSN : 239 4-4099 
+(www.ijsrset.com), Volume 9, Issue 4,  July-August-2022, Page Number : 147 -167, doi : 
+https://doi.org/10.32628/IJSRSET 
+[3].   Neha K. Kulkarn i, Nilesh Marathe,  “Tour Planning Chatbot  for Tourism and Travel Industry”, 
+International Journal of Engineering Research & Technology (IJERT), ISSN: 2278 -0181, Vol. 11 
+Issue 05, May-2022. DOI : 10.17577/IJERTV11IS050168 
+[4].  Tanmay Doke, Pranav Khismatrao, Vaibhav Jambhale, & Nilesh Marathe , “Phishing-Inspector: 
+Detection & Prevention of Phishing Websites ”, ITM Web of Conferences,   
+DOI: 10.1051/itmconf/20203203004 Part of ISSN: 2271-2097 32, 03004. 2020. 
+[5].  N. Marathe and S. K. Shinde, "ITCA, an IDS and Trust Solution Collaborated with ACK Based 
+Approach to Mitigate Network Layer Attack on MANET Routing", Wireless Personal 
+Communications, SpringerNature,  Part of ISSN: 1572 -834X, vol. 107, no. 1, pp. 393 -416, DOI: 
+10.1007/s11277-019-06282-5 , Apr 2019. 
+[6].  S. Patil, N. Marathe and P. Padiya, "Use of RESTful Web Services in Distributed Computing," 
+International Journal of Computer Science and Information Technology and Security (IJCSI TS), 
+Part of ISSN: 2249-9555,  vol. 6, no. 2, pp. 194-197, Mar. 2016.  
+[7].  P. Patel, N. Marathe and V. Jethani, "Survey of Privacy Preservation in VANETs," International 
+Journal of Computer Science and Information Technology and Security (IJCSITS),  Part of I SSN: 
+2249-9555,  vol. 6, no. 1, Jan 2016.  
+[8].  A. Patil, N. Marathe and P. Padiya, "Article: Survey of Different Attacks against Routing 
+Protocols in Ad Hoc Environment," IJCA Proceedings on International Conference on Advances 
+in Science and Technology, vol. ICAST 2015, no. 1, pp. 1-7, February 2016.  
+[9].  S. Kamble, P. Padiya and N. Marathe, "Misbehavior Eviction From Vanets," International 
+Journal of Advanced Computational Engineering and Networking, Part of ISSN: 2320-2106, vol. 
+3, no. 12, pp. 115-119, Dec. 2015.  
+[10].  Y. Khairnar, N. Marathe and P. Padiya, "Eusor: An Extended Usor Protocol For Manet," 
+International Journal of Ad vanced Computational Engineering and Networking, vol. 3, no. 7, 
+pp. 36-38, July 2015.  
+
+[11].  D. R. Choudhury, L. Ragha and N. Marathe, "AODV Improvement by Modification at Source 
+Node and Securing It from Black Hole Attack.," Int. Journal of Engineering Resear ch and 
+Applications, Part of ISSN: 2248-9622, vol. 4, no. 8, pp. 190-195, Aug 2014.  
+[12].  D. Maste, L. Ragha and N. Marathe, "Analysis of Improved Neural MLFQScheduler," 
+International Journal of Information and Computation Technology., Part of ISSN: 0974 -2239,  
+vol. 4, no. 16, pp. 1611-1624, 2014.  
+[13].  Vandana Salve, Leena Ragha, Nilesh Marathe, “An Enhanced Secure Routing Algorithm Against 
+Sinkhole Attack In Wireless Sensor Networks”, International Journal of Advance Computational 
+Engineering and Networking (IJ ACEN)-IJACEN, IJACEN-IRAJ-DOIONLINE-1076, Part of ISSN: 
+2249-9555,  Volume-2, Issue-8, pp. - 62-67 ( Aug, 2014 ),  
+[14].  D. Maste, L. Ragha and N. Marathe, "Intelligent Dynamic Time Quantum Allocation in MLFQ 
+Scheduling," International Journal of Information and Computation Technology, Part of ISSN: 
+0974-2239, some  vol. 3, no. 4, pp. 311-322, Nov 2013.  
+[15].  R. Ujwala, N. Mara the and P. Padiya, "Attribute Reduction based Hybrid Anomaly Intrusion 
+Detection using K-Means and SVM Classifier," International Journal of Computer Applications, 
+Part of ISSN: 0975 –8887,  vol. 82, no. 15, pp. 32-35, Nov 2013.  
+II. Publications in International Conferences: 
+[1].  N. Marathe and S. Shinde, "CAT, an Collaborative ACK and Trust based approach to counter 
+the network layer attack on MANET routing," in International Conference on Data Science, 
+Machine Learning and Applications (ICDSMLA 2019), CMR Hyderabad, India, 2019.  
+[2].  V. Justin, N. Marathe and N. Dongre, "Hybrid IDS using SVM classifier for detecting DoS attack 
+in MANET application", in 2017 International Conference on I -SMAC (IoT in Social, Mobile, 
+Analytics and Cloud) (I -SMAC), DOI: 10.1109/I -SMAC.2017.8058284, EID : 2 -s2.0-
+85034590999, 2017.  
+[3].  S. P. Bhagat, P. Padiya and N. Marathe, "A Generic Request/Reply based algorithm for 
+detection of black hole attack in MANET," in 2017 International Conference On Smart 
+Technologies For Smart Nation (SmartTechCon), DOI: 10.1109/SmartTechCon.2017.8358529, 
+EID: 2-s2.0-85048049447, 2017.  
+[4].  S. Bhagat, P. Padiya and N. Marathe, "A Generic Request/Reply based algorithm for detection 
+of black hole attack in MANET: Simulation result," in 2017 8th International Conference on 
+Computing, Communication and Networking Technologies (ICCCNT) , DOI: 
+10.1109/ICCCNT.2017.8204058, EID: 2-s2.0-850414078632017.  
+[5].  P. Patil, N. Marathe and V. Jethani, "Preventing DOS MITM Attacks in anonymous location 
+based efficient routing protocol in MANET," in 2016 IEEE International Conference on 
+Engineering and Technology (ICETECH) , DOI: 10.1109/ICETECH.2016.7569183, EID: 2 -s2.0-
+84991807802, 2016.  
+
+[6].  P. Patil, N. Marathe and V. Jethani, "Improved ALERT protocol in MANET with strategies to 
+prevent DOS MITM attac ks," in 2016 International Conference on Automatic Control and 
+Dynamic Optimization Techniques (ICACDOT) , DOI: 10.1109/ICACDOT.2016.7877611, EID: 2 -
+s2.0-850173. 2016.  
+[7].  S. Patil, N. Marathe and P. Padiya, "Design of efficient web vulnerability scanner," in 2016 
+International Conference on Inventive Computation Technologies (ICICT),  
+DOI: 10.1109/INVENTIVE.2016.7824873, EID: 2-s2.0-85011096838,  2016.  
+[8].  R. Talreja, V. Jethani, N. Marathe and K. Saxena, "A novel approach based on intersection and 
+direction to optimize hard handover in mobile WiMAX," in 2016 International Conference on 
+Electrical, Electronics, and Optimization Techniques (ICEEOT), 
+ DOI: 10.1109/ICEEOT.2016.7755104, EID: 2-s2.0-85006746988 2016.  
+[9].  D. R. Choudhury, L. Ragha and N. Marathe, "Implementing and Improving the Performance of 
+AODV by Receive Reply Method and Securing it from Black Hole Attack," Procedia Computer 
+Science, DOI: 10.1016/j.procs.2015.03. 109, EID: 2-s2.0-84938587292,  vol. 45, pp. 564 -570, 
+2015.  
+[10].  U. Ravale, N. Marathe and P. Padiya, "Feature Selection Based Hybrid Anomaly Intrusion 
+Detection System Using K Means and RBF Kernel Function," Procedia Computer Science,  
+DOI: 10.1016/j.procs.2015.03.174, EID: 2-s2.0-84938578413,  vol. 45, pp. 428-435, 2015.  
+[11].  V. B. Salve, L. Ragha and N. Marathe, "AODV based secure routing algorithm against Sinkhole 
+attack in wirelesses Sensor Networks," in 2015 IEEE International Conference on Electrical, 
+Computer and Communication Technologies (ICECCT), DOI: 10.1109/ICECCT.2015.7226170 
+EID: 2-s2.0-84954187905, 2015.  
+[12].  A. Patil, N. Marathe and P. Padiya, "Improved EAACK scheme for detection and isolation of a 
+malicious node in MANET," in 2015 International Conference on Applied and Theoretical 
+Computing and Communication Technology (iCATccT), DOI: 10.1109/ICATCCT.2015.7456941, 
+EID: 2-s2.0-84966615505, 2015.  
+[13].  S. A. Ahir, N. Marathe and P. Padiya, "IAMTT - New Method for Resisting Network Layer Denial 
+of Service Attack on MANET," in 2014 Fourth International Conference on Communication 
+Systems and Network Technologies, DOI: 10.1109/CSNT.2014.160, EID: 2-s2.0-84902595584, 
+2014.  
+[14].  P. M. Rathod, N. Marathe and A. V. Vidhate, "A survey on Finite Automata based pattern 
+matching techniques for network Intrusion Detection System (NIDS)," in 2014 International 
+Conference on Advances in Electronics Computers and Communications,                                                      
+DOI: 10.1109/ICAECC.2014.7002456 EID: 2-s2.0-84956757423, 2014.  
+[15].  N. Marathe and D. L. Ragha. andDr. Madhumitta Chatterjee, "PKI and Id based secure 
+communication in VANETS," in International Conference on Recent trends in information 
+Technology and Computer Science(ICRTITCS-2011), 2011.  
+
+[16].  N. Marathe and D. L. Ragha. andDr. Madhumitta Chatterjee, "Multilevel Multidimensional 
+Trust Model for Group based Application," in International Conference on Recent trends in 
+information Technology and Computer Science(ICRTITCS-2011), 2011.  
+III. Publications in Books and Book Chapter: 
+[1].  Kulkarni, N., Borkar, G., & Marathe, N., “Game Theory Approach for Trust 
+Management in the Realm of IoT. Studies in Systems, Decision and Control”, Studies 
+in Systems, Decision and Control,2021 | book -chapter, DOI: 10.1007/978 -981-33-
+4996-4_9, EID: 2-s2.0-85104136348, Part of ISSN: 21984190 21984182341, 145 -157, 
+2021. 
+[2].  Deshmukh, A., Warang, K., Pente, Y., & Marathe, N., "Violence Detection Through 
+Surveillance System", Advances in Intelligent Systems and Computing, Advances in 
+Intelligent Systems and Computing, 2021 | book, DOI: 10.1007/978 -981-15-8289-
+9_49, EID: 2 -s2.0-85098107263, Part of ISSN: 21945365 21945357 1270, 503 -511, 
+2021. 
+[3].  N. R. Marathe and S. K. Shinde, "Improved ITCA Method to Mitigate Network -Layer 
+Attack in MANET," in Data Communication and Networks, Advances in Intelligent 
+Systems and Computing 2020 | book, DOI: 10.1007/978 -981-15-0132-6_16. EID: 2 -
+s2.0-85075671351, Part of ISSN: 21945365 21945357Singapore, 2020.  
+[4].  A. C. and Nilesh Marathe, D. Jadhav and N. Dongre, "Survey Of Different 
+Countermeasure On Network Layer Attack In Wireless Network," Lecture Notes in 
+Networks and Systems 2020 | book -chapter, DOI: 10.1007/978 -981-15-0146-3_7, 
+EID: 2 -s2.0-85079283374, Part of ISSN: 23673389 23673370in International 
+Conference on Inventive Communication and Computational Technologies [ICICCT 
+2019], 2019. 
+IV.  Publications in National Conferences: 
+[1].  Ganesh Boga, Shirisha Addagatla, Urmit Mahida, Shivam Jaware, Nilesh Marathe, 
+“Trekking route finder”, National Students Conference on Frontier in Engineering and 
+Technology (NSCFET 2019), RAIT 
+[2].  Anuj Sharma, Ramandeep Suri, Nilesh Marathe, “Multiuser Multimedia Player with 
+Facial Recognition”, National Students Conference on Frontier in Engineering and 
+Technology (NSCFET 2019), RAIT 
+[3].  Nilesh Marathe, “ A novel approach to image forgery detection”, 3rd National 
+Conference  NCACIT-18, held on 9th & 10th Feb 2018. 
+ 
+ 
+ 
+ 
+
+ 
+AWARDS/RECOGNITION: 
+• DEVNET Associate Instructor Pioneer - CISCO Awarded - 2020-21 
+• NPTEL IIT Course Successfully Completed  
+o Elite Silver - 2019-20 
+o Merit - 2018-19 
+• Microsoft Security Associate Certified - 2017-18 
+• Avishkaar 2017 University and District Project Competition, Merit with Third Rank - 2017-18 
+• Best Teacher Award - IT Department, RAIT - 2016-17 
+• Certificate of Excellence for R&D Project Work – RAIT - 2015-16 
+• Certificate of Excellence for R&D – RAIT - 2014-15 
+• 1st Prize Robotics Teacher Competition Phase I - IIT Bombay - 2013-14 
+• 1st Prize Robotics Teacher Competition Phase II - IIT Bombay - 2013-14 
+• Certificate of Excellence for R&D – RAIT - 2013-14 
+• Certificate of Academic Excellence * performer – RAIT - 2012-13 
+• Certificate of Excellence for Project Work for Institute -  RAIT - 2012-13 
+• Certificate of Excellence for R&D – RAIT - 2012-13 
+• Certificate of Excellence for R&D – RAIT - 2011-12 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

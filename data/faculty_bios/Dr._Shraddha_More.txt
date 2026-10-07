@@ -1,0 +1,795 @@
+Bio / CV of Dr. Shraddha More (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+Name of Teaching Staff Dr. Shraddha Subhash More 
+ 
+Designation Assistant Professor 
+Department Computer Science and Engineering 
+(Data Science) 
+Date of Joining the Institution 1st January 2025 
+Email ID 
+shraddha.more@djsce.ac.in 
+moreshraddha30@gmail.com 
+Professional Membership 
+▪ Life Member of ISTE (LM114597) 
+▪ Life Member of IAENG                                           
+Profile Links 
+▪ Web of Science Profile: 
+https://www.webofscience.com/wos/author/record/LGY-6517-2024 
+▪ Scopus Author Profile: 
+https://www.scopus.com/authid/detail.uri?authorId=57194406558 
+▪ Google Scholar Profile: 
+https://scholar.google.co.in/citations?user=ffHgEwIAAAAJ&hl=en 
+▪ LinkedIn Profile: 
+linkedin.com/in/shraddha-more-1052b4104 
+▪ Research Gate Profile: 
+https://www.researchgate.net/profile/Shraddha-More-2 
+▪ VIDWAN Profile: 
+https://vidwan.inflibnet.ac.in/profile/397143/Mzk3MTQz 
+Area of Interest Machine Learning, Deep Learning, Computer Vision, Edge 
+Computing, Data Science, Full Stack Web Development 
+Qualifications with Class/Grade: 
+• Ph.D. (Technology) from Thakur College of Engineering and Technology, Kandivali, 
+(July 2026) (University of Mumbai) 
+• M.E. in Information Technology, Thakur College of Engineering and Technology, Kandivali 
+(2015) with 9.30 CGPI. (University of Mumbai) 
+• B.E. in Information Technology, Vidyavardhini's College of Engineering and Technology, 
+Vasai (2011), with First Class. (University of Mumbai) 
+Total Experience in Years: 15 Years. 
+• Assistant Professor at Dwarkadas J. Sanghvi College of Engineering, Mumbai (from January 
+2025 to till date). 
+• Assistant Professor at St. John College of Engineering and Management, Palghar (from June 
+2015 to Dec 2024). 
+• Lecturer at Universal College of Engineering, Vasai (from June 2014 to June 2015). 
+• Lecturer at St. John College of Engineering and Management, Palghar (from November 2011 
+to June 2013). 
+
+
+Courses Taught: 
+ 
+UG PG  
+Machine Learning, Time Series Analysis, Cloud 
+Computing and Security, DevOps, Computer System 
+and Fundamentals, Computational Neuroscience, 
+Web Engineering,  Internet Programming, Digital 
+Logic Design and Applications, Advanced Internet 
+Programming Web Programming, Analog and 
+Digital Circuits, Logic Design, E -Commerce, 
+Artificail Intelligence, Robotics and Machine 
+Intelligence, Web X.0 ,  Paradigms and Computer  
+Programming Fundamentals, Python Programming, 
+Mathematics for Data Science, Data Science for 
+Health and Social Care 
+      (M.Tech in Computer Engineering) 
+• Management Information System 
+• Exploratory Data Analytics and 
+Visualization 
+• Skill based Lab I &II 
+ 
+Projects Guided: 
+• M.E. Project: 02 
+• B.E. Project: 42 
+ 
+Certification and Courses Completed: 
+ 
+ NPTEL 
+ 
+1. Received NPTEL DISCIPLINE STAR AWARD ( JUL-DEC 2025). 
+2. Completed National Programme on Technology Enhanced Learning (NPTEL) 4-week course 
+on Data Mining for Decision Making (IIT Madras) (90%) [Feb-Mar 2026]. (Topper 5%) 
+3. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Software Engineering (IIT Kharagpur) (69%) [Jul-Oct 2025]. 
+4. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Business Intelligence & Analytics (IIT Madras) (64%) [Jan-Apr 2025]. 
+5. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Learning Analytics Tools (IIT Bombay) (75%) [Jul-Oct 2024]. 
+6. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Natural Language Processing (IIT Kharagpur) (51%) [Jan-April 2024]. 
+7. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Machine Learning and Deep Learning-Fundamentals and Applications (IIT- Guwahati) 
+(52%) [Jul-Oct 2023]. 
+8. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Data Analytics with Python (IIT-Roorkee) (64% - Elite) [Jan-April 2023]. 
+9. Completed National Programme on Technology Enhanced Learning (NPTEL) 8 -week course 
+on Business Analytics & Text Mining Modeling using Python  (IIT-Roorkee) (71% - Elite) 
+[Jul-Sep 2022]. 
+10. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Blockchain and its Applications (IIT Kharagpur) [Jan-Apr 2022]. 
+11. Completed National Programme on Technology Enhanced Learning (NPTEL) 4 -week course 
+on Python for Data Science (IIT-Madras) (75% - Elite) [Jan-March 2021]. 
+12. Completed National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Computer Networks and Internet Protocol (IIT-Kharagpur). [Jan-April 2021]. 
+13. Completed a National Programme on Technology Enhanced Learning (NPTEL) 12-week course 
+on Introduction to Machine Learning (IIT-Madras) (94%). [Jan-April 2020] 
+
+14. Completed a National Programme on Technology Enhanced Learning (NPTEL) 8-week course 
+on Introduction to Machine Learning (IIT- Kharagpur) (52%).  
+ 
+  Google 
+ 
+1. Completed a Google Digital Garage certification on Fundamentals of Digital Marketing on June 19, 
+2020 
+ 
+ Coursera 
+ 
+1. Completed Coursera course on Machine learning in Production on June 21, 2026. 
+2. Completed Coursera course on AWS Certified DevOps Engineer -Professional on June 18, 
+2026. 
+3. Completed Coursera course on The Science of Well-Being on July 9, 2025. 
+4. Completed Coursera course on Understanding Research Methods on June 12, 2025. 
+5. Completed Coursera course on University Teaching on June 11, 2025. 
+6. Completed Coursera course on Introduction to DevOps on June 4, 2025. 
+7. Completed Coursera course on Creative Thinking: Techniques and Tools for Success on June 
+4, 2025. 
+8. Completed Coursera course on Modern JavaScript: ES6 Basics on May 28, 2022. 
+9. Completed Coursera course on Create Your First Web App with Python and Flask on May 
+28, 2022. 
+10. Completed a Coursera course on Programming for Everybody (Getting Started with 
+Python) on June 16, 2020. 
+11. Completed a Coursera course on Blockchain Basics on June 1, 2020. 
+12. Completed a Coursera on Front-End JavaScript Frameworks: Angular on June 10, 2020. 
+ 
+ 
+ AWS  
+ 
+1. Completed AWS Academy Graduate-Cloud Foundations course in August 2025. 
+ 
+Udemy 
+ 
+1. Completed Udemy course on Tableau 2020: A-Z Hands-on Tableau Training for Data Science on 
+April 24, 2021. 
+ 
+ Star Certification 
+ 
+1. Completed a Star Certification on Star Certified DevOps Expert on May 11, 2020. 
+2. Completed a Star Certification on Big Data Analytics on May 18, 2020. 
+3. Completed a Star Certification on Star Cloud Computing X-pert: Industry perspective of Cloud 
+Computing on May 16, 2020. 
+ 
+IBM and edX certification 
+ 
+1. Completed an edX certification course on ML0101EN: Machine Learning with Python: A 
+Practical Introduction on June 20, 2020. 
+2. Completed a Cognitive Class (An IBM initiative) course on Blockchain Essentials  on April 21, 
+2020. 
+
+3. Completed a Cognitive Class (An IBM initiative) course on Python 101 for Data Science on April 
+22, 2020. 
+ 
+Research paper publication (Total: 51 Publications) 
+      
+ Journals (National and International): 
+    
+1. More, Shraddha S ., Rajesh Bansode, Govind Murari Upadhyay, and Shyam Akashe. 
+"Optimized duo directed LSTM for efficient object detection on resource constrained edge 
+devices." Discover Internet of Things 6, no. 1 (2026): 66.  (Q1 Open access Scopus Indexed) 
+2. More, Shraddha, Vivian Brian Lobo, Sheetal Patil, Yogita Mane, Vishakha Shelke, and Navin 
+Chaganti. "Intelligent Security Surveillance System Based on Multi -Modal Object Detection 
+and Edge Computing." ITEGAM-JETIA 12, no. 58 (2026): 721-731. (Q4 Scopus Indexed) 
+3. More, Shraddha Subhash, and Rajesh Bansode. "FCN‐YOLOS: An Effective Deep‐Learning 
+Model for Real‐Time Object Detection." Journal of Field Robotics (2025). (Q1 Unpaid Scopus 
+Indexed) 
+4. Shraddha S. More and Dr. Rajesh Bansode, “Hybrid Model Compression Pipeline for Efficient 
+Object Detection using Parallel Recurrent Convolutional Neural Networks,” Journal of 
+Information Systems Engineering and Management, V ol. 10 No. 10s (2025), (Q3 Scopus 
+Indexed) 
+5. Shraddha S. More, Vivian Brian Lobo, Anita Chaudhari, Aditya Pandey, Bhavesh Kumavat, 
+Yash Kamble, “Enhancing Image Forgery Detection with Convolutional Neural Networks and 
+Error Level Analysis,” Journal of Information Systems Engineering and Management , V ol. 10 
+No. 27s (2025). 
+6. Shraddha S. More and Dr. Rajesh Bansode, “Hybrid Model Compression Pipeline for Efficient 
+Object Detection using Parallel Recurrent Convolutional Neural Networks,” Journal of 
+Information Systems Engineering and Management, V ol. 10 No. 10s (2025). 
+7. More, Shraddha S., Neeta Patil, Vivian Brian Lobo, Nikhil Shet, Dhruv Goswami, and Praful 
+Rane. "Empowering the Visually Impaired: YOLOv8 -based Object Detection in Android 
+Applications." Procedia Computer Science 252 (2025): 457-469. 
+8. Shraddha S. More , Akash Patel, Heenal Patel, Sushma Kumbhar, “OBJECT DETECTION 
+BASED SECURITY SURVEILLANCE SYSTEM”, Journal of Data Acquisition and 
+Processing, 2024, 39 (1): 1516-1527.  
+9. Shraddha S. More, Divesh S. Karkera, Shreyash K. Pandey, Tanuja Nehra, Rishikesh  
+Prabhupatkar, “MASKED FACE RECOGNITION USING CONVOLUTIONALNEURAL 
+NETWORK”, Flusser Studies (UGC Care Listed Journal) , ISSN 1661 -5719, V olume-30, pp. 
+612-625, July, 2021.  
+10. Shraddha S. More , Divya Shetty, Janhvi Shinde, Vrishali Bhujang, “Diabetic Retinopathy 
+Detection using Deep Learning”, GIS SCIENCE JOURNAL (UGC CARE Approved GROUP -
+II), VOLUME 8, ISSUE 4, April 2021, pp. 1329-1340. 
+11. Shraddha S. More, Sejal Chaudhari, Tejal Girase, Saloni Wade, “AUGMENTED REALITY 
+BROWSER-TRAIPSE”, Compliance Engineering Journal (CEJ) , V ol.11, Issue 5, May-2020, 
+pp.331-342. 
+12. Shraddha S. More , Pooja Poojary, Avinash Gaud, Dhaval Patel, “Estimating Uncertainty of 
+Bus Arrival Time by Examining Environmental Conditions”,  Studies in Indian Place Names , 
+V ol.40, Issue 68, March 2020, pp.415-423. 
+13. Pravin Kamble, Anita Chaudhari, Shraddha More , Sushil Khane, Hemali Mane, “Object 
+Detection using Convolutional Neural Network in the Application of Supplementary Nutrition 
+Value of Fruits”, International Journal of Innovative Technology and Exploring Engineering 
+(IJITEE), V ol.8, Issue 11, Sept-2019, pp.725-729.  
+
+14. Shraddha S.  More , Rajat Mistry, Mayuresh Pachangane, Amogh Kini, Rishikesh Bhosale, 
+“Automated Gaming Using a Machine Learning Approach”, IOSR Journal of Computer 
+Engineering (IOSR-JCE), V ol. 21, Issue 3, June 2019, pp. 01-05. 
+15. Shraddha S. More , Vrushali Shirodkar, Raunak Joshi, Nrupali Thakur, “Overcoming the 
+Drawbacks of Convolutional Neural Network Using Capsule Network”, IOSR Journal of 
+Computer Engineering (IOSR-JCE), V ol.21, Issue 2, Apr 2019, pp.06-11. 
+16. Shraddha S. More , Smital Bari, Purva Patil, Srushti Raut, “Robotic Jaw for Object Sorting 
+using Raspberry pi”, IOSR Journal of Computer Engineering (IOSR-JCE), V ol.17, Issue 5, Mar 
+2019, pp. 01-07. 
+17. Shraddha S. More , Dr. Rajesh Bansode, Anita Chaudhari, Aruna Pavate, Brinzel Rodrigues, 
+“Android-Based Heart Monitoring Systems”, IOSR Journal of Engineering (IOSRJEN) , Feb-
+2019, pp.28-33. 
+18. Shraddha More , Jigar Maniyar, Mrunmayee Vartak, Prasobh Nair, Chirag Raul, “Online 
+Biometric Verification using Apache Storm on Public Cloud”, International Journal of Recent 
+Trends in Engineering & Research, V ol.4, Issue 2, Feb- 2018, pp.217-224. 
+19. Shraddha More , Arpit Rohel, “Vulnerability Assessment and Penetration Testing through 
+Artificial Intelligence” International Journal of Recent Trends in Engineering & Research , 
+V ol.4, Issue 1, Jan 2018, pp.217-224. 
+20. Shraddha More , Rajesh Bansode, “Side Channel Attack on various Cryptographic 
+Algorithms”, International Journal of Scientific and Engineering Research (IJSER) , ISSN 
+2229-5518, V ol.6, Issue 8, August 2015, pp.1759-1762. 
+21. Shraddha More , Rajesh Bansode, “Implementation of AES with Time Complexity 
+Measurement for Various Input”, Global Journal of Computer Science and Technology 
+(GJCST), V ol.15, Issue 4, July 2015, pp.11-20. 
+ 
+ 
+Conferences (National and International): 
+ 
+22. Vivian Brian Lobo, Shraddha More , Shubham Gaikwad, Pauras Raut, Ninad Rane, Harsh 
+Pashte and Caston Fernandes, “A Mental Health Analysis System for Self -Evaluation using 
+Machine Learning”, 16th International IEEE Con ference on Computing, Communication and 
+Networking Technologies (ICCCNT 2025), July 6-11, 2025. 
+23. Brian Lobo, Vivian, Shraddha More, Samrudhi Motling, Shruti Naik, Neha Naik, and Rohini 
+Rana. "Doctors’ Handwriting Interpretation using Deep Learning," International Conference on 
+Optimization Techniques in the Field of Engineering (ICOFE -2024), (November 15, 
+2024) (2024). 
+24. M. Patil, P. Patil, V . Deshpande, I. Karankale and S. More, "Exploring Opinionated Sentiments 
+through Web Scraping and Attribute-based Analysis," 3rd International Conference on Applied 
+Artificial Intelligence and Computing (ICAAIC) , Salem, India, 2024, pp. 1279 -1286, doi: 
+10.1109/ICAAIC60222.2024.10575301. 
+25. Shraddha S. More , Dr. Rajesh Bansode, “An Empirical Study of Model Compression 
+Techniques for DNN Deployment on Resource -Constrained Devices” 7th International 
+Conference on Innovative Computing and Communication (ICICC-2024), Springer, Feb 2024. 
+26. Shraddha S. More and Dr. Rajesh Bansode, “A Study on Deep Learning Model Quantization 
+Techniques for Edge Devices,” International conference on Intelligent Computing and 
+Networking (IC-ICN2023), 24th -25th February 2023, ISBN: 979-8-98798-39-1-1. 
+27. Kavya N. Naik, Arnica R. Patil, Kinnari N. Patil, Shraddha S. More, “FileFox: A Blockchain 
+based File Storage using Ethereum and IPFS,” 5th International Conference on Data 
+Intelligence and Cognitive Informatics, 27-28 June 2023. 
+
+28. Shubham M. Naik, Atiq R. Shaikh, Reenav K. Hemaria, and Shraddha More, “Blockchain 
+Crowdfunding: A New Era in Democratizing Investment Opportunities ,” 3rd International 
+Conference on Soft Computing for Security Applications ICSCS, April 2023. 
+29. Niket Kamble, Nikhil More, Om Wargantiwar, and Shraddha More, “Deep Learning based 
+Sign Language Recognition and Translation,” 3rd International Conference on Soft Computing 
+for Security Applications ICSCS, April 2023. 
+30. Prabal P. Nair, Shashank S. Karkera, Pratik H. Shinde, and Shraddha More , “Peer to Peer 
+Electric Vehicle Charging,” 3rd International Conference on Soft Computing for Security 
+Applications ICSCS, April 2023. 
+31. Kavya N. Naik, Arnica R. Patil, Kinnari N. Patil, Vaidehi R. Sankhe, Shraddha S. More, Vivian 
+Brian Lobo, “A Python-based Grade Converter Application,” Second International Conference 
+on Electronics and Renewable Systems (ICEARS), March 2023. 
+32. Omkar Nikam, Shreyash Sanjay Singh, Swaraj Patil, Suryakrishnan Nair, Aniket Raut, Vivian 
+Brian Lobo, Shraddha More , Ronald Laban, “A Machine Learning Prediction Model for 
+Envisaging Future Risk of Suicide,” 5th Biennial International Conference on Nascent 
+Technologies in Engineering (ICNTE), January 20-21, 202. 
+33. Dhanashri A. Machhi, Arathy S. Pillai, Punitha Thirumalaikumar, Shraddha S. More , 
+“Accident Detection and Reporting using Convolution Neural Network,” International 
+Conference on Applied Artificial Intelligence and Computing (ICAAIC), May 2022. 
+34. Parth P. Patel, Chirag L. Pavesha, Santoshi S. Sabat, Shraddha S. More, “Deep Learning based 
+Driver Drowsiness Detection,” International Conference on Applied Artificial Intelligence and 
+Computing (ICAAIC), May 2022. 
+35. Om B. Doshi, Hitesh N. Bendale, Aarti M. Chavan, Shraddha S. More, “IoT based Door Lock 
+Security System,” International Conference on Applied Artificial Intelligence and Computing 
+(ICAAIC), May 2022. 
+36. S. Kini, S. Pal, S. Kothare, D. Mitna and S. More, "Friend Recommendation in Social Media 
+App using Link Prediction,"  2022 International Conference on Sustainable Computing and 
+Data Communication Systems (ICSCDS) , 2022, pp. 1502 -1508, doi: 
+10.1109/ICSCDS53736.2022.9761025. 
+37. N. K. Sharma, A. K. Singh, S. Salvi and S. S. More, "College Kart and k-NN Algorithm based 
+Placement Prediction," 2021 Second International Conference on Electronics and Sustainable 
+Communication Systems (ICESC) , 2021, pp. 1271 -1276, doi: 
+10.1109/ICESC51422.2021.9532987.  
+38. S. S. More, M. A. Mange, M. S. Sankhe and S. S. Sahu, "Convolutional Neural Network based 
+Brain Tumor Detection,"  2021 5th International Conference on Intelligent Computing and 
+Control Systems (ICICCS), 2021, pp. 1532-1538, doi: 10.1109/ICICCS51141.2021.9432164.  
+39. Shraddha S. More, Niraj Patel, Sukaji Parab, Sushil Maurya, “Blockchain Based Tamper Proof 
+Certificates”, International Conference on Smart Data Intelligence (ICSMDI 2021), 
+ELSEVIER-SSRN Digital Library, pp. 750-756, April 29-30, 2021. 
+40. More S.S., Pathak G., Panchal S., Patil M. (2021) RFID-Based Railway Crowd Prediction and 
+Revenue Analysis. In: Jeena Jacob I., Kolandapalayam Shanmugam S., Piramuthu S., 
+Falkowski-Gilski P. (eds) Data Intelligence and Cognitive Informatics. Algorithms for 
+Intelligent Systems. Springer, Singapore. https://doi.org/10.1007/978-981-15-8530-2_7, pp.97-
+109, January 2021. 
+41. Shraddha S More, Vivian Brian Lobo, Ronald Melwin Laban, Simran Panchal, Monika Patil, 
+Gulshan Pathak, “ Cancer Prediction and Insurance Eligibility using Machine Learning 
+Techniques”, IEEE 5th International Conference on Communication and Electronics Systems 
+(ICCES), June 2020, pp.725-730. 
+42. Vivian Brian Lobo, Ronald Melwin Laban, Shraddha S. More, Jetso Analin, “Convergence of 
+Blockchain and Artificial Intelligence to Decentralize Healthcare Systems”, IEEE International 
+
+Conference on Computing Methodologies and Communication (ICCMC), March 2020, pp.932-
+938. 
+43. Anita Chaudhari, Rajesh Bansode, Brinzel Rodrigues, Shraddha More, Aruna Pavate, “Design 
+and Development of Energy Audit System,” in MULTICON -W 2020: McGraw -Hill, 2020, 
+ISBN (13): 9789390385799. 
+44. Shraddha More, Anagha Mudrale, Sukhada Raut, “Secure Transaction System using Collective 
+Approach of Steganography and Visual Cryptography ”, IEEE International Conference on 
+Smart City and Emerging Technologies (ICSCET), Jan 2018, pp.1-6. 
+45. Godson Michael D'silva, Sanket Thakare, Sharddha More, Jeril Kuriakose, “Real World Smart 
+Chatbot for Customer Care using a Software as a Service (SaaS) Architecture ”, IEEE 
+International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud), Feb 2017, 
+pp.658-664. 
+46. Shraddha More, Anita Chaudhari, Brinzel Rodrigues, “ Digital Forensic Investigation using 
+Subject-based Semantic Document Processing ”, IEEE International Conference on 
+Contemporary Computing and Informatics(IC3I), Dec-2016, pp. 312-315. 
+47. Anita Chaudhari, Brinzel Rodrigues, Shraddha More, “Automated IOT based system for Home 
+Automation and Prediction of Electricity usage and Comparative Analysis of various Electricity 
+Providers: SmartPlug ”, IEEE International Conference on Contemporary Computing and 
+Informatics(IC3I), Dec-2016, pp. 390 – 392. 
+48. Brinzel Rodrigues, Anita Chaudhari, Shraddha More , “ Two Factor Verification using QR -
+code: A Unique Authentication system for Android Smartphone Users ”, IEEE International 
+Conference on Contemporary Computing and Informatics (IC3I), Dec-2016, pp. 457-462. 
+49. Jeril Kuriakose, Dhvani Shaha, Shraddha More , “ Comparative Study of Diverse Zero 
+Knowledge Argument Systems”, IEEE International Conference on Data Mining and Advanced 
+Computing (SAPIENCE), March-2016, pp. 284-293. 
+50. Shraddha More , Pranit Gaikwad, “ Trust-based Voting Method for Efficient Malware 
+Detection”, Elsevier Procedia computer science (ICCCV) 2016, V olume 79, Jan-2016, pp. 657-
+667. 
+51. Shraddha More, Rajesh Bansode, “ Securing Side Channel Attacks: A Survey ”, International 
+Conference and Workshop on Electronics & Telecommunication Engineering (ICWET), Feb -
+2015. 
+ 
+Patent: 
+52. A Multi-Level Randomized SALT Technique for Confidentiality in IoT devices | Published on 
+07.08.2023. | German Patent. 
+53. A LOCATION -BASED RESPONDER SYSTEM AND METHOD FOR PROVIDING 
+EMERGENCY HELP | Published on 16.07.2021. | Indian Patent. 
+ 
+ 
+Book Publication: 
+ 
+1. “Web Technology” for University of SPP | Semester V and VI | T.E. (Artificial Intelligence 
+and Data Science) (Tech-Neo Publication) ISBN: 978-93-5583-061-6 
+2.  “Web Design ” for University of Mumbai  | Semester V| B .E. (Electronics and 
+Telecommunication) (Tech-Neo Publication) ISBN:978-93-5583-312-9 
+3.  “Web Technologies” for University of Mumbai  | Sem ester V| B .E. (Electronics and 
+Computer Science) (Tech-Neo Publication) ISBN: 978-93-5583-158-3 
+4.  “Blockchain” for University of Mumbai  | Sem ester VI| B .E. (Computer Engineering ) 
+(Tech-Neo Publication) ISBN: 978-93-5583-121-7 
+
+5.  “Web Computing” for University of Mumbai  | Semester V| T.E. ( Data Science/AIML) 
+(Tech-Neo Publication) ISBN: 978-93-5583-165-1 
+6.  “Web Application Development” for University of SPP | Semester VI| T.E. (Information 
+Technology) (Tech-Neo Publication) ISBN: 978-93-5583-108-8 
+7.  “Web Technology” for University of SPP | Sem VI| T.E. (Computer Engineering). (Tech-
+Neo Publication) ISBN:978-93-5583-061-6 
+8.  “Web X.0” for University of Mumbai | Semester VI| T.E. (Information Technology) (Tech-
+Neo Publication) ISBN: 978-93-91472-80-1 
+9.  “Internet Programming” for University of Mumbai | Semester V | T.E. (Information 
+Technology) (Tech-Neo Publication) ISBN:978-93-90904-35-8 
+10.  “Internet Programming”  for University of Mumbai | Semester V | T.E. (Computer 
+Engineering) (Tech-Neo Publication) ISBN:978-93-91472-55-9 
+ 
+Interaction with Professional Institutions: 
+ 
+• Invited as a resource person for delivering hands-on session on Developing a Web Application 
+using MERN Stack  at D. J. Sanghvi College of Engineering,  CSE( ICB) Department, on 
+November 8, 2025. 
+• Invited as a resource person for delivering hands -on session on Data Preprocessing to Data 
+Visualization at Universal College of Engineering, Vasai on September 20, 2024. 
+• Invited as a resource person for delivering sessions on “Data Preprocessing to Data 
+Visualization” in IEEE Bombay Section sponsored FDP on "Becoming IOE Ready: Recent 
+Trends in Sensing, Security and Data Analysis" organized by St. Francis Institute of Technology, 
+Borivali and Thakur College of Engineering, Kandivali on 26th June 2024. 
+• Invited as a resource person for delivering hands-on session on Data Science with Python at 
+St. John College of Humanities and Sciences, Palghar on September 02, 2023. 
+• Invited as a resource person for delivering workshop on Python for Data Science at VIV A 
+Institute of Technology, Virar on 12-13th September 2023. 
+• Invited as a resource person for an expert talk on “Full Stack Web Development” for Third 
+year diploma students at St. John College of Engineering and Management, Palghar on 28 th 
+August 2023. 
+• Invited as a Resource Person in "Faculty Orientation Program" for Revised Syllabus of TE -
+IOT/CYSE/CS Sem VI Rev 2019 'C' Scheme on the Subject of "Web X.0 & Web Lab " on 
+January 24, 2023 Organized by Cyber Security Department,  SAKEC On Behalf of University 
+of Mumbai. 
+• Invited as a resource person for delivering sessions on “Flask” in 30-Hours Value-added course 
+on the topic “Advances in Web Technology” for third year students organized by St. Francis 
+Institute of Technology, Borivali from December 12, 2022. 
+• Invited as a resource person for delivering hands-on session on Web Technology for Third year 
+students organized by Universal College of Engineering, Kaman 14-15th October 2022. 
+• Invited as a resource person for delivering expert sessions on Web X.0 for Third year students 
+organized by Universal College of Engineering, Kaman in month of March-April. 
+• Invited as a resourc e person for delivering session  on “Python for Data Science”  for 
+S.Y .B.Sc.I.T and T.Y .B.Sc.I.T students organized by St. John College of Humanities and 
+Sciences, Palghar on January 29, 2022. 
+• Invited as a Resource Person in "Faculty Orientation Program" for Revised Syllabus of TE-
+IT Sem VI Rev 2019 'C' Scheme on the Subject of "Web X.0 & Web Lab " on January 06, 2023 
+Organized by Information Technology Department, Xavier Institute of Engineering, Mahim on 
+Behalf of University of Mumbai. 
+
+• Invited as a resource person for delivering session on “Python Flask” for faculties in AICTE-
+ISTE approved FDP on "Web X.0" organized by Xavier Institute of Engineering, Mahim from 
+January 3 to 8, 2022. 
+• Invited as a resource person for delivering sessions on “NodeJS, MongoDB and Flask” in 30-
+Hours Value-added course on the topic “Advances in Web Technology” for third year students 
+organized by St. Francis Institute of Technology, Borivali from December 13 to 17, 2021. 
+• Invited as a resource person for delivering sessions on “Python Flask” for faculties in ISTE 
+approved STTP on "Recent Trends in Web Technologies" organized by St. Francis Institute 
+of Technology, Borivali from December 8 to 9, 2021. 
+• Delivered a webinar on HOW TO USE AND PARTICIPATE RESPONSIBLY ON 
+VIRTUAL PLATFORMS for students of St. John Technical and Educational Campus, Palghar 
+organized by NSS Units of SJTEC on February 6, 2021. 
+• Delivered an Awareness Session on “How to use Sanitary Napkin Vending Machine” under 
+Women’s Development Cell / Internal Complaint Committee  for Ladies staff in campus at St. 
+John college of Engineering and Management, Palghar on January 20, 2020. 
+• Delivered an expert lecture on “ Data Science using Python ” for students of Computer 
+Engineering, Viva Institute of Technology, Virar on September 17, 2019. 
+• Delivered a Hands-on session on “Advanced Web Technology” for Students of Department 
+of Information Technology, St. John College of Engineering & Management, Palghar, under 
+STEP Activity for Academic year 2017-18. 
+• Delivered a Hands-on Session on “Big Data Analytics” for Teachers as part of ISTE approved 
+STTP organized by  Department of Computer Engineering , Gharda Institute of Technology, 
+Lavel-Chiplun on January 1 to 4, 2018. 
+• Delivered a Hands -on Session on “ Building Real -time Data Processing IoT Applications 
+Using Amazon Web Services ” for Teachers as part of ISTE approved STTP organized by 
+Department of Information Technology, St. John College of En gineering & Management, 
+Palghar on May 2 to 6, 2017. 
+• Delivered a Hands -on session on “ Big Data Analytics using Pig, Hive and MongoDB ” for 
+Students of Department of Information Technology, St. John College of Engineering & 
+Management, Palghar, under STEP Activity on September 17, 2016. 
+• Delivered a Hands -on Session on “ RASPBERRY PI” for students of St. John College of 
+Engineering & Management, Palghar on October 12 to 13, 2015. 
+ 
+Research/ Consultancy: 
+ 
+• Received seed money of Rs. 1,00,000/- from Maharashtra Students Innovation Challenge 
+(MSIC)-2023 Competition held by District Level organized by Maharashtra State Innovation 
+Society, Department of Skills, Employment, Entrepreneurship & Innovation, Govt. of 
+Maharashtra. 
+• Rajiv Gandhi Science and Technology Commission, Government of Maharashtra grant of 
+Rs. 57,000/- received from University of Mumbai for research proposal titled ‘An IoT-Enabled 
+Smart Bracelet for Deaf and Dumb Students to Communicate with Teachers in Schools of 
+Palghar Region’.  
+• Minor Research Grant of Rs. 15,000/ - received from University of Mumbai for research 
+project on ‘Robotic Arm for Object Sorting using Raspberry Pi ’, for duration of 1 year in the 
+academic year 2018-19. 
+• Received NVIDIA GPU Grant Award to support research work in the domain of “Big Data & 
+Data Mining, Cloud, Machine Learning & A I” with the donation of Titan XP  & Jetson TX1 
+
+hardware. (The NVIDIA GPU Grant Award is up to Titan XP = $ 1200 and Jetson TX1 = $ 
+599). 
+• Received Microsoft Azure Research grant up to USD $20,000.00  for the research activities 
+in the domain of Cloud Computing, Big Data Analytics and Machine Learning. 
+ 
+ 
+OTHER EXPERIENCE:  
+ 
+• Syllabus Design and Question paper setter for UG and PG courses in University of Mumbai. 
+• Question paper setter in Autonomous colleges (SFIT, VESIT, LR Tiwari). 
+• Reviewer for Scopus Indexed Journals, IEEE and Springer International Conferences. 
+• Invited as a judge for Paper-a-Thon 2025 organized by Microsoft Learn Students Club (MLSC), 
+Vidyavardhini's College of Engineering and Technology held during August 8–9, 2025. 
+• Served as a Deputy HoD for 3 academic years in the Department of Information Technology, 
+St. John College of Engineering and Management, Palghar. 
+• Worked as a NSS Programme Officer in St. John College of Engineering and Management, 
+Palghar. 
+• Mentored to design a solution of team IDEAS OUTTA BOX for Smart India Hackathon 2018. 
+• Invited as a judge for the Technical Paper Presentations at 'Oscillation'2 5, organized by 
+Vidyavardhini’s College of Engineering and Technology, Vasai on 5th April 2025. 
+• Invited as a session chair for 12 th National Conference on "Role of Engineers in Nation 
+Building" (NCRENB 2024) organized by VIV A Institute of Technology, Virar on 15th & 16th 
+March 2024. 
+• Invited as a judge for the Technical Paper Presentations at 'Oscillation'24, organized by 
+Vidyavardhini’s College of Engineering and Technology, Vasai on 5th April 2024. 
+• Invited as a judge for Maharashtra Students Innovation Challenge (MSIC)-2023 Competition at 
+Palghar District Level organised by Maharashtra State Innovation Society, Department of Skills, 
+Employment, Entrepreneurship & Innovation, Govt. of Maharashtra on 14th December 2023. 
+• Invited as judge for colloquium “IT for Society” at St. Francis Institute of Technology  on 26th 
+February 2021. 
+• Invited as a judge for Hack-Stomp 2021 (Hackathon) at Universal College of Engineering, Vasai 
+on 25th February 2021. 
+• Invited as a judge for 6th National Level Project Exhibition cum Poster and Paper Presentation" 
+organized by Universal College of Engineering, Vasai on Friday, 13th March 2020. 
+• Invited as a judge for 5th National Level Project Exhibition cum Poster and Paper Presentation" 
+organized by Universal College of Engineering, Vasai on Friday, 8th March 2019. 
+• Invited as a judge for Combo Exhibition in Science, Mathematics, Geography, I.T and 
+Commerce” organized by Tarapur Vidya Mandir and Junior Coll ege, Boisar on 8 th October 
+2015. 
+STTP/FDP/Workshop/Seminar/Webinar Attended or Participated: 
+• Completed FDP on Transformative Teaching Pedagogy for Future Ready Classrooms organized 
+by Fr. CRIT, Vashi, from 18/5/2026 to 23/5/2026.  
+• Completed ISTE approved Self -Financing Faculty Development Program on “Cybersecurity, 
+AI and Quantum Revolution: Emerging Frontiers in Technology” held during 03-03-2025 to 08-
+03-2025 organized by Dwarkadas J. Sanghvi College of Engineering, Mumbai, Maharashtra. 
+• Completed FDP on Data Mining for Decision Making   organized by IIT Mandi, from 01-02-
+2026 (4 Weeks). 
+
+• Completed FDP on Agentic AI in FinTech: Autonomous Intelligence for Next -Generation 
+Financial Systems  organized by  SVKM’s Dwarkadas J. Sanghvi College of Engineering 
+(DJSCE),  held during 23rd January 2026 & 24th January 2026. 
+• Completed FDP on OOP Unplugged: Teaching- Learning of “Object -Oriented Programming” 
+through Process -Oriented Guided Inquiry Learning (POGIL)  organized by NMIMS from 
+15/12/2025 to 19/12/2025. 
+• Completed ATAL FDP on Quantum Intelligence: Exploring the Convergence of Quantum 
+Computing and Artificial Intelligence organized by Vidyavardhini’s College of Engineering and 
+Technology, from 15/12/2025 to 20/12/2025. 
+• Completed Innovation Ambassador (IA) training 'Foundation Level' (Total 16 Sessions of 30 
+Contact hours). 
+• Completed ATAL FDP on Agenetic AI: Designing Autonomous and Responsible System  
+organized by ATHARV A COLLEGE OF ENGINEERING, from 17/11/2025 to 22/11/2025. 
+• Completed ATAL FDP on Integrating AI&ML and Computational Techniques: Transforming 
+Innovation in Engineering and Sciences organized by GHARDA FOUNDATION'S GHARDA 
+INSTITUTE OF TECHNOLOGY, from 03/11/2025 to 8/11/2025. 
+• Completed ATAL FDP on The Future of AI & ML: Balancing Innovation, Ethics, and Industry 
+Needs organized by RIZVI COLLEGE OF ENGINEERING, from 08/09/2025 to 13/09/2025. 
+• Completed FDP on Software Engineering organized by IIT Kharagpur, from 15/7/2025 (12 
+Weeks). 
+• Completed ATAL FDP on AI in Cybersecurity 5.0 : Trends ,Techniques & Threat Intelligence  
+organized by MIT Academy of Engineering, Alandi, Pune from 21/07/2025 to 26/07/2025. 
+• Completed ATAL FDP on AI-Driven Growth: Shaping India's Economy and Global Leadership 
+organized by Rajiv Gandhi Institute of Technology from 24/02/2025 to 01/03/2025. 
+• Completed ISTE approved STTP on Cybersecurity, AI and Quantum Revolution: Emerging 
+Frontiers in Technology organized by D. J. Sanghvi College of Engineering from 03/03/2025 to 
+08/03/2025. 
+• Completed ATAL FDP on Data Analytics for Smart Mobility  organized by COLLEGE OF 
+ENGINEERING & TECHNOLOGY from 03/02/2025 to 08/02/2025. 
+• Completed ATAL FDP on Research and Innovation Trends in Large Language Models organized 
+by organized by D. J. Sanghvi College of Engineering from 20/01/2025 to 25/01/2025. 
+• Completed ATAL FDP on Ethical Hacking and V APT Mastery: Keystones of Cyber Security for 
+Unnat Bharat , organized by D. J. Sanghvi College of Engineering  from 06/01/2025 to 
+11/01/2025. 
+• Completed 6 days ATAL FDP on Cutting-Edge Approaches to Natural Language Processing and 
+Large Language Models organized by DR. J.J. MAGDUM COLLEGE OF ENGINEERING. 
+from Dec 16 to Dec 21, 2024. 
+• Completed 6 days ATAL FDP on High Performance Computing for Data Intensive and Complex 
+AI Applications organized by CHAITANYA BHARATHI INSTITUTE OF TECHNOLOGY 
+from Dec 2 to Dec 7, 2024. 
+• Completed STTP (ISTE approved) on “IPR (Patents, Design, Copyright, Trademarks, and 
+Geographical Indication) under national Intellectual Property Awareness Mission (NIPAM)” 
+organized by VPM’s Maharshi Parshuram College of Engineering, Velneshwar from 1st Dec- 7th 
+Dec 2024.  
+• Completed 12-week FDP on Learning Analytics Tools from IIT Bombay, Jul-Oct 2024. 
+• Completed 12-week FDP on Natural Language Processing from IIT Kharagpur, Jan-April 2024. 
+• Completed Two-week ISTE approved STTP on Recent Trends in AI, ML & IOT organized by 
+Smt. Kashibai Navale College of Engineering, Pune from 12th June to 25th June 2024. 
+
+• Completed ISTE approved STTP on Cultivating the Future of Healthcare with Generative AI 
+organized by St. Francis Institute of Technology, Mumbai, Maharashtra from 11.12.2023 to 
+15.12.2023. 
+• Completed ATAL FDP on Artificial Intelligence and Machine Learning at MGM'S COLLEGE 
+OF ENGINEERING AND TECHNOLOGY from 01/01/2024 to 06/01/2024. 
+• Completed 5 days ATAL FDP on Building Advanced Data Analytics Applications with Cloud 
+organized by Edunet Foundation and EY GDS (Ernst & Young), in partnership with AICTE 
+from 18/12/2023 to 22/12/2023. 
+• Completed 12 -week FDP on Machine Learning and Deep Learning -Fundamentals and 
+Applications from IIT-Guwahati, Jul-Oct 2023. 
+• Completed ISTE approved workshop on “Introduction to ML, NLP and ChatBots” organized 
+by VPM's Maharshi Parshuram College of Engineering, Velneshwar on 4th July to 29th July 
+2023. 
+• Completed two -weeks IEEE sponsored Capacity Building Workshop on “Next Generation 
+Solutions: Harnessing the Power of Blockchain and AI” jointly organized by St. Francis Institute 
+of Technology (SFIT), Xavier Institute of Engineering (XIE), and St. John Col lege of 
+Engineering and Management (SJCEM) from June 19 to July 02, 2023. 
+• Completed 12-week FDP on Data Analytics with Python from IIT-Roorkee, Jan-Apr 2023. 
+• Completed 3 days virtual training workshop on “Latex Software: A Scientific Documentation” 
+organized by Sandip Institute of Engineering and Management, Nashik from 9th to 11th March 
+2023. 
+• Participated in the International workshop on "RESEARCH AND DATA INTERPRETATION 
+TECHNIQUES USING SPSS (HANDS -ON)" organized by Scholars Gate on 23 -01-2023 to 
+25-01-2023. 
+• Completed STTP on  Data Science and Python sponsored by ISTE, organized by College of 
+Engineering & Technology, Akola from 16.01.2023 to 28.01.2023. 
+• Completed 8-weeks FDP on Business Analytics & Text Mining Modeling Using Python from 
+IIT Madras, Jul-Sep 2022. 
+• Participated in Webinar on “Systematic Approach for Publishing Research Papers, Indexing and 
+Citations” on Wednesday, 7th, 2022. 
+• Completed one week Faculty Development Program on “ML: Basics to Advance” sponsored by 
+IEEE Bombay section and organized by St. Francis Institute of Technology jointly with Xavier 
+Institute of Engineering and St. John College of Engineering and Management from July 01 to 
+07, 2022. 
+• Completed AICTE-ISTE approved orientation/refresher programme on Cyber Security and 
+Ethical Hacking organized by Xavier Institute of Engineering, Mahim from 10 to 15 January 
+2022. 
+• Completed 8-week FDP on Python for Data Science from IIT Madras, Jan-Feb 2021 
+• Completed one -week AICTE -ATAL sponsored FDP on “Research Methodology and 
+Optimization Techniques” organized by Government Polytechnic Nashik from 13/12/2021 to 
+17/12/2021  
+• Participated in two -days Workshop on "Outcome Based Education (OBE)" organized by 
+MGM’s College of Engineering and Technology, Kamothe, Navi Mumbai from August 20-21, 
+2021. 
+• Completed one-week AICTE- ATAL Sponsored FDP on “Artificial Intelligence and Machine 
+Learning with Data Science” organized by Department of Computer Science and Engineering, 
+Babasaheb Naik College of Engineering, Pusad from July 14 to 18, 2021. 
+• Completed 6 Days National Workshop on “ReactJS” organized by Department of Information 
+Technology, Universal College of Engineering under ITSA and IQAC in collaboration with 
+
+Brain O Vision Solutions India Pvt. Ltd. & National Youth Council of India held during 
+05.07.2021 to 10.07.2021. 
+• Completed Online STTP (ISTE approved) on “Deep Learning for Computer Vision” organized 
+by St. John College of Engineering and Management, Palghar from June 30 to July 4, 2021. 
+• Completed Online STTP (ISTE approved) on “Recent Trends Research and Challenges in IoT 
+Applications” organized by Vidyavardhini’s College of Engineering and Technology, Vasai from 
+June 28 to July 3, 2021. 
+• Completed Online STTP (ISTE approved) on “Insights and Methodologies towards Research 
+and Research Outcomes” organized by St. Francis Institute of Technology, Borivali from June 
+21 to 26, 2021. 
+• Completed Online STTP (ISTE approved) on “Internet Programming: The Full Stack 
+Approach” organized by Vidyavardhini’s College of Engineering and Technology, Vasai from 
+June 14 to 25, 2021. 
+• Completed 4-week FDP on Python for data Science from IIT Madras, Jan-Feb 2021. 
+• Completed Online FDP on “RESEARCH IN ENGINEERING - A Way Forward” organized by 
+A. P. Shah Institute of Technology, Thane from July 06 to 10, 2020. 
+• Completed online course on “The BodhiTree and SAFE Tools for Effective Online Teaching: A 
+Hands-On Workshop” organized by Indian Institute of Technology, Bombay (IIT-Bombay) from 
+June 23 to 24, 2020. 
+• Completed AICTE Training and Learning (ATAL) Academy Online FDP on “Blockchain” 
+organized by National Institute of Technology (NIT), Nagaland from June 22 to 26, 2020. 
+• Completed online STTP on “LaTeX for everyone” organized by Ramrao Adik Institute of 
+Technology, Nerul from June 18 to 20, 2020. 
+• Attended Webinar on “Libraries and Tools for Machine Learning” organized by St. Francis 
+Institute of Technology, Mumbai on June 18, 2020. 
+• Completed one-day webinar on “ML for Developing Nations” organized by St. Francis Institute 
+of Technology, Mumbai on June 15, 2020. 
+• Completed online workshop on Next -Generation Software Tools & Trends for Industrial 
+Solutions: Current Practices Government College of Engineering, Aurangabad (TEQIP -III) 
+from June 13 to 17, 2020. 
+• Attended Webinar on “Gender Sensitization in India: Prospects and Challenges” organized by 
+Government College of Engineering, Jalgaon and Government College of Engineering, Odisha 
+(TEQIP-III) on June 13, 2020. 
+• Completed one -day online Training (Certificate of Recognition) on “Microsoft Innovative 
+Educator Program” organized by Microsoft Educator Center on June 09, 2020. 
+• Completed Online STTP (ISTE approved) on “Python Basics, Machine Learning and 
+Blockchain” organized by K. J. Somaiya Institute of Engineering and Information Technology 
+from June 08 to 13, 2020. 
+• Completed Online STTP (AICTE -ISTE approved) and (CSI) on “E -learning Tools, 
+Methodologies, and Content Management” organized by College of Engineering and 
+Technology, Akola from June 08 to 13, 2020. 
+• Completed online workshop on “Outcome -based Education and NBA Accreditation Process” 
+organized by P. R. Pote College of Engineering and Management, Amravati from June 08 to 12, 
+2020. 
+• Completed online workshop on “Enhancing Research Work of Ph.D. Aspirants through 
+Systematic Approach” Lokmanya Tilak College of Engineering, Navi Mumbai from June 08 to 
+10, 2020. 
+
+• Completed Online FDP under U.G.C. Paramarsh Scheme on “NAAC Assessment and 
+Accreditation for Affiliated Colleges” organized by Vinayakrao Patil College, Vaijapur from 
+June 08 to 13, 2020. 
+• Attended webinar on “Cyber Security” organized by Bharati Vidyapeeth College of 
+Engineering, Navi Mumbai and TeleNetworks Technologies Pvt. Ltd. on June 06, 2020. 
+• Completed Online Webinar series on “Exploring Emerging Dimensions of Electronics” 
+organized by St. John College of Engineering and Management, Palghar from June 05 to 09, 
+2020. 
+• Attended Webinar on “Open -Source Technology: A Step Towards Collaborative Learning” 
+organized by Don Bosco Institute of Technology, Mumbai (IETE and IEEE) on June 05, 2020. 
+• Completed online workshop on “Writing High -Impact Research Papers, Effectively, and 
+efficiently” organized by G. H. Raisoni Institute of Business Management, Jalgaon, Maharashtra 
+from June 04 to 06, 2020. 
+• Attended Webinar on “Gateway to Cyber Security” organized by St. John College of 
+Engineering and Management, Palghar on June 03, 2020. 
+• Completed Online FDP on “Engineering Education and the Industry: A Post COVID -19 
+Perspective” organized by Rajiv Gandhi Institute of Technology from June 01 to 05, 2020. 
+• Attended Webinar on “Creating Interactive E-learning Content” organized by Universal College 
+of Engineering, Vasai (IQAC) on June 01, 2020. 
+• Attended one -day Webinar on “Leadership Talk” organized by MHRD’s Innovation Cell 
+(Government of India) and AICTE on May 30, 2020. 
+• Attended Webinar on “Artificial Intelligence and Machine Learning” organized by Dr. Subhash 
+Technical Campus, Junagadh on May 30, 2020. 
+• Completed National level online FDP on “Disruptive Technologies of Industry 4.0” organized 
+by Fr. Conceição Rodrigues College of Engineering, Mumbai from May 30 to June 03, 2020. 
+• Attended Webinar on “Emergence of Data Analytics and its Impact on Data Warehouse” 
+organized by VIV A Institute of Technology on May 31, 2020. 
+• Attended Webinar on “Writing Effective Research Paper” organized by Sir M. Visvesvaraya 
+Institute of Technology, Bengaluru, Karnataka on May 30, 2020. 
+• Completed International Workshop on “Education 4.0: Transformation of Learning 
+Environment Rajkiya Engineering College, Banda and Consilio Intelligence Research Lab, 
+U.P. (TEQIP-III) May 29 and 30, 2020. 
+• Attended Webinar on “Usage of Technology in COVID -19” organized by Terna Engineering 
+College, Navi Mumbai from May 28 to June 02, 2020. 
+• Completed Webinar on “Education 4.0-Season II” organized by Atharva College of Engineering 
+(ACE), Malad (IQAC) from May 28 to 30, 2020. 
+• Completed Online FDP on “Signal Image and Video Processing: A Practical Approach” 
+organized by Government College of Engineering, Karad (TEQIP-III) from May 26 to 30, 2020. 
+• Completed Online FDP on “Data Science” organized by Fr. Conceição Rodrigues College of 
+Engineering, Mumbai from May 26 to 30, 2020. 
+• Completed National level FDP and Online Training on “SCILAB: An open-source substitute of 
+MATLAB” organized by JNTUH College of Engineering Sultanpur, Telangana from May 25 to 
+30, 2020. 
+• Completed Online FDP on “Recent Trends and Applications of Machine Learning and Deep 
+Learning in IT” organized by Ramrao Adik Institute of Technology, Nerul from May 25 to 29, 
+2020. 
+
+• Completed online workshop on “Webinar Series” organized by St. John College of Engineering 
+and Management, Palghar from May 24 to 28, 2020. 
+• Attended National level webinar on “A systematic approach to prepare technical paper” 
+organized by Shri Bhagubhai Mafatlal Polytechnic on May 23, 2020. 
+• Attended online webinar on “Online Teaching and Learning using Google Classroom and 
+Google Meet” organized by Pillai College of Engineering, New Panvel on May 22, 2020. 
+• Completed National level FDP on “ICT tools in Education using MOODLE” organized by 
+PACE Institute of Technology and Sciences, Ongole from May 22 to 26, 2020. 
+• Completed Online FDP on “Artificial Intelligence” organized by Universal College of 
+Engineering, Vasai, in association with Brain-o-vision solutions (India) Pvt. Ltd., and National 
+Indian Youth Council from May 22 to 26, 2020. 
+• Attended online webinar on “Blockchain Technology” organized by Vidyavardhini’s College of 
+Engineering and Technology on May 21, 2020. 
+• Completed Online FDP on “Advances in Python (Django and Flask), Python for Data Science 
+and Cyber Security” organized by Chadalawada Ramanamma Engineering College, Tirupati, 
+Andhra Pradesh from May 21 to 27, 2020. 
+• Attended National webinar on “Machine Learning and Deep Learning” organized by Kasturba 
+Gandhi Degree & PG College for Women, Telangana on May 20, 2020. 
+• Attended online webinar on “Insights and Data Visualisation” organized by Shree L. R. Tiwari 
+College of Engineering, Mira Road on May 19, 2020. 
+• Completed Online Course on “Research Methodology” organized by Mar Gregorios College of 
+Arts and Science from May 19 to 23, 2020. 
+• Completed Online FDP on “Emerging Trends in Industry 4.0” organized by JSPM’s Rajarshi 
+Shahu College of Engineering, Tathawade (Technically sponsored by ACM) from May 18 to 
+29, 2020. 
+• Completed Online Staff Development Programme on “Linux” organized by Pimpri Chinchwad 
+College of Engineering from May 18 to 25, 2020. 
+• Completed Online STTP on “MATLAB-based Teaching Learning in Engineering”  organized 
+by Ramrao Adik Institute of Technology, Nerul from May 18 to 22, 2020. 
+• Attended Webinar on “Start -up Lifecycle and Patent Registration” organized by ACE 
+Innovation Cell, IPR Cell, ACE Institute Innovation Council (MHRD), ACE-Incubation Center-
+MSME, IEDC-DST, ACE Ember E-cell NEN, Atharva College of Engineering (ACE) from May 
+18 and 19, 2020. 
+• Attended National webinar on “Self -Plagiarism: Ethical and Legal Dimensions” organized by 
+Narsee Monjee College of Commerce and Economics on May 18, 2020. 
+• Completed National FDP on “E-learning tools for effective teaching and learning” organized by 
+Nirmala Memorial Foundation College of Commerce & Science and EdFly on May 16, 2020. 
+• Completed Online FDP on “Machine Learning and Deep Learning Applications in Engineering 
+and Science” organized by Government College of Engineering, Karad and Rajkiya Engineering 
+College Azamgarh (Technical Education Quality Improvement Programme -III) (TEQ IP-III) 
+from May 16 to 20, 2020. 
+• Attended Online webinar on “NAAC: Systematic Data Organization and Presentation” 
+organized by Vidyalankar Institute of Technology, Mumbai on May 16, 2020. 
+• Completed online workshop on “Internet of Things” organized by Universal College of 
+Engineering, Vasai (The Institution of Engineering and Technology) from May 14 to 15, 2020. 
+
+• Completed Online FDP on “Outcome -based Education: A step towards excellence” organized 
+by Government College of Engineering, Karad (AICTE sponsored under Margdarshan Scheme) 
+from May 11 to 15, 2020. 
+• Completed Online Hands-on FDP on “Advanced Technologies in IT” organized by Vidyalankar 
+Institute of Technology, Mumbai from May 09 to 12, 2020. 
+• Attended National webinar on “Effective ways to develop E -content” organized by Smt. 
+Devkiba Mohansinhji Chauhan College of Commerce and Science and College of Law on May 
+9, 2020. 
+• Attended online workshop on “Role of WIPO in Preservation of Intellectual Property” 
+organized by Dayanand College of Law, Latur (Mumbai University and College Teachers’ 
+Association) on May 08, 2020. 
+• Completed online workshop on “Research, Funding Project and IPR” organized by K. C. 
+College of Engineering Management Studies and Research (IETE and IIC) from May 07 to 10, 
+2020. 
+• Completed National FDP and Online Training on “R Programming” organized by Spoken 
+Tutorial Project, IIT Bombay and S. B. Jain Institute of Technology, Management & Research, 
+Nagpur from May 05 to 09, 2020. 
+• Completed Online National level FDP on “Python 3.4.3” organized by Spoken Tutorial Project, 
+IIT Bombay and Dwarkadas Jivanlal Sanghvi College of Engineering from May 03 to 07, 2020. 
+• Attended online session on “Coping after COVID19: A New Era for Students & Academicians” 
+organized by IEEE Blended Learning Program and Kolhapur Institute of Technology’s College 
+of Engineering (Autonomous), on May 2, 2020. 
+• Completed online workshop on “Examination Reforms” organized by All India Council for 
+Technical Education (AICTE)” from April 29 to May 02, 2020. 
+• Completed online workshop on “Education 4.0” organized by Atharva College of Engineering 
+(ACE), Malad (IQAC) from April 28 to 30, 2020. 
+• Completed National level FDP and Online Training on “LaTeX” organized by Spoken Tutorial 
+Project, IIT Bombay and A.P. Shah Institute of Technology from April 27 to May 02, 2020. 
+• Completed National FDP and Online Training on “Moodle Learning Management System 
+(Moodle test for teachers)” organized by Spoken Tutorial Project, IIT Bombay and Shah & 
+Anchor Kutchhi Engineering College from April 25 to 30, 2020. 
+• Attended online session on “E -learning the road ahead” organized by Mumbai University and 
+College Teacher Association on April 18, 2020. 
+• Completed online workshop on “Intellectual Property Rights” organized by Pandit Deendayal 
+Petroleum University (University in Gandhinagar, Gujarat) from April 10 and 11, 2020. 
+• Completed FDP on “Recent Trends in Internet of Things (IoT)” organized by, St. John College 
+of Engineering and Management Sponsored by IIITDM Jabalpur, Ministry of Electronics & IT, 
+Government of India from June 10 to 15, 2019. 
+• Completed 8-week FDP on Introduction to Machine Learning from IIT Madras, Aug-Oct 2018 
+• Completed FDP on “Research Methodology” organized by Department of Mechanical 
+Engineering, St. John College of Engineering and Management from September 21 to 22, 2018. 
+• Completed workshop on “Learning Data Science using Python” organized by Department of 
+Information Technology, St. John College of Engineering and Management from June 29 to 
+July 1, 2017. 
+• Completed ISTE and CSI approved STTP on “Big data, Android App and Web App Designing” 
+organized by Universal College of Engineering from December 19 to 24, 2015. 
+
+• Attended AICTE Sponsored National Seminar on “Academic Excellence Through Quality 
+Technical Education-Opportunities & Challenges” organized by Thakur College of Engineering 
+& Technology from January 23 & 24, 2014. 
+• Participated as a delegate in Engineering Colloquium (EC -2014) organized by Thakur College 
+of Engineering & Technology from February 28 & March 1, 2014. 
+ 

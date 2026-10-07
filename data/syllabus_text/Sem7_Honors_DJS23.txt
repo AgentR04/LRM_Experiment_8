@@ -1,0 +1,193 @@
+DJSCE - CSE (Data Science) syllabus document: Sem7_Honors_DJS23
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Scheme and Detailed syllabus (DJS23)
+of
+Honors Degree Program
+in
+Computational Finance
+(Semester VII)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Scheme of Semester VII (DJS23) HONORS for Department of Computer Science and Engineering (Data Science)
+AY 2026-27
+
+Sr.
+No.
+
+Course Code
+
+Course
+Teaching Scheme Semester End Examination (SEE) - A Continuous Assessment (CA) - B
+
+Aggreg
+ate
+(A+B)
+
+Credits Earned
+Theory
+(Hrs)
+Practical
+(Hrs)
+Tutoria
+l (Hrs)
+Credits Duration
+(Hrs)
+Theory Oral Pract Oral &
+Pract
+SEE
+Total
+(A)
+Term
+Test 1
+(TT1)
+Term
+Test 2
+(TT2)
+Term
+Test 1
+(TT3)
+Term
+Test
+Total
+(TT1 +
+TT2+
+TT3)
+Term
+Work
+CA
+Total
+(B)
+1 DJS23DCH1701 Financial Analysis and Decision
+Science 3 -- -- 3 2 60 -- -- -- 60 15 15 10 40 -- 40 100 3
+4
+2 DJS23DTH1701 Financial Analysis and Decision
+Science Tutorial -- -- 1 1 -- -- -- -- -- -- -- -- -- -- 25 25 25 1
+Total 3 -- 1 4 2 60 -- -- -- 60 15 15 10 40 25 65 125 4 4
+
+Prepared by Checked by Head of Department Vice Principal Principal
+
+Program: B. Tech in Computer Science and Engineering (Data Science) Semester: VII
+Course: Financial Analysis and Decision Science (DJS23DCH1701)
+Financial Analysis and Decision Science Tutorial (DJS23DTH1701)
+
+Pre-requisite: Financial markets and risk analysis and Econometric modeling
+
+Objectives: This course introduces the principles of financial and insurance decision-making under risk and
+uncertainty and their role in corporate finance. Students will develop analytical and computational skills to
+evaluate investment and financing decisions using quantitative models. The course also covers dividend,
+payout, and working capital strategies to optimize liquidity and firm value. Further, students will learn to
+integrate financial, insurance, and risk management decisions using modeling, simulation, and scenario
+analysis techniques to support effective decision-making in uncertain environments.
+
+Outcomes: On completion of the course, learner will be able to
+1. Apply financial and insurance decision-making concepts under risk and uncertainty, considering
+behavioural and market factors.
+2. Apply computational and quantitative methods to evaluate investment and financing decisions.
+3. Analyze design dividend, payout, and working capital strategies to maintain liquidity and enhance firm
+value.
+4. Apply integrated financial and insurance risk management techniques using simulation, scenario, and
+modeling tools.
+
+Financi
+Unit
+al Analysis and Decision Science (DJS23DCH1701)
+Description
+
+Duration
+Foundations of Financial and Insurance Decision Frameworks: Overview of
+financial decision-making in data-driven contexts; Role of insurance as a risk-
+1 transfer mechanism; Expected utility theory, risk aversion; Financial statements 7
+(Balance Sheet, Income statements, Cash flow) and key ratios including
+profitability, liquidity, and solvency ratios; Introduction to forecasting and
+handling uncertainty in financial planning.
+Investment Decisions and Capital Budgeting under Risk: Concept of time
+value of money; Techniques for investment evaluation including Net Present
+2 Value (NPV), Annual Rate of Return (ARR), Internal Rate of Return (IRR), 8
+Profitability Index (PI), and Payback Period; Risk-adjusted discount rate;
+Sensitivity analysis and scenario analysis for risk evaluation; Integration of
+insurance-based risk mitigation.
+Financing and Capital Structure Decisions: Sources of finance including equity,
+debt, and hybrid instruments; Estimation of cost of capital—Cost of Equity (Ke),
+3 Cost of Debt (Kd), and Weighted Average Cost of Capital (WACC); Theories of
+capital structure including Net Income (NI) approach, Net Operating Income
+(NOI) approach, Modigliani–Miller (MM) proposition, and Traditional theory;
+8
+Leverage impact and determination of optimal capital structure considering risk
+and return.
+Dividend, Payout and Working Capital Management: Theories of dividend
+policy including Walter, Gordon models; Dividend policy models such as stable
+4 dividend, residual dividend, and constant payout ratio models; Share buyback and 7
+payout optimization strategies; Overview of working capital management
+including management of cash, receivables, inventory, and payables; Concepts of
+liquidity risk and short-term financing options.
+
+5
+Financial and Insurance Risk Analytics: Types of financial and insurable risks;
+Risk–return trade-offs and portfolio diversification principles; Basics of Value at
+Risk (VaR); Use of predictive analytics and data-driven forecasting techniques for
+financial and insurance risk assessment.
+6
+
+6
+Simulation-Based Decision Modeling: Monte Carlo simulation for investment
+and portfolio decision -making; Scenario-based decision analysis for uncertainty
+modeling; Conceptual introduction to Markov Chain Monte Carlo (MCMC)
+methods; Integrative case on combined financial and insurance risk simulation for
+portfolio or project decisions.
+
+6
+Total 42
+
+Financial Analysis and Decision Science Tutorial (DJS23DTH1701)
+Sr.
+No.
+Suggested Tutorials
+1 Financial Statements, Ratios, and Decision Frameworks
+2 Expected Utility Theory, Risk Aversion and Financial Forecasting under Uncertainty
+3 Capital Budgeting under Risk
+4 Sensitivity Analysis and Scenario Analysis for Investment Decisions
+5 Cost of Capital and Capital Structure Decisions
+6 Leverage Analysis and Optimal Capital Structure Determination
+7 Dividend Policy and Working Capital Management
+8 Dividend Models, Share Buybacks and Payout Optimization Strategies
+9 Financial & Insurance Risk Analytics
+10 Portfolio Diversification, Risk–Return Analysis and Value at Risk (VaR)
+11 Simulation-Based Decision Modeling
+12 Monte Carlo Simulation and Integrated Financial–Insurance Risk Modeling Case Study
+*The Term Work will be calculated based on Tutorial Performance (10m) and Mini project (15m)
+Mini project to be carried out using concepts from all Honors courses completed up to this semester.
+
+Books Recommended:
+
+Textbooks:
+1. Brigham, E. F., & Houston, J. F. (2022). Fundamentals of Financial Management (13th Edition).
+Cengage Learning.
+2. Benninga, S., & Mofkadi, T. (2022). Financial Modeling (5th Edition). MIT Press, Cambridge, MA.
+3. Brealey, R. A., Myers, S. C., Allen, F., & Edmans, A. (2022). Principles of Corporate Finance (14th
+Edition). McGraw-Hill Education.
+
+Reference Books:
+1. Bodie, Z., Merton, R. C., & Cleeton, D. L. (2025). Principles of Finance. Cambridge University
+Press
+2. Ross, S. A., Westerfield, R. W., & Jaffe, J. (2024). Corporate Finance (13th Edition). McGraw-Hill
+Education.
+3. Bigel, K. S. (2023). Corporate Finance. Open Touro University Press (Open Access).
+
+Web Links:
+1. Aswath Damodaran – Applied Corporate Finance: A User’s Manual (4th Edition, NYU Stern)
+https://pages.stern.nyu.edu/~adamodar/pdfiles/acf4E/acf4Ebook.pdf
+2. Aswath Damodaran – Chapter 10: Investment Return Models (Applied Corporate Finance, 3rd
+Edition)
+https://pages.stern.nyu.edu/~adamodar/pdfiles/acf3E/ch10.pdf
+
+3. Quoc Trung Tran – Dividend Policy: A Business Perspective (Emerald Publishing, 2023)
+https://bookstore.emerald.com/media/preview/9781837979882-23-2.pdf
+4. Quantitative Financial Analytics and Risk Modelling (Routledge, 2021)
+https://api.pageplace.de/preview/DT0400.9781000320497_A40695981/preview-
+9781000320497_A40695981.pdf
+
+Prepared by Checked by Head of the Department Principal

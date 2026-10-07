@@ -1,0 +1,2029 @@
+DJSCE - CSE (Data Science) syllabus document: Sem8_DJS22
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Scheme and Detailed syllabus (DJS22)
+Final Year B.Tech
+in
+Computer Science and
+Engineering (Data Science)
+(Semester VIII)
+
+Theory
+(Hrs)
+Practical
+(Hrs)
+Tutorial
+(Hrs) Credits Duration
+(Hrs) Theory Oral Pract Oral &
+Pract
+SEE
+Total
+(A)
+Term
+Test 1
+(TT1)
+Term
+Test 2
+(TT2)
+Term Test
+Total (TT1 +
+TT2)
+Term
+Work
+CA
+Total
+(B)
+DJS22DSC801 Data Ethics 2 -- -- 2 2 65 -- -- -- 65 20 15 35 35 100 2
+DJS22DST801 Data Ethics Tutorial -- -- 1 1 -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS22DSC802 High Performance Computing 3 -- -- 3 2 65 -- -- -- 65 20 15 35 35 100 3
+DJS22DSL802 High Performance Computing
+Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS22DSC8011 Quantum Computing 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22DSL8011 Quantum Computing Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS22DSC8012 Social Network Analysis 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22DSL8012 Social Network Analysis
+Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS22DSC8013 Robotics and AI 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22DSL8013 Robotics and AI Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS22DSC8014 Applied Game Theory 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22DSL8014 Applied Game Theory
+Laboratory -- 2 -- 1 -- -- -- -- -- -- -- -- -- 25 25 25 1
+DJS22ILO8021 Project Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8022 Entrepreneurship Development
+and Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8023 Corporate Social Responsibility 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8024 Human Resource Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8025 Corporate Finance Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8026 Logistic and Supply Chain
+Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8027 IPR and Patenting 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8028 Digital Marketing Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8029 Environmental Management 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+DJS22ILO8030 Labour and Corporate Law 3 -- -- 3 2 65 -- -- -- 65 20 15 35 -- 35 100 3
+5 DJS22DSP803 Project Stage - II -- 10 -- 5 2 -- -- -- 100 100 -- -- -- 100 100 200 5 5
+6 DJS22A4 Disaster Management and
+Preparedness 2 -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- --
+Total 13 14 1 19 10 260 0 0 100 360 80 60 140 175 315 675 19 19
+@Any 1 Department Elective
+#Any 1 Institute Level Elective
+3
+Sr.
+No.
+1
+2
+3@
+4#
+Continuous Assessment (CA) - B
+Aggregate
+(A+B)
+3
+4
+4
+Scheme of Semester VIII (DJS22) for Department of Computer Science and Engineering (Data Science)
+Course Code Course
+Teaching Scheme Semester End Examination (SEE) - A
+Credits Earned
+
+`
+
+Continuous Assessment (A):
+
+Course Assessment Tools Marks Time (hrs.)
+
+Theory
+a. One Term test (based on 40 % syllabus) 20 1
+b. Second Term test (next 40 % syllabus ) /
+presentation / assignment / course project / group
+discussion / any other.
+
+15
+
+1
+Total marks of a and b
+35
+
+--
+
+Audit course
+Performance in the assignments / qui / power point
+presentation / poster presentation / group project /
+any other tool.
+
+--
+
+As
+applicable Laboratory Performance in the laboratory and documentation. 25
+Tutorial Performance in each tutorial & / assignment. 25
+Laboratory
+&Tutorial
+Performance in the laboratory and tutorial. 50
+
+The final certification and acceptance of term work will be subject to satisfactory performance upon
+fulfilling minimum passing criteria in the term work / completion of audit course.
+
+Semester End Assessment (B):
+
+Course Assessment Tools Marks Time (hrs.)
+Theory /
+* Computer
+based
+Written paper based on the entire syllabus.
+65
+
+2
+* Computer based assessment in the college premises.
+Oral Questions based on the entire syllabus. 25 as applicable
+Practical Performance of the practical assigned during the examination
+and the output / results obtained. 25 2
+Oral &
+Practical
+Project based courses - Performance of the practical assigned
+during the examination and the output / results obtained.
+Based on the practical performed during the examination and
+on the entire syllabus.
+
+As per the
+scheme
+
+2
+
+Prepared by Checked by Head of the Department Principal
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Computer Science and
+Engineering (Data Science)
+(Semester VIII)
+
+Final Year B.Tech. (DJS22)
+Programme Core Courses
+
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VIII
+Course: Data Ethics (DJS22DSC801)
+Data Ethics Tutorial (DJS22DST801)
+
+Pre-requisite: Fundamentals of Data Analysis, Machine Learning
+
+Objectives: To enable students to understand and apply ethical principles in data -driven technologies
+through the concepts of fairness, privacy -preserving learning, explainable AI, and responsible
+governance.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Identify data privacy, security, bias and accountability issues in real world problem.
+2. Apply different concepts of Data Ethics to solve real world problem.
+3. Analyse model transparency in the field of data science.
+4. Design ethical governance strategies and assess the broader social impact of AI and data systems.
+
+Data Ethics (DJS22DSC801)
+Unit Description Duration
+1
+Foundations of Data Ethics and Responsible AI:
+What is data ethics and why it matters in data science, Historical and philosophical
+background (autonomy, beneficence, justice, non -maleficence), Ethical theories
+(consequentialism, deontology, virtue ethics), Responsible AI and the data lifecycle
+Case study: Cambridge Analytica and Facebook
+5
+2
+Data Privacy and Security:
+Data privacy concepts and chal lenges in centralized systems, Informed consent,
+anonymization, and user data rights, Global privacy laws: GDPR, HIPAA, CCPA,
+DPDP
+Introduction to Federated Learning (FL):
+Decentralized training and its privacy advantages, Ethical issues in FL: data leakage,
+model inversion, ownership,
+Case study: Google’s Federated Learning for mobile devices
+7
+3
+Fairness, Bias, and Accountability in Machine Learning:
+Types and sources of bias (sampling, labeling, algorithmic), Fairness metrics in AI
+(demographic parity, equal opportunity), Detecting and mitigating bias in datasets
+and models, Algorithmic accountability and auditability
+Case study: Bias in the COMPAS recidivism prediction system
+6
+4
+Transparency, Explainable AI (XAI), and Ethical Model Interpretability:
+Importance of transparency and trust in AI systems, Explainable AI (XAI): concepts,
+tools, and methods (LIME, SHAP, Grad-CAM), Ethical challenges in black-box AI
+models, Balancing accuracy vs. explainability, Regu latory importance of
+explainability (EU AI Act, IEEE Standards)
+Case study: Explainability in medical AI diagnosis
+6
+
+5
+Governance, Emerging Issues, and Future Directions:
+Ethical data governance and stewardship, AI ethics frameworks (OECD, EU,
+UNESCO, IEEE), Societal and environmental impact of AI (energy use, carbon
+footprint), Digital divide, inclusion, and global data justice, Emerging ethical
+issues: generative AI, misinformation, deepfakes
+Student capstone: develop an ethical policy for a data science project
+4
+Total 28
+
+Data Ethics Tutorial (DJS22DST801): One activity under every tutorial needs to be carried out.
+Tut. Suggested Tutorials
+1
+Introduction to Data Ethics through Case Analysis
+Activities:
+Case study discussion: Facebook–Cambridge Analytica.
+Group debate: “Should social media data be used for political profiling?”
+Group Discussion : Autonomy, beneficence, and justice.
+2
+Ethical Frameworks and Decision-Making Models
+Activities:
+Compare decisions using three ethical frameworks.
+Ethical dilemma simulation: “AI system denies loan applications based on demographic data.
+3
+Privacy and Data Protection in Practice
+Activities:
+Discussion: GDPR, HIPAA, and CCPA requirements.
+Hands-on exercise: Anonymize a small dataset and assess re-identification risks.
+Case discussion: Google Street View and Privacy.
+
+4
+Federated Learning and Ethical Implications
+Activities:
+Hands-on Lab: simple federated averaging using Python or Flower framework.
+Discussion: advantages and limitations of FL (privacy vs. performance).
+Case analysis: Google Gboard’s Federated Learning implementation.
+5
+Identifying Bias in Datasets
+Activities:
+Lab exercise: analyze demographic representation in a dataset (e.g., UCI Adult Income dataset)
+Compute basic fairness metrics (demographic parity).
+Discussion: implications of biased training data.
+6
+Fairness and Accountability in AI Systems
+Activities:
+Group debate: “Should fairness always outweigh model accuracy?”
+Case study: COMPAS Algorithm Bias.
+Explore bias mitigation strategies using open-source tools (AIF360 or Fairlearn).
+7
+Introduction to Explainable AI (XAI)
+Activities:
+Discussion on interpretability vs. explainability.
+Hands-on Lab: LIME and SHAP on a classification model.
+Discussion: ethics of black-box models.
+8
+XAI in High-Stakes Domains
+Activities:
+Case study: Explainability in medical diagnosis AI.
+Compare rule-based and deep learning models for interpretability.
+Discuss “right to explanation” in EU AI Act.
+9
+Trade-offs in Explainability and Ethics
+Activities:
+Group experiment: manipulate explanations using different model parameters.
+Discussion: when might too much transparency cause harm? (e.g., gaming the model).
+
+10
+Ethical Governance and Policy Frameworks
+Activities:
+Review documents: OECD, UNESCO, and EU AI Ethics Guidelines.
+Discussion: compare three frameworks on fairness and accountability.
+11
+Emerging Ethical Challenges (Deepfakes, Generative AI)
+Activities:
+Discussion: ethics of deepfakes, misinformation, and LLMs (ChatGPT, Midjourney).
+Analyze recent AI ethics controversies (e.g., OpenAI, Stability AI).
+Brainstorm ethical safeguards for generative models.
+12
+Capstone Project Presentation and Ethical Review
+Activities:
+Student project presentations: develop an ethical audit or policy for a chosen AI system.
+Peer review session and panel feedback.
+Reflection on personal data ethics values.
+The Term Work will be calculated based on Tutorial Performance (15m) and Assignments/Quizzes (10m).
+
+Books Recommended:
+Textbooks:
+1. Christoph Stückelberger, Pavan Duggal, Data Ethics: Building Trust: How Digital
+Technologies Can Serve Humanity, Globethics Publications, 1st Ediiton, 2023.
+2. Gry Hasselbalch & Pernille Tranberg, Data Ethics, PubliShare, Kindle Edition.
+3. Christoph Molnar, Interpretable Machine Learning, 2022.
+4. Explainable AI: Foundations and Practical Techniques - Paresh Patil, Sushant Gaikwad,
+Akash Hatkangane (Walnut Publication, 2024)
+5. Federated Learning: Decentralized Machine Learning for Privacy and Security by Lavanya
+Arora, Kindle Edition.
+
+Reference Books:
+1. Ian Foster, Rayid Ghani, Ron S. Jarmin, Frauke Kreuter, Julia Lane, Big Data and Social
+Science: Data Science Methods and Tools for Research and Practice, Chapman and
+Hall/CRC, 2nd Edition, 2020.
+2. Evren Eryurek, Uri Gilad, Valliappa Lakshmanan, Data Governance: The Definitive Guide -
+People, Processes, and Tools to Operationalize Data Trustworthiness, Shroff/O'Reilly, 1 st
+Edition, 2021.
+3. Bonawitz et al., Federated Learning: Collaborative Machine Learning without Centralized
+Training Data, Google AI Blog.
+
+Web Links:
+1. Ethics in Data Science: https://www.analyticsvidhya.com/blog/2022/02/ethics-in-data-
+science- and-proper-privacy-and-usage-of-data/
+2. Business Insights Harvard: https://online.hbs.edu/blog/post/data-ethics
+3. Data Science Professionals: https://emeritus.org/blog/data-science-and-analytics-data-
+science- course-curriculum/
+4. Federated Learning in Practice: Google AI Blog : https://research.google/blog/federated-
+learning-with-formal-differential-privacy-guarantees/
+5. Explainable AI Principles: IBM Research Blog : https://research.ibm.com/blog/ai-
+explainability-360
+Frameworks and Guidelines
+1. EU AI Act (2024 draft) - Requirements for transparency and accountability.
+2. OECD AI Principles (2019) - Human-centered values and fairness.
+3. IEEE (2022). Ethically Aligned Design, Version 2
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VIII
+Course: High Performance Computing (DJS22DSC802)
+High Performance Computing Laboratory (DJS22DSL802)
+
+Pre-requisite: Parallel Computing, Distributed Computing
+
+Objectives:
+• This course in High -Performance Computing (HPC) for Data Science with an emphasis on GPU
+parallel computing introduces students to the fundamental concepts and practical skills necessary for
+harnessing the power of Graphics Processing Units (GPUs) in data-intensive computations.
+• Throughout the course, students will explore GPU architecture, CUDA programming, memory
+optimization techniques, parallel programming patterns, and performance optimization strategies.
+• They will also delve into advanced topics like GPU-accelerated libraries and the integration of GPUs
+with popular data science frameworks. By the end of this course, students will be equipped to leverage
+GPU parallel computing to significantly enhance the efficiency and performance of data science
+applications.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Explain the architecture of modern GPUs, CUDA programming model, and parallel programming
+challenges.
+2. Implement CUDA C programs to solve data parallelism problems and use CUDA memory models
+effectively.
+3. Analyze GPU performance metrics, including memory coalescing, thread scheduling, and control
+divergence impacts.
+4. Assess different GPU computing frameworks and libraries (cuBLAS, cuDNN) based on
+application requirements and efficiency.
+
+High Performance Computing (DJS22DSC802)
+Unit Description Duration
+1
+Introduction to Heterogeneous Parallel Computing
+Introduction: Architecture Of A Modern GPU, Challenges In Parallel
+Programming, Parallel Programming Languages And Models
+Data Parallelism : Data Parallelism, CUDA C Program Structure, A Vector
+Addition Kernel, Device Global Memory And Data Transfer, Kernel Functions
+And Threading, Kernel Launch
+8
+2
+CUDA Parallelism Model
+Scalable Parallel Execution: CUDA Thread Organization, Mapping Threads
+To Multidimensional Data, Synchronization And Transparent Scalability,
+Resource Assignment, Thread Scheduling And Latency Tolerance
+Memory And Data Locality: CUDA Memories, Tiled Parallel Algorithms,
+Tiled Matrix Multiplication, Tiled Matrix Multiplication Kernel, Boundary
+Checks, Memory As A Limiting Factor To Parallelism
+8
+
+3
+Performance Considerations On GPUs
+Memory Access Performance: Global Memory Bandwidth , Memory
+Coalescing in CUDA, Channels and Banks in Dram Systems, Techniques For
+8
+
+Reducing Memory Transfers Between CPU And GPU.
+Thread Execution Efficiency: Warps And SIMD Hardware, Dynamic
+Partitioning Of Resources, Performance Impact Of Control Divergence
+4
+Parallel Computation Patterns
+Parallel Patterns: Convolution: 1d Parallel Convolution- A Basic Algorithm,
+Constant Memory and Caching, Tiled 1d Convolution with Halo Cells, A
+Simpler Tiled 1d Convolution- General Caching
+Parallel Computation Patterns (Histogram): Atomic Operations In Cuda,
+Atomic Operation Performance-Block versus Interleaved Partitioning, Latency
+versus Throughput of Atomic Operations, Atomic Operation in Cache Memory,
+Privatization Technique For Improved Throughput
+8
+5
+Efficient Host-Device Data Transfer
+Pinned Host Memory, Task Parallelism in CUDA, Overlapping Data Transfer
+with Computation, CUDA Unified Memory
+4
+6
+Advanced Topics in GPU Computing:
+Introduction to GPU -accelerated libraries ( cuBLAS, cuDNN, cuGraph), GPU
+computing frameworks (TensorFlow, PyTorch) and their integration with GPUs,
+Introduction to GPU clusters and distributed GPU computing
+Application case study - machine learning: Convolutional Neural Networks,
+Convolutional Layer: A Basic CUDA Implementation of Forward Propagation,
+Reduction of Convolutional Layer to Matrix Multiplication, cuDNN Library
+6
+Total 42
+
+High Performance Computing Laboratory (DJS22DSL802)
+Exp. Suggested Experiments
+1 Set up the CUDA environment, install the CUDA Toolkit, and write a basic CUDA program to
+understand the CUDA development environment.
+2 Implement vector addition using CUDA to introduce students to parallelism, thread
+management, and memory allocation in GPU programming.
+3 Develop a CUDA program for matrix multiplication to understand parallelism and optimization
+techniques in GPU computing.
+4 Apply CUDA for image processing tasks, like blurring and edge detection, to learn how to
+process images efficiently using GPU parallelism.
+5 Implement parallel reduction operations (e.g., sum, min, max) to grasp the concept of efficient
+parallel reduction.
+6 Explore parallel sorting algorithms using CUDA, comparing their performance with CPU-
+based sorting and optimizing CUDA sorting.
+7 Employ CUDA to perform a Monte Carlo simulation for estimating mathematical constants or
+solving real-world problems to understand the power of GPU parallelism.
+8 Experiment with CUDA to implement concurrent data structures using locks and atomic
+operations to learn how to manage data concurrently.
+9 Optimize the reduction step in machine learning algorithms using CUDA, focusing on
+techniques for efficient large-scale data processing.
+10 Integrate CUDA-accelerated code with data science frameworks like TensorFlow or PyTorch to
+develop and run GPU-accelerated machine learning models for practical applications.
+Minimum eight experiments from the above suggested list or any other experiment or mini project based
+on syllabus will be included, which would help the learner to apply the concept learnt.
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignments (10m).
+
+Books Recommended:
+Text Books:
+1. Georg Hager, Gerhard Wellein, “Introduction to High Performance computing for Scientist and
+Engineers”, CRC press, 2019.
+2. Duane Storti and Mete Yurtoglu, "CUDA for Engineers”, Addison-Wesley,1st Edition, 2016.
+
+Reference Books
+1. David B. Kirk and Wen-mei W. Hwu, "Programming Massively Parallel Processors: A Hands-on
+Approach", Morgan Kaufmann, 2nd Edition, 2012.
+2. Charles Severance and Kevin Dowd, "High Performance Computing" , O'Reilly Media, 2nd
+Edition, 1998.
+3. Jason Sanders and Edward Kandrot , "CUDA by Example: An Introduction to General-Purpose
+GPU Programming" , Addison-Wesley, 2010.
+4. NVIDIA Corporation , "GPU Gems", Addison-Wesley
+5. Gerhard Hager and Markus Hadwiger , "Programming the GPU with CUDA", Springer
+6. Brian Tuomanen and Daniel Kim, "Deep Learning with CUDA", O'Reilly Media
+
+Web links:
+1. HPC: https://archive.nptel.ac.in/courses/106/105/106105033/.
+2. HPC Springer Journal: https://link.springer.com/book/10.1007/978-3-030-13325-2.
+3. Programming Model:
+https://homepage.physics.uiowa.edu/~ghowes/teach/phys5905/lect/NumLec11_IntroHPC.pdf.
+
+Prepared by Checked by Head of the Department Principal
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Computer Science and
+Engineering (Data Science)
+(Semester VIII)
+
+Final Year B.Tech. (DJS22)
+Department Electives
+
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VIII
+
+Course: Quantum Computing (DJS22DSC8011)
+Quantum Computing Laboratory (DJS22DSL8011)
+
+Pre-requisite: Computer System Fundamentals, Machine Learning, Information Security
+
+Objectives:
+ To introduce the basics of Quantum Computing and Quantum state transformation and classical
+computation versions.
+ To understand advanced Quantum Computation Algorithms and basics of Quantum Machine
+Leaming.
+
+Outcomes: On completion of the course, the learner will be able to
+1. Analyze fundamental quantum computing concepts such as qubits, quantum states,
+superposition, entanglement, and basic quantum gates.
+2. Apply quantum computation techniques and advanced quantum algorithms to addres s simple
+real-world computational problems.
+3. Implement basic quantum cryptography protocols and apply quantum machine learning and
+quantum deep learning techniques using parameterized quantum circuits.
+
+Quantum Computing (DJS22DSC8011)
+Unit Description Duration
+1
+Complex Numbers, Vector Space, and Dirac Notation:
+Complex Numbers, Complex Conjugation, Vector Space, Basic set, Dirac
+Notation, Ket and Bra, Inner Product, Linearly Dependent and Independent
+Vectors, Dual Vector Space, Computational Basis, Outer Product, Spin and
+Qubit.
+07
+2
+Quantum Computing vs. Classical Computing: History of quantum
+computation and quantum information, Quantum State, Bloch sphere, Dense
+coding, Physical quantum phenomena: Spin, Quantum superposition,
+Interference and Entanglement.
+Logic Gates and Circuits: Boolean Algebra, Functional Completeness, Gates,
+Circuits, Universal Gates, Gates and Computation
+Quantum Gates and Circuits: Qubits, The CNOT, Pauli, Hadamard,
+Toffoli Gates, Quantum Gate, Quantum Gates Acting on one Qubit, No
+Cloning Theorem, Quantum Computation, Multiple qubit gates, Qubit
+copying circuit, Example: Bell states, quantum teleportation
+07
+3
+Quantum Computing algorithms:
+Classical computations on a quantum computer, Quantum parallelism,
+Quantum key distribution, Superdense coding, quantum teleportation,
+applications of teleportation, probabilistic versus quantum algorithms,
+phase kick-back, Quantum phase estimation and quantum Fourier
+Transform, eigenvalue estimation, Shor's Factorization Algorithm, Grover's
+Search Algorithm, Quantum algorithms summarized.
+06
+
+4
+Quantum Cryptography algorithm:
+Cryptography using principles of quantum computing, No-cloning theorem,
+Quantum key distribution Algorithm, Quantum secret sharing Algorithm.
+05
+5
+Quantum Machine Learning Basic (QML):
+Variational Quantum Circuits, Parameterized quantum circuits,
+Parameterized quantum circuit properties, Entangling capability,
+Parameterized quantum circuits for machine learning Data encoding Methods,
+Basis encoding, Amplitude encoding, Angle encoding, Arbitrary encoding,
+Supervised learning, Quantum variational classification, Quantum kernel
+estimation, Variational training, Quantum Support Vector Machine (QSVM).
+09
+6
+Quantum Deep Learning (QDL):
+Basics of Quantum Neural Networks, Finite difference gradients, Analytic
+gradients, Natural gradients, Simultaneous Perturbation Stochastic
+Approximation, Training in practice, exponentially vanishing gradients
+(barren plateaus), Quantum Convolutional Neural Network.
+
+08
+Total 42
+
+Quantum Computing Laboratory (DJS22DSL8011)
+Exp. Suggested Experiments
+1 Implementing Quantum Programs with the Qiskit SDK.
+2 Implementing logic of Quantum Gates and Universal Gates with Qiskit.
+3 Implementing a Quantum Random Number Generator with Qiskit.
+4 Implementation of Quantum Key Distribution Using the BB84 Protocol with Qiskit on
+a Quantum Computer.
+5 Experimentation with Quantum Teleportation Protocols.
+6 Implementation and Analysis of Shor's Algorithm Using Qiskit SDK.
+7 Implementation of Quantum key distribution Algorithm.
+8 Implementation of Grover's Search Algorithm with Qiskit.
+9 Implementation and Exploration of Quantum Machine Learning Techniques:
+Parameterized Circuits, Data Encoding Methods, and Training Strategies in Qiskit.
+10 Implementation of Supervised Strategies in Quantum Machine Learning: Exploring
+Quantum variational classification. SVM.
+11 Implementation of Quantum key distribution Algorithm.
+Above experiments or any other experiment based on syllabus will be included, which would help
+the learner to apply the concept learnt.
+*The term work will be calculated based on Laboratory Performance (15 marks) and
+Assignments/Quizzes (10 marks).
+
+Books Recommended:
+Textbooks:
+1. Parag K. Lala, 'Quantum Computing', McGraw Hill, 1st Edition, 2020.
+2. Chris Bernhardt, 'Quantum Computing for Everyone', MIT Press, 1st Edition, 2020.
+
+Reference Books:
+1. Jack D. Hidary, 'Quantum Computing: An Applied Approach', Springer, 2nd Edition, 2021.
+2. Johan Vos, 'Quantum Computing in Action', Manning Publications, 1st Edition, 2022.
+
+Web Links:
+1. https://qiskit.org/leam
+2. https://eleam.nptel.ac.in/shop/iit-workshops/completed/quantum-computing/
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VIII
+
+Course: Social Network Analysis (DJS22DSC8012)
+Social Network Analysis Laboratory (DJS22DSL8012)
+
+Pre-requisite: Probability and Statistics, Machine Learning
+
+Objectives: To equip students with the knowledge and analytical skills necessary for the study of
+massive networks, addressing the associated computational, algorithmic, and modeling challenges, and
+to cultivate a research -oriented perspective on the stru cture, dynamics, and analysis of large -scale
+networks.
+
+Outcomes: On completion of the course, the learner will be able to
+1. Analyse social networks using visualization techniques and structural measures.
+2. Illustrate network growth patterns and ranking methodologies in complex networks.
+3. Examine methods for detecting communities, predicting links, and modelling information flow.
+4. Apply anomaly detection and representation learning approaches for network analysis.
+
+Social Network Analysis (DJS22DSC8012)
+Unit Description Duration
+
+1
+Society & Network: Introduction, Use of social networks, defining a network,
+types of network (link-centric, node and link centric, local view, temporal view,
+generalization, real-world network), levels of social network analysis, graph
+visualization tools.
+Network Measures: Network basics, node centrality, assortativity, transitivity
+and reciprocity, similarity, degeneracy.
+Network Growth Models : Overview of real -world networks and their
+properties, brief introduction to Erdős-Rényi Random Network Model, Watts-
+Strogatz Model, and Preferential Attachment Model with their key
+characteristics and limitations.
+
+08
+
+2
+Link Analysis: Application of link analysis, Signed networks: Balance Theory
+of Undirected Signed Networks, Status Theory of Signed Networks, Triad
+Balance vs Status, Strong and Weak Ties: Strength of a Tie, Triadic Closure,
+Dunbar Number, Local Bridges and Importance of Weak Ties, PageRank,
+DivRank, SimRank, PathSim.
+
+07
+
+3
+Community Detection: Application of community detection, types of
+communities, community detection methods, Disjoint Community Detection:
+Node-centric community detection, modularity and community detection,
+Overlapping Community Detection: Clique Dynamics, Local Community
+Detection.
+Link Prediction: Applications of link prediction, Evaluating Link Prediction
+methods
+
+07
+
+4
+Cascade Behaviors & Network Effects: Preliminaries and Important
+Terminologies, Cascade Models, Probabilistic Cascades, Epidemic Models,
+Independent Cascade Models, Cascade Prediction.
+
+06
+
+5
+Anomaly Detection in Networks: Outliers verses network based anomalies.
+Anomaly in Static Networks: Plain and attributed networks, relational learning,
+Anomaly in Dynamic Networks: Preliminaries, feature and decomposition-
+based approaches, Challenges in anomaly detection.
+
+06
+
+6 Graphical Representation Learning: Intuition behind re presentation
+learning, representation learning methods.
+Graph Convolutional Network (GCN) and its variations and applications in
+social network analysis.
+Dynamic Graph Convolutional Ne tworks (DGCN) & Continuous -Time
+Dynamic Graph Neural Networks (CTDGNN): Advanced models for
+analyzing evolving social networks
+
+08
+Total 42
+
+Social Network Analysis Laboratory (DJS22DSL8012)
+Exp. Suggested Experiments
+1 Creating and analyzing a graph using Social Network and Gephi Tool.
+
+2
+Building a network and network measures using NetworkX:
+a) Degree & Degree Distribution
+b) Clustering Coefficients
+c) Node Centrality Measure
+3 Implementation of random scale-free network growth model on network science (Barabási-
+Albert).
+4 Implementation of link analysis using the Random Walk PageRank algorithm.
+5 Implementation of link prediction using a classification approach.
+6 Implementation of local and global link prediction models.
+7 Implement the Clique Percolation Method (CPM) for detecting overlapping communities in
+a given social network graph.
+8 To implement and analyze epidemic models.
+9 Implementation of Graph Representation Learning for Social Network Analysis Using
+GCN.
+10 Mini Project
+*The term work will be calculated base d on Laboratory Performance (15 marks) and
+Assignments/Quizzes (10 marks).
+
+Books Recommended:
+Textbooks:
+1. Tanmoy Chakraborty, “Social Network Analysis”, First Edition, Wiley, 2021.
+2. Stephen P Borgatti, Martin G. Everett, Jeffrey C. Johnson, “Analyzing Social Networks”,
+Sage Publications Ltd, 2nd Edition, 2018.
+3. William L. Hamilton, “Graph Representation Learning”, Morgan & Claypool
+Publishers,2020.
+
+Reference Books:
+1. Xiaoming Fu, Jar -Der Luo, Margarete Boos, ‘Social Network Analysis Interdisciplinary
+Approaches and Case Studies’, 1st Edition, CRC Press, 2020.
+2. Dr. Krishna Raj P.M., Mr. Ankith Mohan, Dr. Srinivasa K.G, “Practical Social Network
+Analysis with Python (Computer Communications and Networks)”, First Edition,
+Springer, 2019.
+3. John Scott, “Social Network Analysis”, Fourth Edition, SAGE Publications Ltd,2017.
+4. Song Yang, Franziska Barbara Keller, LuZheng, “Social Network Analysis: Methods and
+Examples”, First Edition, SAGE Publications, 2016.
+
+Web Links:
+1. A course on Social Network Analysis
+https://onlinecourses.nptel.ac.in/noc22_cs117/preview
+2. Social Network Analysis 101: Ultimate Guide Comprehensive Introduction for Beginners:
+https://visiblenetworklabs.com/guides/social-network-analysis-101/
+3. Real-world use cases of Social Network Analysis
+https://www.latentview.com/social-media-analytics/a-guide-to-social-network-analysis-
+and-its-use-cases/
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B. Tech in Computer Science and Engineering (Data Science) Semester: VIII
+
+Course: Robotics and AI (DJS22DSC8013)
+Robotics and AI Laboratory (DJS22DSL8013)
+
+Pre-requisite: Linear algebra and probability theory
+
+Objectives: To introduce fundamental concepts, kinematics, perception, planning, and control in
+robotics with an emphasis on data acquisition, machine learning, and autonomous navigation.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Illustrate the fundamental principles, components, and kinematics of robotic systems.
+2. Apply sensor data acquisition, preprocessing, and fusion techniques using Python and ROS.
+3. Analyze computer vision, path planning, and SLAM algorithms for perception and navigation.
+4. Develop control and decision-making strategies for autonomous robot operation.
+
+Robotics and AI (DJS22DSC8013)
+Unit Description Duration
+
+1
+Introduction to Robotics
+Evolution of Robotics , Types of robots – industrial, mobile, humanoid, and autonomous,
+Components of robotic system (sensing, actuation, control, AI ), Types of Sensors – IMU,
+LiDAR, Camera, GPS, Ultrasonic, Proximity Sensors (Infrared), Vision Sensors,
+Accelerometers, Gyroscopes, and Encoders (Linear or Rotary), Types of Actuators – Electric
+(DC, Stepper, Servo Motors), Hydraulic, Pneumatic, and Emerging Smar t Actuators
+(Piezoelectric, Shape Memory Alloy, Electroactive Polymer).
+
+06
+2 Robot Kinematics and Motion planning
+Coordinate frames and transformations – homogeneous transformation matrices, Forward
+and inverse kinematics; Denavit–Hartenberg (D–H) parameters, Differential kinematics and
+Jacobians – conceptual and numerical examples, Configuration space and robot motion
+representation, Motion planning – introduction, path and trajectory concepts ,Types of
+trajectory planning – Point-to-Point (PTP) and Continuous Path (CP)
+
+10
+
+3
+Data Acquisition and Preprocessing
+Data collection and preprocessing from multiple sensors through frameworks and
+middleware (e.g., ROS) for acquisition, synchronization, and refinement of sensor data. ,
+Understanding sensor data formats and structures (CSV, JSON, image/video files and ROS
+bag files). Noise handling using Gaussian, Median, and Kalman filtering methods. Aligning
+multi-sensor data streams (cam era, LiDAR, IMU) using temporal synchronization, spatial
+calibration, and sensor fusion methods. Handling missing or corrupted data using
+interpolation, statistical imputation, and smoothing methods, Sensor calibration using
+intrinsic and extrinsic methods for camera–LiDAR and IMU sensors.
+
+08
+
+4
+Robot Perception
+Introduction to robot perception and environment understanding, Computer vision in
+robotics – image acquisition, feature extraction, and object recognition, Application of
+machine learning and deep learning for perception: Classification using CNN and SVM ,
+Object detection using YOLO and SSD, Image segmentation using U -Net and SegNet,
+building 3D representations from LiDAR using Voxel Grid Mapping or from stereo vision
+using SGBM (Semi-Global Block Matching)
+
+08
+
+5
+
+Path Planning
+Path planning algorithms –Rapidly exploring Random Tree(RRT), and PRM, Simultaneous
+Localization and Mapping (SLAM) ,Components – Localization, mapping, sensor data
+processing.
+
+04
+
+6
+
+Autonomous Navigation
+Types of SLAM – Visual SLAM, LiDAR-based SLAM, RGB-D SLAM, Data association
+and map building, Learning-based SLAM and navigation using neural implicit mapping and
+policy learning , Integration of SLAM with path planning and control for autonomous
+navigation, Evaluation metrics – accuracy, drift, real -time performance, and scalability ,
+Reinforcement Learning for Navigation using Q-Learning, Sim-to-Real Transfer – Domain
+Randomization, Imitation Learning, Challenges, and Evaluation.
+
+06
+Total 42
+
+Robotics and AI Laboratory (DJS22DSL8013)
+Sr. No Suggested Experiments
+1 Install and explore ROS or Webots; visualize a simple robot model.
+2 Simulate a robotic arm and perform forward and inverse kinematics using Python or MATLAB.
+3 Acquire and preprocess sensor data (camera or LiDAR dataset) using Python.
+4 Implement visual feature detection using SIFT or SURF, or deep object recognition using YOLO or
+MobileNet.
+5 Simulate SLAM using ROS or Gazebo datasets
+6 Implement EKF-based localization or 2D SLAM using Python
+7 Implement an RRT-based path planner in Webots or Gazebo
+8 Implement PID control for a mobile robot simulation using Python or Webots.
+9 Implement a simple reinforcement learning control policy for navigation or balancing tasks using
+Python or Webots.
+10 Integrate perception, localization, and planning on a simulated robot using TurtleBot or drone
+simulation.
+*The Term Work will be calculated based on Laboratory Performance (15marks) and Assignments/ Quizzes
+(10marks).
+
+Books Recommended:
+Text Books:
+1. Roland Siegwart, Illah R. Nourbakhsh, and Davide Scaramuzza, “Introduction to Autonomous Mobile
+Robots”, 3rd Edition, MIT Press, 2022.
+2. Peter Corke, “Robotics, Vision and Control: Fundamental Algorithms in Python”, 3rd Edition, Springer,
+2023.
+3. Jonathan Cacace, “Ultimate Robotics Programming with ROS 2 and Python”, 1st Edition, 2024.
+
+Reference Books
+1. Mohamed M. Atia, “Sensor Fusion Approaches for Positioning, Navigation, and Mapping: How Autonomous
+Vehicles and Robots Navigate in the Real World with MATLAB Examples”, 1st Edition, Springer, 2025.
+2. Christoph Bartneck, Tony Belpaeme, Friederike Eyssel, Takayuki Kanda, Merel Keijsers & Selma
+Šabanović, “Human-Robot Interaction – An Introduction”, 2nd Edition, Cambridge University Press, 2024.
+3. Larry T. Ross, Stephen W. Fardo & Michael F. Walach , “Industrial Robotics Fundamentals”, 4th Edition,
+Jones & Bartlett Learning, 2023.
+
+Web Links:
+1. https://swayam.gov.in/nc_details/NPTEL (Introduction to Robotics by IIT Madras and Robotics by IIT
+Kharagpur)
+2. https://www.udemy.com/course/robotics-course/
+3. https://www.coursera.org/courses?query=robotics
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VIII
+
+Course: Applied Game Theory (DJS22DSC8014)
+Applied Game Theory Laboratory (DJS22DSL8014)
+
+Pre-requisite: Linear Algebra, Calculus, Probability, Statistics and Basic algorithm design and
+analysis.
+
+Objectives: To understand how individuals and groups make strategic decisions in competitive and
+cooperative situations, using mathematical models and algorithms to analyze, predict, and optimize
+outcomes in real-world scenarios such as economics, AI, and multi-agent systems.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Analyze strategic, zero-sum, and non-zero-sum games to identify Nash equilibria and optimal
+strategies.
+2. Apply algorithmic techniques and reinforcement learning to compute equilibria and model
+multi-agent interactions.
+3. Evaluate evolutionary, cooperative, and Bayes ian game scenarios for fairness, stability, and
+decision-making efficiency.
+Applied Game Theory (DJS22DSC8014)
+Unit Description Duration
+
+1
+Introduction to Game Theory:
+Strategic games, players, strategies, payoffs; dominance, minimax, saddle points; pure
+& mixed strategy Nash equilibria; real -world examples: auctions, pricing, simple
+multi-agent interactions
+
+04
+
+2
+Zero-Sum and Non-Zero-Sum Games
+Zero-sum games, saddle points, matrix games; mixed strategies; non-zero-sum games,
+iterated elimination of dominated strategies; Lemke–Howson algorithm.
+
+05
+
+3
+Evolutionary and Cooperative Game Theory
+Evolutionarily Stable Strategies (ESS), replicator dynamics, fictitious play;
+cooperative games: transferable utility, core, Shapley value, nucleolus; correlated
+equilibria; Multi-Agent Reinforcement Learning (MARL) and reward shaping with
+human feedback.
+
+08
+
+4
+Bayesian and Algorithmic Game Theory
+Bayesian games, Bayes –Nash equilibrium, auctions, bilateral trading; complexity of
+equilibrium computation; mechanism design basics; Vickrey auction, incentive -
+compatible resource allocation.
+
+08
+
+5
+Repeated and Extensive Form Games
+Repeated games: Nash Folk Theorem, subgame perfect equilibrium, one-shot deviation
+principle; extensive form games: game trees, backward induction, sequential equilibria
+
+07
+
+6
+Game Design, Simulation, and Real-World Applications
+Game design principles: payoff engineering, fairness, multiplayer dynamics;
+applications: oligopoly models, voting games, matching markets, resource allocation,
+utility theory; RL-based strategy optimization and human-in-the-loop feedback
+
+10
+Total 42
+
+Applied Game Theory Laboratory (DJS22DSL8014)
+Exp. Suggested experiments
+1 Strategic-Form Games and Payoff Matrix Construction: Construct and simulate matrix games;
+compute best responses and pure Nash equilibria.
+2 Dominance Analysis and Mixed Strategy Nash Equilibria: Analyse dominance relations, compute
+mixed strategies, and visualize payoffs.
+3 Zero-Sum Game Simulation and Minimax / Saddle Points: Implement zero -sum games and
+compute saddle points using Python.
+4 Non-Zero-Sum Game Simulation and Iterated Elimination of Dominated Strategies: Solve non -
+zero-sum games computationally and identify NE.
+5 Lemke–Howson Algorithm Implementation: Compute Nash equilibria of bimatrix games
+algorithmically.
+6 Evolutionarily Stable Strategies (ESS) and Replicator Dynamics: Simulate population dynamics
+and ESS in multi-agent systems.
+7 Fictitious Play and Multi-Agent Reinforcement Learning (MARL): Implement learning strategies
+for repeated interactions and observe convergence.
+8 Cooperative Game Theory: Core, Shapley Value, Nucleolus Computation: Compute fair
+allocations in transferable utility games.
+9 Bayesian Games and Bayes–Nash Equilibrium: Implement games with incomplete information and
+compute equilibria.
+10 Auction Simulation: First-Price, Second-Price, Sealed-Bid, and Online Auctions; Analyse strategy
+and outcomes.
+11 Repeated and Extensive Form Games: Simulate repeated strategies, subgame -perfect equilibrium,
+and backward induction in game trees.
+12 Matching Market and Resource Allocation Applications: Implement market design, matching, and
+allocation scenarios computationally.
+13 Custom Game Design with RL and Human -in-the-Loop Feedback: Design a multi -agent game,
+implement RL agents, incorporate human feedback, and analyse strategic outcomes.
+*The Term Work will be calculated based on Laboratory Performance (15m) and Assignments (10m).
+
+Books Recommended:
+Text Books:
+1. Game Theory: An Introduction, 3rd Edition by E.N. Barron, Wiley, 2024.
+2. Richard S. Sutton and Andrew G. Barto, “Reinforcement Learning: An Introduction”, MIT Press,
+2nd Edition, 2022.
+3. Binmore, K., Game Theory: A Very Short Introduction, OUP, 2010
+
+Reference Books:
+1. Shoham Y., Leyton -Brown K., Multiagent Systems: Algorithmic, Game -Theoretic, and Logical
+Foundations, Cambridge University Press, 2024
+2. Thomas Ferguson, Game Theory, World Scientific, 2018
+Weblinks:
+1. NPTEL Course: https://nptel.ac.in/courses/106105237
+2. IIT Bombay: Useful Lecture Notes on Game Theory | IEOR @ IIT Bombay
+
+Prepared by Checked by Head of the Department Principal
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Computer Science and
+Engineering (Data Science)
+(Semester VIII)
+
+Final Year B.Tech. (DJS22)
+Institute Level Electives
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 1 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Project Management (DJS22ILO8021)
+
+Pre-requisites: Basic concepts of Management.
+
+Objectives:
+1. To familiarize the students with the use of a structured methodology/approach for every unique project
+undertaken, utilizing project management concepts, tools and techniques.
+2. To appraise the students with the project management life cycle and make them knowledgeable about
+the various phases from project initiation through closure.
+
+Outcomes: On completion of the course, learners will be able to:
+1. Explain the project management life cycle and the various project phases, as well as the role of the
+project manager.
+2. Apply selection criteria and select an appropriate project from different options.
+3. Create a work breakdown structure for a project and develop a schedule based on it. Manage project risk
+strategically.
+4. Use the Earned Value technique and determine & predict the status of the project.
+5. Capture lessons learned during project phases and document them for future reference.
+
+Project Management (DJS22ILO8021)
+Unit Description Duration
+1 Project Management Foundation: Definition of a project, Project Vs Operations,
+Necessity of project management, Triple constraints, Project life cycles (typical &
+atypical), Project phases and stage gate process. Role of project manager, Negotiations
+and resolving conflicts, Introducti on to project leadership, ethics in projects,
+Multicultural and virtual projects, Project management in various organizational
+structures, PM knowledge areas as per the Project Management Institute (PMI).
+8
+2 Initiating Projects: How to get a project started, selecting a project strategically,
+Project selection models (Numeric /Scoring Models and Non-numeric models), Project
+portfolio process, Project sponsor and creating a charter, Effective project team, Stages
+of team development & growth (forming, storming, norming & performing), team
+dynamics.
+8
+3 Project Planning: Work Breakdown Structure (WBS) and linear responsibility chart,
+Project cost estimation and budgeting, top-down and bottom -up budgeting.
+Networking and Scheduling techniques, PERT, CPM, Crashing project time, Resource
+loading and levelling, Goldratt's critical chain, GANTT chart, Project Stakeholders and
+Communication plan, Introduction to Project Management Information System
+(PMIS). Risk Management in projects: Risk management planning, Risk identification
+and risk register, Qualitative and quantitative risk assessment, Probability and impact
+matrix. Risk response strategies for positive and negative risks.
+10
+4 Monitoring and Controlling Projects: Planning, monitoring, and controlling cycle,
+Information needs and reporting, engaging all stakeholders of the projects,
+communication, and project meetings. With Earned Value Management techniques for
+measuring the value of work completed, using milestones for meas urement, change
+requests, and scope creep, Project audit. Project Contracting Project procurement
+8
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 2 of 20
+
+management, contracting and outsourcing.
+5 Closing the Project: Customer acceptance, Reasons of project termination, Various
+types of project terminations (Extinction, Addition, Integration, Starvation), Process of
+project termination, completing a final report, doing a lessons learned analysis,
+acknowledging successes and failures.
+8
+Total 42
+
+Books Recommended:
+Text books:
+ Project Management: A managerial approach, Jack Meredith & Samuel Mantel, 7th Edition, Wiley
+India.
+ Project Management: The Managerial Process, 6th edition, Erik Larson, Clifford Gray, McGraw Hill
+Education.
+
+Reference Books:
+ A Guide to the Project Management Body of Knowledge (PMBOK® Guide), 5th Ed. Project
+ Management Institute PA, USA.
+ Project Management, Gido Clements, Cengage Learning.
+ Project Management, Gopalan, Wiley India.
+ Project Management, Dennis Lock, 9th Edition, Gower Publishing England.
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 3 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Entrepreneurship Development and Management (DJS22ILO8022)
+Objectives:
+1. To develop entrepreneurial abilities by providing background information about support systems, skill
+sets, financial and risk covering institutions.
+2. To appraise the students with the fundamentals that can help them make the right decisions for.
+
+Outcomes: On completion of the course, learners will be able to:
+1. Develop idea generation, creative and innovative skills
+2. Prepare a Business Plan
+3. Compare different entrepreneur-supporting institutions
+4. Correlate a suitable MSME scheme for an entrepreneur
+5. Interpret the financial and legal aspects of a business.
+
+Entrepreneurship Development and Management (DJS22ILO8022)
+Unit Description Duration
+1 Meaning of Entrepreneur
+Evolution of the concept , Functions of an Entrepreneur , Types of Entrepreneurs ,
+Intrapreneur- an emerging class , Concept of Entrepreneurship , Evolution of
+Entrepreneurship Development of Entrepreneurship Entrepreneurial, Culture Stages in
+the entrepreneurial process: Develop idea generation, creative, and innovative skills
+08
+2 Business Planning Process
+Meaning of business plan, Business plan process, Advantages of business planning
+Marketing plan, Production/operations plan, Organization plan, Financial plan, Final
+Project Report with Feasibility Study , Preparing a model project report for starting a
+new venture.
+08
+3 Institutions Supporting Entrepreneurs:
+Small industry financing in developing countries , A brief overview of financial
+institutions in India, Central level and state level institutions - SIDBI-NABARD-IDBI-
+SIDCO, Indian Institute of Entrepreneurship System. District Industries Centers -
+Single Window
+08
+4 Micro, Small, and Medium Enterprises (MSMES):
+MSMEs - Definition and Significance in Indian Economy; MSME Schemes,
+Challenges and Difficulties in availing MSME Schemes, Forms of Business; Make-In
+India, Start -Up India, Stand -Up India. Women Entrepreneurship; Rural
+Entrepreneurship; Family Business and First-Generation Entrepreneurs
+09
+5 Finance, Accounting, Costing, and Legal Aspects of Business:
+Funding new ventures: Conventional Source of Finance, bootstrapping, crowd
+sourcing- angel investors, VCs, debt financing, due diligence, Legal aspects of business
+(IPR, GST, Labour law) - Cost, volume, profit , and break-even analysis - Margin of
+safety and the degree of operating leverage. Capital budgeting for comparing projects
+or opportunities, Product costing- Product pricing- Introduction to financial statements
+- Profit & Loss statement, Balance sheet - Cash flow-Closure of Business
+09
+Total 42
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 4 of 20
+
+Books Recommended:
+
+Reference Books:
+ Effective Entrepreneurial Management: Strategy, Planning, Risk Management, and
+ Organization - by Robert D. Hisrich Veland Ramadani, Springer Publication (2017)
+ Entrepreneurship-Theory, Process Practice -by Donald F.Kuratko, Cengage Learning(2014)
+ Entrepreneurship 6/E-by Robert D. Hisrich McGraw-Hill Education (India) (2011)
+ Entrepreneurship and small business- by Burns, P. New Jersey: Palgrave. (2001).
+ Innovation and entrepreneurship by Drucker. F. Peter, Harper business, (2006).
+ Entrepreneurship development small business enterprises, Poornima M Charantimath Pearson
+ Publication (2013)
+ Entrepreneurial Development -Jayshree Suresh, Margham Publishers, Chennai
+ The Design of Business- by Martin Roger, Harvard Business Publishing (2009)
+ Entrepreneurship-by Roy Rajiv Oxford University Press (2011)
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 5 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Corporate Social Responsibility (DJS22ILO8023)
+
+Objectives:
+1. To make students understand the concept, theories, and application of CSR for the Development of
+Society.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Understand the key characteristics of Corporate Social Responsibility (CSR) in the context of present-
+day management.
+2. Apprise regarding business decision-making, which is informed by ethical values and respect for
+people, communities, and the environment.
+3. Become aware of creating a strategic plan that enables an organization to reach out to its internal and
+external stakeholders with consistent messages.
+4. Understand critical issues of Corporate Social Responsibility (CSR) in a cross-cultural setting.
+
+Corporate Social Responsibility (DJS22ILO8023)
+Unit Description Duration
+1 Introduction to CSR
+Meaning and Definition, History of CSR, Concepts of Charity, Corporate
+Philanthropy, Corporate Citizenship, Sustainability, and Stakeholder Management.
+Environmental aspects of CSR, Chronological evolution, and Models of CSR in
+India, including Carroll's model and major codes on CSR Initiatives in India.
+09
+2 International Framework for Corporate Social Responsibility
+Millennium Development Goals, Sustainable Development Goals, Relationship
+between CSR and MDGs. United Nations (UN) Global Compact 2011. UN guiding
+principles on business and human rights. OECD CSR policy tool, ILO Tripartite
+Declaration of Principles on Multinational Enterprises and Social Policy.
+09
+3 CSR-Legislation in India and the World
+Section 135 of the Companies Act 2013.Scope for CSR Activities under Schedule
+VII,
+Appointment of Independent Directors on the Board, and the Implementation of the
+Computation of Net Profit in India.
+08
+4 The Drivers of CSR in India
+Market-based pressure and incentives, civil society pressure, the regulatory environment
+in India, Counter trends, Review of current trends and opportunities in CSR, Review of
+successful corporate initiatives , and challenges of CSR. Case Studies of Major CSR
+Initiatives, Corporate Social Responsibility and Public-Private Partnership (PPP).
+08
+5 Identifying key stakeholders of CSR
+Role of Public Sector in Corporate, government programs, Nonprofit , and Local
+Self
+Governance in implementing CSR, Global Compact Self -Assessment Tool,
+National Voluntary Guidelines by the Govt. of India, and Roles and responsibilities
+of corporate foundations.
+08
+Total 42
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 6 of 20
+
+Books Recommended:
+Textbooks:
+ Corporate Social Responsibility in India, Sanjay K Agarwal, Sage Publications, 2008.
+ Corporate Social Responsibility in India, Bidyut Chakrabarty, Routledge, New Delhi, 2015.
+
+Reference Books:
+ Corporate Social Responsibility: An Ethical Approach, Mark S. Schwartz, Broadview Press, 2011
+ Attaining Sustainable Growth through Corporate Social Responsibility, George Pohle and Jeff Hittner,
+IBA Global Business Services, 2008.
+ Strategic Corporate Social Responsibility: Stakeholders in a Global Environment, William B. Werther
+Jr. and David Chandler, 2nd Edition, Sage Publications, 2011
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 7 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Human Resource Management (DJS22ILO8024)
+
+Objectives:
+1. To introduce the students to basic concepts, techniques, and practices of human resource management.
+2. To provide an opportunity of learning Human Resource Management (HRM) processes, related to the
+functions, and challenges in the emerging perspective of today's organizations.
+3. To familiarize the students with the latest developments, trends & different aspects of HRM.
+4. To acquaint the student with the importance of inter -personal & inter -group behavioral skills in a n
+organizational setting required for future stable engineers, leaders, and managers.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Understand the concepts, aspects, techniques, and practices of human resource management.
+2. Understand the Human Resource Management (HRM) processes, functions, changes, and challenges in
+today's emerging organizational perspective.
+3. Gain knowledge about the latest developments and trends in HRM.
+4. Apply the knowledge of behavioral skills learnt and integrate it with interpersonal and intergroup
+environments, emerging as future stable engineers and managers.
+
+Human Resource Management (DJS22ILO8024)
+Unit Description Duration
+1 Introduction to HR
+Human Resource Management- Concept, Scope, and Importance, Interdisciplinary
+Approach Relationship with other Sciences, Competencies of HR Manager, HRM
+functions. Human resource development (HRD): changing role of HRM , Human
+resource Planning, Technological change, Restructuring, and rightsizing.
+Empowerment, TQM, and Managing ethical issues.
+08
+2 Organizational Behaviour (OB)
+Introduction to OB Origin, Nature and Scope of Organizational Behaviour, Relevance
+to Organizational Effectiveness and Contemporary Issues.
+Personality: Meaning and Determinants of Personality, Personality development,
+Personality Types, Assessment of Personality Traits for Increasing Self Awareness.
+Perception: Attitude and Value, Effect of perception on Individual Decision-making.
+Attitude and Behaviour.
+Motivation: Theories of Motivation and their Applications for Behavioural Change
+(Maslow, Herzberg, McGregor);
+Group Behaviour and Group Dynamics: Work groups, formal and informal groups and
+stages of group development, Team Effectiveness: High performing teams, Team
+Roles, cross functional and self-directed team.
+Case study.
+10
+3 Organizational Structure & Design
+Structure, size, technology, Environment of organization; Organizational Roles &
+conflicts: Concept of roles; role dynamics; role conflicts and stress.
+Leadership: Concepts and skills of leadership, Leadership and managerial roles,
+Leadership styles and contemporary issues in leadership.
+Power and Politics: Sources and uses of power, Politics at the workplace, Tactics and
+08
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 8 of 20
+
+strategies.
+4 Human Resource Planning
+Recruitment and Selection process, Job-enrichment, Empowerment-Job Satisfaction,
+employee morale.
+Performance Appraisal Systems: Traditional & modern methods, Performance
+Counselling. Career Planning.
+Training & Development: Identification of Training Needs, Training Methods.
+Strategic HRM: Role of Strategic HRM in the modern business world, Concept of
+Strategy, Strategic Management Process, Approaches to Strategic Decision Making:
+Strategic Intent-Corporate Mission, Vision, Objectives, and Goals.
+08
+5 Labor Laws and Industrial Relations:
+Evolution of IR, IR issues in organizations, Overview of Labor Laws in India;
+Industrial Disputes Act, Trade Unions Act, Shops and Establishments Act.
+Emerging Trends in HR
+Organizational development; Business Process Re-engineering (BPR), BPR as a tool
+for organizational development, managing processes & transformation in HR.
+Organizational Change, Culture, Environment.
+Cross-Cultural Leadership and Decision Making: Cross-Cultural Communication and
+diversity at work, Causes of diversity, managing diversity with special reference to
+handicapped, women, and ageing people, intra-company cultural differences among
+employees motivation.
+08
+Total 42
+
+Books Recommended:
+Reference Books:
+ Stephen Robbins, Organizational Behavior, 16th Ed, 2013.
+ V SP Rao, Human Resource Management, 3rd Ed, 2010, Excel Publishing.
+ Aswathapa, Human Resource Management: Text & Cases, 6th edition,
+ C. B. Mamoria and SV Gankar, Dynamics of Industrial Relations in India, 15th Ed, 2015, Himalaya
+Publishing, 15thedition, 2015
+ P. Subba Rao, Essentials of Human Resource management and Industrial relations, 5th Ed, 2013,
+Himalaya Publishing
+ Laurie Mullins, Management & Organizational Behavior, Latest Ed, 2016, Pearson Publications
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 9 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Corporate Finance Management (DJS22ILO8025)
+
+Pre-requisites: Basic Knowledge of Algebra, Probability, and Statistics.
+
+Objectives:
+1. Overview of the Indian financial system, instruments, and market.
+2. Basic concepts of value of money, returns and risks, corporate finance, working capital, and its
+management.
+3. Knowledge about sources of finance, capital structure, and dividend policy.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Understand the Indian finance system.
+2. Apply concepts of time value, money, and risk returns to products, services, and businesses.
+3. Understand corporate finance; evaluate and compare the performance of multiple firms.
+4. Take Investment, finance, as well as dividend decisions.
+
+Corporate Finance Management (DJS22ILO8025)
+Unit Description Duration
+01 Overview of the Indian Financial System: Characteristics, Components , and
+Functions of the Financial System. Financial Instruments: Meaning, Characteristics ,
+and Classification of Basic Financial Instruments : Equity Shares, Preference Shares,
+Bonds-Debentures, Certificates of Deposit , and Treasury Bills. Financial Markets:
+Meaning, Characteristics and Classification of Financial Markets - Capital Market,
+Money Market , and Foreign Currency Market Financial Institutions: Meaning,
+Characteristics, and Classification of Financial Instituti ons-Commercial Banks,
+Investment-Merchant Banks, and Stock Exchanges
+08
+
+02
+Overview of Corporate Finance: Objectives of Corporate Finance; Functions of
+Corporate Finance Investment Decision, Financing Decision, and Dividend Decision.
+Financial Ratio Analysis.
+Overview of Financial Statements: Balance Sheet, Profit and Loss Account, and Cash
+Flow Statement; Purpose of Financial Ratio Analysis; Liquidity Ratios; Efficiency or
+Activity Ratios; Profitability Ratios; Capital Structure Ratios: Stock Market Ratios;
+Limitations of Ratio Analysis
+08
+
+03
+Concepts of Returns and Risks: Measurement of Historical Returns and Expected
+Returns of a Single Security and a Two-Security Portfolio; Measurement of Historical
+Risk and Expected Risk of a Single Security and a Two-Security Portfolio.
+Time Value of Money: Future Value of a Lump Sum, Ordinary Annuity, and Annuity
+Due: Present Value of a Lump Sum, Ordinary Annuity, and Annuity Due; Continuous
+Compounding and Continuous Discounting.
+08
+
+04
+Working Capital Management: Concepts of Meaning Working Capital; Importance
+of Working Capital Management; Factors Affecting an Entity's Working Capital
+Needs; Estimation of Working Capital Requirements; Management of Inventories;
+Management of Receivables; and Management of Cash and Marketable Securities.
+Capital Budgeting: Meaning and Importance of Capital Budgeting; Inputs for Capital
+Budgeting Decisions; Investment Appraisal Criterion-Accounting Rate of Return,
+09
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 10 of 20
+
+Payback Period, Discounted Payback Period, Net Present Value(NPV), Profitability
+Index, Internal Rate of Return (IRR), and Modified Internal Rate of Return (MIRR).
+
+05
+Capital Structure: Factors Affecting an Entity's Capital Structure; Overview of
+Capital Structure Theories and Approaches Net Income Approach, Net Operating
+Income Approach; Traditional Approach, and Modigliani-Miller Approach. Relation
+between Capital Structure and Corporate Value; Concept of Optimal Capital Structure
+Dividend Policy: Meaning and Importance of Dividend Policy; Factors Affecting an
+Entity's Dividend Decision; Overview of Dividend Policy Theories and Approaches-
+Gordon's Approach, Walter's Approach, and Modigliani-Miller Approach
+09
+Total 42
+
+Books Recommended:
+Reference Books:
+ Fundamentals of Financial Management, 13th Edition (2015) by Eugene F. Brigham and Joel F. Houston;
+Publisher: Cengage Publications, New Delhi.
+ Analysis for Financial Management, 10th Edition (2013) by Robert C. Higgins; Publishers: McGraw Hill
+Education, New Delhi.
+ Indian Financial System, 9th Edition (2015) by M. Y. Khan; Publisher: McGraw Hill Education, New
+Delhi.
+ Financial Management, 11th Edition (2015) by 1. M. Pandey; Publisher: S. Chand (G/L) & Company
+Limited, New Delhi.
+ Financial Management, Theory & Practice 8th Edition (2011), by Prasanna Chandra: Tata McGraw Hill
+Education Private Limited, New Delhi.
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 11 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Logistic and Supply Chain Management (DJS22ILO8026)
+
+Objectives:
+1. To acquaint with the concept of key drivers of supply chain performance and their inter-relationships
+with strategy.
+2. To acquaint with the design problems and develop an understanding of information technology in
+supply chain optimization.
+3. To acquaint with the complexity of inter-firm and intra-firm coordination in implementing programs
+such as e-collaboration, quick response, jointly managed inventories and strategic alliances.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Demonstrate the functional strategy map of supply chain management.
+2. Analyze the determinants of Supply Chain and Transportation networks design.
+3. Demonstrate the need of coordination and sourcing decisions in supply chain.
+4. Understand pricing, revenue management and role of IT in supply chain.
+5. Understand various sustainability aspects of a supply chain.
+
+Logistic and Supply Chain Management (DJS22ILO8026)
+Unit Description Duration
+01 Understanding the Supply Chain:
+Objective, Importance, Decision Phases, Process Views.
+Achieving Strategic Fit and Scope: Competitive and Supply Chain Strategies,
+Achieving Strategic Fit, Expanding Strategic Scope, Challenges to Achieving and
+Maintaining Strategic Fit.
+Supply Chain Drivers and Metrics: Financial Measures of Performance, Drivers of
+Supply Chain Performance, Framework for Structuring Drivers, Facilities, Inventory,
+Transportation, Information, Sourcing, Pricing.
+Creating the Responsive Supply Chain: Product push versus demand pull, The
+Japanese philosophy, The foundations of agility, A route-map to responsiveness.
+8
+02 Designing the Supply Chain and Transportation Networks
+Designing Distribution Networks: The Role of Distribution in the Supply Chain,
+Factors Influencing Distribution Network Design, Design Options for a Distribution
+Network.
+Network Design in the Supply Chain: The Role of Network Design in the Supply
+Chain, Factors Influencing Network Design Decisions, Framework for Network
+Design Decisions, Models for Facility Location and Capacity Allocation.
+Designing Global Supply Chain Networks: The Impact of Globalization on Supply
+Chain Networks, The Offshoring Decision: Total Cost, Risk Management in Global
+Supply Chains, Discounted Cash Flows, Evaluating Network Design Decisions Using
+Decision Trees.
+Transportation in a Supply Chain: The Role of Transportation in a Supply Chain,
+Modes of Transportation and their Performance Characteristics, Design Options for a
+Transportation Network, Trade -Offs in Transportation Design, Tailored
+Transportation.
+
+10
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 12 of 20
+
+03
+Coordination in a Supply Chain:
+Lack of Supply Chain Coordination and the Bullwhip Effect, The Effect on
+Performance of Lack of Coordination, Obstacles to Coordination in a Supply Chain,
+Managerial Levers to Achieve Coordination, Continuous Replenishment and Vendor-
+Managed Inventories, Collaborative Planning, Forecasting, and Replenishment.
+Sourcing Decisions in a Supply Chain: The Role of Sourcing in a Supply Chain, In-
+House or Outsource, Third- and Fourth-Party Logistics Providers, Using Total Cost to
+Score and Assess Suppliers, Supplier Selection-Auctions and Negotiations, Contracts,
+Risk Sharing and Supply Chain Performance, Design Collaboration, The Procurement
+Process.
+8
+
+04
+Pricing and Revenue Management in a Supply Chain:
+The Role of Pricing and Revenue Management in a Supply Chain, Pricing and Revenue
+Management for Multiple Customer Segments, Pricing and Revenue Management for
+Perishable Assets, Pricing and Revenue Management for Seasonal Dem and, Pricing
+and Revenue Management for Bulk and Spot Contracts.
+Information Technology in a Supply Chain: The Role of IT in a Supply Chain, The
+Supply Chain IT Framework, Customer Relationship Management, Internal Supply
+Chain Management, Supplier Relationship Management, The Transaction
+Management Foundation, Managing the supply chain as a network, Seven major
+business transformations, From 3PL to 4PL. The Future of IT in the Supply Chain.
+8
+
+05
+Creating a Sustainable Supply Chain:
+The Role of Triple Bottom Line, Key Metrics for Sustainability, Greenhouse gases and
+the supply chain, Reducing the transport-intensity of supply chains, Beyond the carbon
+footprint, Reduce, reuse, recycle, Sustainability and Supply Chain Drivers.
+Introduction to the Supply Chain of the Future: Emerging Megatrends.
+8
+Total 42
+
+Books Recommended:
+Reference Books:
+ Logistics & Supply Chain Management, Martin Christopher, Pearson Education Limited, 2016.
+ Supply Chain Management Strategy, Planning, and Operation, Sunil Chopra and Peter Meindl, Pearson,
+2016.
+ Essentials of Supply Chain Management, Michael H. Hugos, Wiley, 2018.
+ Supply Chain Management For Dummies, Daniel Stanton, Wiley, 2020.
+ Global Supply Chain and Operations Management A Decision-Oriented Introduction to the Creation of
+Value, Dmitry Ivanov, Alexander Tsipoulanidis and Jörn Schönberger, Springer International
+Publishing, 2016.
+ Supply Chain Management, Sinha, McGraw-Hill Education (India) Pvt Limited, 2012.
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 13 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: IPR and Patenting (DJS22ILO8027)
+
+Objectives:
+1. Understanding, defining, and differentiating different types of intellectual properties (IPs)
+2. Assessing different IP management (IPM) approaches
+3. Exposure to the Legal management of IP and understanding of real-life practice of IPM.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Recognize the crucial role of IP for the purposes of product and technology development.
+2. Understand how and when to file a patent
+3. Apply the knowledge to understand the entire ecosystem
+4. Derive value from IP and leverage its value in new product and service development.
+
+IPR and Patenting (DJS22ILO8027)
+Unit Description Duration
+1 Concept of Intellectual Property Law
+Idea/Expression dichotomy, Introduction, and the need for intellectual property rights
+(IPR), Intellectual Property laws, IPR in India: Genesis and development, IPR abroad,
+Major International Instruments concerning Intellectual Property Rights: Paris
+Convention, the Berne Convention, the Universal Copyright Convention, the WIPO
+Convention, the Patent Cooperation Treaty, the TRIPS Agreement, incentive theory,
+types of IPR, India's New National IP Policy, 2016, Govt. Schemes in IPR IP
+8
+2 Patents and Trademarks
+Elements of Patentability: Novelty, Non-Obviousness, Industrial Application, Non
+Patentable Subject Matter, Registration Procedure, Rights and Duties of Patentee,
+Assignment and licence, Restoration of lapsed Patents, Surrender and Revocation of
+Patents, Infringement, Remedies & Penalties, Patent Office and Appellate Board, Case
+study of existing patents related to software, healthcare, and devices
+Concept of Trademarks, Different kinds of marks (brand names, logos, signatures,
+symbols, well-known marks, certification marks, and service marks), Non Registrable
+Trademarks, Registration of Trademarks, Rights of holder and assignment and licensing
+of marks, Infringement, Remedies & Penalties, Trademarks registry and appellate board
+10
+3 Copyrights and Designs
+Copyrights: Nature, Subject matter: original literary, dramatic, musical, artistic works,
+cinematograph films and sound recordings, Registration Procedure, Term of protection,
+Ownership of copyright, Assignment and licence of copyright, Infringement, Remedies
+& Penalties, Related Rights, distinction between related rights and copyrights
+Design: meaning and concept of novel and original, procedure for registration, effect of
+registration and term of protection.
+8
+4 GI, PVP, and LDP
+Geographical indication: meaning, difference between GI and trademarks, procedure
+for registration, effect of registration , and term of protection. Plant variety protection:
+meaning, benefit sharing, farmers' rights, procedure for registration, effect of
+registration, and term of protection. Layout Design protection: meaning, procedure for
+registration, effect of registration, term of protection
+8
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 14 of 20
+
+5 Beyond IP
+Introduction to Competition Law: concept of competition, relationship and Interaction
+between IPR and competition law, IP and competition issues, Technology transfer
+agreements. EU experience with IP and Competition Law, the Indian Competition Act,
+and IPR protection, IPR issues in mergers and acquisitions, harmonization of IP
+protection, and competition Law in India.
+8
+Total 42
+
+Books Recommended:
+Reference Books:
+ Feroz Ali, The Law of Patents, LexisNexis
+ Ronald D. Slusky, Invention Analysis and Claiming - A Patent Lawyer's Guide, Second Edition,
+American Bar Association, 2012.
+ Feroz Ali, The Touchstone Effect: The Impact of Pre-grant Opposition on Patents, LexisNexis, 2009.
+ Innovation and entrepreneurship by Drucker. F. Peter, Harper's Business, (2006).
+ Intellectual Property Rights, Deborah. E. Bouchoux, Cengage Learing.
+ Intellectual Property Rights-Unleash The Knowledge Economy, Prabuddha Ganguli, Tate Mc Graw Hill
+Publishing Company Ltd.,
+ The Design of Business- by Martin Roger, Harvard Business Publishing (2009)
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 15 of 20
+
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Digital Marketing Management (DJS22ILO8028)
+
+Objectives:
+1. To explain the evolution of digital marketing and outline the underlying technology and frameworks
+within which digital marketing operates.
+2. To understand digital marketing business models elucidating on the six core digital value elements and
+how they can be used to generate customer value.
+3. To understand the key concepts of developing strategy for digital business and the emerging business
+structures.
+4. To plan the digital marketing strategy roadmap, its four key stages and their elements and understand
+the 6S Digital Marketing Implementation Stages.
+5. To understand digital marketing planning & operations setup.
+6. To explain the implementation of search campaigns which include Search Engine Marketing (SEM) and
+Search Engine Optimization (SEO) concepts.
+7. To explain upcoming digital marketing concepts including Big Data and Internet of Things
+8. (IoT), Small and Medium Businesses (SMB), B2B marketing and Social, Local and Mobile (SoLoMo)
+concept.
+
+Outcomes: Upon Completion of the course, the learner should be able to:
+1. Understand the digital marketing framework & model and consumer behaviour.
+2. Develop a digital marketing strategy roadmap.
+3. Explain the terminology and concepts for developing web-specific media plans.
+4. Understand concepts related to digital campaign management and revenue generation models.
+5. Get a perspective on global digital marketing technology/tools and future trends.
+
+Digital Marketing Management (DJS22ILO8028)
+Unit Description Duration
+1 Introduction to Digital Marketing
+Emergence of Digital Marketing as a tool, media consumption drivers for a new
+marketing environment, applications, and benefits of digital marketing.
+Digital Marketing Framework : Delivering enhanced customer value, market
+opportunity analysis , and digital services development, ASCOR framework, and
+critical success factors for digital marketing.
+Digital Marketing Models Creation: Factors impacting the digital marketplace, value
+chain digitization, and business models.
+The Consumer for Digital Marketing: Consumer behavior on the internet, evolution
+of consumer behavior models, managing consumer demand, integrated marketing
+communications (IMC), and impact of digital channels on IMC.
+8
+2 Digital Marketing Strategy Development
+Elements of the assessment phase, macro-micro environmental analysis, and marketing
+situation analysis.
+Digital Marketing Internal Assessment and Objectives Planning : Analyzing the
+present offerings mix, marketing mix, core competencies analysis , and internal
+resource mapping. Digital presence analysis, digital marketing objectives
+development, and review.
+10
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+
+Prepared by Checked by Head of the Department Principal
+Page 16 of 20
+
+Digital Marketing Strategy Definition
+Understanding digital business strategy and structures, consume r development
+strategy, offering mix for Digital, digital pricing models, managing promotional
+channels, and developing the extended Ps - People, process, programs, and
+performance.
+Digital Marketing Strategy Roadmap: Developing a digital marketing strategy
+roadmap, the 6s digital marketing implementation strategy, and marketing across the
+product life cycle.
+3 Digital Marketing Planning and Setup
+Understanding digital media planning terminology and stages, steps to creating a
+marketing communications st rategy, introduction to search marketing, display
+marketing, and social media marketing.
+Digital Marketing Operations Setup : Basics of lead generation and conversion
+marketing, website content development and management, elements of user
+experience, web usability, and evaluation.
+8
+4 Digital Marketing Execution
+Basic elements of digital campaign management, search execution, display execution,
+social media execution, and content marketing. Digital Marketing Execution Elements
+Digital revenue generation m odels, managing service delivery and payments,
+managing digital implementation challenges like e-commerce, internal & external, and
+consumer-specific challenges.
+8
+5 Digital Business - Present and Future
+Digital Marketing - Global Landscape, digital marketing overview , global spend,
+advertising spend, and technology/tools landscape. Data technologies (Big data and
+IOT) impacting marketing, segment-based digital marketing, and SoLoMo - the next
+level of hyperlocal marketing.
+8
+Total 42
+
+Books Recommended:
+
+Reference Books:
+ Fundamentals of Digital Marketing by Puneet Singh Bhatia, Pearson Education Limited.
+ Digital Marketing by Seema Gupta- McGraw-Hill Education.
+ Digital Marketing Excellence: Planning, Optimizing, and Integrating Online Marketing by
+ Dave Chaffey and P. R. Smith, 5th edition, Taylor & Francis.
+ Digital Marketing: Strategy, Implementation and Practice- 6th edition by Dave Chaffey, Fiona Ellis-
+Chadwick, Pearson Education Limited.
+ Digital marketing by Vandana Ahuja, Oxford University Press.
+ The Art of Digital Marketing by Ian Dodson, John Wiley & Sons.
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+Department of Mechanical Engineering
+
+Prepared by Checked by Head of the Department Principal
+Page 17 of 20
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Environmental Management (DJS22ILO8029)
+
+Pre-requisites: Basic Knowledge of Probability and Statistics.
+
+Objectives:
+1. Understand and identify environmental issues relevant to India and global concerns
+2. Learn concepts of ecology
+3. Familiarise with environment-related legislation
+4. Understand Environmental Auditing Procedures.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Identify Environmental issues and get familiarized with the concept of the Ecosystem and
+environmental management.
+2. Know policies and legal aspects and understand EM system standards.
+3. Understand the Environmental Impact Assessment.
+4. Understand Environment Auditing procedures.
+5. Describe Environmental Management Techniques
+
+Environmental Management (DJS22ILO8029)
+Unit Description Duration
+1 Principles of Environmental Management (EM): Introduction of EM, Definition,
+Ecosystem concept, Participants in EM, Ethics and the environment, International
+Environmental Movement, Environmental issues relevant to India.
+8
+2 Policy and Legal Aspects of EM: - Introduction to various Environmental Policies,
+Indian and International Environmental laws and legislation.
+EM system Standards: Core Elements, Benefits, Certification Body Assessment &
+Documentation for EMS, ISO-14000 Standards.
+9
+3 Environmental Impact Assessment (EIA): Purpose, steps, hierarchy of EIA,
+Environmental Impact Statement and Impact Indicators, Evolution of IA in India and
+worldwide. Preliminary stages of EIA, Impact, Prediction, Evaluation and Mitigation.
+9
+4 Environmental Auditing (EA):- Objectives, Scope and Types of EA, Audit
+Methodology, Elements of Audit Process, Auditing of EMS.
+8
+5 Environmental Management Techniques: - Environmental Monitoring and
+Modelling, Environmental technology Assessment and Environmental Risk
+Assessment, Eco-mapping.
+8
+Total 42
+
+Books Recommended:
+
+Text Books:
+ Environmental Management, T V Ramachandra and Vijay Kulkarni, TERI Press
+ Environmental Management: Principles and Practice, CJ Barrow, Routledge Publishers, London, 1999
+
+Reference Books:
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+Department of Mechanical Engineering
+
+Prepared by Checked by Head of the Department Principal
+Page 18 of 20
+ A Handbook of Environmental Management, Edited by Jon C. Lovett and David G. Ockwell, Edward
+Elgar Publishing.
+ Indian Standard Environmental Management Systems - Requirements with Guidance for Use, Bureau
+Of Indian Standards, February 2005.
+ Environmental Management: An Indian Perspective, S N Chary and Vinod Vyasulu, Macmillan India,
+2000.
+ Introduction to Environmental Management, Mary K Theodore and Louise Theodore, CRC Press.
+ Environment and Ecology, Majid Hussain, 3rd Ed. Access Publishing, 2015.
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+Department of Mechanical Engineering
+
+Prepared by Checked by Head of the Department Principal
+Page 19 of 20
+Program: Common for All Programs Final Year B.Tech Semester: VIII
+Course: Labour and Corporate Law (DJS22ILO8030)
+
+Objectives:
+1. To understand the development and judicial setup of Labour Laws.
+2. To learn the laws relating to Industrial Disputes, Social Security, and Working Conditions.
+3. To analyse the laws related to corporate governance in different settings.
+4. To develop awareness of legal principles involved in economic relationships and business
+transactions.
+5. To develop an understanding of the free enterprise system and the legal safeguards of the same.
+
+Outcomes: On completion of the course, the learner will be able to:
+1. Illustrate the role of a trade union in the industrial setup.
+2. Understand the important causes, impact of industrial disputes, and settlement procedures.
+3. To provide an in-depth understanding of corporate social responsibility.
+4. Apply concepts, principles, and theories to understand simple business laws.
+5. Analyse the principles of intern ational business and the strategies adopted by firms to expand
+globally.
+
+Labour and Corporate Law (DJS22ILO8030)
+Unit Description Duration
+1 Trade Unions and Collective Bargaining:
+Trade Unionism in India, Definition of Trade Union and Trade Dispute, General and
+Political Funds of Trade Union, Civil and Criminal Immunities of Registered Trade
+Unions, Recognition of Trade Union, Collective Bargaining
+8
+2 Industrial Dispute and Instruments of Economic Coercion:
+Industrial Dispute and Individual Dispute, Settlement of Industrial Dispute. Concept
+of strike, Gherao, Bandh, and Lock-out, Types of Strike, Rights to Strike and Lock -
+out
+9
+3 Formation of a Company and Corporate Governance:
+Company and Other Forms of Business Organizations, Different Kinds of Companies:
+One Person Company, Foreign Company. Kinds of Company Meetings and Procedure
+Powers, Duties , and Kinds of Directors: Independent Director, Women Director.
+Different Prevention of Oppression and Mismanagement, Investor Protection, Insider
+Trading, Corporate Fraud.
+9
+4 Corporate Social Responsibility and Corporate Liquidation: Evolution of
+Corporate Social Responsibility, Corporate Criminal Liability, Corporate
+Environmental Liability, Different Types of Winding up of Company, Role of Courts
+in Winding up of Company , Merger and Acquisition of Company, Cross-Border
+Merger, Takeover Code: Role of SEBI
+8
+5 Case Studies on
+A) Labour law B) Labour relations C) Corporate laws D) Securities laws
+8
+Total 42
+
+Books Recommended:
+Reference Books:
+
+Shri Vile Parle Kelavani Mandal’s
+DWARKADAS J. SANGHVI COLLEGE OF ENGINEERING
+(Autonomous College Affiliated to the University of Mumbai)
+NAAC Accredited with “A” Grade (CGPA: 3.18)
+Department of Mechanical Engineering
+
+Prepared by Checked by Head of the Department Principal
+Page 20 of 20
+ Surya Narayan Misra, An Introduction to Labour and Industrial Law, Allahabad Law Agency,
+1978.
+ Indian Law Institute, Cases and Materials on Labour Law and Labour Relations , P.L. Malik,
+Industrial Law, Eastern Book Company, 2013.
+ S.C. Srivastava, Industrial Relations and Labour Law, Vikas Publishing House, New Delhi.
+ C.A. Kamal Garg, Bharat's Corporate and Allied Laws, 2013.
+ Institute of Company Secretaries of India, Companies Act 2013, CCH Wolter Kluver Business,
+2013.
+ Saleem Sheikh & William Rees, Corporate Governance & Corporate Control, Cavendish
+Publishing Ltd., 1995
+ Taxmann, A Comparative Study of Companies Act 2013 and Companies Act 1956.
+
+Program: B.Tech. in Computer Science and Engineering (Data Science) Semester: VIII
+Course: Project Stage - II (DJS22DSP803)
+
+Objectives:
+To introduce the students to professional engineering practice by providing them with an opportunity to
+work on an open -ended engineering problem. Typically, the students would apply knowledge from
+different areas or courses, which they have studied in their curriculum using methods, tools, and
+techniques, which they learned to a real -world scenario. Students would have to apply not only their
+engineering knowledge and proficiencies (hard skills), but also to demonstrate their competence in
+generic, professional skills (soft skills). It also emphasizes the importance of life -long learning as a
+fundamental attribute of graduate engineers.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Develop the proposed solution using appropriate techniques.
+2. Test the developed system for its correctness using appropriate techniques.
+3. Work effectively as a member of the team.
+
+Guidelines
+1. The department must allocate 2 days in the Semester VIII every week.
+2. Students will do coding and testing in Semester VIII.
+3. Each group along with its guide/mentor shall identify appropriate techniques for testing the developed
+system.
+4. The project assessment for term work will be done at least two times at department level by giving
+presentation to panel members which consist of at least three (3) members as Internal examiners
+(including the project guide/mentor) appointed by the Head of the department of respective Program.
+5. A report is to be prepared summarizing the findings of the literature survey, coding and testing.
+6. Every team must publish their work in national / international conference/journals (if possible, publish
+in Scopus indexed journals) or file a patent.
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data Science) Semester: VIII
+
+Course: Disaster Management and Preparedness (DJS22A4)
+
+Objectives:
+1. To provide basic understanding of hazards, disasters and various types and categories of disaster occurring
+around the world.
+2. To identify extent and damaging capacity of a disaster.
+3. To study and understand the means of losses and methods to overcome /minimize it.
+4. To understand roles and responsibilities of individual and various organizations during and after disaster.
+5. To appreciate the significance of GIS, GPS in the field of disaster management.
+6. To understand the emergency government response structures before, during and after disaster.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Apply disaster management principles & guidelines.
+2. Conduct risk assessments.
+3. Develop community awareness & participation.
+4. Utilize Science & Technology tools (GIS, GPS).
+5. Prepare disaster management plans.
+
+Disaster Management and Preparedness (DJS22A4)
+Unit Description Duration
+1
+Understanding Disasters & Hazards
+Definition and types of disasters: Natural, Man-made and hybrid disasters, Study
+of Natural disasters : Flood, drought, cloud burst, Earthquake, Landslides,
+Avalanches, Volcanic eruptions, Mudflow, Cyclone, Storm, Storm Surge, climate
+change, global warming, sea level rise, ozone depletion etc. Study of
+Human/Technology Induced Disasters : Chemical, Industr ial and Nuclear
+disasters, internally displaced persons, road and train accidents Fire Hazards,
+terrorism, militancy,
+Hazard & Vulnerability profiles of India (seismic zones, flood-prone areas).
+India’s vulnerability to disasters, and the impact of disast ers on National
+development.
+06
+2
+Disaster Risk Reduction (DRR) & Mitigation
+Disaster Management Cycle : Prevention, Mitigation, Preparedness, Response,
+Recovery. Need for disaster prevention and mitigation, mitigation guiding
+principles, challenging areas, structural and non-structural measures for disaster risk
+reduction.
+Risk Assessment & Vulnerability Analysis.
+Science & Technology: Use of information management, Geo informatics like RS,
+GIS, GPS and remote sensing mitigation measure.
+06
+3
+Disaster Preparedness & Response
+Preparedness Planning, Early Warning Systems (EWS), & Communication.
+Emergency Response: Search & Rescue, Logistics, Medical Aid.
+Psychological Response & Management (Trauma, Stress).
+Role of IT, Media, Govt., NGOs, & Community.
+04
+
+4
+Recovery, Rehabilitation & Reconstruction
+Post-disaster damage assessment.
+Rehabilitation, Reconstruction, & Livelihood Restoration.
+Sanitation, Hygiene, & Waste Management.
+04
+5
+Policy, Governance & Capacity Building
+National Disaster Management Authority (NDMA) & Legislation.
+Institutional Mechanisms & Community Mobilization. Non -Structural Mitigation:
+Community based disaster preparedness, capacity development and training,
+awareness and education, contingency plans.
+04
+6
+Case studies on disaster (National /International)
+Case study discussion of National Disasters: Tsunami (2004), Bhopal gas tragedy,
+Kerala and Uttarakhand flood disaster, 26th July 2005 Mumbai flood
+Case study discussion of International Disasters: Hiroshima – Nagasaki (Japan),
+Cyclone Phailin (2013), Fukushima, Daiichi nuclear disaster (2011), Chernobyl
+meltdown
+04
+Total 28
+
+Books Recommended:
+Reference Books and Reports:
+1. Disaster Management, by Harsh K. Gupta, Universities Press Publications (2003).
+2. Disaster Management: An Appraisal of Institutional Mechanisms in India, by O. S. Dagur, published by
+Centre for land warfare studies, New Delhi, 2011.
+3. Introduction to International Disaster Management, by Damon Copolla, Butterworth Heinemann Elsevier
+Publications (2015).
+4. Disaster Management Handbook, by Jack Pinkowski, CRC Press, Taylor and Francis group (2008).
+5. Disaster management & rehabilitation, by Rajdeep Dasgupta, Mittal Publications, New Delhi (2007).
+6. Natural Hazards and Disaster Management, Vulnerability and Mitigation, by R B Singh, Rawat
+Publications (2006).
+7. Concepts and Techniques of GIS, by C. P. Lo Albert, K.W. Yonng, Prentice Hall (India) Publications
+(2006).
+8. Risk management of natural disasters, by Claudia G. Flores Gonzales, KIT Scientific Publishing (2010).
+9. Disaster Management – a disaster manger’s handbook, by W. Nick Carter, Asian Development Bank
+(2008).
+10. Disaster Management in India, by R. K. Srivastava, Ministry of Home Affairs, GoI, New Delhi (2011)
+11. The Chernobyl Disaster: Legacy and Impact on the Future of Nuclear Energy, by Wil Mara, Marshall
+Cavendish Corporation, New York, 2011.
+12. The Fukushima 2011 Disaster, by Ronald Eisler, Taylor & Francis, Florida, 2013.
+(Learners are expected to refer reports publis hed at national and international level and updated
+information available on authentic web sites.)
+
+Prepared by Checked by Head of the Department Principal

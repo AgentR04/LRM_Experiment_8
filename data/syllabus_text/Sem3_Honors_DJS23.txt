@@ -1,0 +1,99 @@
+DJSCE - CSE (Data Science) syllabus document: Sem3_Honors_DJS23
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Scheme and Detailed syllabus (DJS23)
+of
+Honors Degree Program
+in
+Computational Finance
+(Semester III)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+Scheme for Undergraduate Program in Computer Science and Engineering (Data Science)
+Honors in Computational Finance
+(Academic Year 2026-2027)
+
+Prepared by Checked by Head of Department Vice Principal Principal
+
+Honors in Computational Finance Semester: III
+Program: Computer Science and Engineering (Data Science)
+Course: Financial Market and Risk Analysis (DJS23DH1201)
+
+Pre-requisite:
+1. Basic Mathematics
+Objectives:
+1. To provide an understanding of various financial institutions, their functions, as well
+as to introduce various financial instruments and their associated risks.
+2. Measurement, analysis and managing the risk using advanced techniques.
+3. To introduce risk exposure in money markets, capital markets, and forex markets.
+Outcomes: On completion of the course, the learner will be able to:
+1. Understand the structures, functions, and operations of financial institutions and markets
+2. Identify and evaluate various financial instruments and assess the risks associated with them.
+3. Assess the risk in money markets, capital markets and forex markets.
+
+Financial Market and Risk Analysis (DJS23DH1201)
+Unit Description Duration
+1
+Introduction to Financial Instruments:
+Money, equity, debt instruments, foreign exchange and their risk structure. Introduction to
+crypto currency (or contemporary currency)
+07
+
+2
+Money Market Instruments and Structure of Risk:
+Interest rate and valuation: present value and future value computation, annuity valuation,
+loan amortization, capital recovery and sinking fund factory, money market instruments and
+structure of their risk and returns.
+Equity Market and Risk Matrix:
+Stocks, Ordinary and Preferential Stocks, primary and secondary stock market, initial public
+offering (IPO), public equity and private equity, stock market index, market participants,
+trading risk in equity market.
+
+09
+
+3
+Financial Markets and Products:
+Structures and functions of financial institutions, structure and mechanics of over – the –
+counter (OTC) and exchange markets, Spot market, Commodity market, Foreign
+exchange market, Corporate bonds and mortgage-based-securities.
+
+09
+
+4
+Debt Market, Structure of Risk and Return:
+Risk and Return of Debt instruments, types of bonds, term structure for interest rates, yield
+curve, spot rate and forward rate, duration and convexity of yield curve.
+
+08
+
+5
+International Finance:
+Foreign exchange market, determination of foreign exchange rate, purchasing power parity
+theory, interest rate parity, Fisher effects, international Fisher effect.
+Foreign Exchange Risk:
+Currency derivatives, currency quotes, triangular currency arbitrage, exchange rate
+exposure.
+
+09
+Total 42
+
+Books Recommended:
+Text books:
+1. Jimmy Skoglund, Wei Chen, “Financial Risk Management”, Wiley Publication, 2015.
+2. Bharti. V. Pathak, “The Indian Financial System,” Pearson Publication, 2018
+
+Reference Books:
+1. Saunders. A. and Cornett M, “Financial Markets and Institutions, McGraw Hill Education,
+2014.
+2. Hull. J. C,” Options, Future and other Derivatives, PHL publication 2013.
+3. Brealey, Myers, Allen, “Principals of Corporate Finance, McGraw Hill, 2020
+
+Web Links:
+1. Financial Instruments:
+https://corporatefinanceinstitute.com/resources/wealth-management/financial-instrument/
+2. NPTEL course in Financial Institution and Markets: https://nptel.ac.in/courses/110105121
+
+Prepared by Checked by Head of the Department Principal

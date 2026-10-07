@@ -1,0 +1,413 @@
+Bio / CV of Dr. Kriti Srivastava (Head of the Department), Computer Science and Engineering (Data Science), DJSCE.
+ 
+Name of Teaching Staff  Kriti Srivastava 
+. 
+Designation  Associate Professor 
+ 
+Department 
+ 
+ 
+ Computer Science and Engineering (Data Science) 
+Date of Joining the 
+Institution 
+ 02.07.2007 
+Professional 
+Membership   IETE, Society of Data Science 
+ ORCID id: 0000-0001-9849-8908 
+Web of Science Researcher ID : AAF-8252-2019 
+https://www.linkedin.com/in/kriti-srivastava-a92b2823/ 
+https://www.scopus.com/authid/detail.uri?authorId=55763790564 
+https://scholar.google.com/citations?hl=en&user=ZIcIsUQAAAAJ 
+Area of Interest   
+  Computer Vision, Responsible AI, Computational Neuroscience. 
+Qualifications: 
+ 
+1. Ph.D. (Computer Engineering), Mumbai University 2021. 
+2. M Tech. (Computer Engineering), NMIMS University, 2008. 
+3. B.E. (Computer Science and Engineering.), Dehradun Institute of Technology, 2002. 
+Total Experience in Years: More than 21 years Teaching: 
+ 
+• Associate Professor, D. J. Sanghvi College of Engineering, Mumbai, from 
+02.09.2024 to till date. 
+• Assistant Professor, D. J. Sanghvi College of Engineering, Mumbai, from 
+02.07.2008 to 01.09.2014 
+• Lecturer, D. J. Sanghvi College of Engineering, Mumbai, 01.01.2006 to 30.6.2008 
+• Lecturer, Lokmanya Tilak College, Navi Mumbai, 01.08.2005 to 31. 12. 2005 
+• Lecture, M. M. M. Engineering College, Gorakhpur, 03. 08. 2002 to 
+31.03. 2005 
+Courses Taught: 
+ 
+• Cognitive Neuroscience (UG) 
+• Probabilistic Graph Theory (UG) 
+• Foundations of Data Analysis (UG) 
+• Data Science (PG) 
+• Artificial Intelligence and Soft Computing (UG) 
+• Machine Learning (UG & PG) 
+• Advance Operating System (UG & PG) 
+• Cloud Computing (UG) 
+• Big Data Analytics (UG) 
+• Data Mining (UG) 
+• Operating System (UG) 
+Projects Guided: 
+ 
+• B.E. Project: 25 
+• M.E. Project: 02 
+
+
+Academic Duties: 
+ 
+• Head of the Department of CSE (Data Science) since 2021. 
+• Designed curriculum of CSE (Data Science) for DJ19, DJS22 and DJS 23 scheme. 
+• Introduced Honors course in Computational Finance and designed the syllabus. 
+• Nodal Officer, DJ Sanghvi for NIRF Ranking. 
+• Member of placements committee from 2010 to 2021. 
+• Member of Admission committee from 2016 to 2020. 
+• Member of Alumni Committee from 2013 to 2017. 
+• Member of Time-table Committee from 2010 to 2016. 
+• NAAC Criteria -1 core member from 2018 to 2021. 
+• NBA core member from 2015 to 2020. 
+Interaction with Professional Institutions: 
+• SAS 
+• IBM 
+ 
+Workshop, lecture series & Conferences Conducted: 
+ 
+• Conducted a webinar on Fundamentals of XAI on 24th June 2024 in a ISTE approved 
+STTP. Understanding the Impact of Explainable AI (youtube.com) 
+• Conducted a Webinar on Expert System on 29th September 2021. 
+https://www.youtube.com/watch?v=glQIoAJrN60 
+• Conducted a session on “Virtualization” in 6 days STTP on “Practical Insights to 
+Cloud Computing” on 4th Jan 2016. 
+ 
+Publication & Conferences: (Till Date) 
+Patent: 
+Patent Number: 4889 
+Type of Patent: South African Patent 
+Title of the Invention: A System and method for evaluating the freshness of fruits using machine 
+learning techniques 
+Term of Patent: from 20th Dec 2023 
+ 
+Patent Number: 2021103018 
+Type of Patent: Innovation patent granted by Australian Government (IP Australia) 
+Title of the Invention: A System and A Method for Need Based Access Control Framework for 
+Emergency Response System 
+Term of Patent: Eight years from 1st June 2021. 
+ 
+Patent No.: 552960 
+Type of Patent: Indian Patent 
+Date of filing of Application: 17/08/2021 
+Publication Date: 12/05/2023 
+Granted Date: 23/10/2024 
+Title of the invention: AN AUTHENTICATION SYSTEM BASED ON ELECTROENCEPHALOGRAM (EEG). 
+ 
+Papers presented in International Journal: 32 
+ 
+1. Srivastava, K., Jain, D., Kamdar, A., Yeole, A., Shah, D. & Dadheech, S. (2024). 
+Adaptivity in Role-Based Access Control During Stochastic Situations: A 
+Comprehensive Study between Graph and Relational Databases. Journal of Computer 
+Science, 20(12), 1744-1752. https://doi.org/10.3844/jcssp.2024.1744.1752 
+2. Kriti Srivastava, Siddharth Sanghvi, Parag Vaid and Palash Rathod, “SiamEEGNET: 
+Few-Shot Learning for Electroencephalogram – based Biometric Recognition 
+
+System,” International Journal of System of Systems Engineering, ISSN No: 1748-
+0671. DOI: 10.1504/IJSSE.2025.10058955[SCOPUS] 
+3. Sridhar Joshi, S.Silvia Priscila, Suman Rajest George, Kriti Srivastava, Prasath Alias 
+Surendhar S, Rajasekaran Rajkumar, “Non-Linear Control Based Class-D Amplifier 
+for Audio Intelligent Infrastructure Applications,” International Journal of Critical 
+Infrastructures (IJCIS), Vol. 20, No. 4, 23rd August, 2024, pp 309-328 ISSN: 1475-
+3219 https://doi.org/10.1504/IJCIS.2024.140554 [SCOPUS] 
+4. Vedanta Yadav, Aditya Hake, Danish Kasmani, Dr. Kriti Srivastava,” Hate Speech 
+Detection using Explainable AI,” Gradivia Review Journal, Volume 10 Issue 7, Page 
+No: 574-581, ISSN NO: 0363-8057 DOI:10.37897.GRJ.2023.V10I7.24.514020. 
+[SCOPUS] [UGC Care Group II] 
+5. Dr. Kriti Srivastava, Ankit Ladva, Pushkar Waykole, Sonal Nikam,” APS: Hedging 
+Based Portfolio Creator for Uncertain Situations,”Gradivia Review Journal, Volume 
+10 Issue 7, Page No: 524-534, ISSN NO: 0363-8057, 
+DOI:10.37897.GRJ.2023.V10I7.24.514017. [SCOPUS]  [UGC Care Group II] 
+6. Farin Irfan Khan, Sanika Shekhar Tawate, Kriti Srivastava and Nidhi Nilesh Pabari,” 
+Recommendations in augmented reality-based furniture shopping application,” 
+Global Journal of Engineering and Technology Advances, 2024, 19(03), 103–111. 
+Article DOI: 10.30574/gjeta.2024.19.3.0102[UGC Care Group II] 
+7. Monica Purushotham, Kriti Srivastava, Chitra A, Malathi S, D. Kerana Hanirex, 
+S.Silvia Priscila, “Intelligent Infrastructures Using Deep Learning Based Applications 
+for Energy Optimization,” International Journal of Critical Infrastructures, 
+Inderscience. Vol 20, No 5, 13th September 2024, PP: 391-415, 
+https://doi.org/10.1504/IJCIS.2024.141440, ISSN No: 1475-3219 [SCOPUS] 
+8. Samarth Tumdi, Alistair Sadana, Atharv Ashar and Dr. Kriti Srivastava, “SoulSound 
+– Hybrid Music Recommendation System,” TANZ (ISSN NO: 1869-7720) VOL18 
+ISSUE11 2023, DOI: 10.61350/TJ5239 [SCOPUS] 
+9. Sanghavi, P., Dedhia, S., Salvi, S., Srivastava, K, BrATCat: Data Augmentation of 
+MRI Scans via Image-to-Image Translation Using CycleGAN Followed by Pre-
+Trained Model Categorization, Intelligent Healthcare Systems, 2023, pp. 359–384, 
+DOI:10.1201/9781003196822-21{Book Chapter} [SCOPUS] 
+10. Anjan Kumar, Sangeeta Singh, Kriti Srivastava, Amit Sharma, Dilip Kumar Sharma, 
+Performance and stability enhancement of mixed dimensional bilayer inverted 
+perovskite (BA2PbI4/MAPbI3) solar cell using drift-diffusion model, Sustainable 
+Chemistry and Pharmacy, Volume 29, 2022, 100807, ISSN 2352-5541, 
+https://doi.org/10.1016/j.scp.2022.100807. [SCOPUS] 
+11. Autee P, Bagwe S, Shah V, Srivastava K. StackNet-DenVIS: a multi-layer perceptron 
+stacked ensembling approach for COVID-19 detection using X-ray images. Physical 
+and Engineering Sciences in Medicine. 2020 Dec;43(4):1399-1414. doi: 
+10.1007/s13246-020-00952-6. Epub 2020 Dec 4. PMID: 33275187; PMCID: 
+PMC7715648.S. [SCOPUS] 
+12. Singh and K. Srivastava, ASM: Adaptive Sequential Modelling Based 
+Recommendation System, VB International Interdisciplinary Research Journal, 
+Special Issue on Recent Research Trends in Management, Science and Technology 
+(August 2021), ISSN: 2319-4979, pp: 212-218. 
+13. Akash Shah, Romil Shah, Manan Gandhi, Rashmil Panchani, Govind Thakur and 
+Kriti Srivastava, Analysis of Effectiveness of Non-Vaccine Countermeasures Taken 
+by Indian Government against Covid-19 and Forecasting using Machine Learning 
+and Deep Learning, Design of Intelligent Applications using Machine Learning and 
+Deep Learning Techniques, CRC Press Taylor and Francis, August 2021, ISBN: 
+9780367679798 
+14. Kriti Srivastava, Dr. Narendra Shekokar and Pratik Aher, NdRAdAC: Need based 
+Access Control Framework for an Emergency Response System, Turkish Journal of 
+Computer and Mathematics Education, Volume 12, Issue 5, April 2021, DOI: 
+
+https://doi.org/10.17762/turcomat.v12i5.2037 [SCOPUS] 
+15. Singh and K. Srivastava, ASM: Adaptive Sequential Modelling Based 
+Recommendation System, VB International Interdisciplinary Research Journal, 
+Special Issue on Recent Research Trends in Management, Science and Technology 
+(August 2021), ISSN: 2319-4979, pp: 212-218. 
+16. Kriti Srivastava and Dr. Narendra Shekokar, Design of Machine Learning and Rule 
+Based Access Control System with Respect to Adaptability and Genuineness of the 
+Requester, EAI endorsed Transactions on Pervesive Health and Technology, Volume 
+6, Issue 23, September 2020, DOI: http://dx.doi.org/10.4108/eai.24-9-2020.166359 
+[SCOPUS] 
+17. Viral Tagdiwaala, Muhammad Umair Siddiqui, Maithili Bhuta, Juhi Shah and Kriti 
+Srivastava, Air Quality Measure using Computer Vision and CCTV footage of Road 
+Traffic, International Journal of Recent Technology and Engineering (IJRTE), 
+Volume 8, Issue 6, March 2020, DOI: http://www.ijrte.org/download/volume-8-
+issue-6/ [UCG Care] 
+18. Srivastava K., Shekokar N. (2020) Machine Learning Based Risk-Adaptive Access 
+Control System to Identify Genuineness of the Requester. In: Gunjan V., Zurada J., 
+Raman B., Gangadharan G. (eds) Modern Approaches in Machine Learning and 
+Cognitive Science: A Walkthrough. Studies in Computational Intelligence, vol 885. 
+Springer, Cham. ISBN : 978-3-030-38444-9 https://doi.org/10.1007/978-3-030-
+38445-6_10 [SCOPUS] 
+19. S. Singh and K. Srivastava, “Comparative Study of Machine Learning Algorithms for 
+Recommendation System”, Journal of University of Shanghai for Science and 
+Technology, Vol 22, Issue 12, 2020, ISSN: 1007-6735, DOI: 10.51201/12495 
+20. Kashyap Bhuva and Kriti Srivastava,”Comparative Study of Machine Learning 
+Techniques for Predicting Employee Attrition”,IJRAR Volume 5 issue 3, august 
+2018, ISSN: 2349-5138. 
+21. Het Sheth, Meet Chedda, Siddhant Gada, Ashwini Swain and Kriti Srivastava, 
+“Triple- Technique Diagnosis Using Machine Learned Classifier,” International 
+Journal for Science and Research, Vol 6, Issue- 10, October 2017, pp 234-238. 
+22. Kriti Srivastava, Khushali Shah, Priyal Shah and Dr. Narendra Shekokar, “ Dynamic 
+Access Control in a Document Data Store,” International Journal in Advance 
+Research in Computer Science and Software Engineering (IJARCSSE), Vol 7, Issue 
+5, May 2017, ISSN: 2277 128X, pp: 518-522 
+23. Manika Mittal, Ronak Sangani, Kriti Srivastava, Testing Data Integrity in Distributed 
+Systems, Procedia Computer Science, Volume 45, 2015, Pages 446-452, ISSN 1877-
+0509 https://doi.org/10.1016/j.procs.2015.03.077. [SCI Indexed] 
+24. Kriti Srivastava, Gaurav Nand, Elliptic Curves for Data Provenance, Procedia 
+Computer Science, Volume 45, 2015, Pages 470-476, ISSN 1877-0509, 
+https://doi.org/10.1016/j.procs.2015.03.082. [SCI Indexed] 
+25. Arushi Shah, Nidhi Kapadia, Ashwinee Mehta and Kriti Srivastava, Ïnternational 
+Journal of Computer Science and Information Technology,”Vo-6(6), 2015, ISSN: 
+0975-9646. 
+26. Neha Mendjoge, Kriti Srivastava, Siddhesh Owalkar, Soham Patel and Advait 
+Marathe, “Introduction to Online Advertisement and its Business 
+Process,”International Journal of Business and General Management, Vol -4, Issue -
+6, oct-nov 2015, ISSN: 2319-2267 
+27. Shreya Kamani, Neel Vasa and Kriti Srivastava, “Virtual Trial Room Using 
+Augumented Reality”, IJACT, Vol 3, 2014, number 6, ISSN: 2319-7900 
+28. Navin Kankhate and Kriti Srivastava, “Intelligent Marketing Analysis”, International 
+Journal of Innovation and Trends in Computing and Communication, vol 2, issue 11, 
+nov 2014 
+29. Saurabh Merai, Neha Mendjoge, Kriti Srivastava and Vinaya Sawant,”Teradata: 
+Future of Database”, International Journal of Science and Technology, ISSN 2321- 
+
+919X, 2014,  Vol 2 Issue 11, pp: 86-89. 
+30. Kriti Srivastava, R. Shah, D. Valia andH. Swaminarayan,” Data Mining using 
+Hierarchal Agglomerative Clustering Algorithm in Distributed Cloud Computing 
+Environment,” IJCTE , Vol 5, No 3, June 2013, pp520-523.  
+31. Deevangee Chudasama, Krunal Darji, Helie Sheth, Kriti Srivastava, “Cloud 
+Computing Application”, “Technofocus, Journal for budding engineer”, vol 2, Issue1, 
+Oct 2011. 
+32. Chintan Vora, Mit Mehta, Kovit Nisar & Kriti Srivastava , “Comparative Study of 
+Various Cloud Computing Platforms”,  ”Technofocus, Journal for Budding 
+Engineers”, Volume 1, Issue 2, March 2011. 
+ 
+ 
+Papers presented in International Conference: 39 
+ 
+1. S. Gupta, S. Vishwakarma and K. Srivastava, "Revolutionizing Jewellery Design 
+through Stable Diffusion Model: Bridging the Gap between Consumer Preferences 
+and Designer Creativity," 2024 4th International Conference on Intelligent 
+Technologies (CONIT), Bangalore, India, 2024, pp. 1-8, doi: 
+10.1109/CONIT61985.2024.10626785. [Scopus] 
+2. Afreen Sorathiya, Jinal Mehta, Vineet Chotaliya, Kriti Srivastava, “Enhancing 
+Interpretability, Reliability and Trustworthiness: Applications of Explainable 
+Artificial Intelligence in Medical Imaging, Financial Markets and Sentiment 
+Analysis,” ECAI-2024: 16th Edition of International conference on Electronics, 
+Computers and Artificial Intelligence. 
+3. Bhuvi Gosh, Yash Thakkar, Vishma Aderia and Kriti Srivastava, “Performance 
+Analysis of Hybrid Quantum-Classical Convolutional Neural Networks for Audio 
+Classification,” Fifteenth International Conference on Computing, Communication 
+and Networking Technologies (ICCCNT), held at IIT-Mandi, in association with 
+IEEE Electronics Packaging Society, during June 24th - 28th, 2024. 
+4. Amitesh Sawarkar, Sachin Nawale, Abhay Raj Agarwal, Kriti Srivastava,” Influence 
+of Causal Inference For Crop Prediction,” Fifteenth International Conference on 
+Computing, Communication and Networking Technologies (ICCCNT), held at IIT-
+Mandi, in association with IEEE Electronics Packaging Society, during June 24th - 
+28th , 2024. 
+5. Anuradha Yeole, Nihar Ketkar, Ami Desai, Kriti Srivastava, Optimizing Fashion 
+Recommendations for Diverse Body Types: An Epsilon Greedy Approach, Fifteenth 
+International Conference on Computing, Communication and Networking 
+Technologies (ICCCNT), held at IIT-Mandi, in association with IEEE Electronics 
+Packaging Society, during June 24th - 28th , 2024. 
+6. V. Gandhi, S. Shah, M. Shah, A. Mehta and K. Srivastava, "Optimisation of Anomaly 
+Detection in Video Processing Using Efficient Feature Engineering," 2024 
+International Conference on Emerging Smart Computing and Informatics (ESCI), 
+
+Pune, India, 2024, pp. 1-6, doi: 10.1109/ESCI59607.2024.10497234. 
+7. A. Salian, B. Ghosh, H. Shetye, P. Kapadia and K. Srivastava, "Real-Time Injury 
+Risk Assessment in Athletes Based on Relative Joint Angles," 2024 International 
+Conference on Emerging Smart Computing and Informatics (ESCI), Pune, India, 
+2024, pp. 1-6, doi: 10.1109/ESCI59607.2024.10497417. [SCOPUS] 
+8. V. Gandhi, S. Shah, M. Shah, A. Mehta and K. Srivastava, "Optimisation of Anomaly 
+Detection in Video Processing Using Efficient Feature Engineering," 2024 
+International Conference on Emerging Smart Computing and Informatics (ESCI), 
+Pune, India, 2024, pp. 1-6, doi: 10.1109/ESCI59607.2024.10497234. 
+9. D. Vartak, Y. Maheshwari, T. Kothari and D. K. Srivastava, "Analytical Study and 
+Recommendations for Computer Vision Methods," 2023 14th International 
+Conference on Computing Communication and Networking Technologies 
+(ICCCNT), Delhi, India, 2023, pp. 1-8, doi: 10.1109/ICCCNT56998.2023.10308209. 
+[SCOPUS] 
+10. Daru, D., Surani, H., Koladia, H., Parmar, K., Srivastava, K. (2023). Depression 
+Detection Using Hybrid Transformer Networks, “Lecture Notes in Networks and 
+Systems”, vol 662. Springer. https://doi.org/10.1007/978-981-99-1414-2_44 
+[SCOPUS] 
+11. Savla, A., Kanadia, A.A., Mehta, D., Srivastava, K. (2022). GQNN: Greedy 
+Quanvolutional Neural Network Model. In: Chen, J.IZ., Tavares, J.M.R.S., Shi, F. 
+(eds) Third International Conference on Image Processing and Capsule Networks. 
+ICIPCN 2022. Lecture Notes in Networks and Systems, vol 514. Springer, Cham. 
+https://doi.org/10.1007/978-3-031-12413-6_31 [SCOPUS] 
+12. Dave, B., Srivastava, K. (2023). Convolutional Neural Networks for Audio 
+Classification: An Ensemble Approach. Lecture Notes in Networks and Systems, vol 
+428. Springer. https://doi.org/10.1007/978-981-19-2225-1_23. [Book Chapter] 
+[SCOPUS] 
+13. R. Shah, B. Dave, N. Parekh and K. Srivastava, "Parkinson's Disease Detection - An 
+Interpretable Approach to Temporal Audio Classification," 2022 IEEE 3rd Global 
+Conference for Advancement in Technology (GCAT), Bangalore, India, 2022, pp. 1-
+6, doi: 10.1109/GCAT55367.2022.9971881. [SCOPUS] 
+14. R. Kadakia, P. Kalkotwar, P. Jhaveri, R. Patanwadia and K. Srivastava, "Analysis of 
+Micro Expressions using XAI," 2022 3rd International Conference on Computing, 
+Analytics and Networks (ICAN), Rajpura, Punjab, India, 2022, pp. 1-7, doi: 
+10.1109/ICAN56228.2022.10007340. [SCOPUS] 
+15. P. Dhirawani, R. Parekh, T. Kandoi and K. Srivastava, "Cost Savings Estimation for 
+Solar Energy Consumption Using Machine Learning," 2022 11th International 
+Conference on Renewable Energy Research and Application (ICRERA), 2022, pp. 
+42-49, doi: 10.1109/ICRERA55966.2022.9922872. [SCOPUS] 
+16. D. Shah, D. Shah, D. Jodhawat, J. Parekh and K. Srivastava, "Xception Net & Vision 
+Transformer: A comparative study for Deepfake Detection," 2022 International 
+Conference on Machine Learning, Computer Systems and Security (MLCSS), 
+Bhubaneswar, India, 2022, pp. 393-398, doi: 10.1109/MLCSS57186.2022.00077. 
+[SCOPUS] 
+17. B. Arunadevi, D. Saravanan, K. Villallba-Condori, K. Srivastava, M. K. Chakravarthi 
+and R. Rajan, "Orthographic Comparison Revealed by Ambient Sentiment 
+Classification," 2021 5th International Conference on Electronics, Communication 
+and Aerospace Technology (ICECA), 2021, pp. 834-838, doi: 
+10.1109/ICECA52323.2021.9675995. [SCOPUS] 
+18. R. Rajeswari, H. Raja, K. Srivastava, G. S. Sajja, M. K. Chakravarthi and R. Rajan, 
+"Technologies for Systematic Procedure Generation of Enhanced Wound Care 
+Devices Through Discriminative Intelligence," 2021 5th International Conference on 
+Electronics, Communication and Aerospace Technology (ICECA), 2021, pp. 839-
+844, doi: 10.1109/ICECA52323.2021.9675886. [SCOPUS] 
+
+19. A. Halgekar, A. Chouhan, I. Khetan, J. Bhatia, N. Shah and K. Srivastava, "Internet 
+of Behavior (IoB): A Survey," 2021 5th International Conference on Information 
+Systems and Computer Networks (ISCON), Mathura, India, 2021, pp. 1-6, doi: 
+10.1109/ISCON52037.2021.9702450. [SCOPUS] 
+20. R. Kadakia, P. Kalkotwar, P. Jhaveri, R. Patanwadia and K. Srivastava, "Comparative 
+Analysis of Micro Expression Recognition using Deep Learning and Transfer 
+Learning," 2021 2nd Global Conference for Advancement in Technology (GCAT), 
+2021, pp. 1-7, doi: 10.1109/GCAT52182.2021.9587731. [SCOPUS] 
+21. N. Parekh, B. Dave, R. Shah and K. Srivastava, "Automatic Sleep Stage Scoring on 
+Raw Single-Channel EEG : A comparative analysis of CNN Architectures," 2021 
+Fourth International Conference on Electrical, Computer and Communication 
+Technologies (ICECCT), 2021, pp. 1-8, doi: 10.1109/ICECCT52121.2021.9616895. 
+[SCOPUS] 
+22. S. Sanghavi, P. Vaid, P. Rathod and K. Srivastava, "SpectroTemporalNet: Automated 
+Sleep Stage Scoring with Stacked Generalization," 2021 Second International 
+Conference on Electronics and Sustainable Communication Systems (ICESC), 2021, 
+pp. 1256-1263, doi: 10.1109/ICESC51422.2021.9532640. [SCOPUS] 
+23. Samip Kalyani, Sanjay Naik and Kriti Srivastava, Exploradar: User Centric 
+Intelligent Document Retrieval System, BioScience, Bio Technology Research 
+Communication, Volume 13, Issue 14, November 2020, DOI:  https://bbrc.in/wp-
+content/uploads/2021/01/Volune-13-No-14-Special-Issue-2020-Combined.pdf  
+24. Manav Shah, Rohit Singh, Nimit Haria, Krish Fadia and Kriti Srivastava, Slouch 
+detection using OpenPose Architecture, BioScience, Bio Technology Research 
+Communication, Volume 13, Issue 14, November 2020, DOI: https://bbrc.in/wp-
+content/uploads/2021/01/Volune-13-No-14-Special-Issue-2020-Combined.pdf 
+25. Kishan Trivedi, Sambhav Shah and Kriti Srivastava, An Efficient E-Commerce 
+Design by Implementing a Novel Data Mapper for Polyglot Persistence, 2nd 
+International Conference on Advanced Computing Technology and Applications, 
+Springer, 28th -29th February 2020. 
+26. Aditya Sariwaala, Kishan and Kriti Srivastava, Intrusion Detection System against 
+Malign Packets- A Comparative Study between Autoencoder and Ensemble Model, 
+2nd International Conference on Advanced Computing Technology and Applications, 
+Springer, 28th -29th February 2020. 
+27. Manan Oza, Himanshu Vagelah and Kriti Srivastava,” Progressive Generative 
+Adversarial Binary Networks for Music Generation,” International Conference on 
+Innovative Computing and Communication, Ostarava, Chez Republic, 21st- 22nd 
+March 2019. [SCOPUS] 
+28. Kriti Srivastava and Dipam Vasani, “Comparative Study of Ensemble Model and 
+Autoencoder in case of Class Imbalance and Concept Drift”, ICECEIC-2019, 
+CFP19R88-PRJ:978-1-7281-0173-6 
+29. Subhash Nadkarni, Akshen Kadakiya and Kriti Srivastava,” Providing Scalability to 
+Data Layer Using A Novel Polyglot Persistence Approach,” ICCUBA 2018, Pune, 
+India, August 16th-17th. [SCI Index] 
+30. Kriti Srivastava, Pratik Aher, Dr. Narendra Shekokar,”Fuzzy Inference to Rule-Based 
+Risk Calculation for Risk Adaptive Access Control System”, INDIACom 2018, 
+March 15th -18th. 
+31. Pratik Kanani, Kriti Srivastava, Janan Gandhi, Disha Parekh and Meet Mehta, 
+“Obfuscation: Code of Maze”, 2nd International Conference on Communication 
+System, Computing and IT Applications, IEEE, Mumbai, 7th – 8th April 2017, pp 
+11-16 . [SCI Index] 
+32. Chintan Shah, Kriti Srivastava and Dr. Narendra Shekokar, “A Novel Polyglot Data 
+Mapper for an E Commerce Business Model,”IC3e 2016, Malaysia, 10-12th Oct 
+2016, pp 40-41. [SCOPUS] 
+33. Kriti Srivastava and Dr. Narendra Shekokar, “ A Polyglot Persistence Approach for 
+
+An E Commerce Business Model,” ICIS 2016, IEEE, August 12-13, 2016, PP 2-6 
+34. Kriti Srivastava, Harshal Dalvi and Prachi Dalvi, “High Performance Analysis in Big 
+Data”, Thinkquest , National Conference on Technology and Management, 2013. 
+35. Hrishil Shah, Nikhil Jukar, Karan Godsalwar, Kriti Srivastava, “User Friendly 
+Synthesizer Software”, “ICMT2011, International Conference on Multimedia 
+Technology”, July 26-28, 2011, pages 6651-6654. 
+36. Kriti Srivastava and Seema Shah, “Improving performance of Scalable DSM System 
+using Adaptive Consistency and Coherency Scheme”, NCICT 08. 
+37. Kriti Srivastava and Seema Shah,  “A Block Level Write Tracking Technique to 
+Improve Performance in SDSM Systems”, “3CI- International Conference , 
+Bangalore” Nov 21-23, 2008. 
+38. Kriti Srivastava, Seema Shah and Sunita Mahajan, “Comparative Study of Memory 
+Consistency Model in Prevalent Software DSM System”, ENVISION 2007. 
+39. Kriti Srivastava, “High Performance in Bus Based Shared Memory System”NCICT 
+07”, march 1-3, 2007. 
+ 
+Papers presented in National Conference: 04 
+ 
+1. Kriti Srivastava, Harshal Dalvi and Prachi Dalvi, “High Performance Analysis in Big 
+Data”, Thinkquest , National Conference on Technology and Management, 2013. 
+2. Kriti Srivastava and Seema Shah, “Improving performance of Scalable DSM System 
+using Adaptive Consistency and Coherency Scheme”, NCICT 08. 
+3. Kriti Srivastava, Seema Shah and Sunita Mahajan, “Comparative Study of Memory 
+Consistency Model in Prevalent Software DSM System”, ENVISION 2007. 
+4. Kriti Srivastava, “High Performance in Bus Based Shared Memory System”NCICT 
+07”, march 1-3, 2007. 
+ 
+Papers presented in National Journal: 02 
+ 
+1. Deevangee Chudasama, Krunal Darji, Helie Sheth, Kriti Srivastava, “Cloud 
+Computing Application”, “Technofocus, Journal for budding engineer”, vol 2, Issue1, 
+Oct 2011. 
+2. Chintan Vora, Mit Mehta, Kovit Nisar & Kriti Srivastava “Comparative Study of 
+VariousCloud Computing Platforms”,”Technofocus, Journal for Budding 
+Engineers”, Volume 1, Issue 2, March 2011. 
+Books Published: 01 
+• Dr. Shiwani Gupta, Dr. Kriti Srivastava and Mrs. forum Shah had published a book titled as 
+“Graph Data Science”, Tech Neo Publishing, ISBN 978-93-5583-692-2. 
+ 

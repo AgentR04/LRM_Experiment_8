@@ -1,0 +1,1206 @@
+DJSCE - CSE (Data Science) syllabus document: Sem5_DJS22
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Scheme and Detailed syllabus (DJS22)
+Third Year B.Tech
+in
+Computer Science and
+Engineering (Data Science)
+(Semester V)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+DJS22DSC501 Machine Learning - II (Deep Learning) 3 -- -- 3 20 15 35 -- 35 2 65 -- -- -- 65 100 3
+DJS22DSL501 Machine Learning - II Laboratory -- 2 -- 1 -- -- -- 25 25 2 -- -- -- 25 25 50 1
+DJS22DSC502 Intelligent Systems 3 -- -- 3 20 15 35 -- 35 2 65 -- -- -- 65 100 3
+DJS22DSL502 Intelligent Systems Laboratory -- 2 -- 1 -- -- -- 25 25 -- -- -- -- -- -- 25 1
+DJS22DSC503 Image Processing and Computer Vision - I 3 -- -- 3 20 15 35 -- 35 2 65 -- -- -- 65 100 3
+DJS22DSL503 Image Processing and Computer Vision - I
+Laboratory -- 2 -- 1 -- -- -- 25 25 2 -- -- -- 25 25 50 1
+4 DJS22DSL504 Big Data Engineering Laboratory 2 2 -- 3 -- -- -- 50 50 2 -- -- -- 50 50 100 3 3
+DJS22DSC5011 Distributed Computing 3 -- -- 3 20 15 35 -- 35 2 65 -- -- -- 65 100 3
+DJS22DSL5011 Distributed Computing Laboratory -- 2 -- 1 -- -- -- 25 25 -- -- -- -- -- -- 25 1
+DJS22DSC5012 Time Series Analysis 3 -- -- 3 20 15 35 -- 35 2 65 -- -- -- 65 100 3
+DJS22DSL5012 Time Series Analysis Laboratory -- 2 -- 1 -- -- -- 25 25 -- -- -- -- -- -- 25 1
+DJS22DSC5013 Digital System Design 3 -- -- 3 20 15 35 -- 35 2 65 -- -- -- 65 100 3
+DJS22DSL5013 Digital System Design Laboratory -- 2 -- 1 -- -- -- 25 25 -- -- -- -- -- -- 25 1
+DJS22DSC5014 Probabilistic Graph Models 3 -- -- 3 20 15 35 25 60 2 65 -- -- -- 65 125 3
+DJS22DSL5014 Probabilistic Graph Models Laboratory -- 2 -- 1 -- -- -- 25 25 -- -- -- -- -- -- 25 1
+6 DJS22IHL Professional and Business Communication
+Laboratory 4* -- 2 -- -- -- 50 50 -- -- -- -- -- -- 50 2 2
+7 DJS22ILLL1 Innovative Product Development - III -- 2 -- 1 -- -- -- 25 25 2 -- 25 -- -- 25 50 1 1
+Total 23 22 0 34 140 105 245 325 570 22 455 25 0 100 580 1150 34 22
+@ Any 1 Elective Course
+* 2 hrs Theory (Class wise) and 2 hrs. Tutorial (Batch wise)
+Prepared by Checked by Head of the Department Principal
+Course Structure for Third year Undergraduate Program in Computer Science and Engineering (Data Science) : Semester V ( Autonomous)
+(Academic Year 2024-25)
+Sr Course Code Course
+Teaching Scheme Semester End Examination (B)
+Aggregate
+(A+B)Theory
+(hrs.)
+Practical
+(hrs.) Theory OralTutorial
+(hrs.)
+Term
+Test 2
+(TT2)
+Avg
+(TT1 &
+TT2)
+4
+Duration Pract Oral &
+Pract
+SEE
+Total
+Credits
+earned
+4
+4
+4
+Credits
+Continuous Assessment (A)
+5@
+3
+1
+2
+Term
+Test 1
+(TT1)
+Term
+Work
+Total
+CA
+Total
+
+Continuous Assessment (A):
+
+Course Assessment Tools Marks Time (hrs.)
+Theory
+a. One Term test (based on 40 % syllabus) 20 1
+b. Second Term test (next 40 % syllabus ) /
+presentation / assignment / course project / group
+discussion / any other.
+15 1
+Total marks (a + b) 35 --
+Audit
+course
+Performance in the assignments / qui / power point
+presentation / poster presentation / group project /
+any other tool.
+--
+As
+applicable Laboratory Performance in the laboratory and documentation. 25
+Tutorial Performance in each tutorial & / assignment. 25
+Laboratory
+&Tutorial Performance in the laboratory and tutorial. 50
+
+The final certification and acceptance of term work will be subject to satisfactory performance upon
+fulfilling minimum passing criteria in the term work / completion of audit course.
+
+Semester End Assessment (B):
+
+Course Assessment Tools Marks Time (hrs.)
+Theory /
+* Computer
+based
+Written paper based on the entire syllabus.
+65 2
+* Computer based assessment in the college premises.
+Oral Questions based on the entire syllabus. 25 as applicable
+Practical Performance of the practical assigned during the examination
+and the output / results obtained. 25 2
+Oral &
+Practical
+
+Project based courses - Performance of the practical assigned
+during the examination and the output / results obtained.
+Based on the practical performed during the examination and
+on the entire syllabus.
+As per the
+scheme 2
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering
+(Data Science)
+T.Y. B.Tech Semester: V
+Course: Machine Learning - II (Deep Learning) (DJS22DSC501)
+Course: Machine Learning - II Laboratory (DJS22DSL501)
+
+Pre-requisite: Linear Algebra, Calculus, Probability, Statistics and Machine Learning Basics.
+
+Course Objectives:
+1. To introduce students with the fundamental concepts of artificial neural network and
+different learning algorithms: supervised and unsupervised neural networks.
+2. Develop in-depth understanding of the key techniques in designing Deep Network.
+3. To expose Deep Network based methods to solve real world complex problems.
+Outcomes: Students will be able to
+1. Analyze different neural network architectures and their learning algorithms.
+2. Implement deep network training and design concepts.
+3. Build solution using appropriate neural network models.
+
+Machine Learning - II (Deep Learning) (DJS22DSC501)
+Unit Description Duration
+1
+Introduction to Artificial Neural Learning:
+Fundamental concepts of biological Neural Networks, NN Architectures, Important
+terminologies of ANN: Activation functions (Sigmoid, ReLu, Leaky ReLu, Tanh, Softmax),
+weights, bias, threshold, learning rate, McCulloch Pitts Neuron: Theory and Architecture.
+05
+2
+Supervised Learning Networks:
+Perceptron: Representational power of Perceptron, The Perceptron Training Rule, Delta
+Rule; Multilayer Networks: Representational Power of Feedforward Networks;
+Backpropagation Algorithm: Convergence and local minima, Hypothesis space search and
+Inductive Bias, Generalization, overfitting and stopping criteria.
+Optimization for Training Deep Models: Challenges in Neural Network Optimization,
+Basic Algorithms, Parameter Initialization Strategies. Optimizers: Gradient Descent
+(Stochastic, Mini-Batch, Batch), SGD with Momentum, Nesterov Accelerated GD, Adagrad,
+Adadelta, RMSProp, Adam, Regularization for Deep Learning: Parameter Norm Penalties,
+Dataset Augmentation, Noise Robustness, Early Stooping, Sparse Representation, Dropout.
+08
+3
+Convolutional Networks:
+The Convolution Operation, sparse interactions, parameter sharing, Pooling, Convolution
+and Pooling as an Infinity Strong Prior, Variants of Basic Convolution Function, Efficient
+Convolution Algorithms (AlexNet, LeNet-5, VGG, DenseNet, InceptionNet, ResNet).
+06
+
+4
+Sequence Modelling:
+Recurrent Neural Networks (RNN), Bidirectional RNNs, Deep recurrent Networks,
+Recursive Neural Networks, The challenges of Long-Term Dependencies, Echo State
+Networks, Leaky Units, The Long Short-Term Memory (LSTM).
+
+06
+5
+Unsupervised Learning Networks:
+Kohonen Self-Organizing Feature Maps – architecture, training algorithm, Kohonen Self-
+Organizing Motor Map.
+08
+
+Autoencoders:
+Sparse Autoencoder, Undercomplete Autoencoders, Regularized Autoencoders, Denoising
+Autoencoders, Applications of Autoencoders. Linear Factor Methods such as Probabilistic
+PCA and Factor Analysis, Independent Component Analysis.
+6
+Transfer Learning:
+Fundamental of Transfer Learning, Pre -trained Model Approach, Freezing, Fine -tuning.
+Transfer Learning Strategies: Inductive Learning, I nductive Transfer, Transductive
+Transfer Learning, Unsupervised Transfer Learning; Types of Deep Transfer Learning:
+Domain Adaptation, Domain Confusion, One -shot Learning, Zero -shot Learning,
+Multitask Learning; Types of Transferable Components: Instance transfer, Feature -
+representation transfer, Parameter transfer, Relational -knowledge transfer; Transfer
+Learning Challenges: Negative Transfer, Transfer Bounds; Applications: Transfer learning
+for NLP/ Audio/ Speech/ Computer Vision.
+07
+Total 39
+
+Machine Learning - II Laboratory (DJS22DSL501)
+Exp. Suggested Experiments
+1 Implement Boolean gates using perceptron.
+2 Implement backpropagation algorithm from scratch.
+3 Monitoring and evaluating deep learning models using Tensorflow and Keras.
+4 Evaluate and analyze Prediction performance using appropriate optimizers for deep learning
+models.
+5 Implement Sentiment analysis on text dataset to evaluate customer reviews.
+6 Building CNN models for image categorization.
+7 Document classification using RNN models.
+8 Outlier detection in time series dataset using RNN.
+9 Anomaly detection using Self-Organizing Network.
+10 Compare the performance of PCA and Autoencoders on a given dataset.
+11 Transfer Learning with Pre-trained CNN model as a Feature Extractor for Image Classification
+with a Data Availability Constraint.
+
+Books Recommended:
+Text Books:
+1. Simon Haykin, “Neural Networks and Learning Machines”, Pearson Prentice Hall, 3rd Edition, 2010.
+2. S. N. Sivanandam and S. N. Deepa, “Introduction to Soft Computing”, Wiley India
+Publications, 3rd Edition, 2018.
+
+Reference Books:
+1. François Chollet, “Deep Learning with Python”, Manning Publication, 2017.
+2. Josh Patterson, Adam Gibson, “Deep Learning: A Practitioner's Approach”, O’Reilly Publication,
+2017.
+3. Andrew W. Trask, Grokking, “Deep Learning”, Manning Publication, 2019.
+4. John D. Kelleher, “Deep Learning”, MIT Press Essential Knowledge series, 2019.
+
+Web Links:
+1. Learning Rule: http://vlabs.iitb.ac.in/vlabs-dev/labs/machine_learning/labs/explist.php
+2. ANN Virtual Lab: http://cse22-iiith.vlabs.ac.in/List%20of%20experiments.html
+3. Deep Learning: https://vlab.spit.ac.in/ai/#/experiments
+4. NPTEL Course: Deep Learning Part 1: https://onlinecourses.nptel.ac.in/noc19_cs85/preview
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Intelligent Systems (DJS22DSC502)
+Course: Intelligent Systems Laboratory (DJS22DSL502)
+
+Pre-requisite: Basic Mathematics and Data Structures
+
+Course Objectives:
+1. Provide the basic ideas and techniques underlying the design of intelligent systems.
+2. Impart the knowledge of various search techniques for problem solving.
+3. Learn knowledge representation and provide the knowledge to deal with uncertain and
+incomplete information.
+4. Impart the knowledge of Intelligent planning.
+
+Outcomes: Students will be able to:
+1. Apply appropriate search-based method for a given problem.
+2. Analyze various IS approaches to knowledge - problem solving, reasoning, and
+intelligent planning.
+3. Apply the knowledge of reasoning and intelligent planning to solve a problem.
+
+Intelligent Systems (DJS22DSC502)
+Unit Description Duration
+1
+Fundamentals:
+Introduction to Intelligence Systems, Evolution, Categorization of Intelligent System,
+Applications.
+Problem solving:
+Solving problem by Searching: Problem Solving Agent, Formulating Problems. State
+Space Search: Uninformed search, Breadth First Search (B FS), Depth First Search
+(DFS), Depth, Depth First Iterative Deepening (DFID). Heuristic Search: Best first
+Search, Hill Climbing, Variations of Hill Climbing, Solution Space, and Travelling
+Salesman Problem.
+08
+2
+Optimizations:
+Population Based Methods: Simulated annealing, Local beam search, Genetic
+algorithm. Finding Optimal Paths: Branch and Bound, A*, Admissibility and
+monotonicity properties of A*.
+Game Playing:
+Game Theory, Board games and game tree, The minimax algorithm, Alpha -Beta
+Pruning.
+09
+3
+Knowledge and Reasoning in Logic:
+Logic, Soundness and Completeness, Propositional Logic, First Order Logic, forward
+chaining, Backward chaining and Refutation. Uncertain Knowledge and Reasoning:
+Fuzzy sets, Fuzzy Logic, Fuzzy Logic Controller.
+06
+4
+Logic Foundation for Ontologies:
+Knowledge Modelling, Definition, and importance of ontologies in AI, Components of
+ontologies: classes, properties, individuals, Ontology development methodologies (e.g.
+Protégé), Ontology languages (e.g. OWL, RDF), Ontolo gy reasoning and inference,
+05
+
+Applications of ontologies in AI (e.g. semantic web, knowledge management.
+5
+Ontology Modelling:
+Advanced ontology modelling constructs (e.g. restrictions, class axioms), Ontology
+alignment, merging and versioning, Ontology-based data access and integration,
+Probabilistic and fuzzy ontologies, Rule-based reasoning with ontologies (e.g. SWRL),
+Scalable ontology reasoning techniques, Real-world ontology case studies and industry
+applications.
+06
+6
+Planning:
+Domain independent planning, Forward and Backward search, Goal Stack Planning,
+Plan Space Planning, Means Ends Analysis, Graphplan, algorithm AO*.
+05
+Total 39
+
+Intelligent Systems Laboratory (DJS22DSL502)
+Exp. Suggested Experiments
+1 Implement domain specific function for different problems.
+2 Identify and analyze uninformed search Algorithm to solve the problem. Implement
+BFS/DFS/DFID search algorithms to reach goal state.
+3 Program to implement Local Search algorithm: Hill climbing search.
+4 Program on any natures inspired algorithm to solve a optimization problem in AI.
+5 Implement A* search algorithm to reach goal state.
+6 Implement minimax algorithm for a two-player game.
+7 Implement Fuzzy operations for given input values.
+8 Design a fuzzy logic controller for a given problem.
+9 Develop a knowledge base using OWL.
+10 Develop a Rule based System using SWRL on Protégé software.
+Books Recommended:
+Text Books:
+1. Deepak Khemani.” A First Course in Artificial Intelligence”, McGraw Hill Education (India), 2013.
+2. Dean Allemang, James Hendler “Semantic Web for the Working Ontologist”, Elsevier 1st Edition,
+2008.
+
+Reference Books:
+1. Saroj Kaushik “Artificial Intelligence”, First Edition, Cengage Learning, 2011.
+2. Ivan Bratko “PROLOG Programming for Artificial Intelligence”, Fourth Edition, Pearson Education,
+2011.
+3. Elaine Rich and Kevin Knight “Artificial Intelligence” Third Edition, Tata McGraw-Hill, 2008.
+4. Davis E.Goldberg, “Genetic Algorithms: Search, Optimization and Machine Learning”, Addison
+Wesley, N.Y.
+5. Patrick Henry Winston, “Artificial Intelligence”, Addison-Wesley, Third Edition.
+6. N.P.Padhy, “Artificial Intelligence and Intelligent Systems”, Oxford University Press, 2005.
+7. John Yen and Reza Langari, "Fuzzy Logic: Intelligence, Control, and Information", Pearson, 2002.
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Image Processing and Computer Vision - I (DJS22DSC503)
+Course: Image Processing and Computer Vision - I Laboratory (DJS22DSL503)
+
+Pre-requisite: Basic co-ordinate geometry, matrix algebra, linear algebra and random process.
+
+Course Objectives: To teach various feature engineering and preprocessing techniques on image and
+video data types.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Identify the need of different image and video pre-processing.
+2. Apply different image and video corrections.
+3. Compare different image and video processing methods.
+
+Image Processing and Computer Vision - I (DJS22DSC503)
+Unit Description Duration
+1 Digital Image Fundamentals: Steps in Digital Image Processing, Components,
+Image Sampling and Quantization, Neighborhood of pixels. 04
+
+2
+Image Enhancement (point processing): Image Negative, Thresholding, Gray -
+level slicing with and without background, power law and log transform, Contrast
+Stretching, Histogram equalization.
+Image Enhancement in Spatial Domain (Neighbourhood processing): Low Pass
+and High Pass filtering for image enhancement, High Boost Filtering, Basics of
+Spatial Filtering, Generating Spatial Filter Masks –Smoothing and Sharpening
+Spatial Filtering.
+Image Transforms: 1-D DFT, 2 -D Discrete Fourier Transform and Its Inverse,
+Some Properties of 2D DFT, Walsh -Hadamard, Discrete Cosine Transform, Haar
+Transform, Slant Transform.
+Image Enhancement in Frequency Domain: The Basics of Filtering in the
+Frequency Domain, Smoothing and Sharpening frequency domain filters.
+11
+
+3
+Morphology: Erosion and Dilation, Opening and Closing, The Hit or -Miss
+Transformation. Restoration: Noise models – Mean Filters – Order Statistics –
+Adaptive filters -Adaptive mean filter, Adaptive Gaussian Filter.
+Corner and Interest Point detection: The Harris Interest Point Operator: Corner
+Signals and shifts for various geometric configuration, Performance with crossing
+point and Junctions, Different forms of Harris Operator, Local Invar iant Feature
+Detectors and Descriptors: Harris scale and Affine- Invariant Detectors and
+Descriptors.
+08
+
+4
+Point, Line, and Edge Detection: Detection of Isolated Points, Line detection, edge
+models, basic and advance edge detection (Kirsch Compass Kernels), Edge linking
+and boundary detection, Canny's edge detection algorithm.
+Thresholding: Foundation, Role of illumination, Basic Global thresholding, Otsu’s
+method Region Based segmentation: Region Growing, Region Splitting and
+merging, Relationships between pixels, Hough transform.
+Region Identification: Chain code, simple geometric border representation
+(Topological and region based descriptor).
+Fourier Transform of boundaries, Boundary description using segment sequences.
+
+08
+5
+Motion: Optical Flow, Interpretation of Optical Fields, Using focus of expansion
+to avoid collision, Time to adjacency analysis, Basic difficulties with optical flow
+models, Stero from Motion.
+08
+Total 39
+
+Image Processing and Computer Vision - I Laboratory (DJS22DSL503)
+Sr. No Title of the Experiments
+1 To perform basic Image Processing, Geometric, Arithmetic and Logical operations on
+Images.
+2
+To perform Spatial Domain Image Enhancement using different Point Processing
+Techniques like Image Negative Transformation, Thresholding, Gray Level Slicing with without
+background.
+3 To perform Spatial Domain Image Enhancement using different Neighborhood Processing
+Techniques.
+4 To perform Histogram equalization.
+5 To perform frequency domain Image Enhancement techniques.
+6 To perform region-based segmentation.
+7 To perform morphological operations on Image.
+8 To perform edge detection using basic and advanced techniques.
+9 To perform Image restoration using various filters.
+10 To extract the key frames from a video.
+11 To perform background subtraction in a video.
+12 To perform motion analysis using Lucas-Kanade optical flow estimation Algorithm.
+
+Books Recommended:
+
+Textbooks:
+1. Rafel C. Gonzalez and Richard E. Woods, “Digital Image Processing”, Pearson Education
+Asia, 4th Edition, 2018.
+2. Sanjit Mitra, “Digital Signal Processing: A Computer Based Approach”, Tata McGraw Hill, 4th
+Edition, 2013.
+Reference Books:
+1. S. Salivahanan, A. Vallavaraj, C. Gnanapriya, “Digital Signal Processing”, Tata McGraw Hill
+Publication 4th Edition, 2019.
+2. E. R. Davies, “Computer and Machine Vision: Theory, Algorithms”, Academic Press, 4th
+
+Edition, 2012.
+3. S. Jayaraman, E. Esakkirajan and T. Veerkumar, “Digital Image Processing”, Tata McGraw
+Hill Education Private Ltd, 1st Edition, 2017.
+4. Anil K. Jain, “Fundamentals and Digital Image Processing”, Pearson Education, 1st Edition,
+2015.
+5. John G. Proakis, Dimitris and G. Manolakis, “Digital Signal Processing: Principles,
+Algorithms, and Applications”, Pearson Education, 4th Edition, 2014.
+A. Anand Kumar, “Digital Signal Processing”, Prentice Hall, 2nd Edition, 2015.
+6. S. Sridhar, “Digital Image Processing”, Oxford University Press, 2nd Edition, 2016.
+Web Links:
+1. NPTEL Digital Image Processing, By Prof. Prabir Kumar Biswas, IIT Kharagpur:
+https://nptel.ac.in/courses/117/105/117105135/
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Big Data Engineering Laboratory (DJS22DSL504)
+
+Pre-requisite: Foundations of Data Analysis, Database Management System, Python Laboratory,
+Java and Scala Laboratory.
+
+Objectives: The objective of this lab is to provide the basic framework of handling and processing
+big data.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Relate to the need of different types of data preprocessing tools/methods.
+2. Use appropriate tool/method for a specific Data Engineering task.
+Sr. No Suggested List No of Hours
+1
+Hadoop Ecosystem
+ Understanding inputs and outputs of Map Reduce Concept of
+Hadoop.
+ The Map Tasks, grouping by Key, The Reduce Tasks,
+Combiners, Details of Map Reduce Execution.
+ HDFS file system - Command line.
+ Overview of resource management – YARN.
+04
+2
+Infrastructure Implementation
+ Introduction to Kubernetes and Docker.
+ Setting up applications on Kubernetes and Docker.
+ Creating Docker images and deploying them.
+04
+3
+Messaging Service
+ Differentiate between different types of connections: Point -to-
+point, Broadcast/Multicast and Multi point.
+ Real time messaging using AMPS.
+ Pub / Sub models.
+ Allows subscribers to apply filters on server level.
+02
+4
+Messaging Service
+ Need of scalability and concurrency in the messaging services.
+ Real time messaging, ensuring scalability and concurrency using
+Kafka.
+ Pub / Sub models.
+ Allows subscribers to apply filters on client side.
+02
+5
+Data Processing
+ Need of advance methods for data processing of Big Data
+ Introduce SPARK.
+ Real time and Batch processing of high volume of data.
+ Write scripts using Java/ Python/Scala.
+ Processing high volume records in-memory.
+08
+
+ Integration with Hive, HDFS, Kafka, event hub and other
+messaging and storage system.
+6
+Data Warehouse
+ Need of advance methods for data warehousing for storing Big
+data.
+ Introduce HIVE.
+ Storage of data on HDFS for high volume data.
+ Perform Analytical queries using Map Reduce.
+02
+7
+No SQL Data Store
+ Difference between SQL and NoSQL data stores.
+ Types of NoSQL Data stores.
+ Introduce HBase.
+ Demonstration of Dynamic Scaling.
+02
+8
+No SQL Data Store
+ NoSQL Databases for different use cases.
+ DynamoDB - Serverless AWS service for storing data in bytes.
+ MongoDB - Data Storage as documents (Binary JSON -BSon).
+ Pipeline, query aggregation, complex querying, transaction.
+04
+9
+ETL Task
+ Introduce AWS Glue for ETL.
+ Data Integration service from multiple sources.
+ Keeping track of schema in form of catalogue.
+ Data query via Amazon Athena, Amazon EMR, and Amazon
+Redshift Spectrum.
+04
+10
+Data Retrieval
+ Introduction to Open-Source Indexing Engine Elastic Search for
+transactional data.
+ Data querying, aggregation, visualization, log extraction and
+analytics.
+04
+11
+Cold Data Retrieval AWS S3, Athena and Redshift
+ Introduction of AWS S3, Athena and RedShift.
+ Storing / Extracting data in S3 in different forms (csv, parquet,
+text).
+ Querying the data via Athena / Redshift.
+04
+Books Recommended:
+Textbooks:
+1. Joe Reis and Matt Housley, “Fundamentals of Data Engineering: Plan and Build Robust Data
+Systems”, O’Reilley, 1st Edition, 2022.
+2. Stevan N Brunton and J Nathan Kutz, “Data-Driven Science and Engineering: Machine
+Learning, Dynamical Systems, and Control”, Cambridge University Press, 1st Edition, 2019.
+3. Tom White, "Hadoop: The Definitive Guide", O'Reilley, 3rd Edition, 2012.
+4. Eric Sammer, "Hadoop Operations", Reilly, 1st Edition, 2012.
+5. Pramod J Sadalge and Martin Fowler, “NoSQL Distilled: A Brief Guide to the Emerging
+World of Polyglot Persistence”, Addison-Wesley Professional publications, 1st Edition, 2012.
+
+Reference Books:
+1. Paul Zikopoulos, Chris Eaton, Dirk DeRoos, Tom Deutsch, George Lapis, “Understanding
+Big Data: Analytics for Enterprise Class Hadoop and streaming Data”, The McGraw -Hill
+Companies, 1st Edition, 2017.
+2. Gaurav Vaish, “Getting Started with NoSQL”, Packt Publishing, 1st Edition, 2013.
+3. Manoj Kukreja, “Data Engineering with Apache Spark, Delta Lake, and Lakehouse”, Packt
+Publishing, 1st Edition, 2021.
+4. Scott Haines, “Modern Data Engineering with Apache Spark: A Hands -On Guide for
+Building Mission-Critical Streaming Applications”, Apress Publications, 1st Edition, 2022.
+
+WebLinks:
+1. Real-time Bigdata Messaging Services: Built for realtime: Big data messaging with
+Apache Kafka, Part 1 | InfoWorld
+2. Understanding Big data Processing: Understanding Big Data Processing: 2022's Ultimate
+Guide - Learn | Hevo (hevodata.com)
+3. Serverless Databases: What Is Serverless? An Overview | Knowledge Base | Dashbird
+4. Kubernet Vs Docker: Kubernetes vs. Docker: Why Not Both? | IBM
+
+Prepared by Checked by Head of the Department Principal
+
+DEPARTMENT ELECTIVES
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Distributed Computing (DJS22DSC5011)
+Course: Distributed Computing Laboratory (DJS22DSL5011)
+
+Pre-requisite: Operating Systems
+
+Course objectives: The objective of this course is to introduce the fundamentals of distributed
+computing that includes system architecture, programming model, design, and implementation
+and performance analysis of these systems.
+
+Course outcomes: On successful completion of course, learner will be able to:
+1. Demonstrate Interprocess Communication and Synchronization in a Distributed System.
+2. Apply appropriate Resource, Process management, File and Memory technique in a
+given Distributed Environment for efficient processing.
+3. Apply suitable methods to improve data availability in a system.
+
+Distributed Computing (DJS22DSC5011)
+Unit Description Duration
+1
+Introduction: Distributed Computing Models, Issues in Designing Distributed Systems,
+Network communication: LAN and WAN technologies, Protocols for Network Systems,
+Asynchronous Transfer Mode.
+04
+2
+Communication: Interprocess Communication: Message Passing, Group
+Communication, API for Internet Protocols; Remote Communication: Middleware,
+Remote Procedural Call (RPC) Basics, RPC Implementation, RPC Communication,
+Exception Handling and Security, RPC in Heterogeneous environment, Failure Handling,
+RPC Optimization.
+07
+3
+Synchronization: Clock Synchronization, Logical Clocks, Global State, Mutual
+Exclusion: Centralized, Decentralized, Distributed and Token Ring Algorithms, Election
+Algorithms: Ring and Bully election algorithms, Deadlocks in Distributed Systems.
+06
+4
+Resource and Process Management: Desirable features of a global scheduling
+algorithm, Task Assignment Approach, Load Balancing Approach, Load Sharing
+Approach, Functions of Distributed Process Management, Desirable features of a process
+migration mechanism, Process migrations and Threads.
+06
+5.
+Consistency, Replication and Fault Tolerance: Introduction to Replication and
+Consistency, Data-Centric (Continuous Consistency, Consistent Ordering of Operation)
+and Client-Centric (Eventual Consistency, Monotonic Read, Monotonic Write, Read your
+Writes, Writes follow Reads); Consistency Models, Replica Management; Fault
+Tolerance: Introduction, Process resilience, Reliable client-server and group
+communication, Recovery.
+08
+6.
+Distributed Shared Memory (DSM) and Distributed File System (DFS): DSM
+Architecture, Types of DSM, Advantages of DSM, Design Issues in DSM systems, Issues
+in Implementing DSM systems; Introduction to DFS, DFS Designs, DFS Implementation,
+File Caching and Replication in DFS.
+08
+Total 39
+
+Distributed Computing Laboratory (DJS22DSL5011)
+Exp. Suggested Experiments
+1 Implement Client/server using RPC/RMI.
+2 Implementation of multi tread application.
+3 Implement Inter-process communication.
+4 Implement Group Communication.
+5 Implement Load Balancing Algorithm.
+6 Implement Election Algorithm.
+7 Implement Clock Synchronization algorithms.
+8 Implement Mutual Exclusion Algorithm.
+9 Implement Deadlock management in Distributed systems.
+10 Implement Distributed File System.
+
+Books Recommended:
+
+Text Books:
+1. Andrew S. Tanenbaum and Maarten Van Steen, ―Distributed Systems: Principles and
+Paradigms, 2nd edition, Pearson Education, 2017.
+2. Sunita Mahajan and Seema Shah, “Distributed Computing”, Oxford University Press, 2013.
+
+Reference Books:
+1. S. Tanenbaum an d M. V. Steen, "Distributed Systems: Principles and Paradigms", Second
+Edition, Prentice Hall, 2006.
+2. M. L. Liu, ―Distributed Computing Principles and Applications‖, Pearson Addison Wesley,
+2019.
+3. George Coulouris, Jean Dollimore, Tim Kindberg, "Distributed Systems: Concepts and
+Design", 5th Edition, Pearson Education, 2011.
+
+Web Links:
+1. NPTEL Course: Distributed Computing Systems: https://nptel.ac.in/courses/106106107
+2. NPTEL Course: Distributed Systems: https://nptel.ac.in/courses/106106168
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Time Series Analysis (DJS22DSC5012)
+Course: Time Series Analysis Laboratory (DJS22DSL5012)
+
+Pre-requisite: Probability, Statistics and Linear Models.
+
+Objectives: Learn basic analysis of time series data; concepts in time series regression; auto-
+regressive and model averaging models; learn basic concepts of spectral analysis and space-
+time models.
+
+Outcomes: On completion of the course, learner will be able
+1. Interpret a correlogram and a sample spectrum.
+2. Apply appropriate model for a time series dataset.
+3. Compute forecasts for a variety of linear and non-linear methods and models.
+
+Time Series Analysis (DJS22DSC5012)
+Unit Description Duration
+1
+Introduction: Formal definition of a time series, Interpolation vs Extrapolation,
+Components of time series, Models of Time Series Analysis, Types of forecasting
+methods, Types of Time Series, Types of time series patterns, different types of data,
+simple descriptive t echniques, Trends in time series (Parametric trends, differencing,
+non-parametric methods, noise), measurement of trends, seasonality, seasonal indices,
+stochastic processes, correlogram.
+Stationary Time Series: the sample mean and its standard error, Stat ionary processes
+(weak and strict), statistical inference of time series.
+08
+2
+Linear Time Series: Motivation, Autocorrelation function (ACF) and Partial
+Autocorrelation function (PACF) plot, Linear time series and MA models, theoretical
+properties of time series with a MA (1) and MA (2) model, The AR model, simulating
+from an autoregressive process, The ARMA model, The ARIMA model, Unit roots with
+|ϕ|, backshift and lag operator, integrated and non-invertible processes, SARIMA model,
+Box – Jenkins Model Selection.
+08
+3
+Prediction: Using prediction in estimating, forecasting for autoregressive processes (1),
+forecasting for AR(p), forecasting for general time series using infinite past, forecasting
+for ARIMA model, Ψ -weight representation of ARIMA model, One -step ahead
+predictors based on the finite past: Levinson -Durbin algorithm, Kalman filter.
+06
+4
+Models with Trend: Removing trend, Unit Root (Augmented Dickey Fuller Test) and
+Regression Residuals, The Monte Carlo Method, Multi-equation Time Series Models:
+Intervention Analysis, Estimating the Intervention Effect, ADLs and Transfer
+Functions, Introduction to VAR Analysis.
+06
+
+5
+Multivariate Time Series: Background: Sequences and Functions, Convolution using
+Fourier transform, Methods for Estimating the Spectral Density, Smoothing Method
+(Nonparametric Estimation of the Spectral Density); Multivariate time series regression:
+Conditional independence, Partial correlation and coherency between time series.
+06
+6
+Non Linear Time series: The ARCH model: Feature of an ARCH, interpretation of
+ARCH model, The GARCH model: Existence of stationary solution of a GARCH(1,1)
+and Bilinear models.
+05
+Total 39
+
+Time Series Analysis Laboratory (DJS22DSL5012)
+Exp. Suggested Experiments
+1
+Trends: (1) Detecting trends using Hodrick -Prescott Filter.
+(2) Detrending a Time Series (Pandas, SciPy Signal, HP filter).
+2
+Seasonality: (1) Multiple Box Plots.
+(2) Autocorrelation Plot.
+(3) Deseasoning of Time-Series Data.
+(4) Seasonal Decomposition (Additive and Multiplicative).
+(5) Detecting Cyclic Variations.
+3 Data Wrangling and Preparation for Time Series Data.
+4 Smoothing Methods (Simple exponential, Double exponential, Triple exponential).
+5 Making Data Stationary using Augmented Dicky Fuller Test.
+6 Autoregressive Moving Average Model.
+7 ARIMA Model.
+8 VAR Model.
+9 ARCH and GARCH Models.
+10 Mini Project.
+
+Books Recommended:
+
+Text Books
+1. Walter Enders,” Applied Econometric Time Series,” Fourth Edition, Wiley, 2014.
+2. B. V. Vishwas and Ashish Patel, “Hands-on Time Series Analysis with Python,” First Edition,
+Apress, 2020
+
+Reference Books
+
+1. Chris Chatfield, “Time- Series Forecasting,” First Edition, Chapman & Hall/CRC, 2001.
+2. Douglas C. Montgomery, Cheryl L. Jennings and Nurat Kulahci, “Introduction to Time
+Series Analysis and Forecasting,” Second Edition, Wiley, 2015.
+3. Aileen Nielsen, “Practical Time Series Analysis,” O’Reilly, 2019.
+4. James D Hamilton, “Time Series Analysis,” Princeton University Press, 1994.
+5. Robert H. Shumway and David S. Stoffer, “Time Series Analysis and Its Applications,”
+Springer, 2000.
+
+Web Links:
+1. A course on Time Series Analysis.
+https://web.stat.tamu.edu/~suhasini/teaching673/time_series.pdf
+2. A comprehensive guide to Time Series Analysis.
+https://www.analyticsvidhya.com/blog/2021/10/a-comprehensive-guide-to-time-
+series-analysis/
+3. The Complete Guide to Time Series Analysis and Forecasting.
+https://towardsdatascience.com/the-complete-guide-to-time-series-analysis-and-
+forecasting-70d476bfe775
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Digital System Design (DJS22DSC5013)
+Course: Digital System Design Laboratory (DJS22DSL5013)
+
+Pre-requisite: Basic Electrical & Electronics Engineering
+
+Objectives:
+1. To introduce different digital codes and their conversions.
+2. To introduce methods for minimizing logical expressions.
+3. To outline the formal procedure to design combinational logic circuits.
+4. To introduce flip flops and outline the formal procedure to sequential circuits.
+5. To illustrate concept of programmable devices
+
+Outcomes: On successful completion of the course, learner will be able to:
+1. Explain different digital codes and their conversions.
+2. Minimize logic expressions using various reduction techniques.
+3. Analyze and design combinational logic circuits.
+4. Design flip-flops using logic gates and use them to realize different sequential circuits.
+5. Classify different programmable logic devices.
+
+Digital System Design (DJS22DSC5013)
+Unit Description Duration
+1
+Digital codes and binary arithmetic: Signed Binary number representation: Sign
+Magnitude, 1’s complement, 2’s complement representation and binary
+arithmetic’s. Codes: Binary, BCD, XS -3, Gray code, ASCII, EBCDIC, Parity,
+Hamming, conversions.
+12
+2
+Minimization techniques and Logic gates: Logic Gates: AND, OR, NOT,
+NAND, NOR, Exclusive –OR and Exclusive –NOR, Implementations of Logic
+Functions using universal gates. Boolean postulates and laws – De-Morgan’s
+Theorem, Boolean expression - Minterm – Maxterm - Sum of Products (SOP) –
+Product of Sums (POS), Minimization of Boolean expressions ––– Karnaugh
+map Minimization – Quine - Mc Cluskey method of minimization, don’t care
+conditions.
+08
+3
+Design of Combinational Logic: Introduction to combinational logic, Code
+converter: BCD, Excess -3, Gray code, Binary Code, Half - Adder, Full Adder,
+Half Subtractor, Full Subtractor, Binary Adder, BCD adder, Look ahead carry
+generator, Multiplexers - MUX tree, Encoder, De -multiplexer & Decoders,
+Implementation of SOP and POS using Multiplexer & De-multiplexer/Decoder.
+04
+4
+Sequential Logic Design: Introduction to sequential logic, Flip- flop: SR, JK, D,
+T; Preset & Clear, Truth Tables and Excitation tables, Conversion, Shift
+Registers: SISO, SIPO, PISO, PIPO, Bi -directional, Counters: Asynchronous
+counter, Synchronous counter, ring counters, Johnson Counter, Modulus of the
+counter. State Machines: Basic design steps - State diagram, State table, State
+reduction, State assignment, Mealy and Moore machines representation,
+09
+
+Sequence detector.
+5
+Programmable Logic Devices: Programmable logic devices: Architecture of
+PROM, PAL, PLA, designing combinational circuits using PLDs. General
+Architecture of FPGA and CPLD, introduction to Hardware Description
+Language.
+06
+Total 39
+
+Digital System Design Laboratory (DJS22DSL5013)
+Exp. Name of Experiment
+1 Implement 8:3 octal to binary code converter using encoder IC 74148.
+2 Verify different logic gates (introduce logic families CMOS and TTL and electrical and
+switching parameters).
+3 Simplification of Boolean functions.
+4 Verify Universal gates NAND and NOR and design EXOR and EXNOR gates using Universal
+gates.
+5 Implement Half adder, Full adder, Half subtractor and Full subtractor circuits.
+6 To study and implement 4-bit magnitude comparator using IC 7485 and verify its truth table.
+7 Implement BCD adder using 4-bit binary adder IC-7483.
+8 Flip flops conversion JK to D, JK to T and D to T FF.
+9 Implement logic equations using Multiplexer.
+10 Design synchronous MOD N counter using IC-7490.
+11 Verify encoder and decoder operations.
+12 Implement 1:8 De-multiplexer using IC 74138.
+13 Implement the functions using 8:1 Multiplexer with the help of IC 74151.
+14 Implement digital circuits to perform binary to gray and gray to binary operations.
+15 Verify different counter operations.
+16 Verify the functions of Universal Shift Register IC 74194: Parallel loading, Right shift, Left shift
+17 Implement any two above experiments using HDL.
+
+Books Recommended:
+Text books:
+1. John F. Wakerly, “Digital Design Principles and Practices”, Pearson Education, Fifth Edition,
+2018.
+2. R. P. Jain, “Modern Digital Electronics”, Tata McGraw Hill 4th Edition, 2010.
+3. M. Morris Mano, “Digital Logic and computer Design”, PHI 4th Edition 2010.
+
+Reference Books:
+1. Thomas L. Floyd, “Digital Fundamentals”, Pearson Prentice Hall, Eleventh Global Edition,
+2015.
+2. Mandal, “Digital Electronics Principles and Applications”, McGraw Hill Education, First
+Edition, 2010.
+3. Ronald J. Tocci, Neal Widmer, “Digital Systems Principles and Applications”, Twelfth Edition,
+PHI (2017)
+4. Donald P Leach, Albert Paul Malvino, “Digital Principles and Applications”, Tata McGraw Hill,
+Eighth edition, 2015.
+
+5. Balabanian, Carlson, “Digital Logic Design Principles”, Wiley Publication 3rd Edition, 2000.
+6. Holdsworth and R. C. Woods, “Digital Logic Design”, 4thEdition, Newnes, 2002.
+7. William I. Fletcher, “An Engineering Approach to Digital Design”, Tenth Edition, PHI, 2015.
+
+Web Links:
+1. Digital Electronic Circuits Lab: http://vlabs.iitkgp.ac.in/dec/#
+2. Virtual Lab: https://cse15-iiith.vlabs.ac.in/List%20of%20experiments.html
+3. NPTEL Course: Digital System Design: https://nptel.ac.in/courses/108106177
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Probabilistic Graph Models (DJS22DSC5014)
+Course: Probabilistic Graph Models Laboratory (DJS22DSL5014)
+
+Pre-requisite: Machine learning, Probability
+
+Course Objectives: The objective of this course intends to model problems using graphical models;
+design inference algorithms; and learn the structure of the graphical model from data.
+
+Outcomes: Students will be able to
+1. Explain the basic fundamentals of probabilistic graphical models.
+2. Illustrate various principles of representation methods, learning and inference algorithms.
+3. Integrate theoretical knowledge of graphical models to solve problems.
+
+Probabilistic Graph Models (DJS22DSC5014)
+Unit Description Duration
+1
+Fundamentals: Overview and Motivation of Probabilistic Graphical Models,
+Structured Probabilistic Models, Marginal and Joint Distributions, Independence
+and Conditional Independence, Factors.
+Bayesian networks (Representation): Semantics and Factorization, Reasoning
+Patterns, Flow of Probabilistic Influence, Conditional Independence, Independence
+in Bayesian Networks, Naïve Bayes, Applications.
+05
+2
+Temporal Models of Bayesian Network (Representation): Overview of Temporal
+Models, Dynamic Bayesian Networks (DBN), Hidden Markov Model (HMM), Plate
+Models.
+Structured CPDs (Representation): Overview of Structured CPDs, Tree -
+Structured CPDs, Independence of Casual Influence, Continuous Variable,
+Applications.
+07
+3
+Markov networks (Representation): Pairwise Markov Networks, General Gibbs
+Distribution, Conditional Random Fields, Independencies in Markov Networks, I -
+maps and perfect maps.
+06
+4
+Exact inference (Inference): Conditional Probability Queries, MAP Inference,
+Analysis of Complexity, Sum - and Max-product algorithms, Variable elimination,
+Belief propagation (message passing) on trees, Clique tree.
+06
+5 Inference and sampling methods (Inference): Simple Sampling, MCMC method,
+Gibbs sampling Algorithm, Importance sampling, Particle filtering. 06
+6
+Parameter Estimation (Learning): Learning Overview, Maximum Likelihood
+Estimation for Bayesian Networks, Bayesian Estimation, Bayesian Prediction,
+Bayesian Estimation for Bayesian Networks. Maximum Likelihood for Log-Linear
+Models, Maximum Likelihood for MRFs and CRFs.
+Structure Learning: Overview, Likelihood Scores, BIC and Asymptotic
+Consistency, Bayesian Scores, Learning Tree Structured Networks, Learning
+General Graphs: Heuristic Search.
+09
+Total 39
+
+Probabilistic Graph Models Laboratory (DJS22DSL5014)
+Exp. Suggested Experiments
+1 Implement Discrete Bayesian Networks.
+2 Implementation of Alarm Bayesian Network.
+3 Implementation of Linear Gaussian Bayesian Networks (GBNs).
+4 Implementation of Monty Hall Problem using Bayesian Network.
+5 Implementation of Exact inference in Bayesian Networks.
+6 Implementation of Inference in Discrete Bayesian Network.
+7 Implementation of Causal Inference.
+8 Implement Approximate Inference using MCMC.
+9 Implementation of Parameter Learning in Discrete Bayesian Networks.
+10 Mini Project.
+
+Books Recommended:
+
+Text Books
+1. Koller, D. and Friedman, N. (2009). Probabilistic Graphical Models: Principles and
+Techniques. MIT Press.
+
+Reference Books
+1. Jensen, F. V. and Nielsen, T. D. (2002). Bayesian Networks and Decision Graphs.
+Information Science and Statistics. Springer, 2nd edition.
+2. Marloes Maathuis, Mathias Drton, Steffen Lauritzen, Martin Wainwright, Handbook of
+Graphical Models, Routledge Taylor and Francis group, 2020
+3. Kevin P. Murphy (2013) Machine Learning: A Probabilistic Perspective. 4th Printing. MIT
+Press.
+4. Barber, D. (2011). Bayesian Reasoning and Machine Learning. Cambridge University Press,
+1st edition.
+5. Bishop, C. M. (2011). Pattern Recognition and Machine Learning (Information Science and
+Statistics). Springer, 2nd printing.
+6. Wainwright, M. and Jordan, M. (2008). Graphical Models, Exponential Families, and
+Variational Inference. Foundations and Trends in Machine Learning, 1:1–305.
+
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Professional and Business Communication Laboratory (DJS22IHL)
+
+Pre-requisite: Basic course in Effective Communication Skills
+
+Objectives:
+1. To inculcate professional and ethical attitude at the workplace.
+2. To enhance communication and interpersonal skills.
+3. To develop effective employability skills.
+4. To hone written skills for technical documentation.
+
+Outcomes: On completion of the course, learner will be able to:
+1. Prepare technical documents using appropriate style, format, and language.
+2. Use employability skills to optimize career opportunities.
+3. Employ storytelling techniques in corporate situations.
+4. Conduct effective meetings and document the process.
+5. Demonstrate interpersonal skills in professional and personal situations.
+6. Describe cultural differences, etiquettes, and the concept of professional ethics.
+Professional and Business Communication Laboratory (DJS22IHL2)
+Description Duration
+Unit 1: Technical Writing
+
+Report Writing: Types of reports, Basic structure of a report, collection of data
+through questionnaires, survey analysis, language and style in reports.
+Business Proposal Writing: Types of business proposals, format of proposal,
+language and style, presentation of proposal.
+Plagiarism: Types of plagiarism, consequences of plagiarism.
+06
+Unit 2: Employment Skills
+
+Group Discussion: Purpose of a GD, types of GD, criteria for evaluating GD,
+Dos and Don’ts of GD.
+Resume Writing: Types of resumes, structure, content and formatting of resume
+Interview Skills: Types and modes of interview, Preparation for interview, Dos
+and Don’ts of interview, frequently asked questions during interview.
+Presentation Skills: Presentation strategies, overcoming stage fear, techniques to
+prepare effective PowerPoint presentation.
+08
+Unit 3: Corporate Story Telling
+
+Basics of storytelling: Setting, characters, plot, crisis, climax, resolution,
+Benefits of storytelling.
+Types of stories: Elevator pitch, product stories, event stories, stories in
+presentations, storytelling in SOP’s and interviews, storytelling to manage
+conflict or to motivate.
+Storytelling techniques: Narration using verbal and non-verbal communication,
+Analysis of storytelling strategies of corporate master storytellers.
+03
+
+Unit 4: Meetings and Documentation
+
+Planning and preparation for meetings: Planning layout of meetings, arranging
+logistics, defining roles and responsibilities.
+Strategies for conducting effective meetings: Follow the agenda, record
+discussion, observe meeting decorum.
+Documentation: Draft notice, agenda and minutes of meeting.
+Business meeting etiquettes: Verbal and non-verbal aspects of etiquettes.
+02
+Unit 5: Introduction to Interpersonal Skills
+
+Emotional Intelligence: Definition, difference between IQ and EQ, how to
+develop EQ.
+Leadership: Types of leadership, leadership styles, case studies.
+Team Building: Difference between group and team, importance of teamwork,
+strategies to be a good team player.
+Time Management: Importance of time management, cultural views of time,
+80/20 rule, time wasters, setting priorities and goals.
+Conflict Management: Types of conflicts, strategies to manage conflict, case
+studies.
+05
+Unit 6: Cross-cultural communication and Professional ethics
+
+Communication across cultures: Understanding cultures and developing
+sensitivity towards cultural differences.
+Corporate etiquettes: Telephone, dining, cubicle etiquette, etc.
+Professional ethics: Effective work habits, accountability, integrity and
+excellence.
+05
+Professional and Business Communication Laboratory
+Laboratory (conducted batch wise) will comprise of activities and assignments based on the
+syllabus)
+*The term work will be calculated based on Tutorials (25m), Business Proposal (15m) and Group
+Discussion (10m).
+Books Recommended:
+1. Fred Luthans, “Organizational Behavior”, McGraw Hill, edition
+2. Lesiker and Petit, “Report Writing for Business”, McGraw Hill, edition
+3. Huckin and Olsen, “Technical Writing and Professional Communication”, McGraw Hill
+4. Wallace and Masters, “Personal Development for Life and Work”, Thomson Learning, 12th
+edition
+5. Heta Murphy, “Effective Business Communication”, Mc Graw Hill, edition
+6. Sharma R.C. and Krishna Mohan, “Business Correspondence and Report Writing”, Tata
+McGraw- Hill Education
+7. Ghosh, B. N., “Managing Soft Skills for Personality Development”, Tata McGraw Hill.
+Lehman,
+8. Bell, Smith, “Management Communication” Wiley India Edition, 3rd edition.
+9. Dr. Alex, K.,” Soft Skills”, S Chand and Company
+10. Subramaniam, R., “Professional Ethics” Oxford University Press.
+11. Sandeep Das, “How Business Story Telling Works: Increase Your Influence and Impact”
+Penguin Random House India Pvt. Ltd.
+Prepared by Checked by Head of the Department Principal
+
+Program: B.Tech in Computer Science and Engineering (Data
+Science)
+T.Y. B.Tech Semester: V
+Course: Innovative Product Development - III (DJS22ILLL1)
+
+Objectives:
+1. To acquaint the students with the process of identifying the need (considering a societal
+requirement) and ensuring that a solution is found out to address the same by designing and
+developing an innovative product.
+2. To familiarize the students with the process of designing and developing a product, while they
+work as part of a team.
+3. To acquaint the students with the process of applying basic engineering fundamentals, so as to
+attempt at the design and development of a successful value-added product.
+4. To inculcate the basic concepts of entrepreneurship and the process of self-learning and research
+required to conceptualize and create a successful product.
+
+Outcome: Learner will be able to:
+1. Identify the requirement for a product based on societal/research needs.
+2. Apply knowledge and skills required to solve a societal need by conceptualizing a product,
+especially while working in a team.
+3. Use standard norms o f engineering concepts/practices in the design and development of an
+innovative product.
+4. Draw proper inferences through theoretical/ experimental/simulations and analyze the impact
+of the proposed method of design and development of the product.
+5. Develop interpersonal skills, while working as a member of the team or as the leader.
+6. Demonstrate capabilities of self -learning as part of the team, leading to life -long learning,
+which could eventually prepare themselves to be successful entrepreneurs.
+7. Demonstrate product/project management principles during the design and development work
+and also excel in written (Technical paper preparation) as well as oral communication.
+
+Guidelines for the proposed product design and development:
+1. Students shall form a team of 3 to 4 students (max allowed: 5-6 in extraordinary cases, subject
+to the approval of the department review committee and the Head of the department).
+2. Students should carry out a survey and identify the need, which shall be converted into
+conceptualization of a product, in consultation with the faculty supervisor/head of
+department/internal committee of faculty members.
+3. Students in the team shall understand the effective need for product development and
+accordingly select the best possible design in consultation with the faculty supervisor.
+4. Students shall convert the best design solution into a working model, using various
+components drawn from their domain as well as related interdisciplinary areas.
+5. Faculty supervisor may provide inputs to students during the entire span of the activity, spread
+over 2 semesters, wherein the main focus shall be on self-learning.
+6. A record in the form of an activity log-book is to be prepared by each team, wherein the team
+can record weekly progress of work. The guide/supervi sor should verify the recorded
+notes/comments and approve the same on a weekly basis.
+7. The design solution is to be validated with proper justification and the report is to be compiled
+in a standard format and submitted to the department. Efforts are to b e made by the students
+
+to try and publish a technical paper, either in the institute journal, “Techno Focus: Journal for
+Budding Engineers” or at a suitable publication, approved by the department research
+committee/ Head of the department.
+8. The focus should be on self-learning, capability to design and innovate new products as well
+as on developing the ability to address societal problems. Advancement of entrepreneurial
+capabilities and quality development of the students through the year long course should
+ensure that the design and development of a product of appropriate level and quality is carried
+out, spread over 4 semesters, i.e. during the semesters III to VI.
+Guidelines for Assessment of the work:
+1. The review/ progress monitoring committee shall be constituted by the Head of the Department.
+The progress of design and development of the product is to be evaluated on a continuous basis,
+holding a minimum of two reviews in each semester.
+2. In the continuous assessment, focus shall also be on each individu al student’s contribution to
+the team activity, their understanding and involvement as well as responses to the questions
+being raised at all points in time.
+3. Distribution of marks individually for the both reviews as well as for the first review during the
+subsequent semester shall be as given below:
+A. Marks awarded by the supervisor based on log-book : 20
+B. Marks awarded by review committee : 20
+C. Quality of the write-up : 10
+Review/progress monitoring committee may consider the following points during the
+assessment.
+In the semester V, the entire design proposal shall be ready, including components/system
+selection as well as the cost analysis. Two reviews will be conducted based on the
+presentation given by the student’s team.
+ First shall be for finalization of the product selected.
+ Second shall be on finalization of the proposed design of the product.
+
+The overall work done by the team shall be assessed based on the following criteria;
+1. Quality of survey/ need identification of the product.
+2. Clarity of Problem definition (design and development) based on need.
+3. Innovativeness in the proposed design.
+4. Feasibility of the proposed design and selection of the best solution.
+5. Cost effectiveness of the product.
+6. Societal impact of the product.
+7. Functioning of the working model as per stated requirements.
+8. Effective use of standard engineering norms.
+9. Contribution of each individual as a member or the team leader.
+10. Clarity on the write-up and the technical paper prepared.
+The semester V reviews may be based on relevant points listed above, as applicable.
+
+Guidelines for Assessment of Semester Reviews:
+ The write-up should be prepared as per the guidelines given by the department.
+ The design and the development of the product shall be assessed through a
+presentation and demonstration of the working model by the student team to a
+panel of Internal and External Examiners, preferably from industry or any
+research organizations having an experience of more than five years, approved
+
+by the Head of the Institution. The presence of the external examiner is desirable
+only for the 2nd presentation in semester VI. Students are compulsorily required
+to present the outline of the technical paper prepared by them during the final
+review in semester VI.
+
+Prepared by Checked by Head of the Department Principal

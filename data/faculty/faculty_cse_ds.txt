@@ -1,0 +1,160 @@
+[Faculty Record 1]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Kriti Srivastava
+Designation: Head of the Department
+Joining Date: 02.07.2007
+Years at DJSCE (approx.): 19
+Role: Dr. Kriti Srivastava is the Head of the Department (HOD) of Computer Science and Engineering (Data Science).
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Kriti_Srivastava.pdf
+
+[Faculty Record 2]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Satishkumar Varma
+Designation: Professor
+Joining Date: 05.11.2024
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Satishkumar Varma DJSCE [Resume] 08.07.2026.pdf
+
+[Faculty Record 3]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Mangal Dandekar
+Designation: Assistant Professor
+Joining Date: 05.07.2007
+Years at DJSCE (approx.): 19
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Mangal Dandekar.pdf
+
+[Faculty Record 4]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Nilesh Marathe
+Designation: Associate Professor
+Joining Date: 16.12.2022
+Years at DJSCE (approx.): 4
+Bio/CV: https://www.djsce.ac.in/faculty-docs/325_VTBiodata_Dr. Nilesh Marathe.pdf
+
+[Faculty Record 5]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Ajitkumar S. Gudekar
+Designation: Assistant Professor
+Joining Date: 20.07.2015
+Years at DJSCE (approx.): 11
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Gudekar.pdf
+
+[Faculty Record 6]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Kanchan Dabre
+Designation: Assistant Professor
+Joining Date: 20.12.2021
+Years at DJSCE (approx.): 5
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Kanchan Dabre Profile Wesite upload.pdf
+
+[Faculty Record 7]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Pooja Vartak
+Designation: Assistant Professor
+Joining Date: 20.12.2021
+Years at DJSCE (approx.): 5
+Bio/CV: https://www.djsce.ac.in/faculty-docs/285_VTBiodata_Pooja Vartak.pdf
+
+[Faculty Record 8]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Pradnya Joshi
+Designation: Assistant Professor
+Joining Date: 28.12.2021
+Years at DJSCE (approx.): 5
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Biodata_Pradnya Joshi.pdf
+
+[Faculty Record 9]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Mohammed Adil shaikh
+Designation: Assistant Professor
+Joining Date: 01-09-2023
+Years at DJSCE (approx.): 3
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Biodata_Adil_Shaikh.pdf
+
+[Faculty Record 10]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Rupali Karande
+Designation: Assistant Professor
+Joining Date: 01.11.2006
+Years at DJSCE (approx.): 20
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Rupali Karande.pdf
+
+[Faculty Record 11]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Ruchika Patil
+Designation: Assistant Professor
+Joining Date: 05-09-2023
+Years at DJSCE (approx.): 3
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Ruchika_BioData.pdf
+
+[Faculty Record 12]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Poonam Jadhav
+Designation: Assistant Professor
+Joining Date: 08-09-2023
+Years at DJSCE (approx.): 3
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Poonam Jadhav .pdf
+
+[Faculty Record 13]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Shruti Mathur
+Designation: Assistant Professor
+Joining Date: 25-09-2023
+Years at DJSCE (approx.): 3
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Shruti Mathur_CV.pdf
+
+[Faculty Record 14]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Samiran Maity
+Designation: Assistant Professor
+Joining Date: 13.09.2024
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Samiran.pdf
+
+[Faculty Record 15]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Mrudul Arkadi
+Designation: Assistant Professor
+Joining Date: 09-10-2024
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Mrudul Arkadi.pdf
+
+[Faculty Record 16]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Namita Pulgam
+Designation: Assistant Professor
+Joining Date: 04-11-2024
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/DJBiodata_Dr. Namita Pulgam.pdf
+
+[Faculty Record 17]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Priya Parate
+Designation: Assistant Professor
+Joining Date: 01.01.2025
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Biodata_Priya Parate.pdf
+
+[Faculty Record 18]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Govind Wakure
+Designation: Assistant Professor
+Joining Date: 01.01.2025
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Biodata_Govind_Wakure.pdf
+
+[Faculty Record 19]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Prof. Aditi Raut
+Designation: Assistant Professor
+Joining Date: 01-01-2025
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Aditi Raut.pdf
+
+[Faculty Record 20]
+Faculty Member - CSE (DS), Department of Computer Science and Engineering (Data Science), Dwarkadas J. Sanghvi College of Engineering (DJSCE)
+Name: Dr. Shraddha More
+Designation: Assistant Professor
+Joining Date: 01-01-2025
+Years at DJSCE (approx.): 2
+Bio/CV: https://www.djsce.ac.in/faculty-docs/Dr. Shraddha_More_21.7.2026.pdf

@@ -1,0 +1,415 @@
+Bio / CV of Dr. Namita Pulgam (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+Name of Teaching Staff Dr. Namita Pulgam 
+ 
+Designation  Assistant Professor 
+Department  Computer Science and 
+Engineering (Data Science) 
+ SVKM’s Dwarkadas J. Sanghvi 
+College of    
+ Engineering (DJSCE), Vile 
+Parle, Mumbai 
+Date of Joining the Institution 4th November 2024 
+Email ID namita.pulgam@djsce.ac.in 
+ 
+Professional Membership 
+ 
+▪ ISTE (Membership no: LM 128823) 
+▪ Orcid Id: 0000-0001-7725-0997 
+▪ Scopus Id: 57205440683 
+▪ Web of Science Researcher ID: CAF-5941-2022 
+▪ Google Scholar Id: EiLxl9YAAAAJ 
+▪ Vidwan ID: 296090 
+Profile Links ▪ Web of Science Profile: 
+       https://www.webofscience.com/wos/author/record/CAF-5941-2022 
+▪ Scopus Author Profile: 
+      https://www.scopus.com/authid/detail.uri?authorId=57205440683 
+▪ Google Scholar Profile: 
+     https://scholar.google.com/citations?hl=en&user=EiLxl9YAAAAJ 
+▪ Research Gate Profile: 
+     https://www.researchgate.net/profile/Namita-Pulgam 
+▪ Vidwan Profile:  
+     https://vidwan.inflibnet.ac.in/profile/296090 
+H-Index ▪ Google Scholar Citation Statistics 
+             (Citation Count =94, H-index = 6, i10index = 1) 
+▪ Scopus Citation Statistics 
+             (Citation Count =27, H-index = 4) 
+
+
+Area of Interest Pattern Recognition, Image Forensics, Image Processing, 
+Computer Vision, Algorithm and Analysis 
+Qualifications with Class/Grade: 
+1. Ph. D. (Computer Engineering), Mumbai University 2024. 
+2. M. E. (Computer Engineering), Mumbai University 2013, First Class. 
+3. B.E. (Computer Engineering.), Mumbai University, 2005, First Class. 
+4. H. S. C. (Computer Science), Maharashtra State Board of Secondary and Higher Secondary 
+Education, 2001, First Class with Distinction. 
+ 
+Total Experience in Years: More than 19 years of Teaching Experience 
+• Assistant Professor, Ramrao Adik Institute of Technology, DY Patil Deemed to be 
+University, Navi Mumbai, from 23/12/2005 to 27/10/2024. 
+ 
+Courses Taught: 
+• Algorithm and Complexity (PG) 
+• Ethical Hacking and Digital Forensics (PG) 
+• Data Structures (UG) 
+• Analysis of Algorithm (UG) 
+• Theory of Computer Science (UG) 
+• Digital Signal and Image Processing (UG) 
+• Image Processing (UG) 
+• Pattern Recognition (UG) 
+• Digital Forensics (UG) 
+• Computer Graphics (UG) 
+• Object Oriented Programming (UG) 
+• CP-I & II (UG) 
+ 
+Projects Guided: 
+• B.E. Project: more than 80 
+• M.E. Project: 6  
+ 
+Certification and Courses Completed: 
+• Network Security Associates Level 1, 2 and 3 course by Fortinet, Eduskill Academy 
+
+• Coursera course on Cybersecurity Awareness and Innovation, Programming for Everybody 
+(Getting Started with Python), Python Programming Essentials, Machine Learning for all 
+• IIT, Bombay Course on Introduction to Machine Learning 
+PhD Guide ? Give field 
+& 
+University 
+ 
+Ph.D./Project Guided Master Level: 6 Students Guided  
+Papers Published in 
+Journal: 
+ 
+14 
+Papers Presented in 
+International/National 
+Conferences 
+ 
+27 
+Book Chapter 1 
+Books Published / IPRs / 
+Patents 
+9 Copyrights and 3 Patents (1 Published) 
+Interaction with 
+Professional 
+Institutions 
+• Delivered expert talks on different topics such as Programming with Java 
+and databases, C Programming, Step towards developing an application in 
+excel etc. 
+ 
+• Conducted lectures on Computer Programming in C Language for 
+students of Bachelor of Business Application, Vijay Patil School of 
+Management (VPSM), Nerul, Navi Mumbai. 
+Institute/Department 
+Responsibility handled: 
+1. Developed “DYPHub: E-Railway Concession and  
+E- Bonafide System” projects for RAIT 
+2. Developed project “CO-PO Feedback System” for RAIT 
+3. Designed “Digital Course File (DCF)” for calculating  
+CO-PO attainment 
+4. Central NAAC committee Member 
+5. Department NBA coordinator 
+6. NAAC Criteria-3 In-charge 
+7. NBA auditor 
+8. Final Year Project Coordinator 
+9. SIH Judge 
+10. Timetable Committee Coordinator 
+
+11. IQAC Member 
+12. DCF Coordinator    
+ 
+ 
+Patents and Copyrights:  
+A. Patent: 
+1. Published a Patent on “A Method to Secure Communication Between IoT Devices 
+Through Cryptographic Hybrid Encryption Techniques”, Application Number: 
+202421038233, Date of Publication: 24/01/2025. 
+2. Filed a Patent on “A System and Method to Ensure A Secured Multi-Party 
+Computation Framework”, Application Number: 202421050735 
+3. Filed a Patent on “An Advanced and Portable Women Safety Device”, Application 
+Number: 202421050742 
+ 
+B. Copyright: 
+1. Title: Early detection of Alzheimer’s disease through cognitive skill based  
+gaming 
+Diary Number: SW-14744/2021 
+ 
+2. Title: Digital Course File (DCF) – A Tool for the calculation of CO -PO 
+Attainment 
+Diary Number: 13246/2022-CO/SW 
+ 
+3. Title: Detection of counterfeit products using blockchain 
+Diary Number: 7917/2022-CO/SW 
+ 
+4. Title: Development of A Web Based System Software For  Measurement of 
+Indirect PO Attainment through CO-PO Feedback 
+Diary Number: SW-18488/2024  
+ 
+5. Title: E-Railway Concession System for College Students 
+Diary Number: SW-18780/2024 
+ 
+6. Title: E-Bonafide System for College Students 
+Diary Number: SW-18488/2024  
+
+ 
+7. Title: Solumind: Portal for Improving Mental Health 
+Diary Number: 7862/2024-CO/SW 
+ 
+8. Title: VeriFace: Unmasking Deep Fakes with the use of Deep Learning 
+Techniques  
+Diary Number: 21847/2024-CO/SW 
+ 
+9. Title: StudyHub : Learning Platform Designed with AI Technology 
+Diary Number: 36769/2024-CO/SW 
+ 
+Journal Publications & Conferences: 
+Journal: 
+ 
+1. Tabassum Maktum, Namita Pulgam, Vaishnavi Chandgadkar, Prachi Pathak, Aditya Solanki, 
+“A Machine Learning Based Framework for Bankruptcy Prediction in Corporate Finances 
+Using Explainable AI Techniques ”, Informatica, Vol 4 9, No 1 5 2025, 
+https://doi.org/10.31449/inf.v49i15.6745. 
+ 
+2. Janak Ghansham Dhokrat, Namita Pulgam, Tabassum Maktum, Vanita Mane, “A Framework 
+for Privacy -Preserving Multiparty Computation with Homomorphic Encryption and Zero -
+Knowledge Proofs ”, Informatica, Vol 48, No 21 , 2024, 
+https://doi.org/10.31449/inf.v48i21.6562. 
+ 
+3. Namita D. Pulgam and Subhash K. Shinde, “Improving assaulted medical image quality using 
+improved adaptive filtering network ”, International Journal of Intelligent Systems 
+Technologies and Applications.22, 1 , pp no. 16–28, 2024 . 
+https://doi.org/10.1504/ijista.2024.136531. 
+ 
+4. Aditeya Varma, Anshul Rehpade, Riya Agarwal, Sakshi Kinikar, Namita D. Pulgam and 
+Tabassum Maktum, “Detection of Diabetic Retinopathy using Swish Activation Function ”, 
+International Journal of Applied Engineerin g & Technology, vol. 5, no. 4, pp. 496 -509, 
+December 2023. 
+ 
+
+5. Kubal P., Mane V. & Pulgam, N., “Image Manipulation Detection Using Error Level Analysis 
+and Deep Learning ”, International Journal of Intelligent Systems and  Applications in 
+Engineering, 11(4), 91–99, 2023. 
+ 
+6. Namita D. Pulgam, Subhash K. Shinde, “Improving Quality of Watermarked Medical Images 
+Using Symmetric Dilated Convolution Neural Networks”, Journal of  Telecommunications 
+and Information Technology, 2023, 46–52. 
+ 
+7. Namita Pulgam, Subhash Shinde, “Robust Digital Watermarking using Pixel Color 
+Correlation and Chaotic Encryption  for Medical Image Protection”, International Journal of 
+Intelligent Systems and Applications in Engineering, Volume 10, Year 2022, Pages 29-38. 
+ 
+8. “Image forgery detection and localization using modified JPEG ghost”, International Journal 
+of Innovative Technology and Exploring Engineering, Volume 8, Year 2019,  Pages, 5433-
+5436. 
+ 
+9. Payal Sancheti, Rajashree Shedge Namita Pulgam, “Abstractive Summarization using AMR 
+and Random Walk Algorithm”, Grenze International Journal of Engineering and Technology, 
+Year 2018. 
+ 
+10. Yadav, Manish and Virkar, Harshit and  Tipnis, Ishan and Gaikwad, Rohan  and Pulgam, 
+Namita and Nenwani, Kamlesh,  “Result extraction from searchable PDF”, International  
+Journal of Advance Research, Ideas and Innovations in Technology, Year 2018. 
+ 
+11. Mhatre, Ankit and Saha, Abhishek and Bhoir, Juilee and  Tandel, Aishwarya and Pulgam, 
+Namita and Nenwani, Kamlesh, “Interactive physiotherapy”, International Journal of Advance 
+Research, Ideas and Innovations in Technology, Year 2018. 
+ 
+12. Patil, Pooja and Pulgam, Namita and Mane Vanita, “Comparative Analysis of Feature 
+Extraction Techniques in Keypoint based Image  Forgery Detection.”, Imperial  journal of 
+interdisciplinary research 3, 2017. 
+ 
+13. Namita Pulgam, Srijit Nair,  Akshay Damodaran, Hrishikesh Balakrishnan, “A Survey on Run-
+time Information Gathering System”, International Journal of Innovative Research in 
+Computer and Communication Engineering, Year 2017. 
+
+ 
+14. Ashwini D. Gudewar (Namita Pulgam),  Leena R. Ragha, “Ontology to Improve CBIR 
+System”, International Journal of Computer Applications, Volume 52, Year 2012. 
+ 
+Book Chapter: 
+ 
+1. Chapter Name: “Comparative Analysis of Secure Multi-Party Techniques in the Cloud”  
+      Book Name: “Advanced Mathematics in Scientific Computing, Communication and 
+Security” to be published by Scrivener-Wiley, USA. 
+       
+Conference: 
+1. Rohan Sagvekar, Anshul Rehpade, Vedangi Sawant and Namita D. Pulgam, “Gridwise: A 
+Dynamic Dashboard for the Visualization and Monitoring of Renewable Energy Sources”, 
+International Conference on Human-Centric Smart Computing, ICHCSC’24, 2025.  
+2. Kane, A. N., Maktum, T., Mane, V. and Pulgam, N. (2025). IoT Based Automatic Women’s 
+Safety Device for Enhanced Personal Security. In Proceedings of the 1st International 
+Conference on Cognitive & Cloud Computing - IC3Com; ISBN 978 -989-758-739-9, 
+SciTePress, pages 46-51. DOI: 10.5220/0013423600004646. 
+3. Tamboli, K., Mane, V., Pulgam, N. and Maktum, T. (2025). Study of IoT Layers 
+Vulnerabilities and Attack Surfaces. In Proceedings of the 1st International Conference on 
+Cognitive & Cloud Computing - IC3Com; ISBN 978-989-758-739-9, SciTePress, pages 76-
+84. DOI: 10.5220/0013264000004646. 
+4. N. Raut, B. Kalambe, A. Salvi, H. Kothari and N. Pulgam, "Soulmind : Mental Health 
+Chatbot with Anxiety Prediction," 2024 2nd International Conference on Emerging Trends 
+in Engineering and Medical Sciences (ICETEMS), Nagpur, India, 2024, pp. 75 -81, doi: 
+10.1109/ICETEMS64039.2024.10965104. 
+5. J. Dhokrat, N. Pulgam, V. Mane an d T. Maktum, "Analyzing RSA and Paillier Encryption 
+Schemes: Secure Multiplication in Homomorphic Environments," 2024 International 
+Conference on Computer, Electronics, Electrical Engineering & their Applications (IC2E3), 
+Srinagar Garhwal, Uttarakhand, Ind ia, 2024, pp. 1 -6, doi: 
+10.1109/IC2E362166.2024.10827028. 
+6. AbduRahim, Barna, R., Kulkarni, Y., Mydeen, J., D. Pulgam, N. (2024). VeriFace: 
+
+Deepfake Detector Using Deep Learning. In: Patil, M., Vyawahare, V., Birajdar, G. (eds) 
+Intelligent Computing and Big Data Analytics. ICICBDA 2024. Communications in 
+Computer and Information Science, vol 2234. Springer, Cham. https://doi.org/10.1007/978-
+3-031-74682-6_24. 
+7. Kamath, V., Chavan, I., Maurya, Y., Varma, A., Pulgam, N.D. (2024). Multi -modal Morse 
+Code Translator. In: Patil, M., Vyawahare, V., Birajdar, G. (eds) Intelligent Computing and 
+Big Data Analytics. ICICBDA 2024. Communications in Computer and Information 
+Science, vol 2234. Springer, Cham. https://doi.org/10.1007/978-3-031-74682-6_2. 
+8. Z. Parkar, A. Nair, A. Nautiyal, R. Patil and N. Pulgam, "GestureX: Text Generation based 
+on the Gesture Identified using LSTM," 2024 8th International Conference on Computing, 
+Communication, Control and Automation (ICCUBEA), Pune, India, 2024, pp. 1 -6, doi: 
+10.1109/ICCUBEA61740.2024.10775203. 
+9. H. Kothari, N. Raut, B. Kalambe, A. Salvi and N. Pulgam, "Visionize: Text To Image 
+Generator," 2024 8th International Conference on Computing, Communication, Control and 
+Automation (ICCUBEA), Pune, India, 2024, pp. 1 -6, doi: 
+10.1109/ICCUBEA61740.2024.10774801. 
+10. A. N. Hande, S. M. Karn and N. Pulgam, "Recognition of Hand Signs for Hindi Language," 
+2024 Second International Conference on Advances in Information Technology (ICAIT), 
+Chikkamagaluru, Karnataka, India, 2024, pp. 1 -6, doi: 
+10.1109/ICAIT61638.2024.10690543. 
+11. Sagvekar, R., Sharma, B., Madurwar, R., Sawant, T., Pulgam, N. (2024). Vehicle Detection 
+with Number Plate Recognition. In: Saha, A., Banerjee, S. (eds) Proceedings of the 2nd 
+International Conference on Nonlinear Dynamics and Applications (ICNDA 2024), Volume 
+3. ICNDA 2024. Springer Proceedings in Physics, vol 314. Springer, Cham. 
+https://doi.org/10.1007/978-3-031-69146-1_19.  
+12. Pathak, P., Chandgadkar, V., Solanki, A., Shrivastava, A., Pulgam, N., Maktum, T. (2024). 
+Customer Churn Prediction and Personalised Recommendations in Banking. In: Manoharan, 
+S., Tugui, A., Baig, Z. (eds) Proceedings of 4th International Conference on Artificial 
+Intelligence and Smart Energy. ICAIS 2024. Information Systems Engineering and 
+Management, vol 4. Springer, Cham, 2024. https://doi.org/10.1007/978-3-031-61475-0_32. 
+13. Prachi Pathak, Vaishnavi Chandgadkar, Aditya Solanki, Aryansh Shrivastava, Tabassum 
+Maktum and Namita Pulgam, An Approach to Predict Breast Cancer using Ensemble 
+
+Learning Technique, 6th International Conference on Information Systems and Management 
+Science (ISMS-2023), OP Jindal University, Raigarh, December 23-24, 2023. 
+14. S. S. Satam, A. A. Patil, D. B. Narkhede, S. Singh and N. Pulgam, "Zero -Day Attack  
+Detection and Prevention," 2023 7t h International Conference On Computing,  
+Communication, Control And Automation (ICCUBEA), Pune, India, 2023, pp. 1 -6, doi: 
+10.1109/ICCUBEA58933.2023.10392272. 
+ 
+15. K. S. Poddar, A. B. Jadhav, H. C. More, N. V. Kundar and N. Pulgam, "GesturePitch: A Smart 
+Presentation System Utilizing Hand Gestures," 2023 7th International  Conference On 
+Computing, Communication, Control And Automation (ICCUBEA),  Pune, India, 2023, pp. 
+1-5, doi: 10.1109/ICCUBEA58933.2023.10392211. 
+ 
+16. H. V. Vhatkar, H. G. Singh, A. S. Sonavane,  S. Singh and N. Pulgam, "Crowdfunding  using 
+Blockchain," 2023 11th International Conference on Emerging Trends in Engineering & 
+Technology - Signal and Information Processing (ICETET - SIP), Nagpur, India, 2023, pp. 1-
+6, doi: 10.1109/ICETET-SIP58143.2023.10151618. 
+ 
+17. Bhavesh Sharma, Rohan Sagvekar, Rushikesh Shinde, Jaskaran Singh Chawla, Namita D. 
+Pulgam, “Price Forecast System for Crops Using Machine Learning”, Fourteenth International 
+Conference on Advances in Communication, Network,and Computing, Bengaluru, 2023. 
+ 
+18. P. Kubal, N. Pulgam and V. Mane, "Identifying Image Modifications using DCT and  JPEG 
+Quantization Technique," 2023 IEEE 8th International Conference for Convergence in 
+Technology (I2CT), Lonavla, India, 2023, pp. 1-5, doi: 10.1109/I2CT57861.2023.10126200. 
+ 
+19. “Analysis of Different Encryption Techniques used in Watermarking Algorithm for the 
+Security of Medical Image”, International Conference on Emerging Trends in Engineering 
+and Technology, ICETET, Volume 2022-April, Year 2022. 
+ 
+20. “Analysis and Simulation of Kali Linux Digital Forensic Tools”, Dimple Santoshi,  Namita 
+Pulgam, Vanita Mane, SSRN 4111750, Year 2022. 
+ 
+21. “Detection of Counterfeit Products using Blockchain”, Kunal Wasnik, Isha Sondawle, 
+Rushikesh Wani, Namita Pulgam, ITM Web of Conferences, Volume ,2022. 
+
+ 
+22. “Image Authentication Using Watermarking Approach”, Shreeya Naik, Sampada Sherlekar, 
+Heena Singh, Namita Pulgam, Proceedings of the 2022 3rd International  Conference on  
+Intelligent Compu ting, Instrumentation and, Control Technologies:  Computational 
+Intelligence for Smart Systems, ICICICT 2022, Pages 1186-1193. 
+ 
+23. “Advanced Approach for Heart Disease Diagnosis with Grey Wolf optimization and  Deep 
+Learning Techniques”, Dimple Santoshi, Sangita Chaudhari, Namita Pulgam,  Data 
+Intelligence and Cognitive Informatics. Algorithms for Intelligent Systems. Springer, 
+Singapore, Year 2022. 
+ 
+24. “Sign language converter using hand gestures”, Shagun Gupta Department of Computer 
+Engineering, Ramrao Adik Institute of Technology, Navi Mumbai, Maharashtra, India, Riya 
+Thakur, Vinay Maheshwari, Namita Pulgam, Proceedings of the 3rd International Conference 
+on Intelligent Sustainable Systems, ICISS 2020, Volume, Year 2020, Pages 251-256. 
+ 
+25. “Inter Frame Video Forgery Detection using Normalized Multi Scale One Level Subtraction”, 
+Parmani, Rahul and Butala, Soham and Khanvilkar, Aakash and Pawar,  Sachin and Pulgam, 
+Namita, Parmani, Proceedings of International Conference on  Communication and 
+Information Processing (ICCIP) 2019. 
+ 
+26. “Kinect: From Gaming To Measuring Improvements In Physical Therapy”, Akshay  Pakhle, 
+Ashvin Khairnar, Animesh Barmukh, Namita Pulgam, Mohammed Waqar Ali, Year 2019. 
+ 
+27. “Word-IPCA: An Improvement in Dimension Reduction Techniques”,  Sancheti, Payal and 
+Shedge, Rajashree and Pulgam, Namita 2018 International Conference on Control, Power, 
+Communication and Computing Technologies, ICCPCCT 2018, Volume, Year 2018, Pages 
+575-578. 
+ 
+  Project Competitions: 
+ Mentor the students for project development to participate in Tiaa Retirement AI Hackathon, 
+June 2024, Mumbai and team got selected in top 7. 
+ 
+ Mentor the students for project development to participate in ACM Kleos, June 2024, 
+
+ 
+Mumbai and team got selected in top 50s. 
+ 
+ Mentor the students for project development to participate in Techathon, Feb 2024, Pune and 
+team got selected in top 30s out of 200 teams. 
+ 
+ Mentor the students for project development to participate in Hackthisfall Feb 2024, Gujrat 
+and team got award for Best Idea Addressing Global Problem. 
+ 
+ Mentor the students for project development to participate in Geek for Geeks Solving  for 
+India Hackathon, May 2023 and one team is qualified at institute level and was finalist  at 
+zonal level. 
+ 
+ Mentor the students for preparing exhibits and developing working innovation model,  who 
+have participated in CiiA-2 Innovation Exhibition & Competition, Feb 2023 and two teams 
+got selected in top 100 projects. 
+ 
+ Mentor the students for project development, who have participated in Anveshan: West Zone 
+Research Convention-2023 and team was finalist at zonal level. 
+ 
+ Mentor the students for project development, who have participated in Smart India  
+Hackathon 2022 and the team was selected as finalist at national level. 
+ 
+ Mentor the students for project development, who have participated in Aavishkar  
+Competition conducted by University of Mumbai 2021 and the team was selected as finalist 
+at zonal level. 
+ 
+ Mentor the students for project development, who have participated in Aavishkar 
+Competition conducted by University of Mumbai 2017 and the team was selected as finalist 
+at zonal level. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 

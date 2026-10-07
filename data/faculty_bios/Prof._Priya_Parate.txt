@@ -1,0 +1,184 @@
+Bio / CV of Prof. Priya Parate (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+Name of Teaching Staff : Prof. Priya Parate 
+ 
+ 
+Designation : Assistant Professor 
+ 
+Department 
+ 
+: 
+ 
+Computer Science & Engineering (Data 
+Science) 
+Date of Joining the 
+Institution 
+: 01.01.2025 
+Email ID : priya.parate@djsce.ac.in 
+Office Contact :  
+- 
+Google Scholar Link : https://scholar.google.com/scholar?hl=en&as_sdt=0,5&q=priya+parate&o
+q&pli=1&authuser=1 
+Researchgate Link:  https://www.researchgate.net/profile/Priya-Parate?ev=hdr_xprf 
+ORCID  https://orcid.org/0009-0007-2937-0848 
+Qualifications with Class / 
+Grade 
+: 1. M.E. (Computer Engineering), Department of Computer 
+Engineering Thadomal Sahani college of Engineering, 
+Bandra(w), Mumbai.  
+2. B.E. (Computer Science & Engineering), Department of 
+Computer Science & Engineering, S.S.G.M.C.E., Shegaon. 
+Total Experience  :  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+1. Assistant Professor, Computer Science and Engineering 
+(Data Science),  Dwarkadas J. Sanghvi College of 
+Engineering, Vile-Parle (W), Mumbai, India, January 
+2025 – till date. 
+2. Assistant Professor, Rajiv Gandhi Institute of 
+Technology, Versova Link road,  Andheri(w),Mumbai-
+53.Jan 2010 to December 2024. 
+3. Assistant Professor, Rajiv Gandhi Institute of 
+Technology, Versova Link road,  Andheri(w),Mumbai-
+53.Jan 2009 to  July 2010. 
+
+
+Papers Published in 
+Journal: 
+: National & International: 08 
+1. “Array Dimension for Secret Sharing with Two  Levels QR Code 
+Authentication”,  International Journal of Innovative Research in Computer and 
+Communication Engineering, Vol. 5, Issue 4, July 2017. 
+2.  “Secure Online Payment System using Visual Cryptography” in IJARCCE, 
+Volume 5, Issue 2, February 2016. 
+3.” Implementing Visual Cryptography for secure online  payment  System”, 
+Proceedings of IEEEFORUM International Conference, 23rd July, 2017. 
+4. ”Private Data Sharing and File Authentication using Two -Level QR Code”, 
+International Journal of Engineering Technology and Computer Research 
+(IJETCR),Approved by UGC, Volume 5, Issue 5; September -October: 2017; 
+Page No. 116-122 
+5” Providing Security for Private Data Sharing andFile Authentication using 
+Two-Level QR Code”, International Journal of Innovative Research in 
+Science,Engineering and Technology,  Vol. 7, Issue 3, March 2018 
+6.” Foul Language Comment Classification”, International Journal of 
+Computational  Engineering Research (IJCER),May 2021. 
+7. “Recover Whatsapp Deleted Messages And Media”, “ International Journal of    
+  Creative  research Thoughts ,  IJCRT | Volume  11, ISSN: 2320 -2882,Issue 4 
+,April 2023 . 
+8.“Overview on Centralized Medical Data Management”, (IRJMETS),  
+    pp-6094-6097,Volume 06, Issue 03, e-ISSN: 2582-5208,March 2024. 
+Papers Published in 
+Conferences: 
+ National & International: 09 
+1. “Mobile Agent for On-line Performance Evaluation”, at National Conference 
+on  Advancements in Information and Communication Technology organized by 
+Computer Society of  India, Allahabad Chapter ,2008. 
+2.“Mobile Agent Based On -line Knowledge Assessment Sys tem”, at 
+International  Conference on Next Generation Software Application organized 
+by Karunya University,  Coimbator,2008. 
+3.“J2ME ” at International Conference on Next Generation Software Application   
+  organized by Karunya University, Coimbatore,2008. 
+4.”Leave Management System in educational organization”, International 
+conference  organized by CSI  chapter, Goa ,dec 2014. 
+5.“RESULT GENERATION SYSTEM FOR CBGS SCHEME IN 
+EDUCATIONAL  ORGANIZATION”, IJRET:International Journal of Research 
+in Engineering and Technology , Volume: 05, Issue: 02 | Feb-2016. 
+6.” A Comparative Study of BI -LSTM and GRU for An Essay Auto Grading 
+System”,International Journal of Advances in Electronics and Computer 
+Science-IJAECS, Volume-7,Issue- 7 , July 2020 ) 
+7. “Application of Machine Learning for Higher Education”, International 
+Journal for Research in Applied Science & Engineering Technology (IJRASET), 
+Volume 9 Issue V May 2021. 
+8.”Tor vs Yggdrasil: A Comparative Study of Two Different Communication 
+System”,IEEE Explore,16th  August 2022 
+9. “Forecasting Household Energy Consumption using SARIMA” 2nd 
+International Conference on Advanced in  Technology and Management 
+(ICATM-2024), A. C. Patil College of Engineering  Kharghar, Navi Mumbai   
+ 
+Area of Specialization  Database ,Data ware housing and data mining, Big data. 
+
+PhD Guide? Give field & 
+University 
+: Field: 
+University: 
+- 
+PhDs / Projects Guided : PhDs: 
+Projects 
+at Masters 
+level: 
+- 
+Books Published / IPRs / 
+Patents 
+: Books (Editors 
+for conference 
+Proceedings on 
+Springer) 
+1.Advanced Database Management system by Tech-Neo   
+    Publication 
+Professional Memberships : -  
+Grants fetched : Minor Research 
+Grant 
+(University of 
+Mumbai) 
+- 
+Interaction with 
+Professional Institutions 
+: Other 
+Achievements 
+ Participated in Mission 10X – Teaching & Learning Skills 
+program for innovative ideas in teaching conducted by Wipro. 
+   and 
+  Responsibilities: 
+Subjects Taught  UG Level: 
+       Data Ware housing and Data Mining (UG)  
+Database management System (UG) 
+Advanced database system (UG) 
+Digital Business  Management 
+system(UG)  
+Structured and object oriented  
+analysis  design (UG) 
+Analysis of algorithms(UG) 
+Big data(UG) 
+PG Level: - 
+       Management Information system 
+       Distributed database system 
+         
+Projects Guided : PG Level: - 
+1. Online secure payment system by using visual cryptography. 
+2. Two level QR code generation. 
+ 
+Courses Completed   Oracle certification (OCA), Nov 2020. 
+ DBA level-2 training completed. 
+ Completed Course on Hadoop starter Kit by Udemy Sept 29,2020 
+ Udemy course completed on “ Hadoop starter kit” September 29.2020. 
+ Scrum master Assessment by Learn Tube ,Career ninja 
+ Certified at  Exceptional proficiency  on “Python Beginner level 
+Novice”, by Techgig 
+ 
+Recommended Students for 
+Higher Education 
+ Name ofthe 
+Student 
+University/Industry 
+
+Institute/Department 
+Responsibility 
+handled: 
+ .1.Worked as a Software Support for Accounts Department from development to 
+Maintenance. 
+2.Worked as Gsuite Coordinator at Department Level. 
+3.Worked as core committee member for Cultural and Technical Fest from  year    
+   2012 to 2021. 
+4.Worked as Convener for Cultural fest ‘ZODIAC-2022 ‘ 
+5.Worked as Technical Member for Unnat Bharat Abhiyan from 2019-2022. 
+6.Worked as Team Member of Women’s Development Cell. 
+ 
+Pedagogy Development   
+ 

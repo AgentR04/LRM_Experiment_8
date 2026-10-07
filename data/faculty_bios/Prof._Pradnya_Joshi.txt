@@ -1,0 +1,328 @@
+Bio / CV of Prof. Pradnya Joshi (Assistant Professor), Computer Science and Engineering (Data Science), DJSCE.
+ 
+ 
+Name of Teaching Staff Pradnya Joshi 
+ 
+Designation Assistant Professor 
+Department Computer Science and Engineering (Data 
+Science) 
+Date of Joining the  
+Institution 28.12.2021 
+Email ID pradnya.saval@djsce.ac.in  
+Professional Memberships ISTE (LM136521) 
+Society for Data Science (S4DS)  
+Profile Links 
+Scopus Link: 
+https://www.scopus.com/authid/detail.uri?authorId=59140039100  
+ 
+Google Scholar Link: 
+https://scholar.google.co.in/citations?user=p_bzmk4AAAAJ&hl=en  
+Research Gate Link: 
+https://www.researchgate.net/profile/Pradnya-Saval  
+ORCID: 
+https://orcid.org/0000-0002-0251-1125  
+Web of Science: 
+https://www.webofscience.com/wos/author/record/ACE-3016-2022 
+ 
+LinkedIn Profile: 
+https://www.linkedin.com/in/pradnya-saval-joshi-930300115/  
+Area of Interest Time Series Analysis, Reinforcement Learning, Web 
+Development, Machine Learning, Big Data Engineering. 
+Qualifications: 
+ 
+1. Pursuing Ph.D. (Computer Engineering), Thakur College of Engineering and 
+Technology, Kandivali (E), Mumbai. 
+2. M.E. (Computer Engineering), Thakur College of Engineering and Technology, 2018. 
+3. B.E. (Computer Engineering), Rajiv Gandhi Institute of Technology, 2014. 
+4. Diploma (Computer Engineering), Babasaheb Gawde Institute of Technology, 2011. 
+Total Experience in Years:  
+ 
+Industry: 2 years 
+ Web Developer, Exa India Pvt. Ltd, Borivali (W), Mumbai, 14.07.2014 to 04.03.2016. 
+ 
+Teaching: More than 9 years 
+ 
+● Assistant Professor, D. J. Sanghvi College of Engineering, Mumbai, from 
+28.12.2021 to till date. 
+● Assistant Professor, Thakur College of Engineering and Technology, Mumbai, 
+25.04.2021 to 14.12.2021 
+● Assistant Professor, Thakur College of Science, Mumbai, 14.09.2021 to 24.03.2021 
+● Assistant Professor, Thakur College of Engineering and Technology, Mumbai, 
+
+
+08.07.2019 to 31.05.2020 
+● Assistant Professor, Thakur College of Engineering and Technology, Mumbai, 
+21.01.2019 to 31.05.2019 
+● Assistant Professor, Thakur College of Science and Commerce, Mumbai, 26.06.2018 to 
+18.01.2019 
+● Teaching Assistant, Thakur College of Engineering and Technology, Mumbai, 
+16.01.2017 to 31.05.2018 
+Courses Taught: 
+ 
+● Time Series Analysis 
+● Reinforcement Learning 
+● Design and Analysis of Algorithms 
+● Foundations of Data Analysis 
+● Data Engineering and Visualization 
+● Big Data Analysis 
+● Applied Data Science 
+● Python Programming 
+● Database Management System 
+● Software Engineering 
+● Web Engineering 
+● Computer Networks 
+● Structured Programming using C 
+Awards & Recognition 
+ Received the Certificate of Excellence for being recognized as S4DS Chapter of the 
+Year – 2025 at the 10th International Conference on Data Management, Analytics & 
+Innovation (ICDMAI 2026) held from 09/01/2026 to 11/01/2026.  
+ 
+ Received the Best Paper Award for the paper titled "Real Time Object Detection with 
+Voice Feedback" at the AIDSP-2023 International Conference on Emerging Trends in 
+Artificial Intelligence and Data Science (Springer Publication) on 21/10/2023. 
+Projects Guided:  
+ 
+ Major Project: 08 
+ Innovative Product Development: 21 
+Academic Duties: 
+ Time Table Coordinator 
+ Board of Studies Coordinator 
+ DJS-S4DS Faculty Advisor and Treasurer 
+ Attendance Coordinator 
+ 
+
+Publication & Conferences:  
+ 
+Journals (National and International): 06 
+ 
+● Atharv Patawar, Mohammed Mehdi, Bhaumik Kore, Pradnya Saval, “A pothole can be seen with 
+two eyes: an ensemble approach to pothole detection”, Machine Vision and Applications, Volume 
+36, Issue 3, Article 64, 2025. https://doi.org/10.1007/s00138-025-01679-8. (SCOPUS) 
+● Afreen Sorathiya, Pradnya Saval, Manha Sorathiya, “Data-Driven Sustainable Investment 
+Strategies: Integrating ESG, Financial Data Science, and Time Series Analysis for Alpha 
+Generation”, International Journal of Financial Studies (IJFS), Volume 12, Issue 2, Article 36, 
+2024. https://doi.org/10.3390/ijfs12020036. (SCOPUS) 
+● Pradnya Saval, Dr. Sheetal Rathi, “Digit Recognition on MNIST Dataset using Convolutional 
+Neural Network”, International Journal of Scientific Research and Review (ISRR), Volume 5, 
+Issue 4, pp.110-115, July 2020.  
+● Pradnya Saval, Dr. Sheetal Rathi, “Categorizing and Labelling of Twitter Dataset using RCNN 
+Model”, International Journal of Scientific Research and Review (SRR), ISSN: 2279-543X, 
+Volume 4, Issue 3, pp.108-115, March 2018 (DOI:10.22214/ijraset.2019.5045)  
+● Pradnya Saval, Dr. Sheetal Rathi, “Text Categorization with Dynamic Input Length Using Deep 
+Learning – A Review”, International Journal for Research in Applied Science & Engineering 
+Technology (IJRASET), Volume 5, ISSN: 2321-9653, pp.1797-1799, October 2017 
+(DOI:10.22214/ijraset.2017.10263)  
+● Pradnya Saval, Mr. Bhavesh Panchal, “SMS based Data Retrieval for ERP System”, IJSRD - 
+International Journal for Scientific Research & Development, Vol. 2, Issue 2, 2014, ISSN 
+(online): 2321-0613, pp-829-832 (http://ijsrd.com/articles/IJSRDV2I2187.pdf). 
+ 
+Conferences (National and International): 12 
+ 
+● Hetansh Shah, Hitarth Bhatt, Jay Topiwala, Hitanshu Shah, Pradnya Saval, Shruti Mathur, 
+“Forecasting Inflation and Stock Prices in India’s Energy Sector: A Comparative Analysis of 
+Classical and Deep Learning Models”, Lecture Notes in Networks and Systems, Volume 1749, 
+pp. 326–335, 2026. https://doi.org/10.1007/978-3-032-13003-7_31. (SCOPUS) 
+● Tanay Tibrewala, Veer Raje, Pradnya Saval, “Explainability of GNNs for Brain Tumor 
+Analysis”, Lecture Notes in Networks and Systems, Volume 1826, pp. 102–117, 2026. 
+https://doi.org/10.1007/978-3-032-18135-0_9. (SCOPUS) 
+● Aryan Nayak, Ami Desai, Aman Mehra, Pradnya Joshi, “Microservice-based framework for 
+automated testing of FIX protocol”, International Conference on Advancing Technology in 
+Engineering and Science (ICATES-2025), Xavier Institute of Engineering, Vol. 2025, Iss. 43, 
+pp 8–12, 2025. https://doi.org/10.1049/icp.2025.4691.  
+● Tirth Mehta, Rishi Shah, Tej Ghelani, Pradnya Joshi, “Churn Prediction and Customer 
+Retention Strategies for OTT Platforms Using a Hybrid AI Model” International Conference on 
+Advancing Technology in Engineering and Science (ICATES-2025), Xavier Institute of 
+Engineering, Vol. 2025, Iss. 43, pp 1–7, October 2025. https://doi.org/10.1049/icp.2025.4690  
+● Naman Chheda, Pradnya Saval, “Virtual Sales Assistant: A Chrome Extension for E-commerce 
+Websites”, Proceedings of the IEEE 1st International Conference on Advances in Computing, 
+Communication and Networking (ICAC2N 2024), pp. 1879–1886, 2024. 
+https://doi.org/10.1109/ICAC2N63387.2024.10895510. (SCOPUS) 
+● Virum Ranka, Dwisha Shah, Devam Shah, Pradnya Saval, “Self-Adaptive Smart Lighting 
+System using YOLOv8 and ESP32”, Proceedings of the 10th International Conference on 
+Electrical Energy Systems (ICEES 2024), 2024, 
+https://doi.org/10.1109/ICEES61253.2024.10776837. (SCOPUS) 
+● Krish Valecha, Yash Pandloskar, Sowmya Dadheech, Pradnya Saval, “Intervention Analysis for 
+
+Predicting Stock Market using Deep Learning Algorithms and Time Series Analysis”, 
+Proceedings of the 15th International Conference on Computing, Communication and 
+Networking Technologies (ICCCNT 2024), 2024, 
+https://doi.org/10.1109/ICCCNT61001.2024.10726057. (SCOPUS) 
+● Samarth Tumdi, Dev Patel, Daksh Dholakia, Aaditya Patel, Pradnya Saval, “Morphogenesis of 
+Images using Neural Cellular Automata”, Proceedings of the 15th International Conference on 
+Computing, Communication and Networking Technologies (ICCCNT 2024), 2024. 
+https://doi.org/10.1109/ICCCNT61001.2024.10725715. (SCOPUS) 
+● Vrisha Shah, Krish Bilakhiya, Devam Shah, Kriti Srivastava, Pradnya Saval, “Predictive 
+Modeling of Stock Prices Using Time Series Analysis”, Proceedings of the 15th International 
+Conference on Computing, Communication and Networking Technologies (ICCCNT 2024), 
+2024. https://doi.org/10.1109/ICCCNT61001.2024.10724473. (SCOPUS) 
+● Harsh Shetye, Vaidehi Shah, Jay Chotalia, Pradnya Saval, “Opportunistic Balancing and 
+Strategic Insights through Deep Reinforcement Learning in Asset Allocation”, Proceedings of 
+the 15th International Conference on Computing, Communication and Networking 
+Technologies (ICCCNT 2024), 2024. https://doi.org/10.1109/ICCCNT61001.2024.10724528. 
+(SCOPUS) 
+● Pradnya Saval, “Basics of networking using TCP/IP model for Web based Applications” , 
+International Conference on Intelligent Computing and Networking, Multicon, February 2020.  
+● Pradnya Saval, Dr. Sheetal Rathi, “Training of Neural Network for Text Categorization of 
+Dynamic Input Length using Deep Learning”, Mcgraw Hill Education, ISBN:978-0-9994483-8-
+0, February 2017. 
+ 
+Patent: 
+ 
+Patent Number: 4889 
+Type of Patent: South African Patent 
+Title of the Invention: A System and method for evaluating the freshness of fruits using machine 
+learning techniques 
+Term of Patent: from 20th Dec 2023 
+ 
+ 
+Copyright: 
+ 
+Registration Number: SW-19349/2024 
+Title of Work: Secure Text To SQL By Entity Replacement Using NER Tagging. 
+Language of Work: Python 
+Class and description of the work: Computer Software Work the Research Investigates The 
+Possibility Of Allowing Organizations To Utilize Publicly Available Large Language Models, 
+Specifically For Text to SQL Translation, Whilst Also Sticking To The Compliance. 
+ 
+Workshop, lecture series & Conferences Conducted: 
+ 
+ Conducted a session on “Emerging Trends in Data Engineering”, ISTE approved one-week 
+STTP, DJSCE, 13th June, 2024. 
+STTP/FDP/Workshop/Seminar/Webinar Organised: 
+ 
+ Organizing committee of FDP on, “Agentic AI in FinTech: Autonomous Intelligence for Next-
+Generation Financial Systems ”, Department of Computer Science and Engineering (Data 
+Science), DJSCE, 23rd January and 24th January 2026. 
+ Organized ISTE approved one -week STTP on “Emerging Trends in Data Engineering”, 
+Department of Computer Science and Engineering (Data Science), 13th June to 20th June 2024. 
+
+ Organizing committ ee of STTP Emerging Technology Conference on Data Science and 
+Intelligent Computing,  Thakur College of Engineering and Technology, November  2021, 
+Mumbai. 
+ Organized Webinar on, “Big Data Analytics”, organized by Department of Computer Science, 
+ZSCTs Thakur College of  Science in association with Computer Society of India  (February, 
+2021). 
+ Organized Webinar on, “Trends in Computer Security”, organized by Department of Computer 
+Science, ZSCTs  Thakur College of Science in association with Computer  Society of India 
+(February, 2021). 
+ Organized Webinar on, “Networking and Security”, organized  by Department of Computer 
+Science, ZSCTs Thakur College of Science (November, 2020). 
+ Organized Workshop on, “Trending Python Technolo gies”, organized by Department of 
+Computer Science, ZSCTs 
+ Thakur College of Science in association with Computer Society of India (March 2020). 
+ Organized Workshop on, “Robotics and Coding”, organized  by Department of Computer 
+Science, ZSCTs Thakur College  of Science in association with Computer Society of India 
+(March 2020). 
+STTP/FDP/Workshop/Seminar/Webinar Attended or Participated: 
+ 
+ 
+Faculty Development Programmes (FDP): 
+ 
+ Completed the Five -day Online Faculty Development Program on AI Tools & Prompt 
+Engineering for Outcome -Based Education organized by the Department of Artificial 
+Intelligence and Machine Learning, SVKM's Dwarkadas J. Sanghvi College of Engineering in 
+association with Pantech Solutions India Pvt. Ltd. from 04/05/2026 to 08/05/2026.  
+ Participated in the Faculty Development Programme on Agentic AI in FinTech: Autonomous 
+Intelligence for Next-Generation Financial Systems organized by the Department of Computer 
+Science and Engineering (Data Science), SVKM's Dwarkadas J. Sanghvi College of 
+Engineering from 23/01/2026 to 24/01/2026.  
+ Participated in the 7 Days Online International Faculty Development Program on "Latest Trend 
+and Techniques in Software Engineering: An Industry Perspective" organized by the 
+Department of Computer Science, CHRIST  (Deemed to be University), Bangalore from 
+20/01/2024 to 27/01/2024.  
+ Participated in the 10 Hours National Faculty Development Program on Business Analytics 
+organized by AISSMS College of Engineering, SJC Institute of Technology and Matrusri 
+Engineering C ollege in collaboration with ExcelR Edtech Pvt. Ltd. from 05/02/2024 to 
+09/02/2024.  
+ Participated in the One Week National Level Faculty Development Program on Cloud 
+Infrastructure (AWS) organized by the Department of CSE, JNTUK University College of 
+Engineering Narasaraopet in collaboration with Brainovision Solutions India Pvt. Ltd. and 
+AICTE from 21/08/2023 to 25/08/2023.  
+ Completed the ISTE Approved SF -STTP/FDP Programme on Emerging Technologies in 
+Machine Learning organized by Dwarkadas J. Sanghvi College of Engineering, Mumbai from 
+30/01/2023 to 03/02/2023.  
+ Completed the Faculty Development Programme on Machine Learning Operations and its 
+Application organized by the Electronics & ICT Academy, NIT Pa tna in association with Shri 
+Vile Parle Kelavani Mandal, Mumbai from 13/06/2022 to 17/06/2022 with an Excellent grade.  
+ Attended the E-Resources Training Programme  organized by the Central Library, TCTE 
+Mumbai on 25/05/2021.  
+ 
+   Completed the Faculty Development Programme on Programming in Python  organized by 
+Government Polytechnic, Nanded from 18/05/2021 to 24/05/2021, securing 49/50 in the Python 
+
+Refresher Program Test.  
+ Participated in the 5-Day Faculty Development Programme on Research Skills Development  
+organized by the Department of Information Technology, MVPS's KBT College of Engineering, 
+Nashik from 10/05/2021 to 14/05/2021.  
+ Participated in the 3-Day Faculty Development Programme on Implementation of National 
+Education Policy (NEP) 2020 organized by Thakur College of Engineering & Technology from 
+28/04/2021 to 30/04/2021.  
+ Participated in the 2-Day Faculty Development Programme on Advanced Computing & 
+Communication Technologies for Industry 4.0  organized by the Department of Computer 
+Engineering, D.J. Sanghvi College of Engineering from 12/06/2020 to 13/06/2020.  
+ Participated in the 1-Week Faculty Development Programme on Engineering Education & the 
+Industry: A Post COVID -19 Perspective  organized by MCT's Rajiv Gandhi Institute of 
+Technology, Mumbai from 01/06/2020 to 05/06/2020.  
+ Participated in the 5-Day Faculty Development Programme on Disruptive Technologies of 
+Industry 4.0 organized by Fr. Conceicao Rodrigues College of Engineering, Bandra, Mumbai  
+from 30/05/2020 to 03/06/2020, securing a score of 90%.  
+ Participated in the 1-Week Faculty Development Programme on Python 3  organized by the 
+Department of Computer Science & Engineering, Prakasam Engineering College in association 
+with the Spoken Tutorial Project, IIT Bombay , funded by the National Mission on Education 
+through ICT (NMEICT), MHRD, Government of India, from 25/05/2020 to 31/05/2020.  
+ Participated in the 5-Day Faculty Development Programme on Data Science and Cloud 
+Computing organized by the Department of Computer Science & Engineering, Chebrolu 
+Engineering College from 18/05/2020 to 22/05/2020. 
+ 
+Short Term Training Programmes (STTP): 
+ 
+ Participated in the ISTE Approved Two Weeks Online Short Term Training Programme on 
+Exhilarating Socio -Human Life Using Deep Learning organized by the Department of 
+Information Technology, Vidyavardhini's College of Engineering & Technology, Vasai from 
+03/07/2023 to 14/07/2023. 
+ Completed the Two Weeks Online Short Term Training Programme on Data Sci ence and 
+Python approved by AICTE -ISTE and organized by the Department of Computer Science & 
+Engineering, College of Engineering & Technology, Babulgaon (Jh.), Akola in association with 
+the Computer Society of India (CSI), Amravati Chapter from 16/01/2023 to 28/01/2023. 
+ Participated in the 3-Day Short Term Training Programme (STTP) on Cyber Security & 
+Forensics organized by the Department of Computer Engineering, Thakur College of 
+Engineering & Technology on 23/08/2021, 26/08/2021 and 27/08/2021.  
+ Participated in the AICTE Sponsored One Week Online Short Term Training Programme 
+(STTP) on Next Generation Communications and Networks  organized by the Department of 
+Electronics & Telecommunication Engineering, Thakur College of Engineering & Technology 
+from 14/06/2021 to 19/06/2021. 
+ 
+Coursera Certifications: 
+ 
+ Completed Front-End Web Development with React authorized by The Hong Kong University 
+of Science and Technology and offered through Coursera on 28/04/2022. 
+ Completed AI Workflow: Machine Learning, Visual Recognition and NLP authorized by IBM 
+and offered through Coursera on 27/06/2022. 
+ 
+
+AWS Academy Certifications: 
+ Completed AWS Academy Cloud Architecting organized by AWS Academy on 09/08/2022 (40 
+Hours).  
+ Completed AWS Academy Machine Learning Foundations  organized by AWS Academy on 
+21/02/2022 (20 Hours).  
+ 
+NPTEL Certifications: 
+ 
+ Completed the NPTEL-AICTE Faculty Development Programme on Data Mining  funded by 
+the Ministry of Education, Government of India from January 2023 to March 2023 (8 Weeks)  
+with a consolidated score of 78% (Elite).  
+ Successfully completed the NPTEL Online Certification Course on Data Mining conducted by 
+IIT Kharagpur through SWAYAM/NPTEL from January 2023 to March 2023 (8 Weeks)  with 
+a consolidated score of 78% (Elite). 
+ 
+Innovation Ambassador (MoE's Innovation Cell): 
+ 
+ Completed the Innovation Ambassador (IA) Training – Advanced Level organized by MoE's 
+Innovation Cell & AICTE during the IIC Calendar Year 2021–22, with the certificate issued on 
+01/08/2022.  
+ Completed the Innovation Ambassador (IA) Training – Foundation Level organized by MoE's 
+Innovation Cell & AICTE during the IIC Calendar Year 2021–22, with the certificate issued on 
+25/07/2022.  
+ 
+ 
+ 

@@ -1,0 +1,112 @@
+DJSCE - CSE (Data Science) syllabus document: Sem5_Honors_DJS23
+(Scheme & Syllabus, Dwarkadas J. Sanghvi College of Engineering)
+
+Scheme and detailed Syllabus (DJS23)
+of
+Honors Degree Program
+in
+Computational Finance
+(Semester V)
+
+Shri Vile Parle Kelavani Mandal’s
+Dwarkadas J. Sanghvi College of Engineering
+(Autonomous College Affiliated to the University of Mumbai)
+
+With effect from the Academic Year: 2024-2025
+
+Course Structure for Undergraduate Program in Computer Science and Engineering (Data Science)
+Honors in Computational Finance
+(Academic Year 2026-27)
+
+Prepared by Checked by Head of Department Vice Principal Principal
+
+Honors in Computational Finance Semester: V
+Program: Computer Science and Engineering (Data Science)
+Course: Econometric Modelling (DJS23DH1301)
+Pre-requisite: Statistics for Data Science, Financial Market and Risk Analysis, Computational Methods and
+Pricing Models.
+Course Objectives: To develop advance statistics skills for financial data analysis.
+
+Course Outcomes: On completion of the course, the learner will be able to:
+1. Apply simple and multiple regression models for data analysis, while addressing violations of classical
+regression assumptions.
+2. Analyze advanced econometric techniques for time series analysis to extract insights from economic
+data.
+3. Evaluate practical econometric skills to solve real-world economic problems and apply theoretical
+knowledge to data analysis.
+Econometric Modelling (DJS23DH1301)
+Unit Description Duration
+
+1
+Nature of Econometrics and Economic Data
+Introduction to Econometrics, steps in Empirical Econometric Analysis, Structure of
+Economic Data: Cross-section data, Time-series data, Pooled Cross Sections and Panel or
+Longitudinal data. Causality and the Notion of Ceteris Paribus in Econometric Analysis.
+
+04
+
+2
+Simple Linear Regression Models
+Two variable case, Regression Vs Correlation, Linearity Vs Non-collinearity, Stochastic
+specification: The significance of error term, Estimation: The principal of ordinary least
+squares; Assumptions under CLRM, BLUE properties of estimators; The Gauss Markov
+Theorem, Goodness of fit- R-squared; Tests of Hypotheses; Scaling and Units of
+measurement; Confidence Intervals; Forecasting. K variable linear regression model:
+estimation of parameters; Qualitative Independent variables-dummy variable trap.
+
+09
+
+3
+Multiple Regression Analysis and Diagnostics Tests.
+Multiple Regression Model, Analysis, Derivation of the parameters, Assumptions.
+Geometric Interpretation, Frisch-Waugh –Lovell Theorem, Derivation of Residual Variance.
+
+08
+
+4
+Violations of Classical Assumptions: Consequences, Detection and Remedy
+Heteroscedasticity: problem and Consequences; Tests, Detection and Alternative methods of
+estimation. Autocorrelation: Sources, Consequences, Tests of autocorrelation, Remedial
+measures.
+
+08
+
+5
+Multicollinearity
+Nature of the Problem; Sources, Perfect multicollinearity vs Imperfect multicollinearity, Its
+consequences; Detection and Remedies of multicollinearity.
+
+06
+
+6
+Time Series Econometrics
+AR, MA, and ARMA processes. Modelling Trends and Seasonality, Linear Probability
+model, Introduction to Vector Autoregressive (VAR) models.
+
+07
+Total 42
+
+Books Recommended:
+Text books:
+1. Jeffrey M. Wooldridge, “Introductory Econometrics,” South-Western Cengage, 7th edition, 2022.
+2. Lokesh Boro and Niranjan Das, “Introductory Econometrics,” Bidya Bhawan, First Edition, 2021.
+3. James H. Stock & Mark W. Watson, “Introduction to Econometrics,” Pearson, 4th edition, 2019.
+
+Reference Books:
+1. Brooks, Chris, “Introductory Econometrics for Finance,” Cambridge, 2019.
+2. Damodar Gujrati, “Basic Econometrics,” McGraw Hill, 2020.
+3. Francis X. Diebold, “Elements of Forecasting,” Cengage South-Western, 2019.
+4. Kevin P. Murphy, “Probabilistic Machine Learning: An Introduction,” MIT Press, 2022.
+
+Web Links:
+1. NPTEL – Econometrics: NPTEL course covering regression analysis, econometric models, hypothesis
+testing, heteroscedasticity, autocorrelation, multicollinearity, and time series.
+https://nptel.ac.in/courses/110105094
+2. Wooldridge Econometrics Resources (Companion resources for Jeffrey Wooldridge's "Introductory
+Econometrics", including datasets and learning materials)
+https://www.cengage.com/c/introductory-econometrics-a-modern-approach-7e-wooldridge/
+2. Statsmodels Documentation (Python library documentation for regression analysis, time series
+models (AR, MA, ARMA, VAR), and econometric diagnostics)
+https://www.statsmodels.org/
+
+Prepared by Checked by Head of the Department Principal

@@ -1,0 +1,17 @@
+# RAG stack
+langchain>=0.3
+langchain-community>=0.3
+langchain-chroma>=0.1
+langchain-huggingface>=0.1
+langchain-ollama>=0.2
+langchain-openai>=0.2
+langchain-text-splitters>=0.3
+sentence-transformers>=3.0
+chromadb>=0.5
+pypdf>=4.0
+
+# Interface & utilities
+streamlit>=1.36
+requests>=2.31
+beautifulsoup4>=4.12
+python-dotenv>=1.0
