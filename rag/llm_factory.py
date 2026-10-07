@@ -68,6 +68,12 @@ def get_llm() -> tuple[object | None, str]:
     llm, label = try_gemini()
     if llm:
         return llm, label
+    if GEMINI_API_KEY:
+        # Key is present but Gemini didn't initialize -> tell the user, don't
+        # silently fall back (a wrong/missing key is the most common deploy bug).
+        return None, ("Extractive mode - GEMINI_API_KEY is set but the Gemini client "
+                      "could not be initialized. Check the key at "
+                      "aistudio.google.com/apikey and confirm it's added to Streamlit Secrets.")
     llm, label = try_ollama()
     if llm:
         return llm, label

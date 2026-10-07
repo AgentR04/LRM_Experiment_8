@@ -91,6 +91,10 @@ except Exception as e:
 with st.sidebar:
     st.header("⚙️ System status")
     st.markdown(f"**LLM:** {pipe.llm_label}")
+    if pipe.llm is None:
+        st.caption("ℹ️ Running in **retrieval-only** mode — no LLM is configured or reachable. "
+                   "Set `GEMINI_API_KEY` in Streamlit Secrets (or `.env` locally) for generated answers. "
+                   "Excerpts shown are still pulled from the DJSCE knowledge base.")
     st.markdown(f"**Embeddings:** `all-MiniLM-L6-v2` (local, CPU)")
     st.markdown(f"**Vector DB:** Chroma — **{pipe.count()}** chunks")
     st.divider()
