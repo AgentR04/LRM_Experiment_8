@@ -47,7 +47,10 @@ def get_llm() -> tuple[object | None, str]:
     def try_gemini():
         if not GEMINI_API_KEY:
             return None, None
-        from langchain_google_genai import ChatGoogleGenerativeAI
+        try:
+            from langchain_google_genai import ChatGoogleGenerativeAI
+        except Exception as e:
+            return None, f"GEMINI_API_KEY set but `langchain-google-genai` not installed: {e}"
         return ChatGoogleGenerativeAI(model=GEMINI_MODEL, temperature=0.1,
                                       google_api_key=GEMINI_API_KEY), \
                f"Google Gemini: `{GEMINI_MODEL}`"
